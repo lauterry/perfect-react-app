@@ -1,11 +1,14 @@
 [
     {
+        "id": 1,
         "name": "cafe au lait"
     },
     {
+        "id": 2,
         "name": "jus de fruits"
     },
     {
+        "id": 3,
         "name": "PQ"
     }
 ]

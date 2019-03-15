@@ -1,5 +1,11 @@
+function isWebTarget(caller) {
+	return Boolean(caller && caller.target === "web");
+}
+
 module.exports = api => {
-	api.cache(true);
+	// api.cache(true);
+
+	const web = api.caller(isWebTarget);
 
 	const presets = [
 		[
@@ -16,6 +22,10 @@ module.exports = api => {
 		"@babel/plugin-proposal-class-properties",
 		"@babel/plugin-syntax-dynamic-import",
 	];
+
+	if (!web) {
+		plugins.push(["dynamic-import-node", {"noInterop": true}]);
+	}
 
 	return {
 		presets,

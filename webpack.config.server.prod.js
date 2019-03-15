@@ -7,6 +7,7 @@ module.exports = {
 		path: path.join(__dirname, "dist"),
 		publicPath: "/",
 		filename: "[name].js",
+		libraryTarget: "commonjs2",
 	},
 	target: "node",
 	module: {
@@ -17,6 +18,16 @@ module.exports = {
 				use: {
 					loader: "babel-loader",
 				},
+			},
+			{
+				test: /\.scss$/,
+				use: ["css-loader", "sass-loader"],
+				exclude: /node_modules/,
+			},
+			{
+				test: /\.css$/,
+				use: ["css-loader"],
+				exclude: /node_modules/,
 			},
 		],
 	},

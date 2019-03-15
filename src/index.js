@@ -8,7 +8,7 @@ render(
 	<Router history={createBrowserHistory()}>
 		<App />
 	</Router>,
-	document.getElementById("app")
+	document.getElementById("perfectstay")
 );
 
 if (typeof module.hot !== "undefined") {

@@ -3,11 +3,14 @@ import express from "express";
 import webpack from "webpack";
 import webpackDevMiddleware from "webpack-dev-middleware";
 import webpackHotMiddleware from "webpack-hot-middleware";
+import ReactDOMServer from "react-dom/server";
 import config from "../../webpack.config.dev.js";
+import {StaticRouter} from "react-router";
+import App from "../App";
+import React from 'react';
 
 const app = express();
 const DIST_DIR = path.join(__dirname);
-const HTML_FILE = path.join(DIST_DIR, "index.html");
 const compiler = webpack(config);
 
 app.use(express.static(DIST_DIR));
@@ -20,16 +23,47 @@ app.use(
 
 app.use(webpackHotMiddleware(compiler));
 
-app.get("*", (req, res, next) => {
-	const filename = path.join(compiler.outputPath,'index.html');
-	compiler.outputFileSystem.readFile(filename, (err, result) => {
-		if (err) {
-			return next(err);
-		}
-		res.set("content-type", "text/html");
-		res.send(result);
+app.get("*", (req, res) => {
+
+	const context = {};
+
+	const InitialComponent = (
+		<StaticRouter location={req.url} context={context}>
+			<App/>
+		</StaticRouter>
+	);
+
+	const componentHTML = ReactDOMServer.renderToString(InitialComponent);
+
+	const htmlString = `<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	</head>
+	<body>
+		<div id="perfectstay">
+			<div>${componentHTML}</div>
+		</div>
+		<script async src="./main.js"></script>
+	</body>
+</html>`;
+
+	if (context.url) {
+		res.writeHead(302, {
+			Location: context.url
+		});
 		res.end();
-	});
+	} else {
+		res.set({
+			"Content-Type": "text/html",
+			"Cache-Control": "public, max-age=0, s-maxage=600",
+		});
+
+		res.send(htmlString);
+		res.end();
+	}
 });
 
 const PORT = process.env.PORT || 8080;

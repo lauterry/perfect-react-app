@@ -3,10 +3,14 @@ const nodeExternals = require("webpack-node-externals");
 
 module.exports = {
 	mode: "development",
+	entry: {
+		server: path.join(__dirname, "src/server/server.js"),
+	},
 	output: {
 		path: path.join(__dirname, "dist"),
 		publicPath: "/",
 		filename: "[name].js",
+		libraryTarget: "commonjs2",
 	},
 	module: {
 		rules: [
@@ -15,7 +19,23 @@ module.exports = {
 				exclude: /node_modules/,
 				use: {
 					loader: "babel-loader",
+					options: {
+						caller: { target: "node" },
+					},
 				},
+				include: [
+					path.join(__dirname, "src"),
+				],
+			},
+			{
+				test: /\.scss$/,
+				use: ["css-loader", "sass-loader"],
+				exclude: /node_modules/,
+			},
+			{
+				test: /\.css$/,
+				use: ["css-loader"],
+				exclude: /node_modules/,
 			},
 		],
 	},
@@ -26,7 +46,4 @@ module.exports = {
 		__filename: false, // and __filename return blank or /
 	},
 	externals: [nodeExternals()],
-	entry: {
-		server: path.join(__dirname, "src/server/server.js"),
-	},
 };

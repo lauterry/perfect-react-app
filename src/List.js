@@ -23,7 +23,7 @@ class List extends React.Component {
 			<div>
 				{this.state.products.map(product => {
 					return (
-						<Link key={product.name} to={`/product/${product.name}`}>
+						<Link key={product.id} to={`/${product.id}`}>
 							{product.name}
 						</Link>
 					);
