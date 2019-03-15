@@ -1,9 +1,11 @@
-import React, { Fragment } from "react";
+import React, {Fragment} from "react";
 import "./styles.css";
-import { Link, Switch, Route } from "react-router-dom";
-import About from "./About";
-import List from "./List";
-import Product from "./Product";
+import {Link, Route, Switch} from "react-router-dom";
+import loadable from "@loadable/component";
+
+const AsyncAbout = loadable(() => import(/* webpackChunkName: "about" */ "./About"));
+const AsyncProduct = loadable(() => import(/* webpackChunkName: "product" */ "./Product"));
+const AsyncList = loadable(() => import(/* webpackChunkName: "list" */ "./List"));
 
 class App extends React.Component {
 	render() {
@@ -15,9 +17,15 @@ class App extends React.Component {
 				</header>
 				<div>
 					<Switch>
-						<Route path="/about" component={About} />
-						<Route path="/list" component={List} />
-						<Route path="/product/:name" component={Product} />
+						<Route path="/about" render={() => {
+							return <AsyncAbout />
+						}}/>
+						<Route path="/list" render={() => {
+							return <AsyncList />
+						}}/>
+						<Route path="/product/:name" render={() => {
+							return <AsyncProduct />
+						}}/>
 					</Switch>
 				</div>
 			</Fragment>

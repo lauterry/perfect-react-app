@@ -19,6 +19,7 @@
   "author": "Thierry LAU",
   "license": "ISC",
   "dependencies": {
+    "@loadable/component": "^5.7.0",
     "express": "^4.16.4",
     "history": "^4.7.2",
     "node-sass": "^4.11.0",
