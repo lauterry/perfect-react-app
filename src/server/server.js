@@ -8,6 +8,8 @@ import config from "../../webpack.config.dev.js";
 import {StaticRouter} from "react-router";
 import App from "../App";
 import React from 'react';
+import { ChunkExtractor } from '@loadable/server';
+const statsFile = path.join(__dirname, "loadable-stats.json");
 
 const app = express();
 const DIST_DIR = path.join(__dirname);
@@ -33,7 +35,17 @@ app.get("*", (req, res) => {
 		</StaticRouter>
 	);
 
-	const componentHTML = ReactDOMServer.renderToString(InitialComponent);
+	const extractor = new ChunkExtractor({ statsFile })
+	const jsx = extractor.collectChunks(InitialComponent)
+
+	const componentHTML = ReactDOMServer.renderToString(jsx);
+
+	const scriptTags = extractor.getScriptTags();
+	console.log(scriptTags);
+	const linkTags = extractor.getLinkTags();
+	console.log(linkTags);
+	const styleTags = extractor.getStyleTags();
+	console.log(styleTags);
 
 	const htmlString = `<!DOCTYPE html>
 <html>
