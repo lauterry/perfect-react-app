@@ -1,29 +1,29 @@
-import React from 'react';
+import React from "react";
 
 class List extends React.Component {
-	constructor(){
+	constructor() {
 		super();
 		this.state = {
-			products: []
-		}
+			products: [],
+		};
 	}
 
 	componentDidMount() {
-		import( /* webpackChunkName: "products" */ "./Data/products").then(products => {
+		import(/* webpackChunkName: "products" */ "./Data/products").then(products => {
 			this.setState({
-				products: products.default
+				products: products.default,
 			});
 		});
 	}
 
-	render () {
-		return <div>
-			{
-				this.state.products.map (product => {
+	render() {
+		return (
+			<div>
+				{this.state.products.map(product => {
 					return <div key={product.name}>{product.name}</div>;
-				})
-			}
-		</div>
+				})}
+			</div>
+		);
 	}
 }
 

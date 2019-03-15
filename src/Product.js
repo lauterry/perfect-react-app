@@ -1,11 +1,9 @@
-import React from 'react';
+import React from "react";
 import "./product.scss";
 
 class Product extends React.Component {
-	render () {
-		return <div className="product">
-			{this.props.name}
-		</div>
+	render() {
+		return <div className="product">{this.props.name}</div>;
 	}
 }
 
