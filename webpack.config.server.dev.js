@@ -12,6 +12,7 @@ module.exports = {
 		filename: "[name].js",
 		libraryTarget: "commonjs2",
 	},
+	target: "node",
 	module: {
 		rules: [
 			{
@@ -39,7 +40,6 @@ module.exports = {
 			},
 		],
 	},
-	target: "node",
 	devtool: "source-map",
 	node: {
 		__dirname: false, // if you don't put this is, __dirname

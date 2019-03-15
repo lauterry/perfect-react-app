@@ -41,11 +41,8 @@ app.get("*", (req, res) => {
 	const componentHTML = ReactDOMServer.renderToString(jsx);
 
 	const scriptTags = extractor.getScriptTags();
-	console.log(scriptTags);
 	const linkTags = extractor.getLinkTags();
-	console.log(linkTags);
 	const styleTags = extractor.getStyleTags();
-	console.log(styleTags);
 
 	const htmlString = `<!DOCTYPE html>
 <html>
@@ -53,12 +50,14 @@ app.get("*", (req, res) => {
 		<meta charset="utf-8">
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+		${linkTags}
+		${styleTags}
 	</head>
 	<body>
 		<div id="perfectstay">
 			<div>${componentHTML}</div>
 		</div>
-		<script async src="./main.js"></script>
+		${scriptTags}
 	</body>
 </html>`;
 

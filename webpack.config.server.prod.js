@@ -3,6 +3,9 @@ const nodeExternals = require("webpack-node-externals");
 
 module.exports = {
 	mode: "production",
+	entry: {
+		server: path.join(__dirname, "src/server/server.js"),
+	},
 	output: {
 		path: path.join(__dirname, "dist"),
 		publicPath: "/",
@@ -17,7 +20,13 @@ module.exports = {
 				exclude: /node_modules/,
 				use: {
 					loader: "babel-loader",
+					options: {
+						caller: { target: "node" },
+					},
 				},
+				include: [
+					path.join(__dirname, "src"),
+				],
 			},
 			{
 				test: /\.scss$/,
@@ -36,7 +45,4 @@ module.exports = {
 		__filename: false, // and __filename return blank or /
 	},
 	externals: [nodeExternals()],
-	entry: {
-		server: path.join(__dirname, "src/server/server.js"),
-	},
 };
