@@ -1,4 +1,6 @@
 import React from "react";
+import { Link } from "react-router-dom";
+import {fetchProducts} from "./api";
 
 class List extends React.Component {
 	constructor() {
@@ -9,7 +11,7 @@ class List extends React.Component {
 	}
 
 	componentDidMount() {
-		import(/* webpackChunkName: "products" */ "./Data/products").then(products => {
+		fetchProducts().then(products => {
 			this.setState({
 				products: products.default,
 			});
@@ -20,7 +22,11 @@ class List extends React.Component {
 		return (
 			<div>
 				{this.state.products.map(product => {
-					return <div key={product.name}>{product.name}</div>;
+					return (
+						<Link key={product.name} to={`/product/${product.name}`}>
+							{product.name}
+						</Link>
+					);
 				})}
 			</div>
 		);

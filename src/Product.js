@@ -3,7 +3,8 @@ import "./product.scss";
 
 class Product extends React.Component {
 	render() {
-		return <div className="product">{this.props.name}</div>;
+		const { match } = this.props;
+		return <div className="product">{match.params.name}</div>;
 	}
 }
 

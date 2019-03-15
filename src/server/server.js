@@ -14,16 +14,15 @@ app.use(express.static(DIST_DIR));
 
 app.use(
 	webpackDevMiddleware(compiler, {
-		reload: true,
-		noInfo: true,
 		publicPath: config.output.publicPath,
 	})
 );
 
 app.use(webpackHotMiddleware(compiler));
 
-app.get("*", (req, res) => {
-	compiler.outputFileSystem.readFile(HTML_FILE, (err, result) => {
+app.get("*", (req, res, next) => {
+	const filename = path.join(compiler.outputPath,'index.html');
+	compiler.outputFileSystem.readFile(filename, (err, result) => {
 		if (err) {
 			return next(err);
 		}
