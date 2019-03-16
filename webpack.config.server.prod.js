@@ -24,9 +24,7 @@ module.exports = {
 						caller: { target: "node" },
 					},
 				},
-				include: [
-					path.join(__dirname, "src"),
-				],
+				include: [path.join(__dirname, "src")],
 			},
 			{
 				test: /\.scss$/,

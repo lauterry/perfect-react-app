@@ -23,8 +23,12 @@ module.exports = merge(baseConfig, {
 		],
 	},
 	devtool: "source-map",
-	plugins: [new webpack.HotModuleReplacementPlugin(), new webpack.NoEmitOnErrorsPlugin(), new MiniCssExtractPlugin({
-		filename: "[name].css",
-		chunkFilename: "[id].css"
-	})],
+	plugins: [
+		new webpack.HotModuleReplacementPlugin(),
+		new webpack.NoEmitOnErrorsPlugin(),
+		new MiniCssExtractPlugin({
+			filename: "[name].css",
+			chunkFilename: "[id].css",
+		}),
+	],
 });

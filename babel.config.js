@@ -25,7 +25,7 @@ module.exports = api => {
 	];
 
 	if (!web) {
-		plugins.push(["dynamic-import-node", {"noInterop": true}]);
+		plugins.push(["dynamic-import-node", { noInterop: true }]);
 	}
 
 	return {

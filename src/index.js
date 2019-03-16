@@ -1,17 +1,22 @@
 import React from "react";
 import {render} from "react-dom";
-import App from "./App";
-import {Router} from "react-router-dom";
 import {loadableReady} from "@loadable/component";
+import {applyMiddleware, createStore} from "redux";
+import reducers from "./reducers";
+import thunk from "redux-thunk";
+import {Router} from "react-router-dom";
 import getHistory from "./configureHistory";
+import {Provider} from "react-redux";
+import App from "./App";
+
+const store = createStore(reducers, applyMiddleware(thunk));
 
 loadableReady(() => {
-	render(
+	render(<Provider store={store}>
 		<Router history={getHistory()}>
 			<App/>
-		</Router>,
-		document.getElementById("perfectstay")
-	);
+		</Router>
+	</Provider>, document.getElementById("perfectstay"));
 });
 
 if (typeof module.hot !== "undefined") {

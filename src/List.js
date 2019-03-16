@@ -1,27 +1,12 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import {fetchProducts} from "./api";
 
-class List extends React.Component {
-	constructor() {
-		super();
-		this.state = {
-			products: [],
-		};
-	}
-
-	componentDidMount() {
-		fetchProducts().then(products => {
-			this.setState({
-				products: products.default,
-			});
-		});
-	}
-
+class List extends React.PureComponent {
 	render() {
+		const { products = [] } = this.props;
 		return (
 			<div>
-				{this.state.products.map(product => {
+				{products.map(product => {
 					return (
 						<Link key={product.id} to={`/${product.id}`}>
 							{product.name}

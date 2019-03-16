@@ -1,5 +1,5 @@
 const path = require("path");
-const LoadablePlugin = require('@loadable/webpack-plugin');
+const LoadablePlugin = require("@loadable/webpack-plugin");
 
 module.exports = {
 	entry: "./src/index.js",
@@ -17,13 +17,11 @@ module.exports = {
 				use: {
 					loader: "babel-loader",
 					options: {
-						caller: {target: "web"},
+						caller: { target: "web" },
 					},
-				}
+				},
 			},
 		],
 	},
-	plugins: [
-		new LoadablePlugin(),
-	]
+	plugins: [new LoadablePlugin()],
 };

@@ -7,8 +7,13 @@ import ReactDOMServer from "react-dom/server";
 import config from "../../webpack.config.dev.js";
 import {StaticRouter} from "react-router";
 import App from "../App";
-import React from 'react';
-import { ChunkExtractor } from '@loadable/server';
+import React from "react";
+import {ChunkExtractor} from "@loadable/server";
+import {Provider} from "react-redux";
+import {applyMiddleware, createStore} from "redux";
+import reducers from "../reducers";
+import thunk from "redux-thunk";
+
 const statsFile = path.join(__dirname, "loadable-stats.json");
 
 const app = express();
@@ -26,17 +31,20 @@ app.use(
 app.use(webpackHotMiddleware(compiler));
 
 app.get("*", (req, res) => {
-
 	const context = {};
 
+	const store = createStore(reducers, applyMiddleware(thunk));
+
 	const InitialComponent = (
-		<StaticRouter location={req.url} context={context}>
-			<App/>
-		</StaticRouter>
+		<Provider store={store}>
+			<StaticRouter location={req.url} context={context}>
+				<App/>
+			</StaticRouter>
+		</Provider>
 	);
 
-	const extractor = new ChunkExtractor({ statsFile })
-	const jsx = extractor.collectChunks(InitialComponent)
+	const extractor = new ChunkExtractor({statsFile});
+	const jsx = extractor.collectChunks(InitialComponent);
 
 	const componentHTML = ReactDOMServer.renderToString(jsx);
 
@@ -63,7 +71,7 @@ app.get("*", (req, res) => {
 
 	if (context.url) {
 		res.writeHead(302, {
-			Location: context.url
+			Location: context.url,
 		});
 		res.end();
 	} else {
