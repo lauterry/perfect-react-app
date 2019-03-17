@@ -8,15 +8,30 @@ import {Router} from "react-router-dom";
 import getHistory from "./configureHistory";
 import {Provider} from "react-redux";
 import App from "./App";
+import {addLocaleData, IntlProvider} from 'react-intl';
 
 const store = createStore(reducers, applyMiddleware(thunk));
+const initialState = window.__INITIAL_STATE__;
+const shop = initialState.shop;
+const lang = shop.slice(0, 2);
 
 loadableReady(() => {
-	render(<Provider store={store}>
-		<Router history={getHistory()}>
-			<App/>
-		</Router>
-	</Provider>, document.getElementById("perfectstay"));
+	import(/* webpackChunkName: "locale" */ `react-intl/locale-data/${lang}`).then((locale) => {
+		addLocaleData([...locale.default]);
+
+		import(/* webpackChunkName: "messages" */ `./i18n/${lang}.json`).then((messages) => {
+			render(<Provider store={store}>
+				<IntlProvider
+					locale={lang}
+					messages={messages.default}
+				>
+					<Router history={getHistory(shop)}>
+						<App/>
+					</Router>
+				</IntlProvider>
+			</Provider>, document.getElementById("perfectstay"));
+		});
+	});
 });
 
 if (typeof module.hot !== "undefined") {

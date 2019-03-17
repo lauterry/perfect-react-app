@@ -13,6 +13,7 @@ import {Provider} from "react-redux";
 import {applyMiddleware, createStore} from "redux";
 import reducers from "../reducers";
 import thunk from "redux-thunk";
+import {IntlProvider} from 'react-intl';
 
 const statsFile = path.join(__dirname, "loadable-stats.json");
 
@@ -30,59 +31,79 @@ app.use(
 
 app.use(webpackHotMiddleware(compiler));
 
+app.use("/:shop?", (req, res, next) => {
+	const {shop} = req.params;
+	req.shop = shop;
+	next();
+});
+
 app.get("*", (req, res) => {
+	const shop = req.shop;
+	const lang = shop.slice(0, 2);
 	const context = {};
 
-	const store = createStore(reducers, applyMiddleware(thunk));
+	import(/* webpackChunkName: "messages" */ `../i18n/${lang}.json`).then((messages) => {
+		const store = createStore(reducers, applyMiddleware(thunk));
 
-	const InitialComponent = (
-		<Provider store={store}>
-			<StaticRouter location={req.url} context={context}>
-				<App/>
-			</StaticRouter>
-		</Provider>
-	);
+		const InitialComponent = (
+			<Provider store={store}>
+				<IntlProvider
+					locale={lang}
+					messages={messages}
+				>
+					<StaticRouter basename={`/${shop}`} location={req.url} context={context}>
+						<App/>
+					</StaticRouter>
+				</IntlProvider>
+			</Provider>
+		);
 
-	const extractor = new ChunkExtractor({statsFile});
-	const jsx = extractor.collectChunks(InitialComponent);
+		const extractor = new ChunkExtractor({statsFile});
+		const jsx = extractor.collectChunks(InitialComponent);
 
-	const componentHTML = ReactDOMServer.renderToString(jsx);
+		const componentHTML = ReactDOMServer.renderToString(jsx);
 
-	const scriptTags = extractor.getScriptTags();
-	const linkTags = extractor.getLinkTags();
-	const styleTags = extractor.getStyleTags();
+		const scriptTags = extractor.getScriptTags();
+		const linkTags = extractor.getLinkTags();
+		const styleTags = extractor.getStyleTags();
 
-	const htmlString = `<!DOCTYPE html>
-<html>
+		const htmlString = `
+	<!DOCTYPE html>
+	<html lang="${lang}">
 	<head>
 		<meta charset="utf-8">
-		<meta name="apple-mobile-web-app-capable" content="yes">
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-		${linkTags}
-		${styleTags}
+			<meta name="apple-mobile-web-app-capable" content="yes">
+				<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+					${linkTags}
+					${styleTags}
 	</head>
 	<body>
-		<div id="perfectstay">
-			<div>${componentHTML}</div>
-		</div>
-		${scriptTags}
+	<div id="perfectstay">
+		<div>${componentHTML}</div>
+	</div>
+	${scriptTags}
+	<script type="application/javascript">
+			window.__INITIAL_STATE__ = ${JSON.stringify({shop: shop})};
+	</script>
 	</body>
-</html>`;
+	</html>
+`;
 
-	if (context.url) {
-		res.writeHead(302, {
-			Location: context.url,
-		});
-		res.end();
-	} else {
-		res.set({
-			"Content-Type": "text/html",
-			"Cache-Control": "public, max-age=0, s-maxage=600",
-		});
+		if (context.url) {
+			res.writeHead(302, {
+				Location: context.url,
+			});
+			res.end();
+		} else {
+			res.set({
+				"Content-Type": "text/html",
+				"Cache-Control": "public, max-age=0, s-maxage=600",
+			});
 
-		res.send(htmlString);
-		res.end();
-	}
+			res.send(htmlString);
+			res.end();
+		}
+	});
 });
 
 const PORT = process.env.PORT || 8080;

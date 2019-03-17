@@ -6,7 +6,7 @@
   "scripts": {
     "build": "rm -rf dist && webpack --config webpack.config.dev.js && webpack --config webpack.config.server.dev.js",
     "build:prod": "rm -rf dist && webpack --config webpack.config.server.prod.js && webpack --config webpack.config.prod.js",
-    "start": "node ./dist/server",
+    "start": "node --icu-data-dir=node_modules/full-icu ./dist/server",
     "format": "prettier"
   },
   "keywords": [
@@ -21,10 +21,12 @@
   "dependencies": {
     "@loadable/component": "^5.7.0",
     "express": "^4.16.4",
+    "full-icu": "^1.2.1",
     "history": "^4.7.2",
     "node-sass": "^4.11.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-intl": "^2.8.0",
     "react-redux": "^6.0.1",
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
