@@ -1,3 +1,12 @@
+@font-face {
+	font-family: "marydale";
+	src: url("/static/fonts/Marydale-regular.woff2") format("woff2"),
+	url("/static/fonts/Marydale-regular.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
 div {
 	color: red;
+	font-family: marydale, sans-serif;;
 }

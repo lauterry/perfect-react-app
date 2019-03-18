@@ -16,12 +16,20 @@ module.exports = {
 	module: {
 		rules: [
 			{
+				test: /\.woff|eot|svg|otf|ttf|woff2$/,
+				loader: "url-loader", // fonts needs to be in a font folder
+				options: {
+					limit: 1000,
+					name: "font/[name].[ext]",
+				},
+			},
+			{
 				test: /\.js$/,
 				exclude: /node_modules/,
 				use: {
 					loader: "babel-loader",
 					options: {
-						caller: { target: "node" },
+						caller: {target: "node"},
 					},
 				},
 				include: [path.join(__dirname, "src")],
