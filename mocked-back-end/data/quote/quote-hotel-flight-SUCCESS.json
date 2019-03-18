@@ -1,0 +1,4737 @@
+{
+	"code": "154da8d6-321d-499a-9810-8609b90cc64a",
+	"status": "SUCCESS",
+	"paymentTypes": [
+		{
+			"type": "CreditCard",
+			"acceptedCreditCardTypes": ["amex", "visa", "mc"]
+		},
+		{
+			"type": "CreditCardPartial",
+			"percentagePayNow": 50,
+			"dueDate": 1492128000000,
+			"acceptedCreditCardTypes": ["amex", "visa", "mc"]
+		},
+		{
+			"type": "Oney",
+			"modes": ["Oney4x", "Oney3x"],
+			"acceptedCreditCardTypes": ["visa", "mc"]
+		}
+	],
+	"flights": [
+		{
+			"code": "188753a8-30fb-4721-bae4-818db3576499",
+			"inbound": {
+				"airline": {
+					"name": "Air Serbia",
+					"code": "JU"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Air Serbia",
+							"code": "JU"
+						},
+						"flightNumber": "JU523",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:10"
+						},
+						"to": {
+							"airport": "Nikola Tesla",
+							"iata": "BEG",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:15",
+							"flightDuration": "01:05",
+							"stopDuration": "00:50"
+						}
+					},
+					{
+						"airline": {
+							"name": "Air Serbia",
+							"code": "JU"
+						},
+						"flightNumber": "JU314",
+						"from": {
+							"airport": "Nikola Tesla",
+							"iata": "BEG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "17:05"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "19:40",
+							"flightDuration": "02:35"
+						}
+					}
+				],
+				"totalDuration": "04:30",
+				"cabin": "Economy"
+			},
+			"included": true,
+			"tag": "CHEAPEST",
+			"outbound": {
+				"airline": {
+					"name": "Air Serbia",
+					"code": "JU"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Air Serbia",
+							"code": "JU"
+						},
+						"flightNumber": "JU311",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "10:10"
+						},
+						"to": {
+							"airport": "Nikola Tesla",
+							"iata": "BEG",
+							"landingDate": "2017-04-19",
+							"landingTime": "12:30",
+							"flightDuration": "02:20",
+							"stopDuration": "00:50"
+						}
+					},
+					{
+						"airline": {
+							"name": "Air Serbia",
+							"code": "JU"
+						},
+						"flightNumber": "JU522",
+						"from": {
+							"airport": "Nikola Tesla",
+							"iata": "BEG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "13:20"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:25",
+							"flightDuration": "01:05"
+						}
+					}
+				],
+				"totalDuration": "04:15",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			}
+		},
+		{
+			"code": "e70cc896-b376-447a-89d2-6009e2e1b89e",
+			"inbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "03:15"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS7117",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "20:10"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "22:15",
+							"terminal": "2F",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "07:15",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS412",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "10:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-19",
+							"landingTime": "12:00",
+							"flightDuration": "02:00",
+							"stopDuration": "00:35"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS809",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:35"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:20",
+							"flightDuration": "01:45"
+						}
+					}
+				],
+				"totalDuration": "04:20",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": false,
+					"canBeBooked": true
+				}
+			},
+			"upgradePrice": 55
+		},
+		{
+			"code": "9fe127cc-b027-47bd-822a-400c27ea0953",
+			"inbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "00:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS417",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "17:20"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "19:25",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "04:25",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS412",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "10:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-19",
+							"landingTime": "12:00",
+							"flightDuration": "02:00",
+							"stopDuration": "00:35"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS809",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:35"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:20",
+							"flightDuration": "01:45"
+						}
+					}
+				],
+				"totalDuration": "04:20",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": false,
+					"canBeBooked": true,
+					"pricePerPerson": 30,
+					"maxWeightPerBagage": 30
+				}
+			},
+			"upgradePrice": 65
+		},
+		{
+			"code": "69b48575-f6bb-46bf-99cd-eb203331c387",
+			"inbound": {
+				"airline": {
+					"name": "Turkish Airlines",
+					"code": "TK"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Turkish Airlines",
+							"code": "TK"
+						},
+						"flightNumber": "TK1882",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "09:40"
+						},
+						"to": {
+							"airport": "Ataturk",
+							"iata": "IST",
+							"landingDate": "2017-04-24",
+							"landingTime": "11:00",
+							"flightDuration": "01:20",
+							"stopDuration": "01:45"
+						}
+					},
+					{
+						"airline": {
+							"name": "Turkish Airlines",
+							"code": "TK"
+						},
+						"flightNumber": "TK1825",
+						"from": {
+							"airport": "Ataturk",
+							"iata": "IST",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "12:45"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "15:20",
+							"flightDuration": "03:35"
+						}
+					}
+				],
+				"totalDuration": "06:40",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Turkish Airlines",
+					"code": "TK"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Turkish Airlines",
+							"code": "TK"
+						},
+						"flightNumber": "TK1822",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "11:00"
+						},
+						"to": {
+							"airport": "Ataturk",
+							"iata": "IST",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:35",
+							"flightDuration": "03:35",
+							"stopDuration": "03:35"
+						}
+					},
+					{
+						"airline": {
+							"name": "Turkish Airlines",
+							"code": "TK"
+						},
+						"flightNumber": "TK1893",
+						"from": {
+							"airport": "Ataturk",
+							"iata": "IST",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "19:10"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "20:30",
+							"flightDuration": "01:20"
+						}
+					}
+				],
+				"totalDuration": "08:30",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": false,
+					"canBeBooked": true,
+					"maxWeightPerBagage": 30
+				}
+			},
+			"upgradePrice": 66
+		},
+		{
+			"code": "c00a0c9c-6fd5-42fd-86fa-77046099e9e7",
+			"inbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37101",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "06:30"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-24",
+							"landingTime": "07:20",
+							"flightDuration": "00:50",
+							"stopDuration": "01:10"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3610",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "08:30"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "11:10",
+							"flightDuration": "03:40"
+						}
+					}
+				],
+				"totalDuration": "05:40",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3613",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "16:40"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-19",
+							"landingTime": "20:50",
+							"flightDuration": "03:10",
+							"stopDuration": "00:55"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37132",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "21:45"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "22:40",
+							"flightDuration": "00:55"
+						}
+					}
+				],
+				"totalDuration": "05:00",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": false,
+					"canBeBooked": false
+				}
+			},
+			"upgradePrice": 68
+		},
+		{
+			"code": "4632561b-4b45-40f8-965f-77affaaff410",
+			"inbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37109",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "10:20"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-24",
+							"landingTime": "11:10",
+							"flightDuration": "00:50",
+							"stopDuration": "02:15"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3612",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "13:25"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "15:50",
+							"flightDuration": "03:25"
+						}
+					}
+				],
+				"totalDuration": "06:30",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3613",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "16:40"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-19",
+							"landingTime": "20:50",
+							"flightDuration": "03:10",
+							"stopDuration": "00:55"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37132",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "21:45"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "22:40",
+							"flightDuration": "00:55"
+						}
+					}
+				],
+				"totalDuration": "05:00",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": false
+				}
+			},
+			"upgradePrice": 68
+		},
+		{
+			"code": "1ddbf1b2-1eb8-4686-bad9-5f37acfa55ee",
+			"inbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37101",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "06:30"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-24",
+							"landingTime": "07:20",
+							"flightDuration": "00:50",
+							"stopDuration": "01:10"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3610",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "08:30"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "11:10",
+							"flightDuration": "03:40"
+						}
+					}
+				],
+				"totalDuration": "05:40",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3611",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:15"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-19",
+							"landingTime": "16:30",
+							"flightDuration": "03:15",
+							"stopDuration": "01:20"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37122",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "17:50"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "18:45",
+							"flightDuration": "00:55"
+						}
+					}
+				],
+				"totalDuration": "05:30",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": false
+				}
+			},
+			"upgradePrice": 68
+		},
+		{
+			"code": "10b8afb7-30de-4b7e-ae51-5f215769fca8",
+			"inbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37109",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "10:20"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-24",
+							"landingTime": "11:10",
+							"flightDuration": "00:50",
+							"stopDuration": "02:15"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3612",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "13:25"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "15:50",
+							"flightDuration": "03:25"
+						}
+					}
+				],
+				"totalDuration": "06:30",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3611",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:15"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-19",
+							"landingTime": "16:30",
+							"flightDuration": "03:15",
+							"stopDuration": "01:20"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37122",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "17:50"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "18:45",
+							"flightDuration": "00:55"
+						}
+					}
+				],
+				"totalDuration": "05:30",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": false
+				}
+			},
+			"upgradePrice": 68
+		},
+		{
+			"code": "d721f385-67f5-478a-a5a8-36a514e9ee00",
+			"inbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37101",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "06:30"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-24",
+							"landingTime": "07:20",
+							"flightDuration": "00:50",
+							"stopDuration": "01:10"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3610",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "08:30"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "11:10",
+							"flightDuration": "03:40"
+						}
+					}
+				],
+				"totalDuration": "05:40",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3613",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "16:40"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-19",
+							"landingTime": "20:50",
+							"flightDuration": "03:10",
+							"stopDuration": "02:10"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37136",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "23:00"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "23:55",
+							"flightDuration": "00:55"
+						}
+					}
+				],
+				"totalDuration": "06:15",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": false
+				}
+			},
+			"upgradePrice": 68
+		},
+		{
+			"code": "afd35c18-86b0-4816-92c3-d30ebcd44c9c",
+			"inbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37109",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "10:20"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-24",
+							"landingTime": "11:10",
+							"flightDuration": "00:50",
+							"stopDuration": "02:15"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3612",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "13:25"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "15:50",
+							"flightDuration": "03:25"
+						}
+					}
+				],
+				"totalDuration": "06:30",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3613",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "16:40"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-19",
+							"landingTime": "20:50",
+							"flightDuration": "03:10",
+							"stopDuration": "02:10"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37136",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "23:00"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "23:55",
+							"flightDuration": "00:55"
+						}
+					}
+				],
+				"totalDuration": "06:15",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": false
+				}
+			},
+			"upgradePrice": 68
+		},
+		{
+			"code": "ac4a3413-b2fa-4aa6-9fdf-7a278082c0c5",
+			"inbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37101",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "06:30"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-24",
+							"landingTime": "07:20",
+							"flightDuration": "00:50",
+							"stopDuration": "01:10"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3610",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "08:30"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "11:10",
+							"flightDuration": "03:40"
+						}
+					}
+				],
+				"totalDuration": "05:40",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3611",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:15"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-19",
+							"landingTime": "16:30",
+							"flightDuration": "03:15",
+							"stopDuration": "02:50"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37126",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "19:20"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "20:15",
+							"flightDuration": "00:55"
+						}
+					}
+				],
+				"totalDuration": "07:00",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": false
+				}
+			},
+			"upgradePrice": 68
+		},
+		{
+			"code": "96992fc3-30d6-4ab2-a494-d27076a7b70b",
+			"inbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37109",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "10:20"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-24",
+							"landingTime": "11:10",
+							"flightDuration": "00:50",
+							"stopDuration": "02:15"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3612",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "13:25"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "15:50",
+							"flightDuration": "03:25"
+						}
+					}
+				],
+				"totalDuration": "06:30",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3611",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:15"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-19",
+							"landingTime": "16:30",
+							"flightDuration": "03:15",
+							"stopDuration": "02:50"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37126",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "19:20"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "20:15",
+							"flightDuration": "00:55"
+						}
+					}
+				],
+				"totalDuration": "07:00",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": false
+				}
+			},
+			"upgradePrice": 68
+		},
+		{
+			"code": "7d03b7e2-ec9b-44f8-8a36-82d9412eaed1",
+			"inbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "03:15"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS7117",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "20:10"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "22:15",
+							"terminal": "2F",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "07:15",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS7112",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "07:15",
+							"terminal": "2F"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-19",
+							"landingTime": "09:10",
+							"flightDuration": "01:55",
+							"stopDuration": "03:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS809",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:35"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:20",
+							"flightDuration": "01:45"
+						}
+					}
+				],
+				"totalDuration": "07:05",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 97
+		},
+		{
+			"code": "3954c26d-a858-4097-8c59-90d000023e0f",
+			"inbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "00:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS417",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "17:20"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "19:25",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "04:25",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS7112",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "07:15",
+							"terminal": "2F"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-19",
+							"landingTime": "09:10",
+							"flightDuration": "01:55",
+							"stopDuration": "03:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS809",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:35"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:20",
+							"flightDuration": "01:45"
+						}
+					}
+				],
+				"totalDuration": "07:05",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 108
+		},
+		{
+			"code": "dda38324-276d-460d-9b5f-02faaeae3d22",
+			"inbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "00:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS417",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "17:20"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "19:25",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "04:25",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "LH"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH2239",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "06:30"
+						},
+						"to": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"landingDate": "2017-04-19",
+							"landingTime": "07:50",
+							"flightDuration": "01:20",
+							"stopDuration": "02:30"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH5930",
+						"from": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "10:20"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "13:30",
+							"flightDuration": "02:10"
+						}
+					}
+				],
+				"totalDuration": "06:00",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 110
+		},
+		{
+			"code": "ad9a0b58-7712-4c28-9609-db5d53ea62e9",
+			"inbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "00:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS417",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "17:20"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "19:25",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "04:25",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "LH"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH2231",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "14:40"
+						},
+						"to": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"landingDate": "2017-04-19",
+							"landingTime": "16:00",
+							"flightDuration": "01:20",
+							"stopDuration": "03:40"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH5926",
+						"from": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "19:40"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "22:55",
+							"flightDuration": "02:15"
+						}
+					}
+				],
+				"totalDuration": "07:15",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 110
+		},
+		{
+			"code": "ad717433-fb0d-4624-9bd8-d00325ca3d97",
+			"inbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "00:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS417",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "17:20"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "19:25",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "04:25",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "LH"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH1051",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "07:50"
+						},
+						"to": {
+							"airport": "Frankfurt International",
+							"iata": "FRA",
+							"landingDate": "2017-04-19",
+							"landingTime": "09:05",
+							"flightDuration": "01:15",
+							"stopDuration": "02:00"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH5928",
+						"from": {
+							"airport": "Frankfurt International",
+							"iata": "FRA",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "11:05"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "14:45",
+							"flightDuration": "02:40"
+						}
+					}
+				],
+				"totalDuration": "05:55",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 117
+		},
+		{
+			"code": "90799703-295f-4207-8e78-9d17b6cfc980",
+			"inbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "00:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS417",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "17:20"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "19:25",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "04:25",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "LH"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH1053",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "06:10"
+						},
+						"to": {
+							"airport": "Frankfurt International",
+							"iata": "FRA",
+							"landingDate": "2017-04-19",
+							"landingTime": "07:25",
+							"flightDuration": "01:15",
+							"stopDuration": "03:40"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH5928",
+						"from": {
+							"airport": "Frankfurt International",
+							"iata": "FRA",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "11:05"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "14:45",
+							"flightDuration": "02:40"
+						}
+					}
+				],
+				"totalDuration": "07:35",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 117
+		},
+		{
+			"code": "5556c466-e44d-47c0-9a59-a1bbc901951e",
+			"inbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "00:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS417",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "17:20"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "19:25",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "04:25",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS7112",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "07:15",
+							"terminal": "2F"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-19",
+							"landingTime": "09:10",
+							"flightDuration": "01:55",
+							"stopDuration": "03:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS809",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:35"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:20",
+							"flightDuration": "01:45"
+						}
+					}
+				],
+				"totalDuration": "07:05",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 417
+		},
+		{
+			"code": "9bc7f966-93b0-4c7d-870f-b8aa4c7a3c7f",
+			"inbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "03:15"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS7117",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "20:10"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "22:15",
+							"terminal": "2F",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "07:15",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS7112",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "07:15",
+							"terminal": "2F"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-19",
+							"landingTime": "09:10",
+							"flightDuration": "01:55",
+							"stopDuration": "03:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS809",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:35"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:20",
+							"flightDuration": "01:45"
+						}
+					}
+				],
+				"totalDuration": "07:05",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 417
+		},
+		{
+			"code": "d40ffb7a-ecb5-409a-b342-4f2d51f78d57",
+			"inbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "00:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS417",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "17:20"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "19:25",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "04:25",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "LH"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH2239",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "06:30"
+						},
+						"to": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"landingDate": "2017-04-19",
+							"landingTime": "07:50",
+							"flightDuration": "01:20",
+							"stopDuration": "02:30"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH5930",
+						"from": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "10:20"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "13:30",
+							"flightDuration": "02:10"
+						}
+					}
+				],
+				"totalDuration": "06:00",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 735
+		},
+		{
+			"code": "faed924a-7221-4ae1-b595-89322c409de8",
+			"inbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "03:15"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS7117",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "20:10"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "22:15",
+							"terminal": "2F",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "07:15",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "LH"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH2239",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "06:30"
+						},
+						"to": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"landingDate": "2017-04-19",
+							"landingTime": "07:50",
+							"flightDuration": "01:20",
+							"stopDuration": "02:30"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH5930",
+						"from": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "10:20"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "13:30",
+							"flightDuration": "02:10"
+						}
+					}
+				],
+				"totalDuration": "06:00",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 735
+		},
+		{
+			"code": "5571d497-7f31-4165-b7d1-e59be58e60fe",
+			"inbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "LH"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "LH"
+						},
+						"flightNumber": "LH5927",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "17:25"
+						},
+						"to": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"landingDate": "2017-04-24",
+							"landingTime": "18:40",
+							"flightDuration": "02:15",
+							"stopDuration": "03:10"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "LH"
+						},
+						"flightNumber": "LH2238",
+						"from": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "21:50"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "23:25",
+							"flightDuration": "01:35"
+						}
+					}
+				],
+				"totalDuration": "07:00",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS7112",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "07:15",
+							"terminal": "2F"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-19",
+							"landingTime": "09:10",
+							"flightDuration": "01:55",
+							"stopDuration": "03:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS809",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:35"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:20",
+							"flightDuration": "01:45"
+						}
+					}
+				],
+				"totalDuration": "07:05",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 735
+		},
+		{
+			"code": "480d204b-e3e4-404a-b3cc-467e00f838f1",
+			"inbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "00:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS417",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "17:20"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "19:25",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "04:25",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "LH"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH2231",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "14:40"
+						},
+						"to": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"landingDate": "2017-04-19",
+							"landingTime": "16:00",
+							"flightDuration": "01:20",
+							"stopDuration": "03:40"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH5926",
+						"from": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "19:40"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "22:55",
+							"flightDuration": "02:15"
+						}
+					}
+				],
+				"totalDuration": "07:15",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 735
+		},
+		{
+			"code": "d08f74de-312c-41c6-b7b2-1e4e8e491d7a",
+			"inbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "03:15"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS7117",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "20:10"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "22:15",
+							"terminal": "2F",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "07:15",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "LH"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH2231",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "14:40"
+						},
+						"to": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"landingDate": "2017-04-19",
+							"landingTime": "16:00",
+							"flightDuration": "01:20",
+							"stopDuration": "03:40"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH5926",
+						"from": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "19:40"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "22:55",
+							"flightDuration": "02:15"
+						}
+					}
+				],
+				"totalDuration": "07:15",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 735
+		},
+		{
+			"code": "87731169-8488-4421-923b-c7b78487bb20",
+			"inbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "00:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS417",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "17:20"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "19:25",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "04:25",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "LH"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH1051",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "07:50"
+						},
+						"to": {
+							"airport": "Frankfurt International",
+							"iata": "FRA",
+							"landingDate": "2017-04-19",
+							"landingTime": "09:05",
+							"flightDuration": "01:15",
+							"stopDuration": "02:00"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH5928",
+						"from": {
+							"airport": "Frankfurt International",
+							"iata": "FRA",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "11:05"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "14:45",
+							"flightDuration": "02:40"
+						}
+					}
+				],
+				"totalDuration": "05:55",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 743
+		},
+		{
+			"code": "fb1ce7d3-978b-47a0-8a3d-746c9fe7382b",
+			"inbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "03:15"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS7117",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "20:10"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "22:15",
+							"terminal": "2F",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "07:15",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "LH"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH1051",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "07:50"
+						},
+						"to": {
+							"airport": "Frankfurt International",
+							"iata": "FRA",
+							"landingDate": "2017-04-19",
+							"landingTime": "09:05",
+							"flightDuration": "01:15",
+							"stopDuration": "02:00"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH5928",
+						"from": {
+							"airport": "Frankfurt International",
+							"iata": "FRA",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "11:05"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "14:45",
+							"flightDuration": "02:40"
+						}
+					}
+				],
+				"totalDuration": "05:55",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 743
+		},
+		{
+			"code": "352e9773-b595-4484-904f-d7e95f2f6059",
+			"inbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "LH"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "LH"
+						},
+						"flightNumber": "LH5929",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "15:30"
+						},
+						"to": {
+							"airport": "Frankfurt International",
+							"iata": "FRA",
+							"landingDate": "2017-04-24",
+							"landingTime": "17:10",
+							"flightDuration": "02:40",
+							"stopDuration": "03:15"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "LH"
+						},
+						"flightNumber": "LH1050",
+						"from": {
+							"airport": "Frankfurt International",
+							"iata": "FRA",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "20:25"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "21:35",
+							"flightDuration": "01:10"
+						}
+					}
+				],
+				"totalDuration": "07:05",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS7112",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "07:15",
+							"terminal": "2F"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-19",
+							"landingTime": "09:10",
+							"flightDuration": "01:55",
+							"stopDuration": "03:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS809",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:35"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:20",
+							"flightDuration": "01:45"
+						}
+					}
+				],
+				"totalDuration": "07:05",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 743
+		},
+		{
+			"code": "e1efaa38-e6b0-4356-a88b-77fe96c96c4a",
+			"inbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "00:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS417",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "17:20"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "19:25",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "04:25",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "LH"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH1053",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "06:10"
+						},
+						"to": {
+							"airport": "Frankfurt International",
+							"iata": "FRA",
+							"landingDate": "2017-04-19",
+							"landingTime": "07:25",
+							"flightDuration": "01:15",
+							"stopDuration": "03:40"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH5928",
+						"from": {
+							"airport": "Frankfurt International",
+							"iata": "FRA",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "11:05"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "14:45",
+							"flightDuration": "02:40"
+						}
+					}
+				],
+				"totalDuration": "07:35",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 743
+		},
+		{
+			"code": "37705193-c88f-49f7-b7a1-c244992de124",
+			"inbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "03:15"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "OS"
+						},
+						"flightNumber": "OS7117",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "20:10"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "22:15",
+							"terminal": "2F",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "07:15",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Lufthansa",
+					"code": "LH"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH1053",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "06:10"
+						},
+						"to": {
+							"airport": "Frankfurt International",
+							"iata": "FRA",
+							"landingDate": "2017-04-19",
+							"landingTime": "07:25",
+							"flightDuration": "01:15",
+							"stopDuration": "03:40"
+						}
+					},
+					{
+						"airline": {
+							"name": "Lufthansa",
+							"code": "LH"
+						},
+						"flightNumber": "LH5928",
+						"from": {
+							"airport": "Frankfurt International",
+							"iata": "FRA",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "11:05"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "14:45",
+							"flightDuration": "02:40"
+						}
+					}
+				],
+				"totalDuration": "07:35",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 743
+		},
+		{
+			"code": "14f2d638-3f82-42af-b1c9-0d24816dd001",
+			"inbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "00:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS417",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "17:20"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "19:25",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "04:25",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS412",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "10:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-19",
+							"landingTime": "12:00",
+							"flightDuration": "02:00",
+							"stopDuration": "00:35"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS809",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:35"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:20",
+							"flightDuration": "01:45"
+						}
+					}
+				],
+				"totalDuration": "04:20",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 839
+		},
+		{
+			"code": "b9fed78f-b8be-4e13-a40f-4bca2f98214c",
+			"inbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "03:15"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS7117",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "20:10"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "22:15",
+							"terminal": "2F",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "07:15",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS412",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "10:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-19",
+							"landingTime": "12:00",
+							"flightDuration": "02:00",
+							"stopDuration": "00:35"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS809",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:35"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:20",
+							"flightDuration": "01:45"
+						}
+					}
+				],
+				"totalDuration": "04:20",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 839
+		},
+		{
+			"code": "3d40298f-6429-4e4b-a0cc-68fe71912c24",
+			"inbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "LH"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "LH"
+						},
+						"flightNumber": "LH5931",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "08:00"
+						},
+						"to": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"landingDate": "2017-04-24",
+							"landingTime": "09:20",
+							"flightDuration": "02:20",
+							"stopDuration": "03:00"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "LH"
+						},
+						"flightNumber": "LH2230",
+						"from": {
+							"airport": "Munich International",
+							"iata": "MUC",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "12:20"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "13:55",
+							"flightDuration": "01:35"
+						}
+					}
+				],
+				"totalDuration": "06:55",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Austrian",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS7112",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "07:15",
+							"terminal": "2F"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-19",
+							"landingTime": "09:10",
+							"flightDuration": "01:55",
+							"stopDuration": "03:25"
+						}
+					},
+					{
+						"airline": {
+							"name": "Austrian",
+							"code": "OS"
+						},
+						"flightNumber": "OS809",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:35"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:20",
+							"flightDuration": "01:45"
+						}
+					}
+				],
+				"totalDuration": "07:05",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 841
+		},
+		{
+			"code": "476f8b8c-5ecb-4524-b132-a5b7f066064e",
+			"inbound": {
+				"airline": {
+					"name": "Air Serbia",
+					"code": "JU"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Air Serbia",
+							"code": "JU"
+						},
+						"flightNumber": "JU523",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:10"
+						},
+						"to": {
+							"airport": "Nikola Tesla",
+							"iata": "BEG",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:15",
+							"flightDuration": "01:05",
+							"stopDuration": "00:50"
+						}
+					},
+					{
+						"airline": {
+							"name": "Air Serbia",
+							"code": "JU"
+						},
+						"flightNumber": "JU314",
+						"from": {
+							"airport": "Nikola Tesla",
+							"iata": "BEG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "17:05"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "19:40",
+							"flightDuration": "02:35"
+						}
+					}
+				],
+				"totalDuration": "04:30",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Air Serbia",
+					"code": "JU"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Air Serbia",
+							"code": "JU"
+						},
+						"flightNumber": "JU311",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "10:10"
+						},
+						"to": {
+							"airport": "Nikola Tesla",
+							"iata": "BEG",
+							"landingDate": "2017-04-19",
+							"landingTime": "12:30",
+							"flightDuration": "02:20",
+							"stopDuration": "00:50"
+						}
+					},
+					{
+						"airline": {
+							"name": "Air Serbia",
+							"code": "JU"
+						},
+						"flightNumber": "JU522",
+						"from": {
+							"airport": "Nikola Tesla",
+							"iata": "BEG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "13:20"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:25",
+							"flightDuration": "01:05"
+						}
+					}
+				],
+				"totalDuration": "04:15",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 912
+		},
+		{
+			"code": "415d4e61-9974-4b88-a2b0-f8c333aa728b",
+			"inbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3920",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "10:35"
+						},
+						"to": {
+							"airport": "Larnaca",
+							"iata": "LCA",
+							"landingDate": "2017-04-24",
+							"landingTime": "12:25",
+							"flightDuration": "01:50",
+							"stopDuration": "00:45"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3770",
+						"from": {
+							"airport": "Larnaca",
+							"iata": "LCA",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "13:10"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:40",
+							"flightDuration": "04:30"
+						}
+					}
+				],
+				"totalDuration": "07:05",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Aegean Airlines",
+					"code": "A3"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A3613",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "16:40"
+						},
+						"to": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"landingDate": "2017-04-19",
+							"landingTime": "20:50",
+							"flightDuration": "03:10",
+							"stopDuration": "00:55"
+						}
+					},
+					{
+						"airline": {
+							"name": "Aegean Airlines",
+							"code": "A3"
+						},
+						"flightNumber": "A37132",
+						"from": {
+							"airport": "Athens Int E. Venizelos",
+							"iata": "ATH",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "21:45"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "22:40",
+							"flightDuration": "00:55"
+						}
+					}
+				],
+				"totalDuration": "05:00",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 1225
+		},
+		{
+			"code": "845c595b-5257-4851-a75d-349dda2a4459",
+			"inbound": {
+				"airline": {
+					"name": "Turkish Airlines",
+					"code": "TK"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Turkish Airlines",
+							"code": "TK"
+						},
+						"flightNumber": "TK1882",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "09:40"
+						},
+						"to": {
+							"airport": "Ataturk",
+							"iata": "IST",
+							"landingDate": "2017-04-24",
+							"landingTime": "11:00",
+							"flightDuration": "01:20",
+							"stopDuration": "01:45"
+						}
+					},
+					{
+						"airline": {
+							"name": "Turkish Airlines",
+							"code": "TK"
+						},
+						"flightNumber": "TK1825",
+						"from": {
+							"airport": "Ataturk",
+							"iata": "IST",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "12:45"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "15:20",
+							"flightDuration": "03:35"
+						}
+					}
+				],
+				"totalDuration": "06:40",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Turkish Airlines",
+					"code": "TK"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Turkish Airlines",
+							"code": "TK"
+						},
+						"flightNumber": "TK1822",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "11:00"
+						},
+						"to": {
+							"airport": "Ataturk",
+							"iata": "IST",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:35",
+							"flightDuration": "03:35",
+							"stopDuration": "03:35"
+						}
+					},
+					{
+						"airline": {
+							"name": "Turkish Airlines",
+							"code": "TK"
+						},
+						"flightNumber": "TK1893",
+						"from": {
+							"airport": "Ataturk",
+							"iata": "IST",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "19:10"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "20:30",
+							"flightDuration": "01:20"
+						}
+					}
+				],
+				"totalDuration": "08:30",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true,
+					"maxWeightPerBagage": 40
+				}
+			},
+			"upgradePrice": 1451
+		},
+		{
+			"code": "4fc0b305-64b4-43ae-83e6-3021cc199643",
+			"inbound": {
+				"airline": {
+					"name": "Air France",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Air France",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "03:15"
+						}
+					},
+					{
+						"airline": {
+							"name": "Air France",
+							"code": "AF"
+						},
+						"flightNumber": "AF1239",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "20:10"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "22:15",
+							"terminal": "2F",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "07:15",
+				"cabin": "Economy"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Air France",
+					"code": "AF"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Air France",
+							"code": "AF"
+						},
+						"flightNumber": "AF5040",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "10:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-19",
+							"landingTime": "12:00",
+							"flightDuration": "02:00",
+							"stopDuration": "00:35"
+						}
+					},
+					{
+						"airline": {
+							"name": "Air France",
+							"code": "OS"
+						},
+						"flightNumber": "OS809",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:35"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:20",
+							"flightDuration": "01:45"
+						}
+					}
+				],
+				"totalDuration": "04:20",
+				"cabin": "Economy"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 3158
+		},
+		{
+			"code": "91813022-9194-465e-a28a-cbae1cf7e4fe",
+			"inbound": {
+				"airline": {
+					"name": "Air France",
+					"code": "OS"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Air France",
+							"code": "OS"
+						},
+						"flightNumber": "OS810",
+						"from": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "16:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-24",
+							"landingTime": "16:55",
+							"flightDuration": "01:55",
+							"stopDuration": "03:15"
+						}
+					},
+					{
+						"airline": {
+							"name": "Air France",
+							"code": "AF"
+						},
+						"flightNumber": "AF1239",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-24",
+							"takeOffTime": "20:10"
+						},
+						"to": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"landingDate": "2017-04-24",
+							"landingTime": "22:15",
+							"terminal": "2F",
+							"flightDuration": "02:05"
+						}
+					}
+				],
+				"totalDuration": "07:15",
+				"cabin": "Business"
+			},
+			"included": false,
+			"outbound": {
+				"airline": {
+					"name": "Air France",
+					"code": "AF"
+				},
+				"legs": [
+					{
+						"airline": {
+							"name": "Air France",
+							"code": "AF"
+						},
+						"flightNumber": "AF5040",
+						"from": {
+							"airport": "Paris Charles de Gaulle",
+							"iata": "CDG",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "10:00"
+						},
+						"to": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"landingDate": "2017-04-19",
+							"landingTime": "12:00",
+							"flightDuration": "02:00",
+							"stopDuration": "00:35"
+						}
+					},
+					{
+						"airline": {
+							"name": "Air France",
+							"code": "OS"
+						},
+						"flightNumber": "OS809",
+						"from": {
+							"airport": "Vienna International",
+							"iata": "VIE",
+							"takeOffDate": "2017-04-19",
+							"takeOffTime": "12:35"
+						},
+						"to": {
+							"airport": "Makedonia Airport",
+							"iata": "SKG",
+							"landingDate": "2017-04-19",
+							"landingTime": "15:20",
+							"flightDuration": "01:45"
+						}
+					}
+				],
+				"totalDuration": "04:20",
+				"cabin": "Business"
+			},
+			"flightOptions": {
+				"flightBagageOption": {
+					"included": true
+				}
+			},
+			"upgradePrice": 3273
+		}
+	],
+	"accommodations": {
+		"accommodationItems": [
+			{
+				"included": true,
+				"items": [
+					{
+						"adults": 2,
+						"children": 0,
+						"infants": 0,
+						"quantity": 1,
+						"accommodationItemCode": 33
+					}
+				],
+				"codes": [
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b3d",
+						"boardCode": "HB"
+					},
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b32",
+						"boardCode": "BB"
+					},
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b33",
+						"boardCode": "AI"
+					}
+				],
+				"code": "381d7320-c8f3-480b-9d11-919524fb5dbc"
+			},
+			{
+				"included": false,
+				"items": [
+					{
+						"adults": 2,
+						"children": 0,
+						"infants": 0,
+						"quantity": 1,
+						"accommodationItemCode": 35
+					}
+				],
+				"upgradePrice": 144,
+				"codes": [
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b3d",
+						"boardCode": "HB"
+					},
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b33",
+						"boardCode": "AI"
+					}
+				],
+				"code": "274c3ba0-1410-4ab5-9d8c-ca2c1b24b1e7"
+			},
+			{
+				"included": false,
+				"items": [
+					{
+						"adults": 2,
+						"children": 0,
+						"infants": 0,
+						"quantity": 1,
+						"accommodationItemCode": 36
+					}
+				],
+				"upgradePrice": 377,
+				"codes": [
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b3d",
+						"boardCode": "HB"
+					},
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b32",
+						"boardCode": "BB"
+					}
+				],
+				"code": "ec149a4b-f0f4-44e5-a729-db98537cfdd8"
+			},
+			{
+				"included": false,
+				"items": [
+					{
+						"adults": 2,
+						"children": 0,
+						"infants": 0,
+						"quantity": 1,
+						"accommodationItemCode": 36
+					}
+				],
+				"upgradePrice": 377,
+				"codes": [
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b3d",
+						"boardCode": "HB"
+					},
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b32",
+						"boardCode": "BB"
+					}
+				],
+				"code": "ec149a4b-f0f4-44e5-a729-db98537cfdd9"
+			},
+			{
+				"included": false,
+				"items": [
+					{
+						"adults": 2,
+						"children": 0,
+						"infants": 0,
+						"quantity": 1,
+						"accommodationItemCode": 36
+					}
+				],
+				"upgradePrice": 377,
+				"codes": [
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b3d",
+						"boardCode": "HB"
+					},
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b32",
+						"boardCode": "BB"
+					}
+				],
+				"code": "ec149a4b-f0f4-44e5-a729-db98537cfdd1"
+			},
+			{
+				"included": false,
+				"items": [
+					{
+						"adults": 2,
+						"children": 0,
+						"infants": 0,
+						"quantity": 1,
+						"accommodationItemCode": 36
+					},
+					{
+						"adults": 2,
+						"children": 0,
+						"infants": 0,
+						"quantity": 1,
+						"accommodationItemCode": 36
+					}
+				],
+				"upgradePrice": 377,
+				"codes": [
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b3d",
+						"boardCode": "HB"
+					},
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b32",
+						"boardCode": "BB"
+					}
+				],
+				"code": "ec149a4b-f0f4-44e5-a729-db98537cfdd2"
+			},
+			{
+				"included": false,
+				"items": [
+					{
+						"adults": 2,
+						"children": 0,
+						"infants": 0,
+						"quantity": 1,
+						"accommodationItemCode": 36
+					},
+					{
+						"adults": 2,
+						"children": 0,
+						"infants": 0,
+						"quantity": 1,
+						"accommodationItemCode": 36
+					},
+					{
+						"adults": 2,
+						"children": 0,
+						"infants": 0,
+						"quantity": 1,
+						"accommodationItemCode": 36
+					}
+				],
+				"upgradePrice": 377,
+				"codes": [
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b3d",
+						"boardCode": "HB"
+					},
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b32",
+						"boardCode": "BB"
+					}
+				],
+				"code": "ec149a4b-f0f4-44e5-a729-db98537cfdd3"
+			},
+			{
+				"included": false,
+				"items": [
+					{
+						"adults": 2,
+						"children": 0,
+						"infants": 0,
+						"quantity": 1,
+						"accommodationItemCode": 36
+					}
+				],
+				"upgradePrice": 377,
+				"codes": [
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b3d",
+						"boardCode": "HB"
+					},
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b32",
+						"boardCode": "BB"
+					}
+				],
+				"code": "ec149a4b-f0f4-44e5-a729-db98537cfdd4"
+			},
+			{
+				"included": false,
+				"items": [
+					{
+						"adults": 2,
+						"children": 0,
+						"infants": 0,
+						"quantity": 1,
+						"accommodationItemCode": 36
+					}
+				],
+				"upgradePrice": 377,
+				"codes": [
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b3d",
+						"boardCode": "HB"
+					},
+					{
+						"code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b32",
+						"boardCode": "BB"
+					}
+				],
+				"code": "ec149a4b-f0f4-44e5-a729-db98537cfdd5"
+			}
+		],
+		"boards": [
+			{
+				"label": "Petit déjeuner",
+				"paragraphs": [
+					"Profitez d'une bonne nuit de sommeil, suivie d'un petit-déjeuner préparé par nos chefs, le meilleur moyen  de commencer votre journée avec un large éventail de choix pour tous les goûts."
+				],
+				"boardCode": "BB",
+				"upgradePrice": 890
+			},
+			{
+				"label": "Demi pension",
+				"paragraphs": [
+					"Réveillez-vous dans un environnement délicieux et profitez de notre variété dédiée pour le petit-déjeuner et le dîner. Profitez d'un instant de pur plaisir aux couleurs de la cuisine locale et internationale, préparée en favorisant des produits locaux de qualité. Petit-déjeuner et Dîner."
+				],
+				"included": true,
+				"boardCode": "HB"
+			},
+			{
+				"label": "Tout compris",
+				"paragraphs": [
+					"D'innombrables raisons de réserver le forfait tout compris - des installations de sports nautiques à nos restaurants ou simplement pour un pur moment de détente ... Cette option offre une tranquillité totale avec tous les repas et collations ainsi qu'un large choix de boissons douces et alcoolisées. Profitez de notre café, thé, glaces et une sélection d'articles dans votre mini-bar dans la chambre. Certaines boissons premium et choix alimentaires sont exclus de cette formule. Contactez-nous pour plus d'informations."
+				],
+				"boardCode": "AI",
+				"upgradePrice": 4590
+			}
+		],
+		"accommodationItemDescriptions": [
+			{
+				"accommodationItemCode": 36,
+				"description":
+					"La Junior Suite avec piscine privée (37 m2) est parfaite pour un couple en quête de romantisme et de luxe. Cette suite spacieuse et lumineuse vous propose une ambiance épurée et apaisante. Vous pourrez profiter d’une piscine privée et intime sur votre balcon pour admirer les couchés de soleil dans le ciel de la Grèce.",
+				"aera": 37,
+				"label": "Suite with Private Pool Junior Sea View",
+				"photo": {
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/v1478354422/property/15/accommodation/image_15_v14.jpg",
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACYAMgMBIgACEQEDEQH/xAB2AAACAwEBAAAAAAAAAAAAAAAABAIDBQYBEAACAgIABQMFAAAAAAAAAAAAAQIDBBESEyExURQiMgVCUmFiAQADAQEBAAAAAAAAAAAAAAACAwQFAQARAAIBAwQBBQAAAAAAAAAAAAABAgMREgQUMVEhEzJBUnH/2gAMAwEAAhEDEQA/AO6xceK7MdlRJruL0V2RG27EJSjbgLyI3RlXBmQ25mtk2NxaZnQjpEWpS+CqgQlSnEVjQlYaf2lCS5iM+CXqR/SubeEg9PDwA97QNjCPRm5y7NSqxdBhzOUhncC7l0fqf7GLUQsgXRk/I7kxbcmJR+J7ZmxnB6YrXel8iTUNSviU0U1yPRjtEVXFS7l9XKmukjy2vXVGeo1YSTxKW1K6uHCvIFG5eAKNzW+orbw7OYalNL3FsKH+QACEvaMOnhjvZJR5lYAek2kdjyLLJsplpM08fPnJdUAHYtsbJIc9X/IAAQs//9k="
+				}
+			},
+			{
+				"accommodationItemCode": 33,
+				"description":
+					"La Junior Suite vue sur mer (37 m2) est une chambre confortable et lumineuse combinée avec un espace salon luxueux. Lorsque vous prendrez un café sur votre balcon spacieux, vous pourrez apercevoir l’île de Kelyfos dans les eaux limpides de la mer. La décoration épurée s’agence parfaitement au style méditerranéen.",
+				"aera": 37,
+				"label": "Junior Suite Sea View",
+				"photo": {
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/v1476895112/property/15/accommodation/image_15_v11.jpg",
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABrAAADAQEBAQAAAAAAAAAAAAAABQYEBwIDEAACAgICAwEBAAAAAAAAAAAAAgEDBBEFIRITMTMUAQEBAQEAAAAAAAAAAAAAAAAEBQMCEQADAAICAgMBAAAAAAAAAAAAAQIDESExEhMyQWFi/9oADAMBAAIRAxEAPwDZj50RrZRYuWjxHZz1LtTClHgo8wuiIrqaWkV/CbltsuqZV4NqpAgq9laxJ91zm9ioUsVNrlE/JOnwx3KQZbfHuDUizNe5kRNc05fhvo1vgzjk9zTIDSK1A49Z35nEKJ9iw0r2X/CeqUXyOZTyyKukU34XN2ooHGqm1VLgbWqhymdhvmma9LMbFKUWRb5kTh8zc90Qz9FgvJKyLBQipp70DvHUob2Z1lVQrosm2/2GzUXUC1VmhupEXCpbSMIenopovjUAT39MgG9v8m3p/Tg1X0aVfAAHk7QzH0McT9YLCj6gAb4vo4ydMsaPwgX5H0AKcdE1/IxgAAhh/9k="
+				}
+			},
+			{
+				"accommodationItemCode": 35,
+				"description":
+					"La Suite vue mer Pool Front est située devant la piscine de l'hôtel. En plus de sa situation exceptionnelle, cette chambre offre tous les services nécessaires vous permettant ainsi de vous offrir un séjour inoubliable.",
+				"aera": 37,
+				"label": "junior suite pool front sea view",
+				"photo": {
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/v1476895113/property/15/accommodation/image_15_v12.jpg",
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB1AAADAQEBAQAAAAAAAAAAAAAABQYDBAIHEAACAgECBAYDAAAAAAAAAAAAAQIDBBEhBQYiMhITMTNBURUjQgEBAAMBAQAAAAAAAAAAAAAAAwABAgQFEQACAQQCAgMAAAAAAAAAAAAAAQIDERIxIkEEMhNRYf/aAAwDAQACEQMRAD8ArsVOKTKPFs1juJseHSMY/rqbPPhdM6pWaHkJwfya+KJIUZdsptJjZStcfU6oNy0gJLHbGdl0I/Jx2TU46ibOsshFdR7qvTxt5GZbaLS0zdyj9gLNn/YGfil+G8ojCqlRRnZ5u8UtiRp5kTY5q41XJJtk4E5HfRiyrbkxooSdeqYuqzq7l3DTHtjKtoSlZeoc1fZL8WyfLg9WTUOLTl0a7DnmCC0k9SBWXCttAVMm2PTxSRarJ2XWBFflo/YB2qfbE4GFPch9V2oAF6B7H2AWWH7QAJ4/YdXoleY/amfJrO+QAVP2ZuOkcD9WAAQs/9k="
+				}
+			}
+		]
+	},
+	"transfers": [
+		{
+			"included": true,
+			"quantity": 1,
+			"vehicule": "Transfert collectif Mercedes",
+			"maximumCapacity": 3,
+			"code": "2b3aff90-4746-4753-b62c-68a52a9ac022"
+		}
+	],
+	"activities": [
+		{
+			"code": "029a171d-8d2e-4321-af41-992c5c79489b",
+			"name": "Forfait 2 green fees : Golf des Dunes",
+			"photo": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABIAMgMBIgACEQEDEQH/xABuAAACAgMAAAAAAAAAAAAAAAAABQEEAwYHEAACAgEDBQEAAAAAAAAAAAAAAQIDBAURExIUITEyQQEBAAMBAAAAAAAAAAAAAAAAAgABAwQRAAIBAwMFAAAAAAAAAAAAAAABAgMEERIxMhMUIWFx/9oADAMBAAIRAxEAPwDdtSlj8qsEWo5lNvSoi7MzJXQ9ilTf6zkhcRqbJlLJ0LQLVFbtjbVbK7a/Ekc6x86dUdoszTz7rPDkzTqpeGQ2erLVNfTFlWy9ze7YkVrS3bMnP4MpXOOIGsjPlYCruGAe6n6DpEN5VAA23FG6LUPRYgAF1SSLr+ETD5ADgls/oWQAAEB//9k=",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1522930818/extra/image_4_v1.jpg"
+			},
+			"paragraphs": [
+				"Un entraînement de 3 heures par jour pendant 3 jours, en répétition des différents secteurs de jeu comprenant une analyse vidéo et un travail analytique.",
+				"Niveau : Confirmé - Âge : À partir de 11 ans",
+				"Groupe : 8 participants maximum"
+			],
+			"guests": [
+				{
+					"code": "adult",
+					"price": 107,
+					"minAge": 18,
+					"maxGuest": 2
+				}
+			]
+		},
+		{
+			"code": "93170390-e712-48ee-99f4-8f8426896a21",
+			"name": "Golf - parcours accompagné 3 jours",
+			"photo": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABIAMgMBIgACEQEDEQH/xABvAAADAQEBAAAAAAAAAAAAAAAABQYEAgcQAAICAAUDBQAAAAAAAAAAAAABAgMEBRESIRMUUQYxNEFCAQADAQAAAAAAAAAAAAAAAAACAwQBEQACAgAGAwEAAAAAAAAAAAAAAgEDERITITEyIjNRwf/aAAwDAQACEQMRAD8A8pUPYocvyrudrTElWHtemqKvJ1bVNIXZLQvjyT1aepg0bDafp6mqjfNiWmEFfsiWmKrtso055Qhpy91SlZJA1WM6TDRgUXVJW6ym5jx+9UtfRGTWs3oWWMU7arEQlk5VWNPyNSIjEy3M6waOlIDjvEBpJlf4U9aXgeZYl1ogADcBz3UtWlsQqx3FbABaljfhM/mZAZj8iQAGvZjZ9ai0AAYLP//Z",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1522930818/extra/image_8_v1.jpg"
+			},
+			"paragraphs": [
+				"Un entraînement de 3 heures par jour pendant 3 jours, en répétition des différents secteurs de jeu comprenant une analyse vidéo et un travail analytique."
+			],
+			"guests": [
+				{
+					"code": "child",
+					"price": 223,
+					"minAge": 2,
+					"maxAge": 15,
+					"maxGuest": 2
+				},
+				{
+					"code": "adult",
+					"price": 356,
+					"minAge": 18,
+					"maxGuest": 2
+				},
+				{
+					"code": "infant",
+					"price": 56,
+					"maxAge": 1,
+					"maxGuest": 1
+				}
+			]
+		},
+		{
+			"code": "e57ccf04-b5b1-409b-a5b3-475362b6579c",
+			"name": "Escapade Club'Forme",
+			"photo": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABIAMgMBIgACEQEDEQH/xABvAAEBAAMBAQAAAAAAAAAAAAAABQIEBwYDEAACAgIBBAIDAAAAAAAAAAAAAgEDBAUREiExMjNxNEFRAQADAQEAAAAAAAAAAAAAAAACAwQAAREAAgEDBAMAAAAAAAAAAAAAAAECAxIhETEyQSIzUf/aAAwDAQACEQMRAD8Au52fUlqNz+zLYbZLqEiGOfLmrsHhZs4PW4uopepWa7mBdzLqqjGcdHsalmRLxwYJfZSknoUw8BF9omSHuLaqqW6IFy16ZQ3GpFJwwQcvKRJlmkg5WfVas9MkbMy7L3leSe6PXHPIUY+OSOo0qmNkbk2d57gl9bA7awbl8KeOzQ68NJ1LWu8672nwAd6M+Rr0O82+0+f6Nz+M30AKZavWcvn55+z6ZPrAA5bEUuRNABgT/9k=",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1522930818/extra/image_11_v1.jpg"
+			},
+			"guests": [
+				{
+					"code": "infant",
+					"price": 86,
+					"minAge": 4,
+					"maxAge": 10,
+					"maxGuest": 2
+				},
+				{
+					"code": "adult",
+					"price": 86,
+					"minAge": 18,
+					"maxGuest": 3
+				}
+			]
+		},
+		{
+			"code": "e57ccf04-b5b1-409b-a5b3-475362b657dc",
+			"name": "Excursion Essaouira, cité des Alizés",
+			"guests": [
+				{
+					"code": "infant",
+					"price": 86,
+					"minAge": 4,
+					"maxAge": 10,
+					"maxGuest": 2
+				},
+				{
+					"code": "adult",
+					"price": 86,
+					"minAge": 18,
+					"maxGuest": 1
+				}
+			]
+		}
+	],
+	"quotationItems": [
+		{
+			"price": 1550,
+			"type": "TRIP"
+		},
+		{
+			"price": 25,
+			"type": "BOOKING_FEES"
+		}
+	]
+}

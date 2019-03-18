@@ -1,0 +1,34 @@
+{
+    "status": "SUCCESS",
+    "futureBookings": [
+        {
+            "status": "CONFIRMED",
+            "bookingReference": "1000174",
+            "bookingDate": "2017-02-07",
+            "name": "Corsica Hotel",
+            "category": 5,
+            "country": "France",
+            "region": "Corse",
+            "resort": "Corse",
+            "duration": 4,
+            "departureDate": "2017-06-20",
+            "endDate": "2017-06-24",
+            "totalPaid": 2072,
+            "total": 2572,
+            "totalDue": 500,
+            "adults": 2,
+            "children": 0,
+            "infants": 0,
+            "currencyCode": "EUR",
+            "photo": {},
+            "bookingDocument": {
+                "voucher": "https://www.perfectstay.com/static/docs/fr-FR/insurances/presence-AX2016010.pdf",
+                "invoice": "https://www.perfectstay.com/static/docs/fr-FR/insurances/presence-AX2016011.pdf"
+            },
+            "brand": "PS",
+            "shop": "fr-FR"
+        }
+    ],
+    "timestamp": 1486549075818,
+    "timestampISO8601": "2017-02-08T10:17:55Z"
+}

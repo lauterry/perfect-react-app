@@ -1,16 +1,14 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import ListItem from "./ListItem";
 
 class List extends React.PureComponent {
 	render() {
-		const { products = [] } = this.props;
+		const {products = []} = this.props;
 		return (
 			<div>
 				{products.map(product => {
 					return (
-						<Link key={product.id} to={`/${product.id}`}>
-							{product.name}
-						</Link>
+						<ListItem key={product.id} id={product.id} name={product.name}/>
 					);
 				})}
 			</div>

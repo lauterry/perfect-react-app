@@ -1,0 +1,1032 @@
+{
+	"address": {},
+	"badges": [
+		{
+			"bgColor": "#234a67",
+			"txtColor": "#fff",
+			"label": "Luxe"
+		},
+		{
+			"bgColor": "#442faa",
+			"txtColor": "#fff",
+			"label": "Tout compris"
+		}
+	],
+	"activity": {
+		"activities": [
+			{
+				"label": "Chasse aux canards",
+				"paragraphs": [
+					"Nous chassons le canard en Loire-Atlantique (44), au Lac de Grand Lieu, puit de biodiversité avec ses 6.500 hectares en hiver !",
+					"Nous chassons exclusivement de jours, la chasse de nuit étant interdite, à l’aide d’appelants et de jeux de formes.",
+					"Ainsi, nous utilisons exclusivement des colverts, bien que d’autres espèces soient tout aussi efficaces, avec une vingtaine de formes."
+				],
+				"photo": {
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIAB8AMgMBIgACEQEDEQH/xABqAAADAAMBAAAAAAAAAAAAAAAABAUBAwYHEAACAwACAgMBAAAAAAAAAAAAAQIDEQQSEzEhIkFRAQEBAQEAAAAAAAAAAAAAAAAEAwUCEQEAAgIBBQEAAAAAAAAAAAABAAIDEQQSExQhMVH/2gAMAwEAAhEDEQA/APVbLiddYmZnYJ2S01KlaQQWv8ity0nTjmlCySRPnLZHRn2WCUOOjVYv6bRG53H3XhV5EurQlZfGSxhjO94dzSOMdhNE5zwSArdY/wBA0fIxzO8XJO/tsyLJL5j1xHL55FnPTbVmgeQavr9iOJpxqnyOyvcpYHpaI22dWmbZ2bWmH91sm/TEh1g69kWvs3dJtlsX8IbvxxE6qoOTZPIVq7qyuO91RNE0fcB/yVL8An12l91n/9k=",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/v1506503056/property/785/activity/image_785_v11.jpg"
+				}
+			},
+			{
+				"label": "Pêches aux moules",
+				"paragraphs": [
+					"La pêche aux moules est une activité très sympathique souvent pratiquée en famille. Certaines règles à respecter pourraient être méconnues de certains. En ce qui concerne les instruments, la pêche aux moules s’effectue à l’aide d’un râteau et d’une épuisette. On pourra également se servir d’une griffe à dents ou de la cuillère(sorte de couteau). Les outils, tels que la pelle ou la fourche ainsi que tout procédé mécanique sont prohibés dans cette activité.",
+					"Tous les gisements de moules ne sont pas autorisés. Les critères déterminant les sites légaux varient selon les préfectures de chaque département. Par exemple, les moules de Ravenoville et de Barfleur, dans l’est du Cotentin, ne peuvent être pêchées que par des pêcheurs professionnels. L’idéal serait de vous renseigner auprès de la préfecture de votre région afin de connaître les sites réglementaires où cette activité peut être pratiquée."
+				],
+				"photo": {
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIAB8AMgMBIgACEQEDEQH/xABqAAADAAMBAAAAAAAAAAAAAAAABAUBAwYHEAACAwACAgMBAAAAAAAAAAAAAQIDEQQSEzEhIkFRAQEBAQEAAAAAAAAAAAAAAAAEAwUCEQEAAgIBBQEAAAAAAAAAAAABAAIDEQQSExQhMVH/2gAMAwEAAhEDEQA/APVbLiddYmZnYJ2S01KlaQQWv8ity0nTjmlCySRPnLZHRn2WCUOOjVYv6bRG53H3XhV5EurQlZfGSxhjO94dzSOMdhNE5zwSArdY/wBA0fIxzO8XJO/tsyLJL5j1xHL55FnPTbVmgeQavr9iOJpxqnyOyvcpYHpaI22dWmbZ2bWmH91sm/TEh1g69kWvs3dJtlsX8IbvxxE6qoOTZPIVq7qyuO91RNE0fcB/yVL8An12l91n/9k=",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/v1506503056/property/785/activity/image_785_v13.jpg"
+				}
+			}
+		],
+		"facilities": [
+			"Espaces de jeux réservés aux enfants de 4 mois à 11 ans",
+			"Éducateurs certifiés, présents en tout temps",
+			"Petit parc aquatique pour enfants",
+			"Marina"
+		],
+		"intro": [
+			"Outre l’ambiance cosmopolite de ses restaurants, le Miraggio a beaucoup à offrir en termes de divertissements et de services. Les amoureux de la plage seront évidemment comblés par la mer et le sable blanc alors que les amateurs de bonne cuisine se délecteront de la diversité gastronomique."
+		],
+		"label": "Activités et Lifestyle",
+		"description":
+			"Impossible de passer à côté de l’expérience divine qu’offre le spa thermal Myrthia. Profitez des soins esthétiques, des massages ou encore de la thérapie des bains thermaux. À moins que vous ne préfériez vous prélasser dans la piscine d’eau naturelle. Pendant que vous vous ressourcez, vos enfants pourront se divertir dans un univers leur étant entièrement réservé."
+	},
+	"accommodation": {
+		"intro": {
+			"headline": "Votre hôtel",
+			"intro": [
+				"Offrez-vous un voyage de rêve loin de l’effervescence des grandes villes et exilez-vous dans ce paradis terrestre digne d’un rêve. La quiétude et la beauté des lieux vous offriront un moment de détente incomparable. Profitez de votre séjour pour vous prélasser à l’ombre des oliviers dans les piscines de l’hôtel ou traverser les plages sable blanc pour vous tremper les pieds dans l’eau cristalline de la mer. Au Miraggio, la détente et la relaxation sont garanties dans un contexte idyllique."
+			]
+		},
+		"type": {
+			"accommodationTypes": [
+				{
+					"aera": 37,
+					"label": "Junior Suite Sea View",
+					"description":
+						"La Junior Suite vue sur mer (37 m2) est une chambre confortable et lumineuse combinée avec un espace salon luxueux. Lorsque vous prendrez un café sur votre balcon spacieux, vous pourrez apercevoir l’île de Kelyfos dans les eaux limpides de la mer. La décoration épurée s’agence parfaitement au style méditerranéen.",
+					"photo": {
+						"thumbnail":
+							"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABrAAADAQEBAQAAAAAAAAAAAAAABQYEBwIDEAACAgICAwEBAAAAAAAAAAAAAgEDBBEFIRITMTMUAQEBAQEAAAAAAAAAAAAAAAAEBQMCEQADAAICAgMBAAAAAAAAAAAAAQIDESExEhMyQWFi/9oADAMBAAIRAxEAPwDZj50RrZRYuWjxHZz1LtTClHgo8wuiIrqaWkV/CbltsuqZV4NqpAgq9laxJ91zm9ioUsVNrlE/JOnwx3KQZbfHuDUizNe5kRNc05fhvo1vgzjk9zTIDSK1A49Z35nEKJ9iw0r2X/CeqUXyOZTyyKukU34XN2ooHGqm1VLgbWqhymdhvmma9LMbFKUWRb5kTh8zc90Qz9FgvJKyLBQipp70DvHUob2Z1lVQrosm2/2GzUXUC1VmhupEXCpbSMIenopovjUAT39MgG9v8m3p/Tg1X0aVfAAHk7QzH0McT9YLCj6gAb4vo4ydMsaPwgX5H0AKcdE1/IxgAAhh/9k=",
+						"url":
+							"https://res.cloudinary.com/perfectstay/image/upload/v1476895112/property/15/accommodation/image_15_v11.jpg"
+					},
+					"accommodationID": 33,
+					"occupancies": [
+						{
+							"adults": 1,
+							"children": 0
+						},
+						{
+							"adults": 1,
+							"children": 1
+						},
+						{
+							"adults": 2,
+							"children": 0
+						},
+						{
+							"adults": 2,
+							"children": 1
+						},
+						{
+							"adults": 3,
+							"children": 0
+						}
+					]
+				},
+				{
+					"aera": 37,
+					"label": "junior suite pool front sea view",
+					"description":
+						"La Suite vue mer Pool Front est située devant la piscine de l'hôtel. En plus de sa situation exceptionnelle, cette chambre offre tous les services nécessaires vous permettant ainsi de vous offrir un séjour inoubliable.",
+					"photo": {
+						"thumbnail":
+							"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB1AAADAQEBAQAAAAAAAAAAAAAABQYDBAIHEAACAgECBAYDAAAAAAAAAAAAAQIDBBEhBQYiMhITMTNBURUjQgEBAAMBAQAAAAAAAAAAAAAAAwABAgQFEQACAQQCAgMAAAAAAAAAAAAAAQIDERIxIkEEMhNRYf/aAAwDAQACEQMRAD8ArsVOKTKPFs1juJseHSMY/rqbPPhdM6pWaHkJwfya+KJIUZdsptJjZStcfU6oNy0gJLHbGdl0I/Jx2TU46ibOsshFdR7qvTxt5GZbaLS0zdyj9gLNn/YGfil+G8ojCqlRRnZ5u8UtiRp5kTY5q41XJJtk4E5HfRiyrbkxooSdeqYuqzq7l3DTHtjKtoSlZeoc1fZL8WyfLg9WTUOLTl0a7DnmCC0k9SBWXCttAVMm2PTxSRarJ2XWBFflo/YB2qfbE4GFPch9V2oAF6B7H2AWWH7QAJ4/YdXoleY/amfJrO+QAVP2ZuOkcD9WAAQs/9k=",
+						"url":
+							"https://res.cloudinary.com/perfectstay/image/upload/v1476895113/property/15/accommodation/image_15_v12.jpg"
+					},
+					"accommodationID": 35,
+					"occupancies": [
+						{
+							"adults": 1,
+							"children": 0
+						},
+						{
+							"adults": 1,
+							"children": 1
+						},
+						{
+							"adults": 2,
+							"children": 0
+						},
+						{
+							"adults": 2,
+							"children": 1
+						},
+						{
+							"adults": 3,
+							"children": 0
+						}
+					]
+				},
+				{
+					"aera": 37,
+					"label": "Suite with Private Pool Junior Sea View",
+					"description":
+						"La Junior Suite avec piscine privée (37 m2) est parfaite pour un couple en quête de romantisme et de luxe. Cette suite spacieuse et lumineuse vous propose une ambiance épurée et apaisante. Vous pourrez profiter d’une piscine privée et intime sur votre balcon pour admirer les couchés de soleil dans le ciel de la Grèce.",
+					"photo": {
+						"thumbnail":
+							"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACYAMgMBIgACEQEDEQH/xAB2AAACAwEBAAAAAAAAAAAAAAAABAIDBQYBEAACAgIABQMFAAAAAAAAAAAAAQIDBBESEyExURQiMgVCUmFiAQADAQEBAAAAAAAAAAAAAAACAwQFAQARAAIBAwQBBQAAAAAAAAAAAAABAgMREgQUMVEhEzJBUnH/2gAMAwEAAhEDEQA/AO6xceK7MdlRJruL0V2RG27EJSjbgLyI3RlXBmQ25mtk2NxaZnQjpEWpS+CqgQlSnEVjQlYaf2lCS5iM+CXqR/SubeEg9PDwA97QNjCPRm5y7NSqxdBhzOUhncC7l0fqf7GLUQsgXRk/I7kxbcmJR+J7ZmxnB6YrXel8iTUNSviU0U1yPRjtEVXFS7l9XKmukjy2vXVGeo1YSTxKW1K6uHCvIFG5eAKNzW+orbw7OYalNL3FsKH+QACEvaMOnhjvZJR5lYAek2kdjyLLJsplpM08fPnJdUAHYtsbJIc9X/IAAQs//9k=",
+						"url":
+							"https://res.cloudinary.com/perfectstay/image/upload/v1478354422/property/15/accommodation/image_15_v14.jpg"
+					},
+					"accommodationID": 36,
+					"occupancies": [
+						{
+							"adults": 1,
+							"children": 0
+						},
+						{
+							"adults": 1,
+							"children": 1
+						},
+						{
+							"adults": 2,
+							"children": 0
+						},
+						{
+							"adults": 2,
+							"children": 1
+						},
+						{
+							"adults": 3,
+							"children": 0
+						}
+					]
+				}
+			],
+			"facilities": [
+				"Wi-Fi gratuit et illimité dans toutes les chambres",
+				"Télévision moderne avec satellite",
+				"Téléphone avec appels internationaux",
+				"Salle de bain avec douche ou baignoire",
+				"Balcon ou terrasse meublé(e)",
+				"Miroir pour maquillage",
+				"Sèche- cheveux",
+				"IPad, ordinateur portable, tablette ou Playstation disponibles sur demande (payant)",
+				"Une bouteille d’eau gratuite",
+				"Nécessaire à café et thé"
+			],
+			"headline": "Chambres",
+			"paragraphs": [
+				"Toutes les chambres du Miraggio sont conçues pour offrir un maximum de tranquillité et de luxe à leurs occupants. Les grandes fenêtres permettent une luminosité vivifiante et une vue incroyable sur la mer qui se perd dans le ciel bleu azur de la Grèce."
+			]
+		},
+		"facilities": [
+			"Spa Thermal ",
+			"Marina",
+			"Wi-Fi gratuit et illimité partout dans l’hôtel",
+			"Accessible aux personnes à mobilité réduite",
+			"Centre de divertissement pour enfants avec activités ",
+			"Service d'étage",
+			"Bagagerie",
+			"Service de blanchisserie, nettoyage à sec et repassage",
+			"Service de ménage quotidien",
+			"Salle de réunion / évènements / banquets",
+			"Fax / Photocopie",
+			"Service de navette (sur demande)"
+		]
+	},
+	"adultOnly": false,
+	"isChildAgeRequired": false,
+	"bookableExtras": {},
+	"category": 5,
+	"categoryType": "Star",
+	"country": "Grèce",
+	"boards": [
+		{
+			"name": "Petit déjeuner",
+			"paragraphs": [
+				"Profitez d'une bonne nuit de sommeil, suivie d'un petit-déjeuner préparé par nos chefs, le meilleur moyen  de commencer votre journée avec un large éventail de choix pour tous les goûts."
+			],
+			"code": "BB"
+		},
+		{
+			"name": "Demi pension",
+			"paragraphs": [
+				"Réveillez-vous dans un environnement délicieux et profitez de notre variété dédiée pour le petit-déjeuner et le dîner. Profitez d'un instant de pur plaisir aux couleurs de la cuisine locale et internationale, préparée en favorisant des produits locaux de qualité. Petit-déjeuner et Dîner."
+			],
+			"code": "HB"
+		},
+		{
+			"name": "Tout compris",
+			"paragraphs": [
+				"D'innombrables raisons de réserver le forfait tout compris - des installations de sports nautiques à nos restaurants ou simplement pour un pur moment de détente ... Cette option offre une tranquillité totale avec tous les repas et collations ainsi qu'un large choix de boissons douces et alcoolisées. Profitez de notre café, thé, glaces et une sélection d'articles dans votre mini-bar dans la chambre. Certaines boissons premium et choix alimentaires sont exclus de cette formule. Contactez-nous pour plus d'informations."
+			],
+			"code": "AI"
+		}
+	],
+	"destination": {
+		"label": "Thessalonique",
+		"photo": {
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABxAAACAwEBAAAAAAAAAAAAAAAABAIDBQEGEAACAgICAQMFAAAAAAAAAAAAAQIDBBEFIRUSMUETFCIzYQEAAwEBAQAAAAAAAAAAAAAAAQQFAwIAEQACAgEEAwEAAAAAAAAAAAAAAQIDEQQSEyExMlEz/9oADAMBAAIRAxEAPwC6fNWy9iC5a9/J2XGaXTIQwtdFF2N+GSePD7IPlb9+4eVtfWzlnHyjtiyojEHJNBVafaHfIXgs7IFqpKMuzSVasjtI5lbevB2q6l7Mo8jeBf8AbfwDPl1QdtH0zMbLy5z1LejYrg4z9TYnU/Wt1xHK6b5rsjxlqbe4JlRumKxJolPJhY3WK2YaactjFPHWKxzZqLG/HTGoVaiUU3bh/BZ3aeLaVZ5OOLOU+mb1FThBJjccSMXsucChU9sEpSyxC2SlJuMcIWAv+mBrviZZfwxeH/UeggAE7Tfkh+72LToAai7IfJFgAThnAADwD//Z",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/v1476979153/destination/resort/1043/image_1043_v3.jpg"
+		},
+		"video": {
+			"url": "https://www.youtube.com/embed/DlvwhmXD3y4"
+		},
+		"paragraphs": [
+			"Thessalonique, seconde plus grande ville du pays, est marquée par des influences multiples, juives orthodoxes et ottomanes, qui lui confèrent une ambiance cosmopolite unique. Ainsi, les vestiges de l’empire grec côtoient les églises byzantines et la gastronomie s’enrichit de recettes exceptionnellement variées. Entre modernité et sites antiques, la ville se découvre à pied et offre des expériences à chaque rue. De l’Agora à l’art de rue, il y en a pour tous les goûts à Thessalonique. Déposez-y vos valises?!"
+		]
+	},
+	"experiences": [
+		{
+			"label": "Des ruines dans la ville",
+			"photo": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACIAMgMBIgACEQEDEQH/xAByAAADAQEBAQAAAAAAAAAAAAAABQYEAwEHEAACAgIBAgQHAAAAAAAAAAAAAQIDBBEhBRITMlFSFBUiIzNicQEBAQEBAQAAAAAAAAAAAAAAAQADAgQRAAIBBAIDAAAAAAAAAAAAAAABAgMREjEhQRMyYf/aAAwDAQACEQMRAD8AU14WPJbUkZL+nUt7Yqxcq5ccjVSlZHzDm+wwTM6wq00kbo4VctchRFN6bGCpikn3E5kqfw424NXhiazGfKUeCrXhKPLOfw7uf24ATpxJD5d+oFuul3e0Cuw8cSUroi5dqibLsSVNezhC9RsTSKeNcczHS1zoykpI2i46I6myfc0Mq42zWt8m6PTeyb3E7qmNMk0Ski5Z2xMCckpWvSH9LqqSjXHbFMp3XRjGCaKLpmK4QTmuRcuAsGsj2gOvp9AOchsfEKvMi76al4aADevoxp7NtqXoifyPzL+gB44+x6V2U2HGPZHhD6HlADtgegAAJ//Z",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1477299630/destination/resort/1043/experience/1043/image_26_v2.jpg"
+			},
+			"paragraphs": [
+				"Comme partout en Grèce, l’histoire s’invite à Thessalonique et de nombreuses ruines se découvrent les yeux levés. Commencez par les vestiges du centre-ville, poursuivez avec la mythique Agora et terminez par l’arc et la Rotonde de Galère qui datent, quant à eux, de l’époque romaine."
+			]
+		},
+		{
+			"label": "Gastronomie Grecque",
+			"photo": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIADIAMgMBIgACEQEDEQH/xABxAAADAQEBAQEAAAAAAAAAAAAABAYFAwcCARAAAgICAwEAAQUAAAAAAAAAAAECAwQRBRIhMSITIzJBUQEAAwEBAAAAAAAAAAAAAAAAAgMEAQARAAIDAAEDBQAAAAAAAAAAAAECAAMREiExQRMUUVJh/9oADAMBAAIRAxEAPwD1GqWmOqaaMb9T8tIc79Km2/TR0iRGbJxa1sWhDUtk1dyMq7vZebO8+TcUpJi/VTTp7RgrZiMlBdSrYmTLEgp+jmLlu6rsS3KZ+RVc+p1jLgfNj6andimgSl6L/QPPHzeZv6AHr/ko9i/3WWqcvZIQt5Ccu0GaVT/CXhG8nZZXbJxWjbnwSBELdhsXvldZe37pMfc/2lt/DJozvGpxGaYTubf9EZX4jUDAg7mGVHGcjXpVjeXgRyfyS+kpRXOizaTLnAlK2lOSKaTyUq3iHcGqbQe4kq+B9YFe/rA7isT7m37TPofSzT+M4clxSyIucB117ex2ubUeshzKGBBgV2NWdByea24Trl06+jmPJ47jFor7uPrss7oUlw/e1NEzV2eI+ooX1m6T4xKI5Fqk4+FPGqNcNJHzi4kaIJDEkUIvFf2LvsDt07TPcfWA10AHjJ5nw+nYAGzp+o70/wAgADyJojgP4AB/M2cgADpk/9k=",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1476901444/destination/resort/1043/experience/1043/image_35_v2.jpg"
+			},
+			"paragraphs": [
+				"Après un apéritif à l’ouzo, passez à table ! Les saveurs méditerranéennes de cette cuisine simple, tout en étant raffinée, raviront vos papilles. Les légumes marinés à l’huile d’olive et au citron, délicatement grillés et accompagnés de poissons fins, charmeront les palais les plus exigeants."
+			]
+		},
+		{
+			"label": "Promenade sur le front de mer jusqu’à la Tour Blanche",
+			"photo": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABxAAADAQEAAwAAAAAAAAAAAAAABAUGAwECBxAAAQQBAwQDAQAAAAAAAAAAAAECAwQFESFBExQxURIVIjIBAAMBAQEAAAAAAAAAAAAAAAECAwQFABEAAwACAgIDAAAAAAAAAAAAAAECAxIRITFSMkFR/9oADAMBAAIRAxEAPwCzWx7XqWG4hEaRqmSYxyGlbloekhxJyPvZM6VzSa1JMuM04EJaJZkykbiDfy7Il2QE3kp8KRuEl2LSUF9E6Wi5OC5TykM7f0e89usV2yJ/E9rD+zLdo70BY7usA2+T1YNI9kTWXazOR1cvWRiIfOus5q7qOsmjcmimisKM85H+mwXLVtfInakinTVFMba+SO1ap2gvPaiNUZY0uGgO/KZooJmwqu4pdyTWckiS3vrqIzStlKKOxHQ/9q32BE6aAPoJsPTeTzF5AAPwFeRmX+RTkABIaOMpwZ5ACpNncAAID//Z",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1476901430/destination/resort/1043/experience/1043/image_24_v1.jpg"
+			},
+			"paragraphs": [
+				"Monument emblématique, la Tour Blanche abrite le musée d’histoire de la ville. Le haut de la bâtisse dévoile une vue panoramique sur Thessalonique qui invite à une promenade sur le front de mer. Plus loin dans le quartier, la curieuse sculpture des parapluies vous attend."
+			]
+		}
+	],
+	"expert": {
+		"name": "Rachel",
+		"introduction": "Expert voyage",
+		"loves": [
+			"La vue spectaculaire sur la mer Égée depuis la chambre de l’hôtel",
+			"La gamme de soins thérapeutiques proposés au centre thermal ",
+			"Le style épuré et le confort de la Junior Suite avec vue imprenable sur la mer",
+			"Visiter la Chalcidique : un lieu idyllique regroupant eaux turquoises, forêt de pin et villages pittoresques",
+			"Sortir pour partir à la découverte des nombreuses criques des alentours"
+		],
+		"photo": {
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAgICAgICAkKCgkMDQwNDBIQDw8QEhsTFRMVExspGR4ZGR4ZKSQsJCEkLCRBMy0tM0FLPzw/S1tRUVtybHKVlckBCAgICAgICQoKCQwNDA0MEhAPDxASGxMVExUTGykZHhkZHhkpJCwkISQsJEEzLS0zQUs/PD9LW1FRW3JscpWVyf/AABEIAEEAMgMBIgACEQEDEQH/xABzAAACAgMBAAAAAAAAAAAAAAAABwYIAgMFBBAAAgICAgEDBAIDAAAAAAAAAQIAAwQRBQYSEyEyFTEzcSJBNVFhAQADAQEBAAAAAAAAAAAAAAACAwQAAQURAAMBAQADAQEAAAAAAAAAAAABAhEDMUNxM2H/2gAMAwEAAhEDEQA/AH/CEHOlMxjzZObTjLt2AE8NHN4dz+KWgmQHsuTdkZYoRyBI29GTxrparkxVdZTwfPCqnR8qwYbEJHOvZz5eKpb7yRxierRNJy8YQhCdOBMLzqtv1MydTh8ny+Ji1uHsUHUzOryK/kcpfrDBz/c61vo2U7bWtSHZ5XO5Lzpbe2nvy1zq6Qp34yKsbPTjZnCd9YyFLMi/aT2LHqV1FXszjyjOR1ZRoyjk9kh7rLCEIRok4nO8knH4dlhOtCVf53sWVnZdmrT47j77xh35OC4QysmbhXY1reY/uEmvASTzSa9Z5Wiu0euZO+Y5zj3wyEcb1EMljIfYzeci1houYFcYp6OntUrCRVc7k42T5V2EDcfXTewHksdVdtsJWFFZyAPvG90CrMoyF2pCw8mVgqtrWWBhNQJ0IQQCO9kfxxWleex1bVnAj87U+sYxN89QPprPFe1FKecBTefvMvUM1n5GZe0pJztcPqzKQN/uWM62tSCvxAlZ+Pu9HIRv+ywHVsz1RUZP21VLKeOObX8G4D7CE0q/8R+oQ9J8Ij278EVXOf4hoQi1+o70r6JxvmYCEJQIN1XzX9x6dM/HVCER28L6UcPNfBzr8V/QhCEISf/Z",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/v1477598093/expert/image_3_v4.jpg"
+		},
+		"verbatim": "«Un lieu magnifique où thérapie et bien-être sont au centre des préoccupations»"
+	},
+	"gps": {
+		"lat": 39.9269833453,
+		"lon": 23.7081098557
+	},
+	"highlights": [
+		{
+			"label": "Hôtel prestige",
+			"picto": "PRESTIGE_HOTELS"
+		},
+		{
+			"label": "Vue mer",
+			"picto": "SEA_VIEW"
+		},
+		{
+			"label": "Spa",
+			"picto": "SPA"
+		}
+	],
+	"id": "15",
+	"name": "Miraggio Thermal Spa Resort",
+	"offers": [
+		{
+			"negos": [
+				"Surclassement en Junior Suite Vue mer",
+				"Demi-pension offerte sauf pour les séjours effectués du 01/07 au 22/09",
+				"Transferts offerts sauf pour les séjours effectués du 01/07 au 22/09 pour l'offre (Vol+hôtel)",
+				"Vol au départ de Paris, Province, Bruxelles et Genève",
+				"Vol en classe économique, classe affaires et Première en option avec supplément",
+				"L'accueil et l'assistance incluse à l'aéroport d'arrivée"
+			],
+			"pricing": {
+				"type": "FA",
+				"label": "VOL + HOTEL",
+				"minPrice": {
+					"dd": 1492732800000,
+					"ed": 1493164800000,
+					"p": 644,
+					"o": true,
+					"n": 5
+				},
+				"departureCities": [
+					{
+						"code": "PAR",
+						"label": "Paris",
+						"from": {
+							"dd": 1492732800000,
+							"ed": 1493164800000,
+							"p": 644,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"code": "BOD",
+						"label": "Bordeaux",
+						"from": {
+							"dd": 1492819200000,
+							"ed": 1493251200000,
+							"p": 761,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"code": "BRU",
+						"label": "Bruxelles",
+						"from": {
+							"dd": 1493510400000,
+							"ed": 1493942400000,
+							"p": 698,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"code": "GVA",
+						"label": "Genève",
+						"from": {
+							"dd": 1493424000000,
+							"ed": 1493856000000,
+							"p": 698,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"code": "LYS",
+						"label": "Lyon",
+						"from": {
+							"dd": 1493424000000,
+							"ed": 1493856000000,
+							"p": 726,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"code": "MRS",
+						"label": "Marseille",
+						"from": {
+							"dd": 1492560000000,
+							"ed": 1492992000000,
+							"p": 767,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"code": "NTE",
+						"label": "Nantes",
+						"from": {
+							"dd": 1492214400000,
+							"ed": 1492646400000,
+							"p": 764,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"code": "NCE",
+						"label": "Nice",
+						"from": {
+							"dd": 1493510400000,
+							"ed": 1493942400000,
+							"p": 729,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"code": "TLS",
+						"label": "Toulouse",
+						"from": {
+							"dd": 1494806400000,
+							"ed": 1495238400000,
+							"p": 813,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"code": "SFG",
+						"label": "Saint-Martin",
+						"from": {
+							"dd": 1492819200000,
+							"ed": 1493251200000,
+							"p": 761,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"code": "PTP",
+						"label": "Pointe-à-Pitre",
+						"from": {
+							"dd": 1492819200000,
+							"ed": 1493251200000,
+							"p": 761,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"code": "NOU",
+						"label": "Nouméa",
+						"from": {
+							"dd": 1492819200000,
+							"ed": 1493251200000,
+							"p": 761,
+							"o": true,
+							"n": 5
+						}
+					}
+				],
+				"availableDurations": [5, 7, 10, 12, 14],
+				"config":
+					"j1sj5b5aj5kgph1y1kenybjbtfx65dygaaibome7qz58hs4i16z7gortgfy8y9bhufj1nub7cpg4nichp757prrj5r5rwp59qxxd9cj1yehdep1xcb76n3npmgw44kucwbcmgmh474upk7egm48n1n1p4i3iqo59mxj6ugaotxah1gp3jg9nxhqy4owbgb4cddi58xjawxkddeaij15cty6k688yr6mrup76mtnmpthqk6n1xt1yk4pir5epttnrq77jh",
+				"contractType": "Hotel"
+			}
+		},
+		{
+			"negos": [
+				"Surclassement en Junior Suite Vue mer",
+				"Demi-pension offerte sauf pour les séjours effectués du 01/07 au 22/09",
+				"Transferts offerts sauf pour les séjours effectués du 01/07 au 22/09 pour l'offre (Vol+hôtel)"
+			],
+			"pricing": {
+				"type": "AO",
+				"label": "HOTEL SEUL",
+				"minPrice": {
+					"dd": 1508976000000,
+					"ed": 1509321600000,
+					"p": 409,
+					"pp": 658,
+					"o": true,
+					"n": 4
+				},
+				"maxDiscount": {
+					"dd": 1508976000000,
+					"ed": 1509321600000,
+					"p": 409,
+					"pp": 658,
+					"o": true,
+					"n": 4
+				},
+				"durations": [
+					{
+						"value": 4,
+						"minPrice": {
+							"dd": 1508976000000,
+							"ed": 1509321600000,
+							"p": 409,
+							"pp": 658,
+							"o": true,
+							"n": 4
+						},
+						"maxDiscount": {
+							"dd": 1508976000000,
+							"ed": 1509321600000,
+							"p": 409,
+							"pp": 658,
+							"o": true,
+							"n": 4
+						}
+					},
+					{
+						"value": 5,
+						"minPrice": {
+							"dd": 1492905600000,
+							"ed": 1493337600000,
+							"p": 511,
+							"pp": 800,
+							"o": true,
+							"n": 5
+						},
+						"maxDiscount": {
+							"dd": 1492905600000,
+							"ed": 1493337600000,
+							"p": 511,
+							"pp": 800,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"value": 7,
+						"minPrice": {
+							"dd": 1492387200000,
+							"ed": 1492992000000,
+							"p": 716,
+							"pp": 1084,
+							"o": true,
+							"n": 7
+						},
+						"maxDiscount": {
+							"dd": 1492387200000,
+							"ed": 1492992000000,
+							"p": 716,
+							"pp": 1084,
+							"o": true,
+							"n": 7
+						}
+					},
+					{
+						"value": 10,
+						"minPrice": {
+							"dd": 1508198400000,
+							"ed": 1509062400000,
+							"p": 1022,
+							"pp": 1510,
+							"o": true,
+							"n": 10
+						},
+						"maxDiscount": {
+							"dd": 1508198400000,
+							"ed": 1509062400000,
+							"p": 1022,
+							"pp": 1510,
+							"o": true,
+							"n": 10
+						}
+					},
+					{
+						"value": 12,
+						"minPrice": {
+							"dd": 1492300800000,
+							"ed": 1493337600000,
+							"p": 1227,
+							"pp": 1794,
+							"o": true,
+							"n": 12
+						},
+						"maxDiscount": {
+							"dd": 1492300800000,
+							"ed": 1493337600000,
+							"p": 1227,
+							"pp": 1794,
+							"o": true,
+							"n": 12
+						}
+					},
+					{
+						"value": 14,
+						"minPrice": {
+							"dd": 1492732800000,
+							"ed": 1493942400000,
+							"p": 1431,
+							"pp": 2078,
+							"o": true,
+							"n": 14
+						},
+						"maxDiscount": {
+							"dd": 1492732800000,
+							"ed": 1493942400000,
+							"p": 1431,
+							"pp": 2078,
+							"o": true,
+							"n": 14
+						}
+					}
+				],
+				"availableDurations": [4, 5, 7, 10, 12, 14],
+				"config":
+					"nw33bxtbzzy5riepkh1zejdjkrp5bxw5wbp3qkyswicz5dy1xj9u5an7bj4dytiyhpptp4z3pg4o66cx97jgfsoi4entk5gtbhheonffxwfsoqpuwqrnw87taso5p54x968hm3xdu8k8xkdrmdf5jqj6wm4qddmgi1pxofduowkrrnd1154qyj1gb4qg1gej8nbhtys9os6mg",
+				"contractType": "Hotel"
+			}
+		}
+	],
+	"photos": [
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABEAMgMBIgACEQEDEQH/xABvAAEAAwEAAAAAAAAAAAAAAAAABAYHBRAAAgICAAQHAQAAAAAAAAAAAAMBAgQFERIhMhQVMTRBUWGBAQEBAQEAAAAAAAAAAAAAAAAEBQMCEQACAgICAQUAAAAAAAAAAAAAAQIDBBEUMiExM0FCUf/aAAwDAQACEQMRAD8AmK2iDpp2SJMwrkzBKXn2r8j5Ub+xFWdr1rNcRnJk668tVa8eJkGPtrVmOpZ8TYVyKxSbBLaJx8pjaM6qbSa0zQ15anVmayRXPXByE8mMmbc5wcva1raeplCE5irb661tstXiVfYKF5t+g341gXn0fpn0ioA9kb4JK/Uses76gHE+rOK/diXRvtv4UvL75AMMfsyhndEQAAPIh//Z",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476815184/property/15/0001_Miraggio_Thermal_SLIDER_1.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABxAAADAQEAAwAAAAAAAAAAAAAABAUGAgEDBxAAAgICAQQDAQAAAAAAAAAAAAECAwQREgUxM0EUIVEVAQADAQEBAAAAAAAAAAAAAAACBAUDAAERAAICAgICAwEAAAAAAAAAAAABAgMSIQQRMVETIjJB/9oADAMBAAIRAxEAPwCGqrYXqOjSU40nBbQ5Xj1Su3pFqFMNFKmahlsSsi31ozFkFB8Widd0xOxWNGysxKpTTZ1Zj0yXE8ssze99PR0YNGW+Op0vS9EJYVk72vWz6D8SuNbSJscSNbkwLXGzHJBQTj2QVgP8AvbQE7Xoe2JQyJrI36NBXepJEDFtqyGUFKNb1sc46jNP7dk++ycOtD1k5N/Qo8iano9V2XGtEq7JnJcojHwJ/wBMFyZGijZuPcm35HBtNkmjNny+2Np15c9ewbq3FfVdmlVuT2zx8iP6A5/LAnYz9D+a9kTo3kLF3lABjgeGKc3whHN7I5j4QApLwThBd2Vul+YAAu/DNqP2jZrsgACSVD//2Q==",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462442/property/15/001_Miraggio_Thermal_SLIDER.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB2AAADAQEBAAAAAAAAAAAAAAAABAUGAgMQAAIBAwIEBgMAAAAAAAAAAAABAgMEEQUxEhQhMhMVFjNBUSIjUgEAAwEAAAAAAAAAAAAAAAAAAgMFAREAAgEEAgEEAwAAAAAAAAAAAAECAwQUIRExEhUiMjNBUWH/2gAMAwEAAhEDEQA/AH6dqhyNi38EOOoPiWGaGx1OmkuMtSupRXJEhYqT4OHYyXwLztWlsXnqtml1wIXGsafFPqhec12mO9NIU6eM5QnKpw7HV7rlnhqLRnnrdBSG07uEtsXOynDSLXiVPoCP6gofQDMqmBh1Tt1owZ7RvoRW5PxKp+WBOtBrJCV5Oo0i7hU6ab2aHm41VhMjXUXKfcxSlOaPX9k31DqTj4bfDBhSqeetxFatt03E3aZNXaWXM4iM1NErU5dpPyUm/cUFbt8aMVyMwNv5VX/kAcv+h4q/Qpa+2hK73YADafaZcfAShuNoAHX3aBtemX9G96Jt63bEAJMvyUI9o8AABY0//9k=",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462442/property/15/007_Miraggio_Thermal_SLIDER.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACYAMgMBIgACEQEDEQH/xABtAAACAwEBAQAAAAAAAAAAAAAABQIDBgQBBxAAAgICAgICAgMAAAAAAAAAAQIAAwQRBSESURMUIkEyUmEBAAMBAQAAAAAAAAAAAAAAAAABAgMEEQEAAwEAAwEAAAAAAAAAAAAAARESIQITUTH/2gAMAwEAAhEDEQA/ALsnJK3sDI05oBl7VLkqz+PZiZ6GVjqYw1ainOX3GFecnufP2e2ttbnfjtawPcYbR+TqQfyibL5csCEi7HxrL3Pc62w1rPcAVHNydnowjPwr9Qk9+GaGsUVFdd6maudw7dTWXHVpVv3KmxccfkRNvXGaY7m7Ya12B2yxtg2IyEfuNsnCx8keKgSmnhLKj5KZOK/Fat7iW/A5Jk77vkJIkcjFuGhqdNOMFUeUJ4I6WeTeoR59df6wkbg6dHIqFtUyZqFlO/8AIQnQyIvkaq1hH3H5TNoEQhFBn/1KsgDYkLOIq600ISZ6aY41PcIQk58fh3L/2Q==",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462441/property/15/023_Miraggio_Thermal_Slider.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABzAAADAQEBAQAAAAAAAAAAAAAAAwUEBgECEAACAgIBAwQDAQAAAAAAAAAAAQIDBBESBSEyExQicTEzQlEBAAIDAQAAAAAAAAAAAAAAAAIEAAEDBREAAgIBAwUBAAAAAAAAAAAAAAECEQMSFDETMkFRUiH/2gAMAwEAAhEDEQA/AHYuRXCzTL8Lq7NcWci6Z+o2kWunxfNbEdbuh7QqsuqGz64G3HhB/lnzk1JeLNfFmXmjMkkKsnFI9hBuzTY2ePBKTbGcWGMkm2IZs+SMmox4JvuKwEOiO2BvtoexTeZvk9hXVOv465GKxW0bcB/R+NlupPsV8xY1D3tM58oJqztRk02iJjdRvjv1NopV57t/oh5dsLtqC0T65X0S7FpRaoJp8nc19/k2Reo5ttUuMHtCaMm2zSk9I021VuDb7kctPDJ003+oke7n/oGKWuT+wB60/bJt8fyiv0n9hpzvJgAUuxAx7yRDzGyAAEbDqfyb5/rf0AAss5qXlL7YAABZ/9k=",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462444/property/15/032_Miraggio_Thermal_SLIDER.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABzAAADAQEBAQAAAAAAAAAAAAAABAUGAgMBEAADAAICAgMBAQAAAAAAAAAAAQIDBBExBRITIXEyQgEAAgIDAQAAAAAAAAAAAAAAAgMEBQABBgcRAAICAQIGAwAAAAAAAAAAAAACAQMRBDEFExQyM1ESNHH/2gAMAwEAAhEDEQA/ANvlmu0edZqmfsVfkF6vklZ/JoVzkH9PZ6LsbrQ7HklPbMbj3ZtlTDxl4XIcOrbSLatl3g1E+Vk953XkIuLTp9IdWvlhcpBAFb5ZAgPPabQGG8SYnNs8y0iY4dF34Ia6OLwTK54IGNoLGW+OWyTNfA/ZPkv6Uucq+yLVuH9DWvtOKTLGnSOyxJSani9Fbyk5yb3HnvHxxI9j2Xkik5MzreTnhJorR5HCoY1qGU3Xq6rYzEiFt+9frASvej2r9YA8mRnUr7Jsn3L/AAAFbPdBZv42/CJm7OI7ADotN4oPPeIfZYq65S/wAGPuT9J2wSq7f6AAASz/2Q==",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462444/property/15/033_Miraggio_Thermal_SLIDER.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIADIAMgMBIgACEQEDEQH/xABxAAADAQEBAQEAAAAAAAAAAAAABAYFAwcCARAAAgICAwACAgMAAAAAAAAAAAECAwQRBRIhIjETIzJBUQEAAwEBAAAAAAAAAAAAAAAAAgMEAQARAAMAAgEDBQAAAAAAAAAAAAABAgMRMRITIRRBUVJh/9oADAMBAAIRAxEAPwD1GqWmOqaaMb8ny0hzv0qbb9NTEoZsnFrWxaENS2TV3Iyru9l5s7z5NxSkmL7sbe3wMWKm1ooLqVbEyZYkFP0cxct3VdiW5TPyKrn1OyVOletj8OK7pxtIpei/1AeePm8zb9ADv/hR6G/vJapy9khC3kZy7QZpVP4S8I3k7LK7ZOK0bmvSIIh1wti98rrL2/dbH3P9S2/oyaM7xqcfRmmE7m3/AERufgbCpNPfDKjjORr0qxvLwI5PyS+yUornj2bSe9lzgSlbSnJFOF9Uua9g8yrFW0+USr4H1gWD1tgd0yJ9Tl+xnUS6Waf0zhyXErIi5wHXXt7Ha5tR6yHVKpNMDHkrG9p6PNbcJ1y6dfRzHk8dxi0WF3H12Wd0Jy4fvamTVjyJeB+Jw73VeD4xKI5Fqk4+FPGqNcNJHzi4kaIJaGJRKInpn9F58iuvHBnuL2wGugA9JOZ8Ps7AA00/Ud6f5AAHujkOMH9AAfyacgADjD//2Q==",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462446/property/15/034_Miraggio_Thermal_MEDIUM.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABxAAACAwEBAAAAAAAAAAAAAAAABQMEBgcBEAACAQQBBAIDAAAAAAAAAAAAAQIDBAUREgYhMTIUFSJRUgEBAQEBAQAAAAAAAAAAAAAAAwIBBQQRAAICAgIBBQAAAAAAAAAAAAABAhEDBBIhURMxYYGC/9oADAMBAAIRAxEAPwDYQy8y3DKyOcTy9Pn2LlHLRlrudB5df4ONHFupvpnRI5ORMsjJmIhkael+RaeSgo7TDeTXFUNs1/2LPJ5GST0YhZTnPWy2r+GvYlzw3VCrHs1dj15avvwAi+dT/aAznj8F+nn8nJYRlUlpDi2x9d6bbSF9jOKntj13soxemeCMb7Oo3Qzp49cE3Mm+E5JcZGaeanTTTLNt1KorWiZRlyiUnGnbVjeWOnFOSmZm8vqttUcOZZvOoJTi1Dtsytec60nJvuypKqJi7voafb1v6AScJAZ9m/kZW3sNH6sAKgRIT3PhlOh5YAPL3CiSVD1eAADKNAAAARD/2Q==",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462444/property/15/041_Miraggio_Thermal.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAgICAgJCAkKCgkNDgwODRMREBARExwUFhQWFBwrGx8bGx8bKyYuJSMlLiZENS8vNUROQj5CTl9VVV93cXecnNEBCAgICAkICQoKCQ0ODA4NExEQEBETHBQWFBYUHCsbHxsbHxsrJi4lIyUuJkQ1Ly81RE5CPkJOX1VVX3dxd5yc0f/AABEIACEAMgMBIgACEQEDEQH/xABjAAADAQEBAAAAAAAAAAAAAAAAAwQCAQcQAQEBAAMBAQEAAAAAAAAAAAABAgMRIRMEEgEAAwEBAAAAAAAAAAAAAAAAAAECAwQRAAMBAQADAQAAAAAAAAAAAAABAgMSESFRQf/aAAwDAQACEQMRAD8A9fpVtI1+jwn612znRw3tJXeytXRc5qLydn4pEdy/0XrVJ1qt6srHjWaJ9sx3Q74F9IPDKrln+Uc59u3m2y50G3mV2E6Ta59l3m2FFmbeY69u+pby7cvNpaixp5/Sn0JfroK4sOs/pQ0AokXpgAIyYFUBaEAAUM//2Q==",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462451/property/15/058_Miraggio_Thermal.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAgICAgJCAkKCgkNDgwODRMSEBASEx0VFhUWFR0sHCAcHCAcLCcvJiQmLydGNzExN0ZRREBEUWJYWGJ8dnyiotkBCAgICAkICQoKCQ0ODA4NExIQEBITHRUWFRYVHSwcIBwcIBwsJy8mJCYvJ0Y3MTE3RlFEQERRYlhYYnx2fKKi2f/AABEIACEAMgMBIgACEQEDEQH/xAB0AAACAgMBAAAAAAAAAAAAAAAABgIEAwUHARAAAgIBAgYABwAAAAAAAAAAAAECAwQFMRESEyIyUgYUFSEzQlEBAQADAQAAAAAAAAAAAAAAAAIBAwQAEQADAAEEAwEBAAAAAAAAAAAAAQIRAxIxMhMhUUFx/9oADAMBAAIRAxEAPwDuQFGWdTHeSNTma5CrxA7mV7ZZMVTwkMjaIO2C3Ynx1x3LcxW5k5LzD5ZfAnpUuRzWRV7IjLLpj+yEqM7eHHnK91tj2mJUDYPPz9HugOb9W33AnL+HbV9PM3Ocl2zKPW5o90hCs1iTaSkWo6lN17mBaje50bE0kkhklnV02NcxhydYkkuRiNkZk527ko5T24hfBD1cju/iGxVxiRWvxiu6Qi25UvsV7bXJbkqqTnFFWc59D99bo9wOadSf9A1eWinaZZ+SNnR4ABjvoXLsULvyEY+QAJdF/CH2ZK7dEXsABXCF+lcAAtAf/9k=",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462453/property/15/059_Miraggio_Thermal.jpg"
+		}
+	],
+	"multimedia": [
+		{
+			"url": "https://www.youtube.com/embed/SfRueFs-HDk",
+			"type": "video"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABEAMgMBIgACEQEDEQH/xABvAAEAAwEAAAAAAAAAAAAAAAAABAYHBRAAAgICAAQHAQAAAAAAAAAAAAMBAgQFERIhMhQVMTRBUWGBAQEBAQEAAAAAAAAAAAAAAAAEBQMCEQACAgICAQUAAAAAAAAAAAAAAQIDBBEUMiExM0FCUf/aAAwDAQACEQMRAD8AmK2iDpp2SJMwrkzBKXn2r8j5Ub+xFWdr1rNcRnJk668tVa8eJkGPtrVmOpZ8TYVyKxSbBLaJx8pjaM6qbSa0zQ15anVmayRXPXByE8mMmbc5wcva1raeplCE5irb661tstXiVfYKF5t+g341gXn0fpn0ioA9kb4JK/Uses76gHE+rOK/diXRvtv4UvL75AMMfsyhndEQAAPIh//Z",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476815184/property/15/0001_Miraggio_Thermal_SLIDER_1.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABxAAADAQEAAwAAAAAAAAAAAAAABAUGAgEDBxAAAgICAQQDAQAAAAAAAAAAAAECAwQREgUxM0EUIVEVAQADAQEBAAAAAAAAAAAAAAACBAUDAAERAAICAgICAwEAAAAAAAAAAAABAgMSIQQRMVETIjJB/9oADAMBAAIRAxEAPwCGqrYXqOjSU40nBbQ5Xj1Su3pFqFMNFKmahlsSsi31ozFkFB8Widd0xOxWNGysxKpTTZ1Zj0yXE8ssze99PR0YNGW+Op0vS9EJYVk72vWz6D8SuNbSJscSNbkwLXGzHJBQTj2QVgP8AvbQE7Xoe2JQyJrI36NBXepJEDFtqyGUFKNb1sc46jNP7dk++ycOtD1k5N/Qo8iano9V2XGtEq7JnJcojHwJ/wBMFyZGijZuPcm35HBtNkmjNny+2Np15c9ewbq3FfVdmlVuT2zx8iP6A5/LAnYz9D+a9kTo3kLF3lABjgeGKc3whHN7I5j4QApLwThBd2Vul+YAAu/DNqP2jZrsgACSVD//2Q==",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462442/property/15/001_Miraggio_Thermal_SLIDER.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAcHBwcHBwgICAgLCwoLCxAODQ0OEBgREhESERgkFhoWFhoWJCAmHx0fJiA5LScnLTlCNzQ3Qk9HR09kX2SDg7ABBwcHBwcHCAgICAsLCgsLEA4NDQ4QGBESERIRGCQWGhYWGhYkICYfHR8mIDktJyctOUI3NDdCT0dHT2RfZIODsP/AABEIACEAMgMBIgACEQEDEQH/xABzAAADAQEBAQAAAAAAAAAAAAAABQYEAwcBEAACAgICAQIHAAAAAAAAAAAAAQIDBBEhMQUUUgYVIjIzQVMBAQADAQAAAAAAAAAAAAAAAAMEBQYCEQACAgIBBAMBAAAAAAAAAAABAgAEAxEFEyExURQVMoH/2gAMAwEAAhEDEQA/AI2unRpjSxnRiN9oZQwoa5NSlvCR5mEyUbYOisQRpZqhRytjR4lamntGuOPS9fUgnvgbAEfFxLsVLmZacXa4Rs9E2uhrjLFrWpSRuWRgx7kgTcUiTk41lOpK/LH7QKr12B7kAXzBF+tMioXRS4Prulrgx0wlPpDKvEtl0h1rVFHcykbk+RdtqCf5OCUpLmRwcLVLiTKCnxF9muBzj/D0nzJAZDx+MHvsyXgyc3YYaUqJL04l9kOGzhfhXVpuU2j0vH8ZTStMxeR8XTbFlW9nHshV0Jp61SwFByuS08u1H+gFO/BY+3yAHUX3J3SPqK8DpFPjfoALDNMjT8iVWF0N49MAKrJ5mqrfkRbb+Qz5f2MADMmiTr7YABxOp//Z",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462442/property/15/003_Miraggio_Thermal.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAYGBgYGBgcICAcKCgkKCg4NDAwNDhUPEA8QDxUgFBgUFBgUIB0jHBocIx0zKCQkKDM7Mi8yO0hAQEhaVlp2dp8BBgYGBgYGBwgIBwoKCQoKDg0MDA0OFQ8QDxAPFSAUGBQUGBQgHSMcGhwjHTMoJCQoMzsyLzI7SEBASFpWWnZ2n//AABEIACEAMgMBIgACEQEDEQH/xAB6AAADAQEBAQAAAAAAAAAAAAAAAwUEBgIBEAACAgIABQQDAAAAAAAAAAAAAQIDBBEFEhMhMQYVMlEUNXEBAAMBAQEAAAAAAAAAAAAAAAQFBgADAhEAAQQCAQIEBwAAAAAAAAAAAgABAwQFESEUQhIzUVQGFSIxMkFS/9oADAMBAAIRAxEAPwDgp1SfgFVLa7HyrMkmueDRQlfUtMdyHVktRSNLxtSkIXoaU8ZQc64dJ6R4lBaGTy6kIjKVk9pMLt5KEBYQNn2gKGMsyk5HGTa51r7pK3KWhk4aRosqnFbUHsoYXD7smO3EFr5CERcCl+p+5HWcZaImMIH8Ddqg9/oDqvZLAN1Ie5W6Sf2iXfXhTXbRJnVTOzW+x4zeniWOvb2Y4XpS2SjSb3yrZ2Zv0qqwsZ6ZcxYYdVe9LaIFE5W+ChXy6aYZBSOwPiF9pZPlIKhsJC7Jt3E8VS0oIpYXGKFDXLo5qzHrdmzfi41Mn5Oz42UW2/C8R5ytIWh5V/3OAE78av7A59DN6on5nX9FyXqH9jP+k1AAs/pHOr/C/DNr+bACjwvluo34k7EmY/D+TABxP+KQUPNZUQAAVNl//9k=",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462442/property/15/004_Miraggio_Thermal.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB2AAADAQEBAAAAAAAAAAAAAAAABAUGAgMQAAIBAwIEBgMAAAAAAAAAAAABAgMEEQUxEhQhMhMVFjNBUSIjUgEAAwEAAAAAAAAAAAAAAAAAAgMFAREAAgEEAgEEAwAAAAAAAAAAAAECAwQUIRExEhUiMjNBUWH/2gAMAwEAAhEDEQA/AH6dqhyNi38EOOoPiWGaGx1OmkuMtSupRXJEhYqT4OHYyXwLztWlsXnqtml1wIXGsafFPqhec12mO9NIU6eM5QnKpw7HV7rlnhqLRnnrdBSG07uEtsXOynDSLXiVPoCP6gofQDMqmBh1Tt1owZ7RvoRW5PxKp+WBOtBrJCV5Oo0i7hU6ab2aHm41VhMjXUXKfcxSlOaPX9k31DqTj4bfDBhSqeetxFatt03E3aZNXaWXM4iM1NErU5dpPyUm/cUFbt8aMVyMwNv5VX/kAcv+h4q/Qpa+2hK73YADafaZcfAShuNoAHX3aBtemX9G96Jt63bEAJMvyUI9o8AABY0//9k=",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462442/property/15/007_Miraggio_Thermal_SLIDER.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462441/property/15/012_Miraggio_Thermal_SLIDER.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462442/property/15/015_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462442/property/15/016_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462440/property/15/017_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462440/property/15/018_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462440/property/15/020_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462440/property/15/021_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462441/property/15/022_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462441/property/15/023_Miraggio_Thermal_Slider.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462442/property/15/024_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462442/property/15/025_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462443/property/15/026_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462443/property/15/027_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462443/property/15/029_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462443/property/15/031_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462444/property/15/032_Miraggio_Thermal_SLIDER.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462444/property/15/033_Miraggio_Thermal_SLIDER.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462446/property/15/034_Miraggio_Thermal_MEDIUM.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462444/property/15/036_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462444/property/15/038_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462444/property/15/041_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462445/property/15/043_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462445/property/15/044_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462446/property/15/047_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462445/property/15/048_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462446/property/15/049_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462446/property/15/050_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462446/property/15/052_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462447/property/15/054_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462446/property/15/054_Miraggio_Thermal_1.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462447/property/15/055_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462451/property/15/056_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462449/property/15/057_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462451/property/15/058_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462453/property/15/059_Miraggio_Thermal.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476462451/property/15/060_Miraggio_Thermal.jpg"
+		}
+	],
+	"region": "Grèce",
+	"resort": "Thessalonique",
+	"restaurant": {
+		"headline": "Restaurants & Grill",
+		"facilities": [
+			"Kritamo est ouvert de ",
+			"Portofino est ouvert uniquement pour le dîner de 19h à 23H réservation obligatoire",
+			"Toroneo est également ouvert uniquement pour le dîner de 20h à 23h ",
+			"Profitez d’un snack au Oasis Pool Bar ouvert de 9h à 19h ou d’un plat brasserie au Oasis Pool Restaurant de 12h à 19h ",
+			"L’Oasis Beach bar vous attend avec sa sélection de cocktails de 18h à 21h",
+			"Le Mirage Bar, et Churchill Lounge proposant une collection de cigares, sont ouverts de 9h à 1h",
+			"De 19h à 23h découvrez la carte des vins du Sommelier’s 8",
+			"De 11h à 19h profitez de l’ambiance zen du Myrthia Health Bar"
+		],
+		"intro": [
+			"Retrouvez le goût sublime de la gastronomie méditerranéenne à l’heure des repas grâce aux bons services du personnel dévoué du Miraggio. Vous pourrez satisfaire tous vos désirs culinaires dans cet environnement cosmopolite. Passez du buffet au restaurant italien avant de vous arrêter dans un bar branché pour un cocktail spécial."
+		],
+		"restaurants": [
+			{
+				"name": "Restaurant Le Kritamo",
+				"paragraphs": [
+					"Le Kritamo est le restaurant principal du Miraggio. Ce buffet haut de gamme propose des plats colorés, préparés selon les traditions avec des ingrédients frais et locaux. Pour un menu équilibré, présentez-vous au «coin santé» où des chefs proposent des plats avec des fruits et légumes biologiques"
+				],
+				"photo": {
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB4AAACAgMBAAAAAAAAAAAAAAAABgQHAgMFARAAAgICAQMEAgMAAAAAAAAAAAECAwQRBRIhMgYVMVETMzRBUgEAAgMBAAAAAAAAAAAAAAAAAgMABAUBEQACAQIGAQUAAAAAAAAAAAAAAQIDEQQSExQhMVIyQVFhcf/aAAwDAQACEQMRAD8ArNUSS8WZKicviLLfu4ni+h60b8Lg8B1OWkH9KzI3ZXaaKlo4bIva1FjNV6XnTUrbF2HmONRTFqMV2ZOznH29C/ZhX5Vvkj+m+OohFNQWx5jXpCn6cmugcFZD7GU28iFVUs7POgDPrj9gHdi8qKWvm6ZdMrCbRyDqqaUxbzHO5733ObKy+LUe+impunI0KkFVjZjdPkXr5PMjlfyUKvqF+29KlL+zRiON09bC1JW/RelHjvgduKzZVw7SOsuVs35iFaraItxloi42Xk2TaTbH0sTppRcU0IrYXVk5KbTLK92s/wBgI+836YFrdUvAp7PEeZqkQrPIAMqZtRIt5jxn8kAI/SgV2zvZviyBxP7mAEh2dl0OK+EAAWhB/9k=",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/v1476777623/property/15/restaurant/image_15_v8.jpg"
+				}
+			},
+			{
+				"name": "Restaurant Portofino",
+				"paragraphs": [
+					"Son nom vous fera deviner qu’il s’agit d’un restaurant italien. Le Portofino offre des mets dignes de la gastronomie réputée des Italiens avec des saveurs fortes, raffinées, mais surtout authentiques. Accompagnez le tout de l’un des nombreux vins spécialement sélectionnés."
+				],
+				"photo": {
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAByAAACAgMBAAAAAAAAAAAAAAAABAUGAQIDBxAAAgIBAwQCAwEAAAAAAAAAAQIAAwQFETISEyExFHEiM0FhAQEBAQEBAAAAAAAAAAAAAAAEBQYCAxEAAgICAQUBAAAAAAAAAAAAAAECAxESBBMhMTJBIv/aAAwDAQACEQMRAD8AsleOKhvNLbfBG05V6pRxYzS/NxlAMz8ao2TTSZWdjgsMjL6nub8VjOJpLg9TxmnKraxekCSfyQHAlSqrAWy3Lx4OXw1URPLwV7bGWKsVONy03yUx/jv5HqJ6Skgrs1aPJHBDMP8ATCSNip3H9cjCF6EBfVkGbj9ollMjTczjYmStrd5PMQbHABk3i8pJasbbTt3HcO0Jsxf1HDls5JU+pUnL1Nyklil22CmV6uRF/nACzjvOzZYKcvJtPSpMxk35aoQSZK6LjAElxH9Tw6zUxWMr7weQVyxNY8HmTXWdR8/2EafFbrb7MITVi9kOL6mbOMITM1exZfggcrlJPTOawhLXG9ogrvRl9073HM39bfUISzX8JVv0or82+zCEJ5nZ/9k=",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/v1476777622/property/15/restaurant/image_15_v9.jpg"
+				}
+			},
+			{
+				"name": "Restaurant Toroneo",
+				"paragraphs": [
+					"Le menu de ce restaurant chaleureux vous propose de nombreuses spécialités de fruits de mer et poissons. Venez goûter aux délices frais de la mer, préparés de façon traditionnelle pour des saveurs exquises et dépaysantes."
+				],
+				"photo": {
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACMAMgMBIgACEQEDEQH/xAByAAACAwEBAQAAAAAAAAAAAAAABQIEBgcDARAAAwABBAICAwEAAAAAAAAAAAECAwQFERIUIRNRFUFSMQEAAwEBAQAAAAAAAAAAAAAAAgMEAAEFEQACAQMEAwEAAAAAAAAAAAAAAQIDEVESEyExIjNhQf/aAAwDAQACEQMRAD8A6+tZD/Z98qPs5hi3nJ8nRscTuk8LmxUYuXUhrlBfhs61M/ZXvPJka3aE+OxC92lL0w9t5Oa4YNReaStWVGfW49kmRvW1yl9hKn9Bc44HvyoBL81gFt/Tm4sHOHraVcnp52ShJWpxtJnvi1WLkXbm0OjqcbeYx8zI3y2M8GrlwnQqiFc8omocyUxo1Hy7WFTq0lwkx7+RxykuCxOtd8PqY56mYyJMbYt1wS5T4NphflgOcrcI0nm3/IFBbrpeP0BrQybW8HJ+1cf6WdI28kgBPDsofZssXqZJZ/WNgB6C9ZE/YZbM33ZWqq7L2AEMypFhZL/pgACgj//Z",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/v1476777623/property/15/restaurant/image_15_v10.jpg"
+				}
+			}
+		]
+	},
+	"transportPartnership": {
+		"label": ""
+	},
+	"tripadvisor": {
+		"awardURL": "",
+		"num_reviews": 218,
+		"rating": 4.5,
+		"ratingURL": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-18065-5.png"
+	},
+	"usefulInformations": {
+		"goodtoKnow": [
+			"Si vous voyagez seul(e), un supplément tarifaire en chambre individuelle vous sera demandé, ce supplément sera calculé directement dans votre devis.",
+			"Les tarifs enfant seront appliqués pour les enfants de 2 à 12 ans au cas ou l’enfant partage la chambre avec deux adultes. Dans le cas où l’enfant voyage seul avec un adulte son tarif pourra être appliqué sur une base adulte. Si votre (vos) enfant(s) ou bébé(s) ne rentrent pas dans les tranches d'âges ci-dessus, le tarif appliqué vous sera communiqué au moment du traitement de votre commande. Lorsque la chambre dispose d’un lit superposé, le couchage en hauteur ne convient pas aux moins de 6 ans.",
+			"Pour des raisons de sécurité, les installations de bien-être de la plupart des établissements ne sont pas accessibles aux moins de 16 ans. De même, il est possible que certains aménagements ou services soient payants en supplément ou indisponibles pour des raisons exceptionnelles. ",
+			"Les horaires des restaurants et des bars sont donnés à titre indicatif, et sous réserve de modification. Contactez la réception pour connaître tout changement. Notez que l’abus d’alcool est dangereux pour la santé, à consommer avec modération.",
+			"Vous devrez être majeur et accompagné d’une pièce d’identité pour entrer dans les casinos, de plus une tenue correcte est exigée. Nous vous rappelons que jouer peut comporter des risques d’isolement, d’endettement, de dépendance… Composez le 09 74 75 13 13 (non surtaxé).",
+			"L’hôtel n’est pas accessible aux personnes à mobilité réduite."
+		],
+		"transport": [
+			"Pour un séjour incluant le vol, vous aurez la possibilité de choisir la compagnie aérienne, régulière ou low cost, ainsi que vos horaires de vol. Selon vos envies, vous pourrez opter pour un siège en classe Affaires ou en Première Classe.",
+			"Consultez la rubrique « afficher les infos de vol » pour connaître chaque détail du voyage.",
+			"Afin d’organiser au mieux votre passage à l’aéroport, nous vous conseillons de vous présenter 2h avant l’embarquement pour un vol moyen-courrier, ou 3h avant si votre vol dure plus de 5h. Profitez de votre avance pour effectuer les contrôles de sécurité et enregistrer vos bagages. ",
+			"Vous serez informés si vos bagages sont inclus ou non au moment de votre réservation. Assurez-vous de respecter la politique bagages des compagnies low cost et régulières. Vous aurez l’opportunité d’ajouter des bagages additionnels sous réserve de payer un supplément. Attention, certains repas et autres prestations à bord peuvent être payants.",
+			"Plusieurs villes de départ vous sont proposées : Paris, ville de  Province, Bruxelles, Luxembourg, Bâle, Genève & Zurich.  Votre destination d’arrivée sera affichée dans vos documents de transport.",
+			"En fonction des horaires de vol, certaines arrivées ou retours peuvent s'effectuer de nuit avec une arrivée matinale ou un départ tardif, les clients ne pourront pas toujours disposer de leur chambre immédiatement et devront se référer au conditions du check-in et check-out de l’hôtel. ",
+			"Dans le cas ou le transfert n’est pas inclus dans votre réservation d’hôtel, il vous sera proposé en supplément au moment de votre réservation.",
+			"Important : Les billets d’avion ne sont ni échangeables ni remboursables sauf si vous avez souscrit une assurance, dans ce cas veuillez vous référer aux conditions générales de vente.",
+			"Merci de bien vouloir prendre connaissance de l’emission de CO2 emise par le moyen de transport selectionné : http://eco-calculateur.aviation-civile.gouv.fr/"
+		],
+		"travelDocuments": [
+			"Une fois votre réservation effectuée, vous recevrez un e-mail de confirmation qui précédera l’envoi de vos documents de voyage. ",
+			"Les documents de transport (dans le cadre d’une réservation avec transport) vous seront transmis sous forme de billet électronique ou de convocation à imprimer, vous permettant ainsi de partir sereinement. L’heure et le lieu de départ ainsi que les informations sur l’enregistrement et les bagages vous seront communiqués dans les documents de transport. ",
+			"Pour profiter de toutes vos prestations réservées, (hôtels, transferts, activités...), vous recevrez un ou plusieurs bons d’échange à présenter obligatoirement à chaque fournisseurs.",
+			"Les coordonnées de l’établissement seront précisées sur ces documents, afin de faciliter au mieux votre arrivée à destination."
+		],
+		"formalities": {
+			"country": "Grèce",
+			"intro":
+				"<p>Les précisions suivantes valent pour tout ressortissant français qui, au cours d'un voyage vendu par PerfectStay se rend dans un pays étranger.\nVeuillez-vous référer aux informations ci-dessous quant aux formalités de voyages relatifs à chaque destination (documents d'identification, vaccins, VISA, conseils aux voyageurs).\nPour plus ample information, se reporter aux sites suivants :\n<a href=\"http://www.diplomatie.gouv.fr/fr/\">www.diplomatie.gouv.fr</a>\n<a href=\"https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html\">Ariane</a></p>\n\n<p>En cas de problème sur place, veuillez prendre contact avec l'ambassade ou le consulat suivant :</p>\n\n<p>Consulat général de France à Thessalonique\n27 rue Evzonon\n54640 Thessalonique\nTel : +30 2310 244 030\nTel (secondaire) : +30 2310 244 031\nFax : +30 2 310 244 032\nCourriel : contact.thessalonique-fslt@diplomatie.gouv.fr\nSite Web : <a href=\"http://www.ambafrance-gr.org/-Consulat-Thessalonique-\">Consulat général de France à Thessalonique</a></p>\n\n<p>Ambassade de France en Grèce\n7, avenue Vassilissis Sofias\nAthènes\nTel : +30 2 103 391 000\nCourriel : info@ambafrance-gr.org\nSite Web : <a href=\"http://www.ambafrance-gr.org/\">Ambassade de France en Grèce</a></p>\n",
+			"identity":
+				"<p>Une carte nationale d'identité ou un passeport en cours de validité suffisent pour se rendre en Grèce.</p>\n",
+			"vaccine":
+				"<p>Aucune vaccination n’est obligatoire. Pour autant, un déplacement en Grèce peut être l’occasion de mettre à jour les vaccinations usuelles, en particulier la vaccination diphtérie-tétanos-poliomyélite +/- coqueluche.\nEnfin, selon les lieux fréquentés et la durée du séjour, la vaccination préventive contre l’encéphalite à tique d’Europe centrale pourra être conseillée, en particulier pour les séjours en zone forestière.</p>\n",
+			"visa": "<p>Aucun visa requis.</p>\n"
+		},
+		"formalitiesOut": {
+			"country": "France",
+			"intro":
+				"<p>Les précisions suivantes valent pour tout ressortissant français qui, au cours d'un voyage vendu par PerfectStay se rend dans un pays étranger.\nVeuillez-vous référer aux informations ci-dessous quant aux formalités de voyages relatifs à chaque destination (documents d'identification, vaccins, VISA, conseils aux voyageurs).\nPour plus ample information, se reporter aux sites suivants :\n<a href=\"http://www.diplomatie.gouv.fr/fr/\">www.diplomatie.gouv.fr</a>\n<a href=\"https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html\">Ariane</a></p>\n\n<p>En cas de problème sur place, veuillez prendre contact avec l'ambassade ou le consulat suivant :</p>\n\n<p>Consulat général de France à Thessalonique\n27 rue Evzonon\n54640 Thessalonique\nTel : +30 2310 244 030\nTel (secondaire) : +30 2310 244 031\nFax : +30 2 310 244 032\nCourriel : contact.thessalonique-fslt@diplomatie.gouv.fr\nSite Web : <a href=\"http://www.ambafrance-gr.org/-Consulat-Thessalonique-\">Consulat général de France à Thessalonique</a></p>\n\n<p>Ambassade de France en Grèce\n7, avenue Vassilissis Sofias\nAthènes\nTel : +30 2 103 391 000\nCourriel : info@ambafrance-gr.org\nSite Web : <a href=\"http://www.ambafrance-gr.org/\">Ambassade de France en Grèce</a></p>\n",
+			"identity":
+				"<p>Une carte nationale d'identité ou un passeport en cours de validité suffisent pour se rendre en Grèce.</p>\n",
+			"vaccine":
+				"<p>Aucune vaccination n’est obligatoire. Pour autant, un déplacement en Grèce peut être l’occasion de mettre à jour les vaccinations usuelles, en particulier la vaccination diphtérie-tétanos-poliomyélite +/- coqueluche.\nEnfin, selon les lieux fréquentés et la durée du séjour, la vaccination préventive contre l’encéphalite à tique d’Europe centrale pourra être conseillée, en particulier pour les séjours en zone forestière.</p>\n",
+			"visa": "<p>Aucun visa requis.</p>\n"
+		}
+	},
+	"included": {
+		"AO": [
+			"Hébergement sélectionné",
+			"Formule demi-pension",
+			"Durée de séjour sélectionnée",
+			"Frais de dossier",
+			"Taxe de séjour"
+		],
+		"FA": [
+			"Prestations de l’offre HOTEL SEUL indiquées ci-dessus",
+			"Vols spéciaux ou réguliers aller-retour France, Bruxelles, Genève/Thessalonique",
+			"Accueil et l’assistance à l’aéroport d’arrivée",
+			"Transferts aller-retour aéroport/hôtel",
+			"Taxes aéroport obligatoires"
+		]
+	},
+	"notIncluded": {
+		"AO": [
+			"Assurances personnelles facultatives",
+			"Dépenses de nature personnelle",
+			"Excursions réservées auprès de nos représentants locaux ",
+			"Le port des bagages à l’hôtel",
+			"Repas et boissons non mentionnés"
+		],
+		"FA": [
+			"Vols, les transferts, l’accueil à l’aéroport, l’assistance et les taxes aéroportuaires si vous avez réservé l’offre HOTEL SEUL",
+			"Et tout ce qui n’est pas mentionné dans \"Le prix inclut\""
+		]
+	},
+	"startAt": 1476230400000,
+	"endAt": 1546214400000,
+	"includeOfferWithFlight": true,
+	"fromPriceType": {
+		"mealBasis": "petit déjeuner",
+		"type": "FROM_PRICE_TYPE_SAVE_UP_TO",
+		"value": "37",
+		"price": "409",
+		"numberOfNights": 4
+	},
+	"uri": "miraggio-thermal-spa-resort",
+	"marketingDestination": "Grèce",
+	"strapLine": "Havre de paix en terre des dieux",
+	"propertyType": "Midhaul",
+	"contractType": "Hotel",
+	"rank": 10
+}

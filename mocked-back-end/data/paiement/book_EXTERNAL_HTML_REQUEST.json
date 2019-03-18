@@ -1,0 +1,9 @@
+{
+	"status": "EXTERNAL_HTML_REQUEST",
+	"htmlPayload":
+		"var el = document.createElement(\"script\");el.setAttribute('src', 'https://paiement.cb4x.fr/fp/tags.js?org_id=9pmkcy8r\u0026amp;pageid=1\u0026amp;session_id=1046737-3d0192e0-3e23-4ad6-a079-51dc3e6b3e9b-1');document.body.appendChild(el);",
+	"callbackDelay": 5000,
+	"callback_url":
+		"http://localhost:9000/paymentCallback?code=ffae8ba9-7da4-4ef5-81a9-1847c4aaf56e\u0026id=5ef32d7e-1bad-4324-ad11-e536ef6feb1d\u0026format=json",
+	"paymentType": "casino"
+}

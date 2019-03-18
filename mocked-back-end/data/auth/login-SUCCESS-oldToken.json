@@ -1,0 +1,10 @@
+{
+    "uuid": "c2b7deeb-a33a-4134-9764-cd03359faee7",
+    "email": "thierry.lau@perfectstay.com",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRoaWVycnkubGF1QHBlcmZlY3RzdGF5LmNvbSIsInBhcnRuZXIiOnsiY29kZSI6IlBTRlIifSwidXVpZCI6IjRjZjdlZWNjLWI4ZTEtNGZiNS1hNmNmLTcwZWYyMWRhYTdlNyIsImNyZWF0ZWRBdCI6IjIwMTYtMTItMjdUMTM6MjY6MzMuNTc2WiIsImlhdCI6MTUwNzI5Nzg0MH0.JTOv1_ZcJLIxpUJESC5NJc9oPmng8ZVOIPMu85IMIxQ",
+    "partner": {
+        "shop": "fr-FR",
+        "strategy": "signupFirst",
+        "code": "PSFR"
+    }
+}

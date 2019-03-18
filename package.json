@@ -7,6 +7,7 @@
     "build": "rm -rf dist && webpack --config webpack.config.dev.js && webpack --config webpack.config.server.dev.js",
     "build:prod": "rm -rf dist && webpack --config webpack.config.server.prod.js && webpack --config webpack.config.prod.js",
     "start": "node --icu-data-dir=node_modules/full-icu ./dist/server",
+    "server": "babel-node ./mocked-back-end/server",
     "format": "prettier"
   },
   "keywords": [
@@ -20,6 +21,7 @@
   "license": "ISC",
   "dependencies": {
     "@loadable/component": "^5.7.0",
+    "axios": "^0.18.0",
     "express": "^4.16.4",
     "full-icu": "^1.2.1",
     "history": "^4.7.2",

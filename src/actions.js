@@ -4,11 +4,10 @@ export const FETCH_PRODUCTS = "FETCH_PRODUCTS";
 
 export const getProducts = () => {
 	return dispatch => {
-		fetchProducts().then(products => {
-			// Yay! Can invoke sync or async actions with `dispatch`
+		return fetchProducts().then(res => {
 			dispatch({
 				type: FETCH_PRODUCTS,
-				products: products.default,
+				products: res.data.products,
 			});
 		});
 	};

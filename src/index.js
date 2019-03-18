@@ -10,8 +10,8 @@ import {Provider} from "react-redux";
 import App from "./App";
 import {addLocaleData, IntlProvider} from 'react-intl';
 
-const store = createStore(reducers, applyMiddleware(thunk));
 const initialState = window.__INITIAL_STATE__;
+const store = createStore(reducers, initialState, applyMiddleware(thunk));
 const shop = initialState.shop;
 const lang = shop.slice(0, 2);
 

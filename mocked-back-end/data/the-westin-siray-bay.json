@@ -1,0 +1,744 @@
+{
+	"address": {},
+	"accommodation": {
+		"intro": {
+			"headline": "Votre Hôtel",
+			"intro": [
+				"Comme écrirait Baudelaire, « Là, tout n’est qu’ordre et beauté, Luxe, calme et volupté. » Le somptueux hôtel 5 étoiles Westin Siray Bay est niché sur la paisible île de Siray, à quelques minutes de Phuket City. Attenant à la plage, ce palace finement décoré offre de luxueuses chambres avec vue sur la mer. Vous aurez le choix entre trois piscines pour profiter du climat idéal de ce paradis de l’est de l’île, loin des hordes de touristes. Le personnel charmant et disponible, les logements spacieux au grand confort et les équipements haut de gamme font partie des nombreux atouts de l’hôtel."
+			]
+		},
+		"type": {
+			"accommodationTypes": [
+				{
+					"aera": 50,
+					"label": "Deluxe sea view",
+					"description": "Incluse dans votre offre, la chambre Deluxe Sea View vous dévoile le meilleur du Westin Siray Bay, seul ou en couple, au sein d’une décoration chaleureuse et contemporaine. Aucune envie de quitter ce confort ? Observez l’immensité de la mer depuis les fenêtres ou le balcon, et appelez le service d’étage.",
+					"photo": {
+						"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIAB8AMgMBIgACEQEDEQH/xABvAAACAwEBAQAAAAAAAAAAAAADBQAEBgECBxAAAgIBAgUFAQAAAAAAAAAAAQIAAxEEEgUhIjFRBhMUFSRBAQEBAQEAAAAAAAAAAAAAAAADAgQBEQEAAgICAwEAAAAAAAAAAAABAAIREgNRFCFBMv/aAAwDAQACEQMRAD8A+hVVi3mpzLIo294g9K/K9r9MecQvCHpaHausQs2hgiD+zhVPMzj6/b3aUxxRjcqgxbcLWhZZk8um+v3M2ApzPFibBCaG5XrBJhtQUK94JSvrLNW9vhFu6SdynkSRtOLuRty9RPo9eHXo5ShqH1N+owDkRbwtmmhpxW28yP2GYtjRQgfq7WXLCB+oYOGAmxotW2sHE6wHiKV9ArMjx12bamZkf21MFTOI6xa1A3nniWmC57QVhypE41Fyx6qAETndk9UkIdOcnnJIwdRMvc//2Q==",
+						"url": "https://res.cloudinary.com/perfectstay/image/upload/v1476464864/property/5/accommodation/image_5_v2.jpg"
+					},
+					"accommodationID": 5,
+					"occupancies": [
+						{
+							"adults": 1,
+							"children": 0
+						},
+						{
+							"adults": 1,
+							"children": 1
+						},
+						{
+							"adults": 1,
+							"children": 2
+						},
+						{
+							"adults": 2,
+							"children": 0
+						},
+						{
+							"adults": 2,
+							"children": 1
+						}
+					]
+				},
+				{
+					"aera": 50,
+					"label": "Superior sea view pool access",
+					"description": "Une décoration épurée, des tons sobres, un panorama sur la mer depuis toutes les fenêtres et le balcon, cette chambre bénéficie d’un confort extrême. Le plus pour la sérénité : l’accès à une piscine partagée avec la chambre voisine, avec séparation en verre trempé.",
+					"photo": {
+						"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABwAMgMBIgACEQEDEQH/xABuAAADAQADAAAAAAAAAAAAAAAABAUGAQIDEAACAgIBAwMFAAAAAAAAAAABAgADBBETEiExBTJRFCIjQVMBAQEBAQEAAAAAAAAAAAAAAAMEAAIBEQACAwEAAwEAAAAAAAAAAAABAgADERITITFR/9oADAMBAAIRAxEAPwDa5W6X0IubLAPEXzs3VnUYo3qoI0BEqRTumHe7JmCUDe2u4nrS3N4kds8uhAWdsTNtrPsnFy8Zk1DF9la08Z0YlZmFDoCMsXv+4rFnrYN7J4CqgEiP7JwGH1lnxCH5P5wm8ifk64aS8hxkMO8o1YNAp2RM/iMWI3NGjHjliYNwSS1Sfpk+p6Vu6JoKqqWAIAmFynZMvsf3NdgWM1SkmAH7ZhnyJ4+QplXSpOAybk6+xwfMEY6g2GPWsp9dfxCS+RoSWU5P/9k=",
+						"url": "https://res.cloudinary.com/perfectstay/image/upload/v1476464863/property/5/accommodation/image_5_v9.jpg"
+					},
+					"accommodationID": 8,
+					"occupancies": [
+						{
+							"adults": 1,
+							"children": 0
+						},
+						{
+							"adults": 1,
+							"children": 1
+						},
+						{
+							"adults": 1,
+							"children": 2
+						},
+						{
+							"adults": 2,
+							"children": 0
+						},
+						{
+							"adults": 2,
+							"children": 1
+						}
+					]
+				},
+				{
+					"aera": 60,
+					"label": "Discovery suite",
+					"description": "Avec la suite Discovery, vous bénéficiez d’un salon séparé doté d’un canapé-lit. Téléviseur, chaînes par satellite, grand balcon privé avec vue sur mer, et lit king size, tous les équipements des autres chambres sont présents. Il ne vous reste plus qu’à vous détendre et à savourer, tout simplement.",
+					"photo": {
+						"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABwAMgMBIgACEQEDEQH/xABsAAACAwEBAAAAAAAAAAAAAAAEBQADBwIGEAACAgIBBAEFAAAAAAAAAAABAgADBBEFEhMUMUEhIlFSYQEAAwEBAAAAAAAAAAAAAAAAAQIDBAURAAICAwEBAAAAAAAAAAAAAAABAhEEEiFRA//aAAwDAQACEQMRAD8AeV8gjxpjuLh9s8zQ9JqGtb1HfEMNtAlyys3TGvbMhTUJUjq9xNlZBF5UH6RqohtswpmRfZgz5FS/MpZqWA28sCYuxsykaB0q8uuSFawf5JHuHoal4ZzgNaqknZjnEzbKg0P4zEoNK7WdZ2PVWp6VnM+uQ4wqKOnDFTncmDNytvw0FOeWYl2gZABMEsUFoI5TpKhJ4sU20xlTbZddpWMdPhZjKCNxbxyKLE0JpOKqmpdgeprx5uafOGL7pQaM+8PN/Bkmj9qv9RJNFLwjsz//2Q==",
+						"url": "https://res.cloudinary.com/perfectstay/image/upload/v1476464863/property/5/accommodation/image_5_v8.jpg"
+					},
+					"accommodationID": 9,
+					"occupancies": [
+						{
+							"adults": 1,
+							"children": 0
+						},
+						{
+							"adults": 1,
+							"children": 1
+						},
+						{
+							"adults": 1,
+							"children": 2
+						},
+						{
+							"adults": 2,
+							"children": 0
+						},
+						{
+							"adults": 2,
+							"children": 1
+						}
+					]
+				}
+			],
+			"facilities": [
+				"Télévision LCD 37’’, lecteur de DVD, satellite",
+				"Journal",
+				"Balcon ",
+				"Vue océan",
+				"Climatisation",
+				"Baignoire/douche",
+				"Coffre-fort",
+				"Lit bébé sur demande",
+				"Sèche-cheveux",
+				"Minibar",
+				"Machine à café",
+				"Bouteilles d’eau",
+				"Wi-Fi payant dans les chambres",
+				"Room service 24h/24",
+				"Autres chambres : suites et villas de 62 à 160 m²."
+			],
+			"headline": "Chambres",
+			"paragraphs": [
+				"Avec pour maîtres mots le calme et la sérénité, l’hôtel vous accueille dans des chambres Deluxe Sea View (comprises dans l’offre), de 50 à 60m². Celles-ci sont lumineuses, avec une vue sur la mer, et cosy, avec une literie exclusive Heavenly Bed signée Westin. Familles et couples y trouveront également tout le confort moderne."
+			]
+		},
+		"facilities": [
+			"Check-in : 15 h, check-out : 12 h",
+			"Wi-Fi gratuit dans les parties communes",
+			"Conciergerie 24h/24",
+			"Blanchisserie, repassage, nettoyage à sec",
+			"Bagagerie",
+			"Excursions",
+			"Change",
+			"Réception 24h/24",
+			"Location de voitures",
+			"Boutique de cadeaux",
+			"Équipements pour personnes handicapées",
+			"Service d’étage"
+		]
+	},
+	"activity": {
+		"facilities": [
+			"3 piscines (dont une enfants)",
+			"Plage privée",
+			"Activités : yoga, voile, volley, marche nordique, planche à voile, kayak, football, Pilates, plongée avec masque",
+			"Activités familiales organisées ",
+			"Spa/hammam",
+			"Salon de coiffure/beauté",
+			"Salle de sport 24h/24 : vélos semi-allongés, steppers, tapis de course, haltères, boxe",
+			"Prêt de chaussures et vêtements de sport",
+			"Kids Club : enfants de 4 à 12 ans"
+		],
+		"intro": [
+			"Et si le luxe, c’était le calme? et le bien-être? Sur la plage privée du Westin Siray Bay et au Heavenly Spa, vous en serez convaincu."
+		],
+		"label": "Activités / Lifestyle",
+		"description": "Après avoir délassé vos muscles dans l’une des trois piscines, laissez les enfants profiter d’activités sur mesure au Kids Club. Fermez les yeux et succombez au plaisir des formules spa, soins visage et corps, et massages du Westin Spa. Séances de sport au club de remise en forme, repas spécial sommeil Sleep Well et jus de fruits frais signés Westin promettent à votre corps et à votre esprit une cure de jouvence."
+	},
+	"bookableExtras": {},
+	"category": 5,
+	"country": "Thaïlande",
+	"destination": {
+		"label": "Phuket",
+		"photo": {
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB1AAACAwEBAQAAAAAAAAAAAAAABAUGBwEDAhAAAgICAgEDBQEAAAAAAAAAAAECAwQFERIxEyIyBhUWQlFSAQADAQEBAAAAAAAAAAAAAAABAgQDAAURAAIBBAEEAwAAAAAAAAAAAAABAgMREjEhBBNBURQyYf/aAAwDAQACEQMRAD8At2NbC9KUJEzj3tNLsYjg73Jw48csmqPqXJk2yudbuK7JadNU9GxWZKS47Cc70ly2UDVbjJy8nrNvgsmyyPQxnJ/wEMcbhm2pHcza0UKT7rkzTb7ezMskufaJbDKssnJ9nwRUX3kSVaspcGkY2OeowPboBjb8HsT34/OSGadFZWiwYkMqzymS1VN3DUonowhTx0yCU6sXtMgtPg215PKiWDfUzeH4JDAqVdnPA9sK1dS1wLikuNGirNq7XJg+XVa211YjGu2p89Wapdq65N+0Qs1Nb/UklipWszl1L8ozrvb/AAC9/Z6/8gHj0P8AJXou2D4Hn4YAXLRPI+sf5DV/wYADwKtEJMUmAEsvsBngAAEzP//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/v1476979108/destination/resort/478/image_478_v2.jpg"
+		},
+		"paragraphs": [
+			"La Thaïlande regorge d’expériences magiques à vivre. Des villes cosmopolites aux forêts exotiques préservées, en passant par des plages à la beauté presque irréelle, la diversité incomparable du pays plaît autant aux amateurs de sensations fortes qu’aux voyageurs guidés par le goût du luxe. Sur l’île de Phuket, les visiteurs se délectent à la fois de la nature et d’une vie nocturne enflammée."
+		]
+	},
+	"experiences": [
+		{
+			"label": "La baie des Phang Nga et les grottes en canoë",
+			"photo": {
+				"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACIAMgMBIgACEQEDEQH/xAB2AAACAgMBAAAAAAAAAAAAAAAABQQGAQIDBxAAAgIBBAEDBQAAAAAAAAAAAAIBAwQFERIhEzFBUgYUMjNxAQEAAwEBAAAAAAAAAAAAAAACAQMGBAURAAIBAwMEAwAAAAAAAAAAAAABAgMSIRMycRExM1FBQnL/2gAMAwEAAhEDEQA/ALHRp1dcdyZtqxpnjDRuJZ17H4tHMrdurNF/NW63Hqy9gsiW+7THntYIcYF1bb7E/SfqGixIW2YN87XMWt+thqqFwFtyeNJaz2E86vUm9cHbU9UTKrlaym2rxmd/UDq5wJQwWr7yn5QBS+T/ACAWu/RGkOW0y1FmeQumt4mY3HE5jSsxMi/fnZ0c6cbmujE4yST6okYmLd+UTJjJ8nLvcf4SyidqRMyqZlp4lTq07tyLlSnb2yKqbOJDzWlvY6rYtb9mMm2p16H2mkotp/JUm3F5WBPycDr0Bdagagy9jrhd3r/QAFXxz4JjvjyX2lV4L1BplKvhbqPQAMovIv0e/wDR8HnmV+1iCwAa2GyPBnJbpcmgABYE/9k=",
+				"url": "https://res.cloudinary.com/perfectstay/image/upload/v1476900768/destination/resort/478/experience/478/image_14_v2.jpg"
+			},
+			"paragraphs": [
+				"Les cratères marins de la baie de Phang Nga composent un tableau presque fantastique. Cette expérience d’inspiration cinématographique permet de partir à la conquête de grottes et de visiter l’île de James Bond, sur fond de ciel bleu et de sable blanc."
+			]
+		},
+		{
+			"label": "Les îles Koh Phi Phi",
+			"photo": {
+				"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB5AAADAQEBAAAAAAAAAAAAAAAABQYEBwMQAAICAQIEBAcAAAAAAAAAAAECAAMEBREGEhMhFDNBUhUjMTJCUXEBAAIDAQAAAAAAAAAAAAAAAAQFAQMGAhEAAQQABgIDAQAAAAAAAAAAAQACAwQFERIhMVETMyI0QUL/2gAMAwEAAhEDEQA/ANiZF6Vkv6RQeJOlaRHGr5FK4jCsjecutFjOTtDpbDf5yQzGdq3PEz2OBHKZi2oG5pzOip2cRwXupAHNK2X2ROyO66fWc9uoHhdFxwtq7GJtV0obFgJ56LnhiEdpX2Cq2sDcGGiwwkOaefxDhjtw4cLk5wW3PaE6McGn9CEt87elHjPanzgr0/mWbiY20/Ec9iJmbMsygEUx/pei2WANYTEE8TYjs5FR+WTgLBVpNO4ImfPwASNpeeBSpdgJhtxkYHcRNPcEMmZbsE3hqF8RGrcqMwsNUsB59pXUoqKD1Ilysbpkskw+OavsxjyjYrWWtLH/AC6Si1Xs1ydQzb2q3nHvhI74ivvhGmQ7QGpyw6X56zrGD5Q/kIRPd9gTqp617v8AQxTd6whM1iKcVkjyPykhn/cYQlmB+9Rin1yk8IQmyWSX/9k=",
+				"url": "https://res.cloudinary.com/perfectstay/image/upload/v1476464845/destination/resort/478/experience/478/image_12_v1.jpg"
+			},
+			"paragraphs": [
+				"Après avoir vogué sur les eaux cristallines, vous arrivez aux îles Phi Phi pour vous imprégner de la magie des fonds marins lors d’une session de plongée. Les vagues vous portent ensuite vers la célèbre grotte des nids d’hirondelles."
+			]
+		},
+		{
+			"label": "Trek à dos d'éléphant",
+			"photo": {
+				"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABtAAADAQEBAAAAAAAAAAAAAAAABAUDBgcQAAMAAgIABwEAAAAAAAAAAAABAgMEERIFExQhMTIzUgEAAwEBAQAAAAAAAAAAAAAAAQIDAAQFEQADAAICAgMAAAAAAAAAAAAAAQIDESExBBMyQUL/2gAMAwEAAhEDEQA/APOoTSKOqkmmLYbhzwbY8eSrXHweXVPn6FO38P8AEMuviHr8bq8dSyBrvpCmw2cU9eYoM5vIqG1XCMse1sk7my6yULq2lzyZZ76N8k2tv34ApqkDRb9Tf9Ac/wCpoA+lgNX1x/Uo6mx1a7EScvaihFLhMbJO1ph6Oqy1313cP4RGnbyVFJsMGy1DjkQeLN5lOV7AwpRNSVnlcC+e8tNk3I2irVOG1SFqxLLRaK12iQh5gD/okA3sxm4E8RTX5oAFydozNcX3Rew/AAc9dlvH7ZB3/wBGL4AAr+BMnyYwAATJn//Z",
+				"url": "https://res.cloudinary.com/perfectstay/image/upload/v1476464852/destination/resort/478/experience/478/image_13_v1.jpg"
+			},
+			"paragraphs": [
+				"Expérience incontournable et remplie d’émotions, la promenade à dos d’éléphant vous plonge au cœur de paysages sensationnels. Les majestueuses bêtes traversent tranquillement l’île lors de ce trek d’une heure en pleine nature."
+			]
+		}
+	],
+	"expert": {
+		"name": "Stéphane",
+		"introduction": "Expert voyage",
+		"loves": [
+			"Admirer le coucher de soleil dans la baie de Siray depuis la piscine à débordement.",
+			"Passer des nuits radieuses grâce au lit spécial Westin Heavenly Bed, dans une chambre spacieuse.",
+			"Faire son sport matinal face à la mer au centre de remise en forme.",
+			"Partir en excursion sur l’île de Koh Phi Phi.",
+			"Savourer l’environnement calme et reposant de cet hôtel, tout au long du séjour."
+		],
+		"photo": {
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAcHBwcIBwgJCQgMDAsMDBEQDg4QERoSFBIUEhonGB0YGB0YJyMqIiAiKiM+MSsrMT5IPDk8SFdOTldtaG2Pj8ABBwcHBwgHCAkJCAwMCwwMERAODhARGhIUEhQSGicYHRgYHRgnIyoiICIqIz4xKysxPkg8OTxIV05OV21obY+PwP/AABEIAEEAMgMBIgACEQEDEQH/xABvAAADAAMAAwAAAAAAAAAAAAAABQYDBAcBAggQAAICAgICAQUBAAAAAAAAAAABAgMEEQUxBhIhExUyM0FRAQADAQEBAAAAAAAAAAAAAAAAAQQCBQMRAAMAAwEBAQAAAAAAAAAAAAABAgMREgQxE//aAAwDAQACEQMRAD8A+kQbSWwMGfOX0Z6/i+AAk+d8rx+O3He5E9x/n1d1qjOOkSnK4s786yVz+NmB8djwinHSZJk9PN88l+Lx9x10d9wc2vJqjOD2mbJB+IWWKr0ky8Kpe0mRVPNNAAAMyBr5abqkl/hsBJJoBr6cc5rFm5SfXyI6afdpOZb+WwjXBuJz7AVk8iOpf0gyw+zq4ck/n8Oq+OUOtFoJOFpUMaG+9DsshNSjm5aVW2gAANnmE7IxNC3NhHpiTNz5OxxizTjY5dsY9CnySt5UWyMwKZY950PIp+rFoS/bvS1NojzRarqS7z3Dnmix4jLbpj7FFC5SJPFh6QWhnTbqSWyqE+Vsjya6eh4BgVi0AzBzFZTlc9sY1W7IqzJkm5pjHj+TU3psZosYzPMoqehfC5NGxXawa2G2hhGfqkjPX8tMUu9J62MKLFpDEN1J6A9F0gARxSf4Mw8d+8AA2W9P4oYVdAAhM07P2DfH6iAGhD1dIAAQj//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/v1477598079/expert/image_4_v3.jpg"
+		},
+		"verbatim": "«A l’écart de l’effervescence de Phuket, sur une île, cet hôtel promet calme et sérénité. »"
+	},
+	"gps": {
+		"lat": 0,
+		"lon": 0
+	},
+	"highlights": [
+		{
+			"label": "Idéal pour les familles",
+			"picto": "BEST_FOR_FAMILY"
+		},
+		{
+			"label": "Vue mer",
+			"picto": "SEA_VIEW"
+		},
+		{
+			"label": "Spa",
+			"picto": "SPA"
+		}
+	],
+	"id": "5",
+	"name": "The Westin Siray Bay",
+	"offers": [
+		{
+			"negos": [
+				"Surclassement en chambre Deluxe Sea View",
+				"En formule petit-déjeuner",
+				"20% de réduction sur les diners au restaurant de l'hotel avec le kids menu offert pour les enfants de -12 ans ",
+				"20% de réduction au SPA (Gommage, Body massage, soins du visage, enveloppement)",
+				"Les transferts aéroport/hôtel/aéroport",
+				"L'accueil et l'assistance à l'aéroport d'arrivée",
+				"Vol aller-retour au départ de Paris, Province, Bruxelles et Genève",
+				"En classe économique, affaires et première (selon la selection)"
+			],
+			"pricing": {
+				"type": "FA",
+				"label": "VOL + HOTEL",
+				"minPrice": {
+					"dd": 1479254400000,
+					"ed": 1479859200000,
+					"p": 877,
+					"o": true,
+					"n": 7
+				},
+				"departureCities": [
+					{
+						"code": "PAR",
+						"label": "Paris",
+						"from": {
+							"dd": 1479254400000,
+							"ed": 1479859200000,
+							"p": 877,
+							"o": true,
+							"n": 7
+						}
+					},
+					{
+						"code": "BOD",
+						"label": "Bordeaux",
+						"from": {
+							"dd": 1480291200000,
+							"ed": 1480982400000,
+							"p": 1074,
+							"o": true,
+							"n": 7
+						}
+					},
+					{
+						"code": "BRU",
+						"label": "Bruxelles",
+						"from": {
+							"dd": 1481068800000,
+							"ed": 1481760000000,
+							"p": 951,
+							"o": true,
+							"n": 7
+						}
+					},
+					{
+						"code": "GVA",
+						"label": "Genève",
+						"from": {
+							"dd": 1481068800000,
+							"ed": 1481673600000,
+							"p": 1050,
+							"o": true,
+							"n": 7
+						}
+					},
+					{
+						"code": "LYS",
+						"label": "Lyon",
+						"from": {
+							"dd": 1490227200000,
+							"ed": 1490832000000,
+							"p": 1054,
+							"o": true,
+							"n": 7
+						}
+					},
+					{
+						"code": "MRS",
+						"label": "Marseille",
+						"from": {
+							"dd": 1479081600000,
+							"ed": 1479772800000,
+							"p": 1068,
+							"o": true,
+							"n": 7
+						}
+					},
+					{
+						"code": "NTE",
+						"label": "Nantes",
+						"from": {
+							"dd": 1480377600000,
+							"ed": 1480982400000,
+							"p": 1117,
+							"o": true,
+							"n": 7
+						}
+					},
+					{
+						"code": "NCE",
+						"label": "Nice",
+						"from": {
+							"dd": 1480809600000,
+							"ed": 1481414400000,
+							"p": 991,
+							"o": true,
+							"n": 7
+						}
+					},
+					{
+						"code": "TLS",
+						"label": "Toulouse",
+						"from": {
+							"dd": 1479772800000,
+							"ed": 1480377600000,
+							"p": 1080,
+							"o": true,
+							"n": 7
+						}
+					}
+				],
+				"availableDurations": [
+					7,
+					10,
+					12,
+					14
+				],
+				"config": "ss6entrfx9spkdh1r6nmnwaq67edmj4xjebfp5xf8j1n7ppy3gq87rbhaiywkjnjkhfh1ytwwi37ue7tjrwb1mz19j1b4jneuac8ioh8dh8e768yt1au5k9s46fkhbkyfjo6f873grz6yymrcdicxbmd5jn8198t438i5bhxyssh16eekfgirn8eb417w48mrd4safsq38en6sestcxy8ap18zutj6y3akxpnwictshbrc73dbhgzhyb58czdg5ro9e5e",
+				"contractType": "Hotel"
+			}
+		},
+		{
+			"negos": [
+				"Surclassement en chambre Deluxe Sea View",
+				"En formule petit-déjeuner",
+				"20% de réduction sur les diners au restaurant de l'hotel avec le kids menu offert pour les enfants de -12 ans ",
+				"20% de réduction au SPA (Gommage, Body massage, soins du visage, enveloppement)"
+			],
+			"pricing": {
+				"type": "AO",
+				"label": "HOTEL SEUL",
+				"minPrice": {
+					"dd": 1490400000000,
+					"ed": 1490832000000,
+					"p": 228,
+					"pp": 925,
+					"o": true,
+					"n": 5
+				},
+				"maxDiscount": {
+					"dd": 1490400000000,
+					"ed": 1490832000000,
+					"p": 228,
+					"pp": 925,
+					"o": true,
+					"n": 5
+				},
+				"durations": [
+					{
+						"value": 5,
+						"minPrice": {
+							"dd": 1490400000000,
+							"ed": 1490832000000,
+							"p": 228,
+							"pp": 925,
+							"o": true,
+							"n": 5
+						},
+						"maxDiscount": {
+							"dd": 1490400000000,
+							"ed": 1490832000000,
+							"p": 228,
+							"pp": 925,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"value": 7,
+						"minPrice": {
+							"dd": 1490313600000,
+							"ed": 1490918400000,
+							"p": 319,
+							"pp": 1295,
+							"o": true,
+							"n": 7
+						},
+						"maxDiscount": {
+							"dd": 1490313600000,
+							"ed": 1490918400000,
+							"p": 319,
+							"pp": 1295,
+							"o": true,
+							"n": 7
+						}
+					},
+					{
+						"value": 10,
+						"minPrice": {
+							"dd": 1484179200000,
+							"ed": 1485043200000,
+							"p": 456,
+							"pp": 1850,
+							"o": true,
+							"n": 10
+						},
+						"maxDiscount": {
+							"dd": 1484179200000,
+							"ed": 1485043200000,
+							"p": 456,
+							"pp": 1850,
+							"o": true,
+							"n": 10
+						}
+					},
+					{
+						"value": 12,
+						"minPrice": {
+							"dd": 1489708800000,
+							"ed": 1490745600000,
+							"p": 547,
+							"pp": 2220,
+							"o": true,
+							"n": 12
+						},
+						"maxDiscount": {
+							"dd": 1489708800000,
+							"ed": 1490745600000,
+							"p": 547,
+							"pp": 2220,
+							"o": true,
+							"n": 12
+						}
+					},
+					{
+						"value": 14,
+						"minPrice": {
+							"dd": 1484870400000,
+							"ed": 1486080000000,
+							"p": 638,
+							"pp": 2590,
+							"o": true,
+							"n": 14
+						},
+						"maxDiscount": {
+							"dd": 1484870400000,
+							"ed": 1486080000000,
+							"p": 638,
+							"pp": 2590,
+							"o": true,
+							"n": 14
+						}
+					}
+				],
+				"availableDurations": [
+					5,
+					7,
+					10,
+					12,
+					14
+				],
+				"config": "bq6arnriywihf8j6ueibfte9cg99iutpfitof5f847y8jo6re8siyz7paohk1g83ecqd9yk1kq7szu1o4i93agag3eaqoshqayqg9w1m84wnrcn34wbd3f85trtsf33z39ji36qk7ut1xqoymisjt8aj1rjnj78pne9euhx99g4sbuoygspjdyrmthwsc7q3re95fac6woqyo",
+				"contractType": "Hotel"
+			}
+		}
+	],
+	"photos": [
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABvAAACAwEBAAAAAAAAAAAAAAAABQIDBgcEEAACAgICAwEBAAAAAAAAAAAAAQIDBBEFIRIiMjETAQADAQEBAAAAAAAAAAAAAAABAgMEAAURAAICAgEDBQAAAAAAAAAAAAABAgMRMQQFEhMUISJRYf/aAAwDAQACEQMRAD8ATy5KuSfZGGXVLvYgWDkzhtJ6Lcbjsm3emzXX1Vw7nOWTvC5aRrMfxt+WNqcdsyOJO7CsUZ/htcLOx7EtyRsj1KFkcoR8drYyx8Z9GmwqfHQoovo690M4ZtNevZELeS7FhIKqwPlEBYuSq19AY/l9DdpwOHKKuHgkTo5F17aEEq/Fl6eomGUK2tbKeVjC/M/rNtnnV9te3GYumnvaZRKVkX+lYYivYWU3Id0czlVT7mzV4XLxtS85nOn7R2RhkWVvpl67ZRYmTsizqtL3A5SuRv19MC3qPwOSdv2Vz/AA81aQClkLfwAHRxCHyUv6AB1tgLQAAgP/2Q==",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464785/property/5/001_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAByAAACAwEBAAAAAAAAAAAAAAAABgMEBQcCEAACAgIBAwMFAAAAAAAAAAAAAQIDBBEFEhMxIkFRBhQVITIBAQADAQEBAAAAAAAAAAAAAAQAAQMCBQYRAAICAwACAwAAAAAAAAAAAAABAgMREjEEYQUTFP/aAAwDAQACEQMRAD8AzHykLfLPLvg1vqM2OBKT0/0yazi7a4J9Yin5CUsprLRJ0a4afTRonCx6TNujGctaQrYOHdG1eo6Vx1EFCPU1sTDy9lwylXgjxsTxtFyeBFraRtVV0vWmi52a0in5TznJaiKf2L+AGvopAn62TQ5Fl1qqx6KN/et0oPY0crwuQ23FmTi40sSW7D59TcBzSmZKtto11LRoQ5S+tJpvRJmPHvaCGAroKMBNV8ONGFlUuplzG56yMltjJX9R0uEVJiZLhsmD2lss18XdKGnFjVGuSypB9pJ4aHpc3haXrQCF+Jv+WBX1+zrb0dKzf5Yh8h5kAHiz6PgLlvsMvE+EAHcOEmNEPBLH3AB1PAlnSm/LAAEmR//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464782/property/5/0011_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACYAMgMBIgACEQEDEQH/xABuAAADAAMBAQAAAAAAAAAAAAAABAUCAwYBBxAAAgICAgMBAQAAAAAAAAAAAQIAAwQRBRMSIVEUFQEBAAIDAAAAAAAAAAAAAAAABAIFAAEDEQABBAIDAAMAAAAAAAAAAAABAAIDEQQSITFREzJx/9oADAMBAAIRAxEAPwCctDfI3V5VkbE63Fx8G5h7EayeJxwNrqFED0g5DPFNxnFlYmq9wu410pjqdTnuSymr2QJew5LY4gZDyFTys2kOg4KLbdkxN2J9CSDyGzM0yWYyrzck5LxQpoT8UNgbz2U71QmnuMICimfM3wp6sZNTAhiJex8+4ACx9yTfYWOljmLgWuvm0cJK7pEdF4mr8rZkvM8bkI1HzQWYKFlH+cop2Vky6PX9RjHNtxS+ZWYT9uwDqUqMRyB6nWjBVm0Um9qKsZdlYc62ujY5+Lqly/43+Ql39VHyEykjnxe8Tx4tVXsbcv5OqKtKIQhHEl3aUAKWXHVK4LESz1qRrUIRY6Rz2pdqqtmgJpuqW1dGEIOYkPSI/qpR4ur7CEJrd3qlQ8X/2Q==",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464785/property/5/0012_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB4AAACAgMBAAAAAAAAAAAAAAAABQQGAQMHAhAAAgICAAUDBQAAAAAAAAAAAAECAwQRBRITITE0UnEUFTIzUQEAAgMBAAAAAAAAAAAAAAAAAgMBBAUAEQACAQIGAQUAAAAAAAAAAAAAAgEDMQQREhMyQVEUISJhgf/aAAwDAQACEQMRAD8Aq2HBOaOgcPt6VaWzn2K5Re9D6nNlGUdhUcVT4vcTXw7xOpLHQ6sqU46ZMqKpi8Uo7KUh9Tm0tbUkWtdOeMlXJ4n5DqC0bJTTWmJvuFPjnRrnnV+4HLUHrhRtqoBB9bD3ATo+zt2PBQ6satT0Zyq4VeBLVn2MkxyXdNb7mO7wkWg1JTzMnrknJOSbJFOdbVVJNskQjuOkjXbgWyrk4RFbjK0SufuDNNWvBBp4la7u8mWGF/NFPZS4U2Qv01p7H9cnCCTZcpVWXsRWw0NlOQ46q/oCjrgP3mEengq9X4DLA/YAGZXt+mm3RYq/JZMX00/gAOXoiLlByfXS+SVPwgAetyX4kUAAcIP/2Q==",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464781/property/5/01_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB0AAACAgMBAAAAAAAAAAAAAAAAAwUGAgQHARAAAgICAgICAwAAAAAAAAAAAAIBAwQRBTESEyFCMkFRAQADAQADAAAAAAAAAAAAAAACAwQBAAUGEQACAQMDBAMAAAAAAAAAAAAAAQIDBDEFERQVISJBQlFS/9oADAMBAAIRAxEAPwC5NfWvbQImyqzpoOc28te/7kXVymQk9yUrUUpdokbtm1k6NKyHq2VvB5vymFcm15OqJgtWo0Uskrtau+2xuJTI+EhexlWTSy7ITMyrWtlVnUCauox+I+jYzlnsTXlX/YAr3ryJ+4EvUX9FXTl+ilSiTMfA/wBdWujDRgzTAKtUiCV7N4G01K10RvUbLZTgUtCz5lKixlbZIUcjZX9jHZb+x1G6ml5Iu7olKaVirZll8Xw0T8GtZyVj9MInKd/yAdnJFcLqJKxyT6gCK9qgDxUN5IqRDgB2kTzftCZMAA1ZK1gYo4AOMOJ6AAKHn//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464781/property/5/04_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIAB8AMgMBIgACEQEDEQH/xABsAAACAwEBAAAAAAAAAAAAAAAABQMEBgECEAABBAEEAwADAAAAAAAAAAABAAIDEQQFEiFREyIxBiQyAQEBAQAAAAAAAAAAAAAAAAACAwERAAMBAAIBBQAAAAAAAAAAAAABEQIDIRITMTJBUf/aAAwDAQACEQMRAD8A28UIl/k2rQxtv1JvxUZPi/YTjU5ww01ynrPiJOkwiZ2uGNnaQHOocuVI6ofKGgqr4pm0l6isNWMe/i8SRbArGnzMfGCSpsox7fqksZ6rK1/Qp56Qve+PsIVfDi/Q3QkwtS8jfThUcmTKyMimmwk+lPctJjkRP3lH5JUT6sBumTFtuChOkPDw6lsseZs0QNLr9vSaz17k4rYY682F4ay6TkiV2ON55pW3ht/FDKbaQseUNUSEOs+yFIcZ1nlCyIVZ/9k=",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464781/property/5/07_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAByAAACAwEBAAAAAAAAAAAAAAAABgQFBwIDEAACAgEBBwUBAAAAAAAAAAAAAQIDBBEFEiExMjNRBhMVFiIUAQADAQEAAAAAAAAAAAAAAAACAwQBBREAAgIBBAMBAAAAAAAAAAAAAAECAxEEEhNBMTNSFP/aAAwDAQACEQMRAD8AubM6tPizx/tps4b6F7buTCuL3BKrzsn3eEnoHboeN43BRuz0azG6C5M9lbHyJeNZe6lNyO8nNsor13yeelnB4b6yMU01kd42R8kqFi8mWfY7KkR7PVmQuQpUyka5JGxe7HyBin23LA3gkDvRf5lcL+bIEMCtS5DnDYc3P9Ei7YkK620+J2r9XT0k2IjWxTco1RUEysyqLchrd10PXMouryXx4aljjZNdMP0k2c23UOTba6KIwWMIWbtmWrT8nMNmOzhKOg3QzarX0o7so97trRiI6pVx2vyG6dzz0J/wSAafi87wwGfpfygeGP0ahd1kLL7bAAJeTEZ5tHusqLOlgAIaOcHrY3YHcQARWewpXrGxckAAUEx//9k=",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464785/property/5/10_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAByAAABBQEBAAAAAAAAAAAAAAAAAgMEBQYBBxAAAQQCAAQGAwAAAAAAAAAAAAECAxEEBRMxMkESFBUhI1NSYZEBAAMBAQAAAAAAAAAAAAAAAAABAwIEEQADAAEFAQEAAAAAAAAAAAAAAQISAxMhQVERIv/aAAwDAQACEQMRAD8ApWIlljAy1QqknjZzUvcDhyoitcX3tKlxRy7eqnzJOjhujQYmHxKMrnSzw9BL0+zy0kRsiE7ufS0TfaPQIcBjUHH4aBi5TXNtyjr9jiR9UiEfq9LEPyX6Ad9ZwPtaAcAeAva1UuxeNmLC6muKlJ1qrEo9LOWYZ1vE1jti91LdnYdq5rzNNmrudST3ux40CwNm7ezsatPKWfaTTqvyKVKy2lWNWiDxfplKeyw4sv3r/QKrxp+QD/QsZITRfcAKIBxBxAABi05iHgBkRHAAGZP/2Q==",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464783/property/5/11_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABzAAACAgMBAAAAAAAAAAAAAAAABAMHAQIFBhAAAgICAQQCAwEAAAAAAAAAAAECAwQFERMUMVEVMgYSIVIBAAIDAQAAAAAAAAAAAAAAAAMEAAECBREAAgIBBAIDAAAAAAAAAAAAAQIAAxEEITFSEhMUFUL/2gAMAwEAAhEDEQA/AO/PWXc8ognSqeI2Q5ZLhfkNcorqBmbLGtlGXKH/ALHzACsIounTOxjFFEZL6Diwo8eDSjY4s4xUWhl5kV4GBa9m6zDIqbNElhuM/BOqGjDypsVtzul9mELNjLEQI8OADGe3YCPydf8AoDHuHcS8DqZz46FpCGw1VlVTa5LZ7WHoUv19Vy4kjglgoyqAGMpRarA+WZTGv7mN6j/fJYFOLbOCZ26dHjVz/ZQR14Y0IrhINRe9QODzNXUvcQTtPLRw7Ba/VSu8ntegvRnoR9Bm1TMMEQQ0rD9yvvggLB7ePoAXsXrL+NZ3kxrIAF24nQEIkgAWvEkAADUqZAAJJP/Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464785/property/5/16_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABxAAACAgMBAAAAAAAAAAAAAAAABAUGAQIDBxAAAgIBAwMFAAAAAAAAAAAAAAECAwQRITEFEhUTIjIzUQEAAgMBAQAAAAAAAAAAAAAAAQQAAgMFBhEAAgICAgMBAAAAAAAAAAAAAAECAxEUBFEFEhMx/9oADAMBAAIRAxEAPwClQhJSHdG1wT9vS3GzRRMSwXBcGmtaoTjIVVscoi6oPQdpTixuvF1XB3jjNCU/HXTawsphd0TapIdijnXSx6FZ2vD8efFrmrFjLFrZKTWDj2sBv0wO17oxH7ViJbSTYm40T5aKzC2x8yY5G2X6ed+8+xz5wZZacGia2khpdF7uCHwrfctZFywsqraPduTasX4yyogyI8JYjPiLUXFNNBsHcsDrR7Kd4q0C3gHcsBrR7PD4DEeQAWCiRx+Sc6f98QABeJe4fBAAFDYAACEP/9k=",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464787/property/5/17_WestinSirayBar.jpg"
+		}
+	],
+	"multimedia": [
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABvAAACAwEBAAAAAAAAAAAAAAAABQIDBgcEEAACAgICAwEBAAAAAAAAAAAAAQIDBBEFIRIiMjETAQADAQEBAAAAAAAAAAAAAAABAgMEAAURAAICAgEDBQAAAAAAAAAAAAABAgMRMQQFEhMUISJRYf/aAAwDAQACEQMRAD8ATy5KuSfZGGXVLvYgWDkzhtJ6Lcbjsm3emzXX1Vw7nOWTvC5aRrMfxt+WNqcdsyOJO7CsUZ/htcLOx7EtyRsj1KFkcoR8drYyx8Z9GmwqfHQoovo690M4ZtNevZELeS7FhIKqwPlEBYuSq19AY/l9DdpwOHKKuHgkTo5F17aEEq/Fl6eomGUK2tbKeVjC/M/rNtnnV9te3GYumnvaZRKVkX+lYYivYWU3Id0czlVT7mzV4XLxtS85nOn7R2RhkWVvpl67ZRYmTsizqtL3A5SuRv19MC3qPwOSdv2Vz/AA81aQClkLfwAHRxCHyUv6AB1tgLQAAgP/2Q==",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464785/property/5/001_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAByAAACAwEBAAAAAAAAAAAAAAAABgMEBQcCEAACAgIBAwMFAAAAAAAAAAAAAQIDBBEFEhMxIkFRBhQVITIBAQADAQEBAAAAAAAAAAAAAAQAAQMCBQYRAAICAwACAwAAAAAAAAAAAAABAgMREjEEYQUTFP/aAAwDAQACEQMRAD8AzHykLfLPLvg1vqM2OBKT0/0yazi7a4J9Yin5CUsprLRJ0a4afTRonCx6TNujGctaQrYOHdG1eo6Vx1EFCPU1sTDy9lwylXgjxsTxtFyeBFraRtVV0vWmi52a0in5TznJaiKf2L+AGvopAn62TQ5Fl1qqx6KN/et0oPY0crwuQ23FmTi40sSW7D59TcBzSmZKtto11LRoQ5S+tJpvRJmPHvaCGAroKMBNV8ONGFlUuplzG56yMltjJX9R0uEVJiZLhsmD2lss18XdKGnFjVGuSypB9pJ4aHpc3haXrQCF+Jv+WBX1+zrb0dKzf5Yh8h5kAHiz6PgLlvsMvE+EAHcOEmNEPBLH3AB1PAlnSm/LAAEmR//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464782/property/5/0011_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACYAMgMBIgACEQEDEQH/xABuAAADAAMBAQAAAAAAAAAAAAAABAUCAwYBBxAAAgICAgMBAQAAAAAAAAAAAQIAAwQRBRMSIVEUFQEBAAIDAAAAAAAAAAAAAAAABAIFAAEDEQABBAIDAAMAAAAAAAAAAAABAAIDEQQSITFREzJx/9oADAMBAAIRAxEAPwCctDfI3V5VkbE63Fx8G5h7EayeJxwNrqFED0g5DPFNxnFlYmq9wu410pjqdTnuSymr2QJew5LY4gZDyFTys2kOg4KLbdkxN2J9CSDyGzM0yWYyrzck5LxQpoT8UNgbz2U71QmnuMICimfM3wp6sZNTAhiJex8+4ACx9yTfYWOljmLgWuvm0cJK7pEdF4mr8rZkvM8bkI1HzQWYKFlH+cop2Vky6PX9RjHNtxS+ZWYT9uwDqUqMRyB6nWjBVm0Um9qKsZdlYc62ujY5+Lqly/43+Ql39VHyEykjnxe8Tx4tVXsbcv5OqKtKIQhHEl3aUAKWXHVK4LESz1qRrUIRY6Rz2pdqqtmgJpuqW1dGEIOYkPSI/qpR4ur7CEJrd3qlQ8X/2Q==",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464785/property/5/0012_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB4AAACAgMBAAAAAAAAAAAAAAAABQQGAQMHAhAAAgICAAUDBQAAAAAAAAAAAAECAwQRBRITITE0UnEUFTIzUQEAAgMBAAAAAAAAAAAAAAAAAgMBBAUAEQACAQIGAQUAAAAAAAAAAAAAAgEDMQQREhMyQVEUISJhgf/aAAwDAQACEQMRAD8Aq2HBOaOgcPt6VaWzn2K5Re9D6nNlGUdhUcVT4vcTXw7xOpLHQ6sqU46ZMqKpi8Uo7KUh9Tm0tbUkWtdOeMlXJ4n5DqC0bJTTWmJvuFPjnRrnnV+4HLUHrhRtqoBB9bD3ATo+zt2PBQ6satT0Zyq4VeBLVn2MkxyXdNb7mO7wkWg1JTzMnrknJOSbJFOdbVVJNskQjuOkjXbgWyrk4RFbjK0SufuDNNWvBBp4la7u8mWGF/NFPZS4U2Qv01p7H9cnCCTZcpVWXsRWw0NlOQ46q/oCjrgP3mEengq9X4DLA/YAGZXt+mm3RYq/JZMX00/gAOXoiLlByfXS+SVPwgAetyX4kUAAcIP/2Q==",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464781/property/5/01_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABwAAACAwEBAAAAAAAAAAAAAAAABAMFBgIHEAACAgEEAQQDAAAAAAAAAAAAAQIDBBESITETBRQiMkFRUgEAAwEBAQAAAAAAAAAAAAAAAAECAwQFEQACAgICAwEAAAAAAAAAAAAAAQISEVETIQMUMWH/2gAMAwEAAhEDEQA/AM/jYs9eS7px4y4bKyGRo+ieN0nNaHn2T+l5SLSeLtXDFVXFS0kxmc7I07l2Zm/LunPToFC3eOgyjQzop04mIypoeqlIQpss7bZJNqXI0ot4oTjLJPaY39AKaMC6/gUH3Rts0cSzoprTXxGI30TfMS1xY47ae06/VixWSI1VGypqMDN5fp1im5eNnpNDx4r6ojz54vhl8VqaR8Sj1giUtHmlNCi/kh900NdBbt3y0IZNpGlI6MuSWzvw0foBXfIBVjoOSWyartGgxPwAFr4WXcOiv9Q+jAAJkZh9nE+gAZmKgACA/9k=",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464781/property/5/03_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464781/property/5/04_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464781/property/5/06_WestinSirayBay.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464781/property/5/07_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464782/property/5/08_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464785/property/5/081_WestinSirayBay.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464781/property/5/09_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464785/property/5/10_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464783/property/5/11_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464783/property/5/12_WestinSirayBay.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464784/property/5/13_WestinSirayBay.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464784/property/5/14_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464785/property/5/16_WestinSirayBay_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464787/property/5/17_WestinSirayBar.jpg"
+		}
+	],
+	"region": "Thaïlande",
+	"resort": "Phuket",
+	"restaurant": {
+		"facilities": [
+			"Seasonal Tastes : ouvert matin, midi et soir",
+			"Splash : ouvert de 7h à 19h",
+			"Prego by the beach : ouvert midi et soir",
+			"Menus enfant",
+			"Offre de jus de fruits et smoothies signés Westin",
+			"Carte Sleep Well : alimentation favorisant le sommeil",
+			"Plats nutritionnels SuperFoodsRx",
+			"Autres bars et restaurants : Daily Treats (pâtisseries, en-cas), Eest (cuisine asiatique), Mix Lounge (bar-salon)",
+			"Code vestimentaire : décontracté chic, tenue de plage au restaurant Splash, plus sophistiquée au restaurant Eest"
+		],
+		"headline": "Restaurants & Grill",
+		"intro": [
+			"Faites-le plein de vitamines dans les 6 bars et restaurants de l’hôtel, dont les cartes s’orientent vers le plaisir et le bien-être, entre choix et produits naturels. Votre petit-déjeuner, inclus dans votre formule, comme tous vos autres repas, peut être servi dans la chambre."
+		],
+		"restaurants": [
+			{
+				"name": "Seasonal tastes",
+				"paragraphs": [
+					"Tout au long de la journée, le restaurant Seasonal Tastes vous enchante par des saveurs diverses autour de son buffet composé de produits du marché, cuisinés à la mode régionale ou selon les plus grandes recettes internationales."
+				],
+				"photo": {
+					"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB0AAADAAMBAQAAAAAAAAAAAAAABAUCAwcBBhAAAgIBAgQFBQAAAAAAAAAAAAIBAwQFEhEUITETMjNRcSM0QUJhAQADAQEAAAAAAAAAAAAAAAACAwQBABEAAwEAAQQDAAAAAAAAAAAAAAECERIDMVFSISJB/9oADAMBAAIRAxEAPwBS/Ci2qDGmmakhSnQrWpA3y0RBI7x5pXibZMrmF6m5M6yW2zPQpLp8OkyJV4UcxsGTXhE1xTeuh2rKWBmM3+kq/EmrIVd3Qo1VYm9VZ4G/cBRPk3c4nuBSjDwfeAC4X5N2D46m6NsQsmbXOv5HcfRWXhA1bo7r3Evp6k8Wj6tcm0S1z3WPMZ02y12/iMW6PwSWI8PNNsrE9g+PEHeRSzNzvDTJDti7xolXkfvvZlFEbfJjZ0znzg7D3cI+pIC3UAMr2Y3Z9UdDxfUgYzv1AB3T7STmi/7Rvg53d6zfIAbYUdzx/Iaqe4AI/Rz7DAAAYJ//2Q==",
+					"url": "https://res.cloudinary.com/perfectstay/image/upload/v1476804545/property/5/restaurant/image_5_v3.jpg"
+				}
+			},
+			{
+				"name": "Splash",
+				"paragraphs": [
+					"En-cas nutritif après une séance de sport ou boisson inventive avant le dîner, le restaurant Splash vous invite sur une terrasse avec vue sur les eaux azur de l’océan. Ici, délectez-vous du cocktail « naranjita margarita », de tequila, de liqueur d’agrume, de mandarine et de fruit de la passion."
+				],
+				"photo": {
+					"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABwAMgMBIgACEQEDEQH/xAB1AAACAwEBAAAAAAAAAAAAAAAEBwAFBgIDEAABBAEDAwMFAAAAAAAAAAABAAIDBBEFEiEGEyMiMVEUFkFCYwEBAQEBAAAAAAAAAAAAAAAABAUDAhEAAgICAQMFAQAAAAAAAAAAAQIAAwQREgUUIRMxQVFSU//aAAwDAQACEQMRAD8AD1G9JVGd6o4upZA/BXjqJksflU8dF27KrZWDWHASvxJuPnPxJazzN3X1h0oHCOdqojHKzdTxsAIQl+eQuDGhT8jEqrcgfmUsfJssQE/LTYN1yADLnLl3U9SP90t7LJsD3QBqSyexKLXjh13E23FDqNL7vqfKiU/0Fn4Ki77UTLuGjBGmWJHY2lFjRpohuc1MR8EUb/S0LxsnxkYCVf1G59j2h6en0oQdRVySvjm7e1WkFWGX1vIXd6JneLtvKAfI5rTgqc9jnZ2dn7lJETQHEAD6ljJSqTccIV9COvy1uULSle95yVpqrGyOAcMhEbIsr0gMYMZGHNvMzmf5KJgDT6uB41Ft6z/ow/Gr+Yn/2Q==",
+					"url": "https://res.cloudinary.com/perfectstay/image/upload/v1476804544/property/5/restaurant/image_5_v6.jpg"
+				}
+			},
+			{
+				"name": "Prego by the beach",
+				"paragraphs": [
+					"Au cœur de l’Asie du Sud-Est, savourez une cuisine italienne authentique, dans une ambiance conviviale et détendue et un cadre frais et élégant. Le soir, jusqu’à 23h, prenez vos quartiers à cette adresse pour siroter un apéritif ou un cocktail."
+				],
+				"photo": {
+					"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAByAAABBQEBAAAAAAAAAAAAAAAAAgMEBQYBBxAAAgICAQIFBQAAAAAAAAAAAAECAwQRBRMhEhQxUVMVIzJBkQEAAwEBAQAAAAAAAAAAAAAAAQIEAAMFEQADAAEFAQEAAAAAAAAAAAAAAQIDERIhQVEEE//aAAwDAQACEQMRAD8AoIa2WdEU2ioVldfqy/wFXak4yKv3w0uKPPWH6ZfMFhXUm0aLDw+ol3MhnWX066ZN4bksxWKNiejjkuOqKcUZdW3J6JTgQikOTw0cxcqMo7kx2fJYlf5WI4Nr0p5Ink37AL+tcf8ALEDcG1Z4BOMGt7F4uY6JajIqFkdtbEqxbIpii9qDXS5GctPeztPKyjMzMb9fs6rO+9jbaMljNrLnb4ReplHkcpffv7jRUu3a1sZ3FG2v0VKe0T+pb87/AKBVeNe4Da0LsghQHAA6IPQ5EdQAAIpeoiYAADIwAAwp/9k=",
+					"url": "https://res.cloudinary.com/perfectstay/image/upload/v1476804544/property/5/restaurant/image_5_v5.jpg"
+				}
+			}
+		]
+	},
+	"transportPartnership": {
+		"label": ""
+	},
+	"tripadvisor": {
+		"awardURL": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-18065-5.jpg",
+		"num_reviews": 1733,
+		"rating": 4,
+		"ratingURL": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-18065-5.png"
+	},
+	"usefulInformations": {
+		"goodtoKnow": [
+			"Si vous voyagez seul(e), un supplément tarifaire en chambre individuelle vous sera demandé, ce supplément sera calculé directement dans votre devis.",
+			"Les tarifs enfant seront appliqués pour les enfants de 2 à 12 ans au cas ou l’enfant partage la chambre avec deux adultes. Dans le cas où l’enfant voyage seul avec un adulte son tarif pourra être appliqué sur une base adulte. Si votre (vos) enfant(s) ou bébé(s) ne rentrent pas dans les tranches d'âges ci-dessus, le tarif appliqué vous sera communiqué au moment du traitement de votre commande. Lorsque la chambre dispose d’un lit superposé, le couchage en hauteur ne convient pas aux moins de 6 ans.",
+			"Pour des raisons de sécurité, les installations de bien-être de la plupart des établissements ne sont pas accessibles aux moins de 16 ans. De même, il est possible que certains aménagements ou services soient payants en supplément ou indisponibles pour des raisons exceptionnelles. ",
+			"Les horaires des restaurants et des bars sont donnés à titre indicatif, et sous réserve de modification. Contactez la réception pour connaître tout changement. Notez que l’abus d’alcool est dangereux pour la santé, à consommer avec modération.",
+			"Vous devrez être majeur et accompagné d’une pièce d’identité pour entrer dans les casinos, de plus une tenue correcte est exigée. Nous vous rappelons que jouer peut comporter des risques d’isolement, d’endettement, de dépendance… Composez le 09 74 75 13 13 (non surtaxé).",
+			"L’hôtel n’est pas accessible aux personnes à mobilité réduite."
+		],
+		"transport": [
+			"Pour un séjour incluant le vol, vous aurez la possibilité de choisir la compagnie aérienne, régulière ou low cost, ainsi que vos horaires de vol. Selon vos envies, vous pourrez opter pour un siège en classe Affaires ou en Première Classe.",
+			"Consultez la rubrique « afficher les infos de vol » pour connaître chaque détail du voyage.",
+			"Afin d’organiser au mieux votre passage à l’aéroport, nous vous conseillons de vous présenter 2h avant l’embarquement pour un vol moyen-courrier, ou 3h avant si votre vol dure plus de 5h. Profitez de votre avance pour effectuer les contrôles de sécurité et enregistrer vos bagages. ",
+			"Vous serez informés si vos bagages sont inclus ou non au moment de votre réservation. Assurez-vous de respecter la politique bagages des compagnies low cost et régulières. Vous aurez l’opportunité d’ajouter des bagages additionnels sous réserve de payer un supplément. Attention, certains repas et autres prestations à bord peuvent être payants.",
+			"Plusieurs villes de départ vous sont proposées : Paris, ville de  Province, Bruxelles, Luxembourg, Bâle, Genève & Zurich.  Votre destination d’arrivée sera affichée dans vos documents de transport.",
+			"En fonction des horaires de vol, certaines arrivées ou retours peuvent s'effectuer de nuit avec une arrivée matinale ou un départ tardif, les clients ne pourront pas toujours disposer de leur chambre immédiatement et devront se référer au conditions du check-in et check-out de l’hôtel. ",
+			"Dans le cas ou le transfert n’est pas inclus dans votre réservation d’hôtel, il vous sera proposé en supplément au moment de votre réservation.",
+			"Important : Les billets d’avion ne sont ni échangeables ni remboursables sauf si vous avez souscrit une assurance, dans ce cas veuillez vous référer aux conditions générales de vente.",
+			"Merci de bien vouloir prendre connaissance de l’emission de CO2 emise par le moyen de transport selectionné : http://eco-calculateur.aviation-civile.gouv.fr/"
+		],
+		"travelDocuments": [
+			"Une fois votre réservation effectuée, vous recevrez un e-mail de confirmation qui précédera l’envoi de vos documents de voyage. ",
+			"Les documents de transport (dans le cadre d’une réservation avec transport) vous seront transmis sous forme de billet électronique ou de convocation à imprimer, vous permettant ainsi de partir sereinement. L’heure et le lieu de départ ainsi que les informations sur l’enregistrement et les bagages vous seront communiqués dans les documents de transport. ",
+			"Pour profiter de toutes vos prestations réservées, (hôtels, transferts, activités...), vous recevrez un ou plusieurs bons d’échange à présenter obligatoirement à chaque fournisseurs.",
+			"Les coordonnées de l’établissement seront précisées sur ces documents, afin de faciliter au mieux votre arrivée à destination."
+		],
+		"formalities": {
+			"intro": "<p>Les précisions suivantes valent pour tout ressortissant français qui, au cours d'un voyage vendu par PerfectStay se rend dans un pays étranger.\nVeuillez-vous référer aux informations ci-dessous quant aux formalités de voyages relatifs à chaque destination (documents d'identification, vaccins, VISA, conseils aux voyageurs).\nPour plus ample information, se reporter aux sites suivants :\nhttp://www.diplomatie.gouv.fr/fr/\nhttps://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html</p>\n\n<p>En cas d'urgence sur place, vous pouvez contacter le consulat Français:\nSection consulaire de l'Ambassade de France à Bangkok\n35 Charoenkrung soi 36 (Rue de Brest), Bangrak,\n10500 Bangkok\nTel : +66 26 57 51 00\nCourriel : registre.bangkok-amba@diplomatie.gouv.fr ; etat-civil.bangkok-amba@diplomatie.gouv.fr ; social.bangkok-amba@diplomatie.gouv.fr\nSite Web : http://www.ambafrance-th.org/</p>\n",
+			"identity": "<p>Pour les ressortissants français: Vous devez être en possession d’un passeport avec minimum 6 mois de validité restante au moment de l’arrivée, et la totalité du séjour en Thaïlande ne doit dépasser 90 jours par période de 6 mois.</p>\n",
+			"vaccine": "<p>Vaccins conseillés :</p>\n\n<p>Vaccinations universelles (DTCP, hépatite B).\nHépatite A (absolument indispensable).\nTyphoïde (indispensable, sauf peut-être pour un très court séjour à Bangkok).\nPour les séjours longs ou ruraux : rage (conseillé).</p>\n",
+			"visa": "<p>Pour les ressortissants français, il n’y a pas de visas pour les séjours inférieurs a 30 jours (si votre séjour inclut une sortie vers un pays limitrophe puis un retour en Thaïlande, l’exemption n’est valable que pour un deuxième séjour maximum de 15 jours lors d’une arrivée terrestre et 30 jours par voie aérienne).</p>\n"
+		}
+	},
+	"included": [
+		"Offre HOTEL SEUL :",
+		"L'hébergement sélectionné",
+		"La pension sélectionné",
+		"La durée de séjour sélectionné",
+		"20% de réduction sur les diners aux restaurants de l'hotel avec le kids menu offert pour les enfants de -12 ans ",
+		"20% de réduction au SPA (Gommage, Body massage, soins du visage, enveloppement)",
+		"Offre VOL+HOTEL:",
+		"Les prestations de l'offre Hôtel seul (indiquées ci-dessus)",
+		"Les vols spéciaux ou réguliers Aller-Retour France, Bruxelles ou Genève / Aéroport d'arrivée.",
+		"Les taxes aéroport obligatoires",
+		"les transferts aller-retour aéroport/hôtel",
+		"l'accueil et l'assistance à l'aéroport d'arrivée"
+	],
+	"notIncluded": [
+		"Les assurances personnelles facultatives",
+		"les dépenses de nature personnelle et pourboires",
+		"Les excursions réservés auprès de nos représentants locaux",
+		"Le port des bagages",
+		"Repas et boissons non mentionnés",
+		"Les vols, les transferts, l'accueil à l'aéroport, l'assistance et les taxes aéroport si vous avez réservé l'offre HOTEL SEUL",
+		"Et tout ce qui n'est pas mentionné dans \"Le prix inclut\""
+	],
+	"startAt": 1475712000000,
+	"endAt": 1546214400000,
+	"includeOfferWithFlight": true,
+	"fromPriceType": {
+		"type": "FROM_PRICE_TYPE_EXCLUSIVE"
+	},
+	"uri": "the-westin-siray-bay",
+	"marketingDestination": "Phuket",
+	"strapLine": "Villas luxueuses face à la baie de Siray",
+	"propertyType": "City",
+	"contractType": "Hotel",
+	"rank": 11
+}

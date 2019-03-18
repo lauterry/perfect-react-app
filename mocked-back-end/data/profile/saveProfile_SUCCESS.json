@@ -1,0 +1,17 @@
+{
+	"name": {
+		"firstName": "Thierry",
+		"lastName": "LAU",
+		"gender": "M"
+	},
+	"birthDate": "1986-03-28",
+	"nationality": "FR",
+	"address": {
+		"line1": "42 rue de Paradis",
+		"line2": "Etage 5",
+		"postCode": "75010",
+		"city": "Paris",
+		"country": "FR",
+		"phone": "0699452828"
+	}
+}

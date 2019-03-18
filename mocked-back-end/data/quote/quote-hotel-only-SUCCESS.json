@@ -1,0 +1,140 @@
+{
+    "code": "154da8d6-321d-499a-9810-8609b90cc64a",
+    "status": "SUCCESS",
+    "paymentTypes": [
+        {
+            "type": "CreditCard",
+            "acceptedCreditCardTypes": ["amex", "visa", "mc"]
+        },
+        {
+            "type": "CreditCardPartial",
+            "percentagePayNow": 50,
+            "dueDate": 1492128000000,
+            "acceptedCreditCardTypes": ["amex", "visa", "mc"]
+        },
+        {
+            "type": "Oney",
+            "modes": ["Oney4x", "Oney3x"],
+            "acceptedCreditCardTypes": ["visa", "mc"]
+        }
+    ],
+    "accommodations": {
+        "accommodationItems": [
+            {
+                "included": true,
+                "items": [
+                    {
+                        "adults": 2,
+                        "children": 0,
+                        "infants": 0,
+                        "quantity": 1,
+                        "accommodationItemCode": 33
+                    }
+                ],
+                "codes": [
+                    {
+                        "code": "d1fd3da5-1d05-42d1-8020-3ee98c8b9b3d",
+                        "boardCode": "HB"
+                    }
+                ],
+                "code": "381d7320-c8f3-480b-9d11-919524fb5dbc"
+            },
+            {
+                "included": false,
+                "items": [
+                    {
+                        "adults": 2,
+                        "children": 0,
+                        "infants": 0,
+                        "quantity": 1,
+                        "accommodationItemCode": 35
+                    }
+                ],
+                "upgradePrice": 144,
+                "codes": [
+                    {
+                        "code": "3558b09f-8848-4e9d-8e35-c547c9e0cddf",
+                        "boardCode": "HB"
+                    }
+                ],
+                "code": "274c3ba0-1410-4ab5-9d8c-ca2c1b24b1e7"
+            },
+            {
+                "included": false,
+                "items": [
+                    {
+                        "adults": 2,
+                        "children": 0,
+                        "infants": 0,
+                        "quantity": 1,
+                        "accommodationItemCode": 36
+                    }
+                ],
+                "upgradePrice": 377,
+                "codes": [
+                    {
+                        "code": "2715012b-c816-4029-acd5-a33837fd36ca",
+                        "boardCode": "HB"
+                    }
+                ],
+                "code": "ec149a4b-f0f4-44e5-a729-db98537cfdd8"
+            }
+        ],
+        "boards": [
+            {
+                "boardCode": "HB",
+                "description": "",
+                "included": true,
+                "label": "Demi pension"
+            }
+        ],
+        "accommodationItemDescriptions": [
+            {
+                "accommodationItemCode": 36,
+                "description": "La Junior Suite avec piscine privée (37 m2) est parfaite pour un couple en quête de romantisme et de luxe. Cette suite spacieuse et lumineuse vous propose une ambiance épurée et apaisante. Vous pourrez profiter d’une piscine privée et intime sur votre balcon pour admirer les couchés de soleil dans le ciel de la Grèce.",
+                "aera": 37,
+                "label": "Suite with Private Pool Junior Sea View",
+                "photo": {
+                    "url": "https://res.cloudinary.com/perfectstay/image/upload/v1478354422/property/15/accommodation/image_15_v14.jpg",
+                    "thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACYAMgMBIgACEQEDEQH/xAB2AAACAwEBAAAAAAAAAAAAAAAABAIDBQYBEAACAgIABQMFAAAAAAAAAAAAAQIDBBESEyExURQiMgVCUmFiAQADAQEBAAAAAAAAAAAAAAACAwQFAQARAAIBAwQBBQAAAAAAAAAAAAABAgMREgQUMVEhEzJBUnH/2gAMAwEAAhEDEQA/AO6xceK7MdlRJruL0V2RG27EJSjbgLyI3RlXBmQ25mtk2NxaZnQjpEWpS+CqgQlSnEVjQlYaf2lCS5iM+CXqR/SubeEg9PDwA97QNjCPRm5y7NSqxdBhzOUhncC7l0fqf7GLUQsgXRk/I7kxbcmJR+J7ZmxnB6YrXel8iTUNSviU0U1yPRjtEVXFS7l9XKmukjy2vXVGeo1YSTxKW1K6uHCvIFG5eAKNzW+orbw7OYalNL3FsKH+QACEvaMOnhjvZJR5lYAek2kdjyLLJsplpM08fPnJdUAHYtsbJIc9X/IAAQs//9k="
+                }
+            },
+            {
+                "accommodationItemCode": 33,
+                "description": "La Junior Suite vue sur mer (37 m2) est une chambre confortable et lumineuse combinée avec un espace salon luxueux. Lorsque vous prendrez un café sur votre balcon spacieux, vous pourrez apercevoir l’île de Kelyfos dans les eaux limpides de la mer. La décoration épurée s’agence parfaitement au style méditerranéen.",
+                "aera": 37,
+                "label": "Junior Suite Sea View",
+                "photo": {
+                    "url": "https://res.cloudinary.com/perfectstay/image/upload/v1476895112/property/15/accommodation/image_15_v11.jpg",
+                    "thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABrAAADAQEBAQAAAAAAAAAAAAAABQYEBwIDEAACAgICAwEBAAAAAAAAAAAAAgEDBBEFIRITMTMUAQEBAQEAAAAAAAAAAAAAAAAEBQMCEQADAAICAgMBAAAAAAAAAAAAAQIDESExEhMyQWFi/9oADAMBAAIRAxEAPwDZj50RrZRYuWjxHZz1LtTClHgo8wuiIrqaWkV/CbltsuqZV4NqpAgq9laxJ91zm9ioUsVNrlE/JOnwx3KQZbfHuDUizNe5kRNc05fhvo1vgzjk9zTIDSK1A49Z35nEKJ9iw0r2X/CeqUXyOZTyyKukU34XN2ooHGqm1VLgbWqhymdhvmma9LMbFKUWRb5kTh8zc90Qz9FgvJKyLBQipp70DvHUob2Z1lVQrosm2/2GzUXUC1VmhupEXCpbSMIenopovjUAT39MgG9v8m3p/Tg1X0aVfAAHk7QzH0McT9YLCj6gAb4vo4ydMsaPwgX5H0AKcdE1/IxgAAhh/9k="
+                }
+            },
+            {
+                "accommodationItemCode": 35,
+                "description": "La Suite vue mer Pool Front est située devant la piscine de l'hôtel. En plus de sa situation exceptionnelle, cette chambre offre tous les services nécessaires vous permettant ainsi de vous offrir un séjour inoubliable.",
+                "aera": 37,
+                "label": "junior suite pool front sea view",
+                "photo": {
+                    "url": "https://res.cloudinary.com/perfectstay/image/upload/v1476895113/property/15/accommodation/image_15_v12.jpg",
+                    "thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB1AAADAQEBAQAAAAAAAAAAAAAABQYDBAIHEAACAgECBAYDAAAAAAAAAAAAAQIDBBEhBQYiMhITMTNBURUjQgEBAAMBAQAAAAAAAAAAAAAAAwABAgQFEQACAQQCAgMAAAAAAAAAAAAAAQIDERIxIkEEMhNRYf/aAAwDAQACEQMRAD8ArsVOKTKPFs1juJseHSMY/rqbPPhdM6pWaHkJwfya+KJIUZdsptJjZStcfU6oNy0gJLHbGdl0I/Jx2TU46ibOsshFdR7qvTxt5GZbaLS0zdyj9gLNn/YGfil+G8ojCqlRRnZ5u8UtiRp5kTY5q41XJJtk4E5HfRiyrbkxooSdeqYuqzq7l3DTHtjKtoSlZeoc1fZL8WyfLg9WTUOLTl0a7DnmCC0k9SBWXCttAVMm2PTxSRarJ2XWBFflo/YB2qfbE4GFPch9V2oAF6B7H2AWWH7QAJ4/YdXoleY/amfJrO+QAVP2ZuOkcD9WAAQs/9k="
+                }
+            }
+        ]
+    },
+    "activities": [
+        {
+            "code": "2b3aff90-4746-4753-b62c-68a52a9ac022",
+            "quantity": 1
+        }
+    ],
+    "quotationItems": [
+        {
+            "price": 1550,
+            "type": "TRIP"
+        },
+        {
+            "price": 25,
+            "type": "BOOKING_FEES"
+        }
+    ]
+}

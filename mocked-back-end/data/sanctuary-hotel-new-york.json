@@ -1,0 +1,724 @@
+{
+	"address": {},
+	"badges": [
+		{
+			"bgColor": "#234567",
+			"txtColor": "#fff",
+			"label": "Budget"
+		},
+		{
+			"bgColor": "#445faa",
+			"txtColor": "#fff",
+			"label": "Surclassement"
+		}
+	],
+	"isChildAgeRequired": false,
+	"accommodation": {
+		"intro": {
+			"headline": "Votre Hôtel",
+			"intro": [
+				"Niché au cœur de Manhattan, à deux pas de Times Square, Broadway et Central Park, le Sanctuary Hotel New York profite d’une situation privilégiée dans le quartier de Midtown. Situé dans une rue calme, ce luxueux 5 étoiles permet de goûter à l’effervescence New Yorkaise tout en offrant tranquillité et repos à ses hôtes. C’est dans une décoration aux tons chauds et dans ses chambres aussi spacieuses que confortables que cet hôtel new-yorkais vous reçoit. Ici, le luxe rencontre le glamour, pour un séjour surprenant au cœur de la Big Apple."
+			]
+		},
+		"type": {
+			"accommodationTypes": [
+				{
+					"aera": 0,
+					"label": "Superior Room Queen Bed",
+					"description":
+						"Disposant d’un lit double queen size, cette chambre pour 1 à 2 personnes révèle une décoration épurée aux tons chauds. Confortable et spacieuse, elle est dotée d’une salle de bain ouverte sur la chambre avec une douche spa et des produits de soin écofriendly. Parmi ses équipements, vous aurez à disposition une station d’accueil iPod pour écouter de la musique en admirant la vue imprenable sur la ville.",
+					"photo": {
+						"thumbnail":
+							"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB5AAACAwEBAAAAAAAAAAAAAAAABgMFBwQCEAACAQMCBAYDAQAAAAAAAAABAgADBAUGEhEiMXETFSEyMzQUQVFSAQACAwEAAAAAAAAAAAAAAAACAwAEBQERAAICAQIGAwAAAAAAAAAAAAABAhESAyETIjEyM0FRUmL/2gAMAwEAAhEDEQA/AEjzCtRfaD6S2t8xWQAxbqIzuCBJd5X0mbKlRtQWSd/I8W2o9pAaOVhllr0S4Mxyku8gCPdgrW2OqMf5BV2qJKEVGy/ragoKxUtClm6VQckyG5vHNZ+Y9Yx6duUYneY6UaVlJSblSHzzN/8AJhOT8q2/ohF5/kZi/sJOKpW1a1Yvw3cJxjE1bms2wcoMoLa/agg5po+mbijdUWBI3Q5QkndbDY6scWst7K22w4oMC7xjuVVsa6J+hJ2x6KWd39JR5DPWdmjUk4GDFXKzupJYVZnNwDTquGH7nuzvfA3EGTuHylc+GnUy0fTj07Ysestcr2ZQqXVFUcy/E8xhKtsfVDHvCFw4A5zOVvYI/aO6mEIM+xhx8iH+9+o/aYllPsP3hCJ0PY7W9DDpf5I93vwntCEJ+QkOwQ397dzCEI8Uf//Z",
+						"url":
+							"https://res.cloudinary.com/perfectstay/image/upload/v1477072849/property/25/accommodation/image_25_v1.jpg"
+					},
+					"accommodationID": 34,
+					"occupancies": [
+						{
+							"adults": 1,
+							"children": 0
+						},
+						{
+							"adults": 1,
+							"children": 1
+						},
+						{
+							"adults": 2,
+							"children": 0
+						}
+					]
+				}
+			],
+			"facilities": [
+				"Climatisation ",
+				"Douche à effet pluie",
+				"Sèche-cheveux",
+				"Articles de toilette écologiques",
+				"Coffre-fort",
+				"Accès gratuit au club de sport Equinox",
+				"Télévision écran plat",
+				"Station d’accueil iPod",
+				"Service de réveil"
+			],
+			"headline": "Chambre",
+			"paragraphs": [
+				"Le Sanctuary Hotel New York propose la Superior Queen bed. Un écrin luxueux et glamour portant la promesse d’un séjour unique que vous voyagiez seul, accompagné d’un enfant, ou bien en couple."
+			]
+		},
+		"facilities": [
+			"Service de conciergerie STAR à disposition 24. rendant l’impossible possible",
+			"Réception ouverte 24h/24",
+			"Connexion Wi-Fi gratuite",
+			"Parking privé disponible",
+			"Accès aux personnes à mobilité réduite",
+			"Service d’étage",
+			"Journaux",
+			"Bureau d’excursions",
+			"Service de location de voiture",
+			"Service de nettoyage quotidien",
+			"Service de blanchisserie",
+			"Cireur",
+			"Les animaux domestiques sont admis",
+			"Français parlé"
+		]
+	},
+	"activity": {
+		"facilities": [
+			"Journal du matin gratuit",
+			"Salle de gym Equinox avec équipements dernier cri",
+			"Service de conciergerie disponible à la réception",
+			"Possibilité de location de limousines"
+		],
+		"intro": [
+			"Situé au cœur du quartier des Théâtres, le Sanctuary Hotel New York vous convie à un séjour unique à Manhattan. Balades dans Central Park, visites de musées, flâneries parmi des plus hauts buildings… New York s’offre à vous !"
+		],
+		"label": "Activités \u0026 Lifestyle",
+		"description":
+			"Pour profiter au mieux de votre séjour, le service de conciergerie S.T.A.R. répondra avec efficacité à vos envies de sorties. Réservations dans les plus grands restaurants, achats de billets de théâtre ou de spectacles… Confiez-leur vos désirs et laissez-faire leur expertise. Pour vous détendre, un pass journalier à la salle de gym Equinox est compris dans cette offre. Ce sera l’idéal pour vous dépenser avant d’aller vous émerveiller des beautés de la ville."
+	},
+	"bookableExtras": {},
+	"category": 4.5,
+	"country": "Etats-Unis",
+	"destination": {
+		"label": "New York",
+		"photo": {
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABzAAABBQEBAAAAAAAAAAAAAAAAAgMEBQcGARAAAgICAQMEAwAAAAAAAAAAAAECBAMRMhITISIxM1EUUmEBAAMBAAAAAAAAAAAAAAAAAAIEBQERAAICAAYBBQAAAAAAAAAAAAABAhEDEhMxUVJxBBQzQUL/2gAMAwEAAhEDEQA/AL9Z6v2h6Fiql5aM8VvJ1Lyx923rkUtV9hLSS+jQo26f2hSu1PtGdq3pcj122lyCt9jKXBpUbdSXs0eOxWl4TRmkLs479THcV3L1N9QDT7BLLwaF3q4HCfn5P2AG32DyLgo1mjJaSPGR4OKWxPfXWkQ9bElJ02PuEYxtj3UtkmGmPwr48kUxizgeJbiwPducqzNMXuPAnNqMdojQsNrSHvEsfqZByqOOLcWUfT47iqkzJ4adOJI7/wDQOcduW2AzqRBysuY8BmHzIAI0P34GsbZHTYeKEXOAAT4/IvIoVk/iZXZvjYAVltEYWxzr92AAMgH/2Q==",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/v1476971333/destination/resort/791/image_791_v3.jpg"
+		},
+		"paragraphs": [
+			"Un tour dans le ferry de Staten Island pour photographier la Statue de la Liberté, un apéritif sur le toit d’un building pour contempler la Sky Line de la ville, des achats dans l’un des centres commerciaux frénétiques de New York… On ne sait plus où donner de la tête pour découvrir les splendeurs dont elle recèle. Un bol d’air à Central Park puis un hamburger roboratif dans un « diner » traditionnel complèteront la visite. Qu’attendez-vous pour croquer dans la Grosse Pomme ?"
+		]
+	},
+	"experiences": [
+		{
+			"label": "Boire un verre sur l'un des nombreux rooftops de NYC",
+			"photo": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABuAAACAgMBAAAAAAAAAAAAAAAABAUGAgMHARAAAgICAQQDAQEAAAAAAAAAAAECAwQRBRIhMTIUQUIVIgEAAwEAAAAAAAAAAAAAAAAAAQIDABEAAgICAgMBAAAAAAAAAAAAAAECEQMxEiEEIkFR/9oADAMBAAIRAxEAPwDomNbVKK/0iVhmVVR9jj2Nytm9Rkyehl3Tr3tkZS4d/CqUWtlo5vNrsp1FlGnOTY1dK26Ak8bJf0xoy5KwUl9PVuSe2arYt6iYyoyo/li9llsPKJZHOMlWjWkNrFWvAEd820A3L8YLF+H1tuxFtqsqfbwip1XU1rpT7mDyr+vs+w3kYuXqnoWLuOjoSxk61KA1VOjShLXUUNc/bjwUGL43LWzyuuUuwYtY8dUCrezouW6IQ+iiXZEbMpwS7GjluWtnpQkRkcrpq6/2GLjP2aNKo9WWL4sH9AVX+vkgV5QE7F4e5Jw8AAmTZWGiOzPZHlPlABOYj2jO7ya36gAsRZbFwAAgP//Z",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1476902036/destination/resort/791/experience/791/image_111_v1.jpg"
+			},
+			"paragraphs": [
+				"Prenez de la hauteur sur l’un des rooftops qui abondent dans la ville. Commandez une bière et installez-vous pour contempler le spectacle vertigineux de la ville offerte à vos pieds. Au coucher du soleil, les immeubles scintillent sous la lumière dorée."
+			]
+		},
+		{
+			"label": "Immersion à Harlem \u0026 assister à une messe Gospel",
+			"photo": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACQAMgMBIgACEQEDEQH/xABwAAADAQEBAAAAAAAAAAAAAAAABQYDBAcQAAIBAwMDAwUAAAAAAAAAAAABAgMEERIUISJBUQUGExUWMVJTAQADAQEAAAAAAAAAAAAAAAACAwQAAREAAgIDAQADAAAAAAAAAAAAAAECMgMRIVESIjH/2gAMAwEAAhEDEQA/AOar7cUZyWkz+3VhdJb3laSc9MRPu67aWnuCA0hG/b+iLekR1bCak0elSrt0mnHsR97cYcsQAk/sV4Ir4MQfT5GkbGZ1b94xoGNC6jKKzA0tpb2Mgk3rQi2FTwwKvdUv5gbnoPfCovLuEHLoEcvUI6lin3Gl/VoRlMQO5totcdxhI/0ebqE6bzHsTF7cUI56Sg+ahOm8eCWulRzLLFzsVYaMWu5oNvpGltWoOK4Ek1QT4Oy2jDydnULFYo1Ws8LhAKdNL9gOd9RueMq72jB1agj21JyWV3ABhIxh8MIp48EnfRXWAC5WKMVWIMcjW1XAAFOpsdzZrn8sAAEM/9k=",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1476902035/destination/resort/791/experience/791/image_112_v1.jpg"
+			},
+			"paragraphs": [
+				"Prenez le pouls du quartier d’Harlem qui vibre des chants des fidèles rassemblés dans les églises. Poussez la porte de l’une d’entre elles, installez-vous sur un banc et succombez au spectacle des gens qui chantent et tapent dans leurs mains avec ferveur."
+			]
+		},
+		{
+			"label": "Se balader et faire du shopping sur Time Square",
+			"photo": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABzAAACAwEBAQAAAAAAAAAAAAAABQQGBwEDAhAAAgIBAwIGAwAAAAAAAAAAAAECAwQFERITIRQiMTNBYTJScQEAAwEBAAAAAAAAAAAAAAAAAgMEAQARAAICAgICAwAAAAAAAAAAAAABAhEDMRIhEyIyQnH/2gAMAwEAAhEDEQA/AJ19yx6XCJD07On1VH7INVjtq88u564lSrujL7LMqx43G5XNvsWoylGVL1WjV8WfKmLb+CQvMIMTLXS23G+NfDpt7kzltg8WV3Wae8jHdVq6d8zW9ZyucpJMynVW5WsGHUv0fT4qxGB9bAP7ALNO5qa4DGF8uG/yNMXRoyk212GENHW7QMopvs2OSiBiahNVtMc42ot1uPI6tJrUdjuPpG1m4PjWzHlWhVqlzcHx9SjZXUnv5TT87Ada3cd0VmyGM7OLjsLT4z0xt8obKL4e79QL/wCCxgKvcRaLRhe2iYAAsEF6k/H/ACADn8WB9kd1D2mZtl++/wCgBmPY1aPReiAAKxZ//9k=",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1476902020/destination/resort/791/experience/791/image_110_v1.jpg"
+			},
+			"paragraphs": [
+				"Mythique avec ses enseignes lumineuses et ses néons clignotants, Time Square attire les voyageurs en quête d’un spectacle urbain détonnant. Entre emplettes d’objets frappés aux couleurs de la ville et déambulations dans les rues le nez levé, l’expérience promet d’être inoubliable."
+			]
+		}
+	],
+	"expert": {
+		"name": "Pauline",
+		"introduction": "Expert voyage",
+		"loves": [
+			"Le petit-déjeuner copieux, inclus dans l’offre, à savourer chaque matin avant de parcourir les rues animées de The Big Apple",
+			"Le toit-terrasse de l’hôtel, où se délecter d’un cocktail en ayant New York à ses pieds, une vue imprenable !",
+			"Le STAR Program, le service de conciergerie, pour bénéficier des attentions et des conseils de la STAR Team pour vivre une expérience d’exception",
+			"La situation de l’hôtel, à deux pas de Broadway, du Rockfeller Center, de la Cathédrale St.Patrick et des boutiques luxueuses de la 5ème avenue. ",
+			"Le luxe de pouvoir faire un footing ou prendre un cours de yoga dans le superbe cadre de Central Park"
+		],
+		"photo": {
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAcHBwcHBwgJCQgLDAsMCxAPDg4PEBkSExITEhklFxsXFxsXJSEoIR4hKCE7LykpLztFOjc6RVNKSlNpY2mJibgBBwcHBwcHCAkJCAsMCwwLEA8ODg8QGRITEhMSGSUXGxcXGxclISghHiEoITsvKSkvO0U6NzpFU0pKU2ljaYmJuP/AABEIAEEAMgMBIgACEQEDEQH/xABzAAADAAMBAQEAAAAAAAAAAAAABwgBAgUDBAYQAAICAgEEAQMFAAAAAAAAAAABAgMEEQUGBxIiIRMycRUxMzQ1AQEAAwEBAAAAAAAAAAAAAAAAAQIDBAURAQACAgIDAAAAAAAAAAAAAAABAgMSERMhMTL/2gAMAwEAAhEDEQA/AKRAAk9JgfJmZ9GJByskkkc/C5/By5+NdsWz8H1fbdfOVSm0hTVZGZwvIQlG2Ti5GXbXbVvGC003VemmtoycDp3kVn4NVje3o75qwAAAAEvlMDDaSAWHVOPq7yFdzlNSq89+yHL1VdiumXuvInLqDkfZwUjkyUnsiXo4stejg7e3OdZbj+DG4T32z5iiOqpSSZQlVkZxTTOmvpw3+gAAWUByObzlhYVtm9aizric7mc1PExXVFgK3lufycrJvlK1629C85DJ+rNts+fJzrJt/Jy52Sk9sprMy13iI4h3OJ5fI47IjOubWmVf0J1J+r4kVOXskRnCXyUD2mdjtLs58qUA1W9AENhI91cKMsN2DuFN3PqlPi5sCQ7JezR57M3fFkvyaEjeH7opPtHR6OZNcfuRUnaWDWKQHpoDIAAs+5H+Rb+AACNcj+af5PIAA9K/uRVHab+mAAO8AAD/2Q==",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/v1477598087/expert/image_2_v4.jpg"
+		},
+		"verbatim": "Un hôtel de caractère situé à deux pas des lieux les plus prisés de Manhattan."
+	},
+	"gps": {
+		"lat": 40.7584057847,
+		"lon": -73.9832814038
+	},
+	"highlights": [
+		{
+			"label": "Bed \u0026 Breakfast",
+			"picto": "BED_BREAKFAST"
+		},
+		{
+			"label": "Concierge 24/7",
+			"picto": "247_CONCIERGE"
+		},
+		{
+			"label": "Centre fitness",
+			"picto": "FITNESS"
+		}
+	],
+	"id": "25",
+	"name": "Sanctuary Hotel New York",
+	"offers": [
+		{
+			"negos": [
+				"En chambre supérieure Queen Bed",
+				"En Formule petit-déjeuner continental",
+				"Wi-Fi Gratuit",
+				"Taxe de 14,75% incluse",
+				"Vol aller-retour au départ de Paris, Province, Bruxelles et Genève",
+				"Vol en classe économique, ou classe affaire et première en option avec supplément"
+			],
+			"pricing": {
+				"type": "FA",
+				"label": "VOL + HOTEL",
+				"minPrice": {
+					"dd": 1485043200000,
+					"ed": 1485475200000,
+					"p": 779,
+					"o": true,
+					"n": 4
+				},
+				"departureCities": [
+					{
+						"code": "PAR",
+						"label": "Paris",
+						"from": {
+							"dd": 1485043200000,
+							"ed": 1485475200000,
+							"p": 779,
+							"o": true,
+							"n": 4
+						}
+					},
+					{
+						"code": "BOD",
+						"label": "Bordeaux",
+						"from": {
+							"dd": 1486512000000,
+							"ed": 1486944000000,
+							"p": 837,
+							"o": true,
+							"n": 4
+						}
+					},
+					{
+						"code": "BRU",
+						"label": "Bruxelles",
+						"from": {
+							"dd": 1484092800000,
+							"ed": 1484524800000,
+							"p": 812,
+							"o": true,
+							"n": 4
+						}
+					},
+					{
+						"code": "GVA",
+						"label": "Genève",
+						"from": {
+							"dd": 1496793600000,
+							"ed": 1497225600000,
+							"p": 1002,
+							"o": true,
+							"n": 4
+						}
+					},
+					{
+						"code": "LYS",
+						"label": "Lyon",
+						"from": {
+							"dd": 1485561600000,
+							"ed": 1485993600000,
+							"p": 824,
+							"o": true,
+							"n": 4
+						}
+					},
+					{
+						"code": "MRS",
+						"label": "Marseille",
+						"from": {
+							"dd": 1487808000000,
+							"ed": 1488240000000,
+							"p": 808,
+							"o": true,
+							"n": 4
+						}
+					},
+					{
+						"code": "NTE",
+						"label": "Nantes",
+						"from": {
+							"dd": 1486512000000,
+							"ed": 1486944000000,
+							"p": 837,
+							"o": true,
+							"n": 4
+						}
+					},
+					{
+						"code": "NCE",
+						"label": "Nice",
+						"from": {
+							"dd": 1485820800000,
+							"ed": 1486252800000,
+							"p": 804,
+							"o": true,
+							"n": 4
+						}
+					},
+					{
+						"code": "TLS",
+						"label": "Toulouse",
+						"from": {
+							"dd": 1485820800000,
+							"ed": 1486252800000,
+							"p": 802,
+							"o": true,
+							"n": 4
+						}
+					}
+				],
+				"availableDurations": [4, 5, 7],
+				"config":
+					"erga3wb58txnfgu7g1yfyymi9w6d7m43tce515sxkd6sei3wup1ceze8jamp1t9qm9nonaop6y49icmf4yoekjfwtj3m44sxufqxpodo17kc6m5toqocam99zmy9qwfhcf6bbn3zpn8ritt56zr36cm95csnwu9m63qjdsujg7sbq7sagzw68faqzqfk8fuf1an3978w99448gpymico",
+				"contractType": "Hotel"
+			}
+		},
+		{
+			"negos": [
+				"En chambre supérieure Queen Bed",
+				"En Formule petit-déjeuner continental",
+				"Wi-Fi Gratuit",
+				"Taxe de 14,75% incluse"
+			],
+			"pricing": {
+				"type": "AO",
+				"label": "HOTEL SEUL",
+				"minPrice": {
+					"dd": 1484006400000,
+					"ed": 1484352000000,
+					"p": 340,
+					"o": true,
+					"n": 4
+				},
+				"maxDiscount": {
+					"dd": 1484006400000,
+					"ed": 1484352000000,
+					"p": 340,
+					"o": true,
+					"n": 4
+				},
+				"durations": [
+					{
+						"value": 4,
+						"minPrice": {
+							"dd": 1484006400000,
+							"ed": 1484352000000,
+							"p": 340,
+							"o": true,
+							"n": 4
+						},
+						"maxDiscount": {
+							"dd": 1484006400000,
+							"ed": 1484352000000,
+							"p": 340,
+							"o": true,
+							"n": 4
+						}
+					},
+					{
+						"value": 5,
+						"minPrice": {
+							"dd": 1484265600000,
+							"ed": 1484697600000,
+							"p": 425,
+							"o": true,
+							"n": 5
+						},
+						"maxDiscount": {
+							"dd": 1486080000000,
+							"ed": 1486512000000,
+							"p": 450,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"value": 7,
+						"minPrice": {
+							"dd": 1484611200000,
+							"ed": 1485216000000,
+							"p": 596,
+							"o": true,
+							"n": 7
+						},
+						"maxDiscount": {
+							"dd": 1490400000000,
+							"ed": 1491004800000,
+							"p": 767,
+							"o": true,
+							"n": 7
+						}
+					}
+				],
+				"availableDurations": [4, 5, 7],
+				"config":
+					"y83aj6rgyedao1jw685ru3d1ohtfpi96g9ybecg9ekpurxrtoytodo4mm8n4o8soewm9oibnchgzkmss7h9431gm9y3akmepnragpa1sat3199uin7od58urb3ixcjeieh8sryrp189zfcqbxcqa6pyomppbziks4d37kb6g9kqwy3pr5jezqenei84oz5gxk4k6zgrt4x5z6pe",
+				"contractType": "Hotel"
+			}
+		}
+	],
+	"photos": [
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIAB4AMgMBIgACEQEDEQH/xABrAAACAwEAAAAAAAAAAAAAAAAFBgACAwQQAAICAQQBBAMAAAAAAAAAAAABAgMEERIUUSETIiMyJDFSAQADAQEAAAAAAAAAAAAAAAABAgUABBEAAgIDAQEAAAAAAAAAAAAAAAIBAxEUURMh/9oADAMBAAIRAxEAPwDdYMujVYEugpm5MKfroUxM6uyL3Fvd+4JGs+Mg14Uuijw30F3dGT8FLLNGtBtyMi69mAS8OXRi8R9DJTOvZ7inw79fAdxTRRbwXOHLog0/jdog24gPG3gi35/rR+2rOnCk9urYApqUZJthN5OxJRRDrsaWzKxJTZZiMZGCu1L9s3nbCWnkWuVJonKmUURGjMqcjvYs4hg9da9vtZxu2z+gY8uZhLJmx4pq4L629C3Kn2QC+vIgfCnkje1h/9k=",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1484058511/property/25/iStock-531266746.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABzAAACAwEBAQAAAAAAAAAAAAAABgQFBwECAxAAAgIBBAICAwAAAAAAAAAAAQIAAwQFERIhEzNRcTI0YQEAAwADAQAAAAAAAAAAAAAAAgMEAAEFBhEAAgICAgIDAQAAAAAAAAAAAAECAxESBDEyUSFBYYH/2gAMAwEAAhEDEQA/AImmZx5BWbqOVNuPw727mUpcKmABl6me3BQGlS5k1DGSSfArlZtqh7srrWl3WKNudZXZxHzLTGy3fHKkyrtoD2RdvJdmcsKnhwqaxFZRMLm6rdooamyq56jmqBau4naoyeRupw3LM2ehoqVdaKHy/wAhO8l+IQ/j0F/TyvMNuQZb49oYqJJ05sLLYgkCS7kxKX41bEy/aCj+nLxOUl6JtbsFHExo0rFF43YRPrsVdhvHTRrwAO4lZlljpRVaS+zmfimlW2ma6kR5Wmt6mRZQxHxMa1Nj5n+5K62pstrtTrIHUJG5QjNQd0fTSfzl4vuhCPl2RV9Ilj2COWjwhMr8Gbu8kXmX6H+pjuq/sP8AcIQZ9oOrplJCEJoM/9k=",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863322/property/25/01_RoofTop_Lounge.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABxAAACAgMBAAAAAAAAAAAAAAAABQQGAgMHARAAAgICAQQCAwEAAAAAAAAAAAECAwQRIQUSFDITIjEzUUEBAQEBAQAAAAAAAAAAAAAAAAUEAwYRAAICAQMFAQAAAAAAAAAAAAECAAMRBBMyEiExYnEi/9oADAMBAAIRAxEAPwCnKvcTKjHhvaZImlGqTEGPk2+V2742X2tgdpJWvUTLVjqXdpIZePNfZxZ70+C3F6LzHGpswZScVvRBZrNtlXHmWJSWQk+BOT9Qm1IXV2yTHPU6k7Zpf0Syj28CtD5UFTD7UwxBEydgGnQFG60z2lkrJv1HtTINEYRsUmLfn+WXsMKoVyS+wcyMwOTLfyrYEuGH1CquC55HUuuyWG0ioYmEpaex9OimGPywbUKoYDycxina2u7RNk3O1d3+s0QrrktyZkoO6bhFcE+rpb4bY7oK7FUFkgutaothGkPxqf6A58BAK9PpDs+85VSNsb2QAEvxiY5S5YXqiVk/qYAFWc1+yxeB+SBh+6LJH8IAOpo4LAbeRgAAUzGf/9k=",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863321/property/25/02_SANCTUARY_HOTEL_EXTERIOR2.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB1AAABBQEBAQAAAAAAAAAAAAAAAwQFBgcCAQgQAAEEAgAFBAMAAAAAAAAAAAEAAgMEBRESISIxMhMzQUIGFnEBAAMBAQEAAAAAAAAAAAAAAAIDBAABBREAAgICAgIDAAAAAAAAAAAAAAERIQIDEjIEMTNBUf/aAAwDAQACEQMRAD8A1OxpkRKbU5CSQVzkBK+LoKjaYnjf1FRuEx1kpK94l5DknUpJjGgkS5ndy9NiI8uILtWaxSA9B2E1EgE+kuTuN3AVBsgtGwHb5bWcVRpZawxuuyEk31OEfxCOvwEr2dvCCo50bhtVrAZOa3MWyOWdz5y7Zj4XuKeYTIvrztJKTk3KCTNWzM5rwOc0qj0cvPNaDHOOtqVymRjs1D1c9KlUZWttA7+UrNxkivTr5a8mbTUlHpbJ+EnHYaZPId1S7WZEFchjuelTj+QXGvOnFNn1BJlUn0AJmaHUELAf2nIj7FCbyAID6pxW8ghCSGibm9lREPuoQk7Ox6Pj/Ex/Y8VCu8yhCb9IhfZnCEIRAH//2Q==",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863321/property/25/03_SANCTUARY_HOTEL_EXTERIOR4.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB5AAACAwEBAAAAAAAAAAAAAAAABgMFBwQCEAACAQMCBAYDAQAAAAAAAAABAgADBAUGEhEiMXETFSEyMzQUQVFSAQACAwEAAAAAAAAAAAAAAAACAwAEBQERAAICAQIGAwAAAAAAAAAAAAACARESAyETIjEyM0FRUmL/2gAMAwEAAhEDEQA/AEjzCtRfaD6S2t8xWQAxbqIzuCBJd5X0ma1RRtJGUTfyPFtqPaQGjlYZZa9EuDMcpLvIAj3YK1tjqjN/IMXexGRYWy/ragoKxUtClm6VQckyG5vHNapzHrGPTtyjE7zHMtRZShplqgfPM3/yYTk/Ktv6IRef5GYz9hJxVK2rWpL8N3CcYxNW5rNsHKDKC2v2oIOaaPpm4o3VFgSN0Nka7rYauquMxlvZXW2HFBgXeMVyqtjXRP0JO2PRSzu/pKPIZ6ys0aknAwVi2O6jRhVmc3ANOq4Yfue7O98DcQZO4fKVz4adTLR9OPTtix6y1yztJQpusFUc0/E8xhKtsfVDHvCFw0Bzc5W9gj9o7qYQgv2SGvkgf736j9piWU+w/eEInQ9jtb0MOl/kj1e/Ce0IQp8hE7BEf3t3MIQjxR//2Q==",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863323/property/25/06_SANCTUARY_HOTEL_superiorqueen.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB3AAACAwEBAAAAAAAAAAAAAAAABQMEBgcBEAACAgEDAwMFAAAAAAAAAAAAAgEDBAURExIhQTIzNBQiMVFSAQEBAQEAAAAAAAAAAAAAAAAFBAIDEQABAwQABAcAAAAAAAAAAAABAAIEAxESIRMUMzQxMjVRUmJx/9oADAMBAAIRAxEAPwCXS8ube1kmqx3qrjeTldN7I8bNsaKc90oX7i4yi5lro7kWsql2K2yLW9vWgi1jLdbSPS9Sme0kOpTF1s9jm6RfE32Atsi4Fwx0TdKF1R2thRs8zdXG4hrx5i7eIH6KzLEBE940l4NAPeC4aaqfDUBc+lj+gDOL9incW/Fc0rtZngdclkqsFLAwLH2do2g0VVSdl2FBXBfhu6HqUi2iathiAp8FuOImRnZej9o/JQbjWOnye4tLvdEG3ZMNj4qWieYAePKmFOBYyy5PMdC7eTVYOPHB0tHgUZ+LCtMEUy5AKThFrXEJFu/7Ak4LAD9e4Smkpo+NAYvuSACVDvULN9KKiu+QN8D31ACur1lNB7Efi3+L6IFep+qAAmldMqqJ1AlQAAKmF//Z",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863322/property/25/08_SANCTUARY_HOTEL_HAVENROOFTOP_2.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB6AAADAQADAQAAAAAAAAAAAAAABQYEAQIHAxAAAgIBAwIFBQAAAAAAAAAAAAECAwQRITEFExIUM0FRFSIyNFIBAAMBAQAAAAAAAAAAAAAAAAIDBAUBEQACAgEBBgcAAAAAAAAAAAABAgADEUEEEhQyUVMTIjM0QlJx/9oADAMBAAIRAxEAPwBv0rqax/cYZPW3dLRM89jOyC2O9ORZ3FqdW5XXJhvQaiFEoMuM53wtZuzbJ5FVUF7HDXdxYz03SFlmc4Qe26AFrq2QZxqkdcERt5qGNXGMnufWNlWTo2yJtyrb9WzvTnSoTTkN2ewoXc8x1iNqqWxUQco0lrrir4A8+l1K3xPd8gO4l+4YjhKu0IyxoV2vk1yoqjJaCjCqtjIqsbAnOHckZygKMATWcs5yTNKkoYyQmtoViZrvsa+wXX3OC0UhRckmH4Y3cazK8R6NIXXY1qlumOsW1zmM1T45pShyNBIAOCQZP5WJUkBlGsj+wvgC5+l1/wAANwOsDfPSIsTlFxi/psAAMd0knmeoxNdyAEo+Up+s1dP9VFhV+UQAtr9AzIv94v5HS4QABPK5/9k=",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863322/property/25/10_SANCTUARY_HOTEL_HAVENROOFTOP_4.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB3AAADAQEBAQAAAAAAAAAAAAAABQYEAwEHEAACAgICAQIHAQAAAAAAAAAAAQIDBBIFESExQxMUFSIyUnEzAQEBAQADAAAAAAAAAAAAAAADBAEAAgURAAICAQMDBQEAAAAAAAAAAAECAAMhBBEyFFFxBRMiMUFC/9oADAMBAAIRAxEAPwCX0jOzd2eSpwcuuqvXZEDTRfkTWrfQ6+RyaNXsy0XKqmR+yX+IMocihX9yM8aorqM/Qxuy7Hh25C950p99sjt1eQUWU0aHBV3lPVRibfa12ZrWse5S67SEOPkWKztTNtt27ScwTe2xY/ccadQQsfLm0kloBP8AdX7IAuqt7Rukp7xdhudSi+ih2nkRjEUwtqijNZyUq5rV+CqxTXhjI6WFvBcygu4211dyfgyLjK/hNnNc85U6SFl/MTUdUCzJsQMmVIlhIJwJs+nteUxVmU3Qfhsacbnxt8Tl6jPMx4yr2ijiKpy2JljMDsuZE65X7MBzpYvbYG7VzpvZMtn4C2QANr+beYXpnBfE8ic7vQAIP0T1f5M78f8A7Q/p9C9qH8AB7OIka8mnAAAGJP/Z",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863323/property/25/14_SANCTUARY_HOTEL_HAVEN_WINTER.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAByAAADAQEBAQAAAAAAAAAAAAAABAUGAwECEAACAgIBAwMFAAAAAAAAAAABAgADBBESBRMyFSFxIjEzQVEBAAMBAQEAAAAAAAAAAAAAAAIDBAYFABEAAgIBBAMBAAAAAAAAAAAAAQIAAxESITEyExRxUf/aAAwDAQACEQMRAD8AwjZ9nd4NNFh4ptUMfsZlMgo94Yf2WvUXqpVUacO2oHRpGCeZo1vezWXbOOJfNKVN5CU8a3GrHJmEx2BbZmZIWx/aaHqWHRTUClkL1yE3aIN2WwFlDI6viN9BYTL9YtrcDjI2WhQhlbc9Ym1F2YdVAGHyYFlp3WK8IRngIS2S7xHCWu5CWb3nlmNcTtW2IhQCktUXhdbiHyjEjeWVotiAM2kxzp6dkcnOjGsvJ7yEKxJi63Ix1Pi62ugbEkIZrM5b5KfAgTuNpyRLGXTiJWXcLOO582dRY7AiCk2XAy5NQGW4nPfSzBV5J5lbuQnQYtmh7QnvZr/RKPQskZIysIQWihGqvIQzvCEIC9hGjqZGT9ztjfnX5hCUWdG+SNe6/Zt18V+BCEJnTNIOBP/Z",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863322/property/25/15_SANCTUARY_HOTEL_LOBBY.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB5AAACAwEBAQAAAAAAAAAAAAAABAIFBgMBBxAAAgICAgEFAAMAAAAAAAAAAAECAwQRBRIhExQiMTIzNFEBAAIDAQEAAAAAAAAAAAAAAAQFAQMGAAIRAAICAAQFBQEAAAAAAAAAAAECAAMREiExBBMiNFEVMkFSYXL/2gAMAwEAAhEDEQA/APkXaUY6ROuc2xymn1Ia15JKiVc/KBS6axmqvlGG0UsrlJbaI1QW9RLZ/ODgkQx8GyE+zRJdAujazqxbmw5YP7ForUtND3ttw2iyqwPPaURidS0oqIMzknQwvNcNxp+TP+jL/QNQuP2k+gHnO3mRzLvsZCvDjTT6igLxwp5UtpaNaq4XJ1r6EMmqWAtoVUcZmbKfcYUacvSdAJn7OIuxn3FrMiyqS3EuJZ8rfDK3JnW99huqFhi4gpIU9LSwxuUp6pSRxv5KrulGJUQw53tupHP2l0L0pJ7KilKscX18S2lrbGVfgmaRcvakvgAuqbNL4gV86nyI79Nq+00mH+0R5z+MAEFPdpBL95j6vtiuYAGvTYRLZ8y+4D8s9yf7gAJeJ7qz+Yw4LdJYr6QAAsmhn//Z",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863325/property/25/20_SANCTUARY_HOTEL_TENDER.jpg"
+		}
+	],
+	"multimedia": [
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIAB4AMgMBIgACEQEDEQH/xABrAAACAwEAAAAAAAAAAAAAAAAFBgACAwQQAAICAQQBBAMAAAAAAAAAAAABAgMEERIUUSETIiMyJDFSAQADAQEAAAAAAAAAAAAAAAABAgUABBEAAgIDAQEAAAAAAAAAAAAAAAIBAxEUURMh/9oADAMBAAIRAxEAPwDdYMujVYEugpm5MKfroUxM6uyL3Fvd+4JGs+Mg14Uuijw30F3dGT8FLLNGtBtyMi69mAS8OXRi8R9DJTOvZ7inw79fAdxTRRbwXOHLog0/jdog24gPG3gi35/rR+2rOnCk9urYApqUZJthN5OxJRRDrsaWzKxJTZZiMZGCu1L9s3nbCWnkWuVJonKmUURGjMqcjvYs4hg9da9vtZxu2z+gY8uZhLJmx4pq4L629C3Kn2QC+vIgfCnkje1h/9k=",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1484058511/property/25/iStock-531266746.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABzAAACAwEBAQAAAAAAAAAAAAAABgQFBwECAxAAAgIBBAICAwAAAAAAAAAAAQIAAwQFERIhEzNRcTI0YQEAAwADAQAAAAAAAAAAAAAAAgMEAAEFBhEAAgICAgIDAQAAAAAAAAAAAAECAxESBDEyUSFBYYH/2gAMAwEAAhEDEQA/AImmZx5BWbqOVNuPw727mUpcKmABl6me3BQGlS5k1DGSSfArlZtqh7srrWl3WKNudZXZxHzLTGy3fHKkyrtoD2RdvJdmcsKnhwqaxFZRMLm6rdooamyq56jmqBau4naoyeRupw3LM2ehoqVdaKHy/wAhO8l+IQ/j0F/TyvMNuQZb49oYqJJ05sLLYgkCS7kxKX41bEy/aCj+nLxOUl6JtbsFHExo0rFF43YRPrsVdhvHTRrwAO4lZlljpRVaS+zmfimlW2ma6kR5Wmt6mRZQxHxMa1Nj5n+5K62pstrtTrIHUJG5QjNQd0fTSfzl4vuhCPl2RV9Ilj2COWjwhMr8Gbu8kXmX6H+pjuq/sP8AcIQZ9oOrplJCEJoM/9k=",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863322/property/25/01_RoofTop_Lounge.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABxAAACAgMBAAAAAAAAAAAAAAAABQQGAgMHARAAAgICAQQCAwEAAAAAAAAAAAECAwQRIQUSFDITIjEzUUEBAQEBAQAAAAAAAAAAAAAAAAUEAwYRAAICAQMFAQAAAAAAAAAAAAECAAMRBBMyEiExYnEi/9oADAMBAAIRAxEAPwCnKvcTKjHhvaZImlGqTEGPk2+V2742X2tgdpJWvUTLVjqXdpIZePNfZxZ70+C3F6LzHGpswZScVvRBZrNtlXHmWJSWQk+BOT9Qm1IXV2yTHPU6k7Zpf0Syj28CtD5UFTD7UwxBEydgGnQFG60z2lkrJv1HtTINEYRsUmLfn+WXsMKoVyS+wcyMwOTLfyrYEuGH1CquC55HUuuyWG0ioYmEpaex9OimGPywbUKoYDycxina2u7RNk3O1d3+s0QrrktyZkoO6bhFcE+rpb4bY7oK7FUFkgutaothGkPxqf6A58BAK9PpDs+85VSNsb2QAEvxiY5S5YXqiVk/qYAFWc1+yxeB+SBh+6LJH8IAOpo4LAbeRgAAUzGf/9k=",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863321/property/25/02_SANCTUARY_HOTEL_EXTERIOR2.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB1AAABBQEBAQAAAAAAAAAAAAAAAwQFBgcCAQgQAAEEAgAFBAMAAAAAAAAAAAEAAgMEBRESISIxMhMzQUIGFnEBAAMBAQEAAAAAAAAAAAAAAAIDBAABBREAAgICAgIDAAAAAAAAAAAAAAERIQIDEjIEMTNBUf/aAAwDAQACEQMRAD8A1OxpkRKbU5CSQVzkBK+LoKjaYnjf1FRuEx1kpK94l5DknUpJjGgkS5ndy9NiI8uILtWaxSA9B2E1EgE+kuTuN3AVBsgtGwHb5bWcVRpZawxuuyEk31OEfxCOvwEr2dvCCo50bhtVrAZOa3MWyOWdz5y7Zj4XuKeYTIvrztJKTk3KCTNWzM5rwOc0qj0cvPNaDHOOtqVymRjs1D1c9KlUZWttA7+UrNxkivTr5a8mbTUlHpbJ+EnHYaZPId1S7WZEFchjuelTj+QXGvOnFNn1BJlUn0AJmaHUELAf2nIj7FCbyAID6pxW8ghCSGibm9lREPuoQk7Ox6Pj/Ex/Y8VCu8yhCb9IhfZnCEIRAH//2Q==",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863321/property/25/03_SANCTUARY_HOTEL_EXTERIOR4.jpg"
+		},
+		{
+			"thumbnail":
+				"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB0AAADAAMBAQAAAAAAAAAAAAAABQYCBAcDARAAAgIBAwQBBQAAAAAAAAAAAAECAwQFERITITEzBhQjMlFSAQEBAAIDAAAAAAAAAAAAAAADBQAEAQIGEQACAQMFAQEAAAAAAAAAAAAAAQIEERIDBSEyUTFB/9oADAMBAAIRAxEAPwCT0+roLsjYthY5dojbFxlxXYMvIpxEuSCxV2x8m0keGP8Ab22R7ZUXdEzx515KUoIcV4PVWyfcCThB5P8ADYgnJNEBmYSiuQlntts2W2s4k8eLTIK3kps2NGeSyTuBqwUeD5xiBgA+T8BxXp1aucYRJXWrXfJKIxuy1VUIZ2Ts3agwebiONig0OXGCiyzxbIQujvI5bRm248vGw4ozb7bIy5Mn1UHKEruxVotPP4rlL8lStW8TmmTT52RZZuTOVT5kdPKSsaZlBJ4qLZlfTLRSYv6Fn6AYfWQ/kCtx6RuRrf8Aijbo9QAcCSFGT7Bpp3lABKrurL209jb1L1MhLPYwA6bd1M3b6YAAFc8+f//Z",
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863326/property/25/031_SANCTUARY_HOTEL_EXTERIOR3.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863321/property/25/04_SANCTUARY_HOTEL_EXTERIOR7.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863323/property/25/05_SANCTUARY_HOTEL_EXTERIOR.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863323/property/25/06_SANCTUARY_HOTEL_superiorqueen.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863324/property/25/07_fireplacenew.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863322/property/25/08_SANCTUARY_HOTEL_HAVENROOFTOP_2.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863323/property/25/09_SANCTUARY_HOTEL_HAVENROOFTOP_3.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863322/property/25/10_SANCTUARY_HOTEL_HAVENROOFTOP_4.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863321/property/25/11_SANCTUARY_HOTEL_HAVEN_ROOFTOP.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863322/property/25/12_SANCTUARY_HOTEL__Tender_Bar.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863323/property/25/13_SANCTUARY_HOTEL_FRONT_DESK.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863323/property/25/14_SANCTUARY_HOTEL_HAVEN_WINTER.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863322/property/25/15_SANCTUARY_HOTEL_LOBBY.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863324/property/25/16_SANCTUARY_HOTEL_LOBBY2.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863324/property/25/17_SANCTUARY_HOTEL_Tender_Bar__Grill.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863325/property/25/18_SANCTUARY_HOTEL_Tender_Bar__Grill5.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863325/property/25/19_SANCTUARY_HOTEL_Tender_Bar.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863325/property/25/20_SANCTUARY_HOTEL_TENDER.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863326/property/25/21_SANCTUARY_HOTEL_TENDER2.jpg"
+		},
+		{
+			"url":
+				"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476863326/property/25/22_SANCTUARY_HOTEL_TENDER3.jpg"
+		}
+	],
+	"region": "Etats-Unis",
+	"resort": "New York",
+	"restaurant": {
+		"facilities": [
+			"Le petit-déjeuner continental est servi dans le salon du petit-déjeuner ",
+			"Le Haven Rooftop est ouvert de midi à 23h30",
+			"Le Tender Restaurant \u0026 Lounge est ouvert de midi à 23h30",
+			"La réservation en ligne est possible",
+			"Formule petit-déjeuner comprise dans l’offre"
+		],
+		"headline": "Restaurants \u0026 Grill",
+		"intro": [
+			"Du généreux petit-déjeuner, inclus dans l’offre, au copieux dîner où se côtoient sushis et pièces de viande, Le Sanctuary Hotel New York invite vos papilles à voyager. En plus de son restaurant réputé de Midtown, le Tender Restaurant \u0026 Lounge, l’hôtel dispose d’un bar sur le toit-terrasse pour déguster des cocktails en contemplant la vue offerte."
+		],
+		"restaurants": [
+			{
+				"name": "Le Tender Restaurant",
+				"paragraphs": [
+					"Dans une ambiance feutrée, où les bougies éclairent la pièce, le Tender Restaurant sert une cuisine raffinée et innovante, fusion entre un steak house et un bar sushis. Laissez vos papilles voyager en savourant carlifornia rolls, des crevettes tempura ou bien des frites aux truffes."
+				],
+				"photo": {
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAgICAgJCAkKCgkNDgwODRMSEBASEx0VFhUWFR0sHCAcHCAcLCcvJiQmLydGNzExN0ZRREBEUWJYWGJ8dnyiotkBCAgICAkICQoKCQ0ODA4NExIQEBITHRUWFRYVHSwcIBwcIBwsJy8mJCYvJ0Y3MTE3RlFEQERRYlhYYnx2fKKi2f/AABEIACEAMgMBIgACEQEDEQH/xAB7AAACAwEBAAAAAAAAAAAAAAAABQIEBgMHEAACAgIBAwMFAAAAAAAAAAAAAQIDBBEFEhMhBjEyFCIzNFEBAAIDAQAAAAAAAAAAAAAAAAQFAAMGAREAAQMCAwYHAAAAAAAAAAAAAQACAxESBCFREyIxNFJhFTJBQ3Fykf/aAAwDAQACEQMRAD8A8X6pRikidU7G/YvUUdyGteSUceVc/KBC9meqatbJaKVoqdlUpLcokKYLeojh7nBwSIY3H2Qn1NHS9gbk7NSMS302QPdVYLUtNDB4u4bQ0p47z1SgWrKlpRUQVzyTkUXdOOIoOyzfZn/QNYuN2k+gDl51U2s3Uf1QrwYU09xQK0cCeVPaWjZKqu5SrXsxdlVTwFtCbD4251p85Rhgt3TkAs5bwt+NLrKluTbVJbiO5cjO3wxXlTre+octY5wBeEI4hp3XJli8tR0JSS2cMjlKe4lGKE1eFZe26kcvo74XpST2VGOBrzV+eithdLI5raZErULmbUku2BXVNml9oFe3h1CfeFw9S1OD80Q5/wDEAGdg5xiCxHE/CxNPyZUzQA2jOASOT1Wh9O/Fksv94AEWK5uX6JjgfbTJeyAAFS0y/9k=",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/v1477072850/property/25/restaurant/image_25_v3.jpg"
+				}
+			},
+			{
+				"name": "Le Tender Lounge",
+				"paragraphs": [
+					"Dans un cadre plus cosy et convivial, le Tender Lounge vous invite à déguster les plats simples, mais sophistiqués, dans une ambiance décontractée. La carte comporte également les délicieux sushis servis au restaurant."
+				],
+				"photo": {
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB1AAADAQEBAAAAAAAAAAAAAAAABQYEAwcQAAICAgEDAwUAAAAAAAAAAAABAgMEEQUSEzEUNHEGFTJCUgEAAgMBAAAAAAAAAAAAAAAAAwQAAgUBEQACAgECBwADAAAAAAAAAAAAAQIDERJBBBMhIjEyUiNCUf/aAAwDAQACEQMRAD8AmLYYqSlCOmcs25WYyTRheZWrPO0bMiyu3HXR5Myvh25dz8G/ZxMYQ7VnInqxbrPEXoyX41sJtdLH9PIOiKTgjPZnqyTfbHIuCWMCn5X1bSEPprnHaiaKeHyr47jBjL1ijFpxNVHPPFrcYpHHNfqit1c8dJZEn2DL/hgNX9S278Ac13fKENFn8QrjXXBbcjusmMY6QprVtg/weKne47RRwe8maasjhYiY1KzIlqMRlCEqa2nVtldi8HXjVdySFmXmY1c+hpBaVB9MgbZSexIWNTsamtC+/ojPSZfV8bRmQc9CLO4Pt7cSOyuMtLJyrJR1J5ZJ7AYPj7ACc2j6A8q74NGD4RecT+gAAe4avYrsn2kvg8g5H3b+QArT5JaW3E+3XwGf+DAAN/uxyj0RMPywABcIf//Z",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/v1477072850/property/25/restaurant/image_25_v4.jpg"
+				}
+			},
+			{
+				"name": "Le Haven Rooftop",
+				"paragraphs": [
+					"Depuis le toit-terrasse de l’hôtel, délectez-vous d’une cuisine américaine moderne et de plats aux inspirations françaises. Niché au cœur des gratte-ciels, cet espace permet de terminer la journée un cocktail aux saveurs exotiques à la main."
+				],
+				"photo": {
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB6AAADAQADAQAAAAAAAAAAAAAABQYEAQIHAxAAAgIBAwIEBwAAAAAAAAAAAAECAwQRITEFExIzQVEUFSIyNFJxAQADAQEAAAAAAAAAAAAAAAACAwQFAREAAgIBAQcFAAAAAAAAAAAAAQIAAxFBBBITFDJRUyIzNFJx/9oADAMBAAIRAxEAPwBv0rqax/UYZPW3dLRM89jOyC2O9ORZ3FqdW5XXJhvQaiFEoMuM53wtZuzbJ5FVUV6HDXdxYz03SFluc4Qe26AFrq2QZxqkdcERt8VDGrjGT3PrCyrJ0bZE25Vt+rZ3pzpUJpyG7PYULueo6xG1VLYqIOkaS11xV7AefS6lb4nu+QHcy/kMRylXiEZY0K7Xya5UVRktBRhVWxkVWNgTnDuSM5QFGAJrOWc5JmlSUMZITW0KxPQ132NfQLr7nDZSFFySYfDG7jWZXiPRpC67GtUt0x1i2ucxmqfHNKUORoJABwSDJ/SxKkgMo1kf2F7AXPyuv9AG4HeBvntEWJyi4xfw3/AAA6xx0knmeYxNdyAEo1lH1mrp/mosKvuiAFtfsGZN/wAxfyOlwgACeVz/2Q==",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/v1477072850/property/25/restaurant/image_25_v5.jpg"
+				}
+			}
+		]
+	},
+	"transportPartnership": {
+		"label": ""
+	},
+	"tripadvisor": {
+		"awardURL":
+			"https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-18065-5.jpg",
+		"num_reviews": 3741,
+		"rating": 4.5,
+		"ratingURL": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-18065-5.png"
+	},
+	"usefulInformations": {
+		"goodtoKnow": [
+			"Si vous voyagez seul(e), un supplément tarifaire en chambre individuelle vous sera demandé, ce supplément sera calculé directement dans votre devis.",
+			"Les tarifs enfant seront appliqués pour les enfants de 2 à 12 ans au cas ou l’enfant partage la chambre avec deux adultes. Dans le cas où l’enfant voyage seul avec un adulte son tarif pourra être appliqué sur une base adulte. Si votre (vos) enfant(s) ou bébé(s) ne rentrent pas dans les tranches d'âges ci-dessus, le tarif appliqué vous sera communiqué au moment du traitement de votre commande. Lorsque la chambre dispose d’un lit superposé, le couchage en hauteur ne convient pas aux moins de 6 ans.",
+			"Pour des raisons de sécurité, les installations de bien-être de la plupart des établissements ne sont pas accessibles aux moins de 16 ans. De même, il est possible que certains aménagements ou services soient payants en supplément ou indisponibles pour des raisons exceptionnelles. ",
+			"Les horaires des restaurants et des bars sont donnés à titre indicatif, et sous réserve de modification. Contactez la réception pour connaître tout changement. Notez que l’abus d’alcool est dangereux pour la santé, à consommer avec modération.",
+			"Vous devrez être majeur et accompagné d’une pièce d’identité pour entrer dans les casinos, de plus une tenue correcte est exigée. Nous vous rappelons que jouer peut comporter des risques d’isolement, d’endettement, de dépendance… Composez le 09 74 75 13 13 (non surtaxé).",
+			"L’hôtel n’est pas accessible aux personnes à mobilité réduite."
+		],
+		"transport": [
+			"Pour un séjour incluant le vol, vous aurez la possibilité de choisir la compagnie aérienne, régulière ou low cost, ainsi que vos horaires de vol. Selon vos envies, vous pourrez opter pour un siège en classe Affaires ou en Première Classe.",
+			"Consultez la rubrique « afficher les infos de vol » pour connaître chaque détail du voyage.",
+			"Afin d’organiser au mieux votre passage à l’aéroport, nous vous conseillons de vous présenter 2h avant l’embarquement pour un vol moyen-courrier, ou 3h avant si votre vol dure plus de 5h. Profitez de votre avance pour effectuer les contrôles de sécurité et enregistrer vos bagages. ",
+			"Vous serez informés si vos bagages sont inclus ou non au moment de votre réservation. Assurez-vous de respecter la politique bagages des compagnies low cost et régulières. Vous aurez l’opportunité d’ajouter des bagages additionnels sous réserve de payer un supplément. Attention, certains repas et autres prestations à bord peuvent être payants.",
+			"Plusieurs villes de départ vous sont proposées : Paris, ville de  Province, Bruxelles, Luxembourg, Bâle, Genève \u0026 Zurich.  Votre destination d’arrivée sera affichée dans vos documents de transport.",
+			"En fonction des horaires de vol, certaines arrivées ou retours peuvent s'effectuer de nuit avec une arrivée matinale ou un départ tardif, les clients ne pourront pas toujours disposer de leur chambre immédiatement et devront se référer au conditions du check-in et check-out de l’hôtel. ",
+			"Dans le cas ou le transfert n’est pas inclus dans votre réservation d’hôtel, il vous sera proposé en supplément au moment de votre réservation.",
+			"Important : Les billets d’avion ne sont ni échangeables ni remboursables sauf si vous avez souscrit une assurance, dans ce cas veuillez vous référer aux conditions générales de vente.",
+			"Merci de bien vouloir prendre connaissance de l’emission de CO2 emise par le moyen de transport selectionné : http://eco-calculateur.aviation-civile.gouv.fr/"
+		],
+		"travelDocuments": [
+			"Une fois votre réservation effectuée, vous recevrez un e-mail de confirmation qui précédera l’envoi de vos documents de voyage. ",
+			"Les documents de transport (dans le cadre d’une réservation avec transport) vous seront transmis sous forme de billet électronique ou de convocation à imprimer, vous permettant ainsi de partir sereinement. L’heure et le lieu de départ ainsi que les informations sur l’enregistrement et les bagages vous seront communiqués dans les documents de transport. ",
+			"Pour profiter de toutes vos prestations réservées, (hôtels, transferts, activités...), vous recevrez un ou plusieurs bons d’échange à présenter obligatoirement à chaque fournisseurs.",
+			"Les coordonnées de l’établissement seront précisées sur ces documents, afin de faciliter au mieux votre arrivée à destination."
+		],
+		"formalities": {
+			"intro":
+				"\u003cp\u003eLes précisions suivantes valent pour tout ressortissant français qui, au cours d'un voyage vendu par PerfectStay se rend dans un pays étranger.\nVeuillez-vous référer aux informations ci-dessous quant aux formalités de voyages relatifs à chaque destination (documents d'identification, vaccins, VISA, conseils aux voyageurs).\nPour plus ample information, se reporter aux sites suivants :\n\u003ca href=\"http://www.diplomatie.gouv.fr/fr/\"\u003ewww.diplomatie.gouv.fr\u003c/a\u003e\n\u003ca href=\"https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html\"\u003eAriane\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eEn cas de problème sur place, veuillez prendre contact avec l'ambassade ou le consulat suivant :\u003c/p\u003e\n\n\u003cp\u003eConsulat général de France à New York\n934 Fifth avenue\nNew York\nTel : +1 212 606 36 00\nCourriel : chancellerie@consulfrance-newyork.org\nSite Web : \u003ca href=\"http://www.consulfrance-newyork.org/\"\u003eConsulat général de France à New York\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eConsulat général de France à Miami\nEspirito Santo Plaza, Suite 1050, 1395 Brickell Avenue\nMiami\nTel : +1 305 403 41 50\nCourriel : francais.miami-fslt@diplomatie.gouv.fr\nSite Web : \u003ca href=\"http://www.consulfrance-miami.org/\"\u003eConsulat général de France à Miami\u003c/a\u003e\u003c/p\u003e\n",
+			"identity":
+				"\u003cp\u003eLe programme d'exemption de visa :\nA condition de détenir un passeport conforme aux critères définis par les Etats-Unis (cf. tableau explicatif sur le site http://french.france.usembassy.gov/visas/besoinvisa.html) et d’obtenir une autorisation électronique de voyage (ESTA), le programme d’exemption de visa (Visa Waiver Program - VWP) permet aux ressortissants français d’accéder sans visa au territoire américain, soit en transit, soit pour un séjour touristique ou d’affaires de 90 jours maximum (s’entendant par la possibilité de signer des contrats, de passer des commandes, de participer à des séminaires ou de rencontrer des clients).\nNB : le passeport d’urgence ne permet pas d’entrer aux Etats-Unis sans visa.\u003c/p\u003e\n\n\u003cp\u003ePour un séjour aux Etats Unis, il est impératif de se munir du formulaire ESTA. Valable deux ans, il doit être remplis au plus tard 72h avant la date de départ. Chaque demande d'autorisation ESTA est individuel, il n'existe pas d'ESTA de groupe. L'ESTA est payant à hauteur de 14 USD, la demande se fait sur le site suivant :  https://esta.cbp.dhs.gov/esta/\u003c/p\u003e\n",
+			"vaccine":
+				"\u003cp\u003eUn voyage aux Etats-Unis peut être l’occasion de mettre à jour ses vaccinations, en particulier la vaccination diphtérie-tétanos-poliomyélite (+/- coqueluche).\u003c/p\u003e\n\n\u003cp\u003eZika :\nDes cas locaux de maladie à virus Zika ont été signalés par les autorités sanitaires de Miami, Miami Beach, de Porto Rico et des îles Cayman . Des cas de maladie liés à des voyages à l’étranger dans des zones infectées ont également été signalés. Cette maladie est transmise par les piqûres de moustiques de type Aedes. Des cas de transmission du virus par voie sexuelle ont également été rapportés.\nIl est recommandé aux femmes enceintes, ou ayant un projet de grossesse, souhaitant se rendre dans des zones où sévit le Zika, d’envisager un report de leur voyage ou de consulter préalablement un médecin pour être informées des complications pouvant survenir lors d’une infection par le virus Zika. Si elles ne peuvent ou ne veulent différer leur voyage, elles doivent renforcer les mesures de protection antivectorielles et les bonnes pratiques relatives à l’utilisation des produits insecticides et répulsifs.\nLe ministère des Affaires étrangères et du Développement international rappelle néanmoins que la décision d’annuler ou de maintenir un voyage à l’étranger appartient au seul voyageur.\nIl est notamment recommandé à tous de consulter un médecin en cas de fièvre survenant pendant le voyage ou dans les semaines qui suivent le retour en France.\u003c/p\u003e\n",
+			"visa":
+				"\u003cp\u003eUn voyageur n’entrant pas strictement dans le cadre du VWP ou n’ayant pu obtenir l’ESTA doit solliciter un visa.\nLa famille pouvant accompagner un détenteur de visa s’entend uniquement aux Etats-Unis comme le conjoint marié et les enfants célibataires. Le conjoint de fait, y compris pacsé, n’est pas reconnu par les services d’immigration américains et doit soit voyager dans le cadre du VWP dans les conditions mentionnées ci-dessus, soit faire une demande de visa qui sera traitée individuellement. Une exception existe uniquement pour les partenaires de même sexe des détenteurs de visas A ou G.\u003c/p\u003e\n"
+		}
+	},
+	"included": {
+		"AO": [
+			"Hébergement en chambre supérieure queen bed",
+			"Formule petit-déjeuner continental",
+			"Durée de séjour sélectionnée",
+			"Taxe de 14,75% incluse",
+			"Wi-Fi Gratuit",
+			"Offre VOL+HOTEL :",
+			"Prestations de l'offre HOTEL SEUL indiquées ci-dessus",
+			"Les vols spéciaux ou réguliers aller-retour France, Bruxelles, Genève à destination de New York",
+			"Les taxes aéroport obligatoires"
+		],
+		"FA": [
+			"Prestations de l’offre HOTEL SEUL indiquées ci-dessus",
+			"Vols spéciaux ou réguliers aller-retour France, Bruxelles, Genève/Thessalonique",
+			"Accueil et l’assistance à l’aéroport d’arrivée",
+			"Transferts aller-retour aéroport/hôtel",
+			"Taxes aéroport obligatoires"
+		]
+	},
+	"notIncluded": {
+		"AO": [
+			"Les transferts aéroport/hôtel/aéroport",
+			"Les assurances personnelles facultatives",
+			"Les dépenses de nature personnelle",
+			"Les excursions réservées auprès de nos représentants locaux",
+			"Le port des bagages",
+			"Repas et boissons non mentionnés",
+			"Les vols, les transferts, l'accueil à l'aéroport, l'assistance et les taxes aéroportuaires si vous avez réservé l'offre HOTEL SEUL",
+			"La taxe de séjour à régler sur place : $3,50/chambre/nuit",
+			"Et tout ce qui n'est pas mentionné dans \"Le prix inclut\""
+		],
+		"FA": [
+			"Vols, les transferts, l’accueil à l’aéroport, l’assistance et les taxes aéroportuaires si vous avez réservé l’offre HOTEL SEUL",
+			"Et tout ce qui n’est pas mentionné dans \"Le prix inclut\""
+		]
+	},
+	"startAt": 1510617600000,
+	"merchandisings": ["CLUBMED"],
+	"endAt": 1546214400000,
+	"includeOfferWithFlight": true,
+	"fromPriceType": {
+		"type": "FROM_PRICE_TYPE_FROM",
+		"value": "340",
+		"numberOfNights": 4,
+		"publicPrice": "560"
+	},
+	"uri": "sanctuary-hotel-new-york",
+	"marketingDestination": "New York",
+	"strapLine": "Boutique Hôtel 4* au cœur de Manhattan",
+	"propertyType": "City",
+	"contractType": "Hotel"
+}

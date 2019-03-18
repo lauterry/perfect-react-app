@@ -1,0 +1,684 @@
+{
+	"address": {
+		"Address1": "Herdade dos Salgados Resort",
+		"City": "Guia",
+		"Postcode": "8200",
+		"Country": "Portugal"
+	},
+	"accommodation": {
+		"intro": {
+			"headline": "Votre Hôtel",
+			"intro": [
+				"Mettez le cap sur les paysages ensoleillés du Portugal et découvrez l’hôtel Salgados. Au cœur d’une petite ville portuaire, reconnue pour ses plages paradisiaques et sa scène cosmopolite, vous serez complètement charmé par l’ambiance relaxante et le décor luxueux de ce somptueux hôtel. Profitez de la vue grandiose sur l’océan azur et de l’air marin pour vous ressourcer. Faites le plein d’énergie sur une bande sable immaculée, située à 11 minutes à pied. Ou bien, aimez ne rien faire au bord de l’une des grandes piscines de l’hôtel, à l’ombre des palmiers."
+			]
+		},
+		"type": {
+			"accommodationTypes": [
+				{
+					"aera": 41,
+					"label": "Double Room Pool View",
+					"description": "La chambre standard avec vue mer est parfaite pour accueillir un couple ou une famille. Elle offre tout le confort et le luxe nécessaires pour une détente maximale dans un décor épuré, contemporain et lumineux. Votre chambre vous offrira une superbe vue sur l'une des 3  piscines de l'hôtel, que vous apprécierez d'autant plus depuis votre balcon.",
+					"photo": {
+						"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAByAAADAQEBAQAAAAAAAAAAAAAABQYEAwIHEAADAAIBBAICAwAAAAAAAAAAAQIDBBEFEiExFEEyURUWUgEAAgMBAAAAAAAAAAAAAAAAAgMAAQQFEQACAgEDBQEAAAAAAAAAAAAAAQIRAwQSQRMhIjFhMv/aAAwDAQACEQMRAD8AlsbqH3fQ5wbcNJNiZ5HOKpaE7y5Zp8NlRyR0+xwldruHTndov5yw/s7TckFG7nn7G+vtZ7jl8hTzxycFpOJUfImRhrbdcpIjZ2q58plJ091llNI5+bdwhsSlWxf7AwcZv8gZNmT6HuiRNaVWvQfw89jpja9vWxLzSFO11ZWnEBwyT7eJKTEWXDGLN2tlN0/40wlXBKZU7vu5N2o6fCdDnkaVp0TYV+WenRDfjkx6fWMWtlc/RlWurnzQu2OnNNuWXDUpugJYmXP9h1QPm/xNj9sB/Wh8FdJnXb/Ni5+wAzw/I5ezrBr1/wAwAXPkaUOL0j3foAER9kZnAAHAH//Z",
+						"url": "https://res.cloudinary.com/perfectstay/image/upload/v1478192462/property/35/accommodation/image_35_v2.jpg"
+					},
+					"accommodationID": 68,
+					"occupancies": [
+						{
+							"adults": 1,
+							"children": 0
+						},
+						{
+							"adults": 1,
+							"children": 1
+						},
+						{
+							"adults": 1,
+							"children": 2
+						},
+						{
+							"adults": 2,
+							"children": 0
+						},
+						{
+							"adults": 2,
+							"children": 1
+						},
+						{
+							"adults": 2,
+							"children": 2
+						}
+					]
+				}
+			],
+			"facilities": [
+				"Télévision à écran plat",
+				"Lit King Size",
+				"Minibar",
+				"Coffre fort",
+				"Wi-Fi gratuit",
+				"Téléphone",
+				"Balcon",
+				"Air conditionné",
+				"Machine à café Nespresso ",
+				"Entrée privée",
+				"Salle de bain avec sèche-cheveux et produits de toilette"
+			],
+			"headline": "Chambre",
+			"paragraphs": [
+				"L’hôtel Salgados aime vous recevoir dans un endroit intime et confortable, pour une parenthèse sereine. Les chambres sont spacieuses et conçues pour vous assurer un repos bien mérité, dans un environnement moderne."
+			]
+		},
+		"facilities": [
+			"Réception ouverte 24h/24",
+			"Excellente connexion Wi-Fi, gratuite",
+			"Parking gratuit",
+			"Bagagerie",
+			"Service de change",
+			"Chambres non-fumeurs ",
+			"Service en chambre",
+			"Service de baby-sitting",
+			"Chaises longues au bord des piscines"
+		]
+	},
+	"activity": {
+		"facilities": [
+			"Spa avec piscines et bain à remous",
+			"Salle de fitness",
+			"Kids club avec animateurs certifiés",
+			"Chaises de plage et transats",
+			"Quatre piscines extérieures",
+			"Bar au bord de la piscine",
+			"Musiciens et spectacles"
+		],
+		"intro": [
+			"Laissez-vous guider par le personnel du Salgados Palace pour un séjour des plus divertissants au bord des magnifiques plages du Portugal.",
+			"Confiez vos enfants aux bons soins des animateurs de l’aqua-club réservé aux petits et profitez de l’espace détente de l’hôtel en toute tranquillité. Son spa vous permettra de vous détacher petit à petit de la routine et de vivre des expériences sensorielles incroyables. Prenez un moment pour jouer une partie de golf sur le grand terrain aménagé tout près de l’hôtel, puis détendez-vous devant un film dans la salle de spectacles. Quel bonheur d’oser se laisser aller dans un cadre à nul autre pareil."
+		],
+		"label": "Activités & Lifestyle"
+	},
+	"bookableExtras": {},
+	"category": 5,
+	"country": "Portugal",
+	"destination": {
+		"label": "Algarve",
+		"photo": {
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABzAAACAwEBAAAAAAAAAAAAAAAAAwEEBgUCEAACAQQBBAMAAAAAAAAAAAAAAQIDBBRRMRESEyEFIjIBAAEFAQAAAAAAAAAAAAAAAAYAAQIDBAURAAICAQIGAwAAAAAAAAAAAAABAgMEBUIREhMhMVEUIjL/2gAMAwEAAhEDEQA/AKqt2e8d6NHhJHtWkWGT1Clb0C6xbnsZmcd6DwPRppWkYkK0ixLUaHvQ7xblsZm/AyHQZp8JEOyiTWbW/DK3TP0ZfGYGlw0A/wAqBHozOtXpSUWznQ71L2yrcfKykn0Zzo30m/bAGePkzXFSCx52PF9omiqTio8nKq3U4r6i8pNci3VgymrDyefjKTFdqNKj9YouZdRwQiV3V2JdZdBMqiCfCXSqUZd2DmVkO21yXYfl1dgU+9AbOpD0ZeeXtiKn5K8eQA5EPydGZbXBKACUSmZ7FSADREyy8iwAC0if/9k=",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/v1477598150/destination/resort/126/image_126_v1.jpg"
+		},
+		"paragraphs": [
+			"Bordée par l’océan Atlantique, l’Algarve dévoile ses plages sublimes et ses villages chargés d’histoire. Située dans le sud du Portugal, cette région offre des paysages remarquables, avec des falaises escarpées et du sable blond qui s’étendent sur 155 kilomètres de côtes. Baignée de soleil, la région portugaise invite au dépaysement et au repos, entre une nature généreuse et une histoire riche et fascinante. De Lagos à Faro, de Tavira à la plage de Marinha, l’Algarve se découvre avec curiosité et émerveillement."
+		]
+	},
+	"experiences": [
+		{
+			"label": "Croisière d'observation des dauphins et visite des grottes d'Albufeira",
+			"photo": {
+				"thumbnail": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAhCAMAAACsowi2AAAATlBMVEV7kZ9ecXxZa3VleIRqf4xshZhwhJBxiZp2jZ1ndXxOY26BlaGLm6NEWWVkgphTW2BMUldaZGpwfYRia3Fee5BRa3qGkZR7iI6epKNARkuha0vsAAACdUlEQVQ4y12VCZbjIAxEhcEQHMf7Et//olMlgeMe0c+v4+hToC3SH9Ht++5DTGqvl4i81eSV2mHbhqHF29uSAPFud0DUCqOUkKElRfjAnq0cZwze+y2YRX4h1dTH/M24gZwxhrAp4R3F1ONG7E8ZFWzDIDhMABRJNA2Y9APkP7nWVEIBQMzdODceMrxKdX7bv+VohCTYmXx28zhNn9mF+KoRkxq8m2FYxdMyzgTiuq5xzstZkB9UkNhiEck/4LqmcQVzvN993zMzj0ik1vIgPoNZeajryRxEkIAlnhYzjVgIQwiy0JQpyDTO63KeR38c55JzXmKsKUE2sOSgnYvqTCSUUaGTW61rRkQ1JcMwANnk+MLwNYXGiZxCmeJ8BR7JCiTaAcDm5WtGZp1JTVUIL/iRUFaGOmAq0usxFBoLs662AxkPJBVGjv5bjoYoPJSMmYuO89EigPvo9fujEGTMj1uvVVaRthamIJxYBSBT/XibossIxlpjSeIZT2bGucY5l9UtN3Cbm+w1Z7TSE4lLtAY8C58GRnn9AIQ1jhfRyts6WdqWrYJe3rsCseiUYcdZf6dH64hoTrcNE6OjqScfxnuF0vl6MsMD+Xw+nYFlhwqlPxPhh3yKjQSfopw+6TESboQan8koIA2Y0YRupvT1jdD1Ug1Dmqbr5g6xbgy5R2JBikg5mO0NaC4xDErAvUe3FsTZ5U2BiFNbsTLSEyPnQW92I0XGLtBpUpEfPpjQB2HIsGkqf8ZzMaVKePb/E9HOCWBcszfVdubDLzawcBMi/Y1ogXKSW9KrAdCJSFIv/1B5sdowl72VMnw3LCuUWH4NbH4W4vsPSiI+hzhmjYcAAAAASUVORK5CYII=",
+				"url": "https://res.cloudinary.com/perfectstay/image/upload/v1478172784/destination/resort/126/experience/126/image_191_v1.png"
+			},
+			"paragraphs": [
+				"Vivez des moments chargés d’émotion en partant observer les dauphins qui nagent au large des côtes de l’Algarve. Partez ensuite visiter les grottes d’Albufeira, une merveille de la nature façonnée par l’océan au cours de millénaires."
+			]
+		},
+		{
+			"label": "Déguster un plat de fruits de Mer au bord de la plage",
+			"photo": {
+				"thumbnail": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAiCAMAAAAqN3oYAAACHFBMVEURExqUiIaosssiIy2zlm98Ry6ThX8UFxpyXj1vVjqEQSmgYEGMekt2ZkKqkFyOeVeIOiikXUKclIsUFR8jICKPNimfPi6gSjOnY0dxTjKiUTiNXD6ulHKWl6NsXksYGSRkTTKiZUeah357QCeaXT+QYkWaeFSUm6+jjG2Sjpd7bUmIgngtKCjHpVakVz+DPSZrTDmcY0ZSPy57WTeScFRqRS+AUzWlbk+skmixlWabg06ahlgvMDiWRC+oSDJgRDNqUzFzRSl5Wz2WTjWqXT+EZUCWWDybb1KigmSrVjmTi42fiWaHcESYhWSHdj6EfG89NzR6dG5GQDthXVpPTlGWOCqNPiuORS2hrMaRa0mbfWCKTTQaGh2EWjWEbFCmkH2Vel99bUCIdVWzllS9nld5bly5nmVaRDKcaEuCSzCZpsJ7UDmii39zRjGyTDWyUzdpWj2Gdkw1LiuagViUgUOtpJ2fprWCcFibhUBxaU47O0Oyt8SxlYSLVDmphWZ9ZEl2VTKWgXCjhVittcuVeEpYTD+JemCWi3e0q6Wjik+8s6xbUkKukEjFqGd/hYlwbW6VoLmBWkCpeFmri292aDmmlHZPRjqQgWackH5iVklvaGKkn5pCNSeelpOkm5OnmYaVmJiprKl/fn+RcUmrmHyEaTOMlqaIkZh2d1u9m0p8UC1sXjSrn5CPdzh3fW5FRUmwsrdMRkVrcnpaX2yAb878AAAFBUlEQVQ4y13U61sSaRgG8KGCHRQGQQuBJBFRBA8gQoIoHhEERA6rqamcRF2iRBJT11BTkVUxVzyvaWaHrbbjP7jPOyjXtXt/mQ8zP+73nXd4MBqNVlLyaOR3lN3nf94X5RoXNGGFQkGnKxTFzc3NxbV/TRU8hPxyFYx2ZQCN7JoQKQUTCu1AQqHFRUQqC7LPI0LpolAoJYAgpoHOcVEuGIFAIIEIBEOqxWuCkUGkoqKiq4sCRZAlT+e4MhdMqVI5LhIplaVgeGNoYdcEg2tRUREgaAK25KkDwmazRSJRIUoumP/VQGKxchKhqixhk6CwnQ1GwzPUTlUWFDzMzwTDHsRiL8vfZZZXsoQ2w67OxNzeTpodhaG2B6F7KGBu3Hjw28tyaDo/5TySolfGrubz+Vwul883m82AJDutitV9QDchgLAXWXPKGUEHU1jNb2uE3OE2PX7yxNxeqJRI4vGjVWdPj16PVIaQ5oqwQfTevv3rnTtNj8G0t4vGOzvrhoVHq9+dc3N6vT5Lis45h1J0+qVtfUhkCTtXdP8+mLhQeOR2f52bu17Yu/ddtKWBsozIu51tMfONxlIlMnUzM6PHLpfbDdsHAiIlt6/5+iVGJPKuW0C0DQ4uGJXj451lnoMDu2P72EWSWPn71JcvH2TxnaGFwZy8K8JtMiNBpU4sQFFn2YBFmkjI7Q7sxfyL+dh56suH2VkmrtJoJnJIg0r45mrjIDUcBiOQ9NcB2Ts8TNCw+fn5b6/P5Ugw8VYVIjV5eb2ohM83LoTCanU4lCV7eyMjGcKxf5ClvWlvR6vqIxWZ3kZuUxO/bSGkMBjUvB0k0MLuomCxb99enxweRLohVmuHapEKJqevkcvntg2CGDMo6DuSftiKSVp/9xYEqyg6OeEkGp4+ffZMt/KmQ8VroYpJAoKqHqsF0trRv1K2bHq+i4RWi12kUpSErSG5CUmuWHFeSwuQ3r7Gxr6JsKG2dqyY/h9yqx7b3nbY7bbk5t+QTZ0Vb1a3iGEvvX19E1T1Nel4UxY1ZQzsZfuHw35gI/xVVVUBv86aJklNXk0OlRpWG8bGipvpeGt8uI7lGTCZpLt3Ly+xiwu5fMmiDQCp8icZ6U/FpKkRt4R5PEUxiEk6zowPs1gej8cm3Tv7jHE4XYeHe9og2ZJkeD+hGnGNWAyCTscBTE7iTFnEx/KxWGsHibNpbHr65NXZ5a1gMOD3J3UMb/pTMw+MuAUEfhWm18pgsVi+mZk1Oec19sf69PTns8t6gkjqdDpGtzedXvxIhSDBRJF5rStwKwpk1CE/BwLm89mI1BZlMBgRBgNO9O3Qx4kJjaoVnoZEIiu65KafWI6ygFycx0jyipNYWvMNw20GHOnTf94OaTRDHVZrJAK/wWog/IFAwE80kOQ9kPX1k1OK3D46KxTOyiLwETxDZEjQv6KLNkAIIriF3g0R9Y0eb/9IvcPWUQnNfuw62tg4EsoYZItqUQWnt0wQ9fWENhjc2toKEA2+UZfL9fNHCoMXxqHIt11up9O5vzHJtHZ3e3E6nDgiWhREgiBmj9xfv7rdP7FXpyAcLvecvrJyqgcQjk9C8Hg/kHoULXxXFpZMCGMJ5guMCw6FJnccg4CpVgDIub+/urohFMI3Uha1SKUWi8VmWxtFYApNsZt6jAb/5mPXd/1NGLb5DwsyakM4OzM87GN5bDbbwRqADWcPOWHz8+/d+xdB79M5MInu3AAAAABJRU5ErkJggg==",
+				"url": "https://res.cloudinary.com/perfectstay/image/upload/v1478172785/destination/resort/126/experience/126/image_192_v1.png"
+			},
+			"paragraphs": [
+				"Face à l’océan infini, profitez des nombreux restaurants situés en bord de plage et laissez-vous tenter par la dégustation d’un plat de fruits de mer fraîchement pêchés. Papilles et pupilles sauront se régaler et apprécier l’expérience !"
+			]
+		},
+		{
+			"label": "Visite de Silves, ancien royaume arabe de l'Algarve",
+			"photo": {
+				"thumbnail": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAhCAMAAACsowi2AAAA3lBMVEWAW0aNZE2YemasiG2MalaDotiLqNmHptlyUUB6VkKGY06jdVibb1R+nteqelqyjXClg2tqTD2HX0mZstmSc2CRrdu4knR0VkSffWWadFuGo8+9l3mad2CRb1o6Ph+jfGFiRziSalOPp9FaRTSOf4DCnH2PosRAQiRygoCDZlSPmLCAlqeogWV5XElsUj9NRC1ESymcq8c4MSCEnbl7jZaVZ02QeXGOjZiFb2NUPTCFoMRHOCmQiI96ZVSXoLRRVy9cYz5gTT6EeHNXXU9jb2hKUT5jbldweWiXlaNuZ1BfStnrAAADOklEQVQ4y1XTC3uaShAG4AGxwZWmgqSokQjipV7AGk3ivUdTL/n/f+h8M4s+9vORJOu+OzMQ6ftdisUHTlHn4eH6V/5hvkTXlZw0vjVkH1++SW5HXM+gRqN4VY1rbvufnjS6hf+kFXbggGKx0VitVjOEV2S7zrWW/ollmq1WcirAbDQazfEG0qBafXpqX9PAq93GKs1HM+kEYD7/xcHKqi0Ambbbvfu0q1XiHeANiF/n8+l0+nvGEn+kSW83zHPBazedVukvNqx6PRGn/zgnLM16udgNLx86G+TjAkOfbIZDLf4gxyMvzaYipruPTeeaQ6fDhmQDzhDxW8JLIxwHsLtsOu8IXxbvi0Nnc7nQ7+PpDH44f7Hov/T7fW2GOwAWvv9umua76S8WMJ0NrY+fX4vDYrFl0n/haDOX9ln4vmnWTN+3BgOgA60n+6/t4F4gMKh9OKAdP7RCvwligmzT7XZLk2QfbAeDbXBPXvvHz8+vLTpZWEjom7UakzQN0pQiN0uVUmn2Z4Ix+P3yivQncpKlgzJSJQ0QyoISKUVplkx0+msmr5MER2mguExObNumUok8pbwSkyTZJ8lkLWYSBWTEiKXUQMrcSEDkeR6VsihJor273ydLNuulW1KxU3fC0LIGVsgkZOK6XAWIUtuNMFaWCVmvl5HtQXBCPb9pgvAuCsQQlewss+0g20dLJIlsMpxyC2nWQ9zlWkWTKEpQhQ1aw29oNHOjBMANRIzHYzZNiApmUSDJUhPPMwzMg+FcVI5cm1Rcb7bGhUJh3GqKqNRuxLaZGG9ibDYuSmBeBj9+gLRaNRB+lIpsF8SFYfL2pgkqQfC5AD9/aoMiFTMEKaHvO4IyOopFQYSY8bhS0LPgUDfSRBs0x4njOtcoQDw/s5HILNyIK0RP41xTr9fyvp7FcG4ksDE+B+bNKSOPj3zFPUJrQp7zStKY4kdBco+YxA72S8r8zDEOk263C8NFmqFlKH583JwQ4444ThzWdZkuG74HNfzjGGKIgszFbVVMclMuyzz3BA80jGODjUcG8bdGWbEjswjDtY6H8Q+pOzEbfBvJMaiE71IIwXcrrzR+5IeRky43VmYi5n/jSqr+WI6Q+AAAAABJRU5ErkJggg==",
+				"url": "https://res.cloudinary.com/perfectstay/image/upload/v1478172785/destination/resort/126/experience/126/image_193_v1.png"
+			},
+			"paragraphs": [
+				"Remontez le fil de l’histoire de la région en visitant la ville de Silves, ancien royaume arabe de l’Algarve. Ne manquez pas les remparts de grès rouges et la forteresse médiévale qui témoignent du passé de cette ville."
+			]
+		}
+	],
+	"expert": {
+		"name": "Mélinda",
+		"introduction": "Expert voyage",
+		"loves": [
+			"Le spa et ses 1000 m² de plaisir, où il fait bon se prélasser sans complexe",
+			"La modernité et le design du décor de l’hôtel, en particulier ses jolies chambres",
+			"Le room service à vos petits soins 24h/24",
+			"La plage de Salgado, située non loin de l’hôtel, le lieu idéal pour profiter d’un grand bol d’air pur",
+			"Les petits restaurants du centre d’Albufeira où l’on mange sur le pouce et où l’on déguste des délices locaux"
+		],
+		"photo": {
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAcHBwcIBwgJCQgMDAsMDBEQDg4QERoSFBIUEhonGB0YGB0YJyMqIiAiKiM+MSsrMT5IPDk8SFdOTldtaG2Pj8ABBwcHBwgHCAkJCAwMCwwMERAODhARGhIUEhQSGicYHRgYHRgnIyoiICIqIz4xKysxPkg8OTxIV05OV21obY+PwP/AABEIAEEAMgMBIgACEQEDEQH/xAB4AAEAAwADAQEAAAAAAAAAAAAABQcIAwQGAgEQAAEEAQICCgMBAAAAAAAAAAEAAgMEBQYRITEHEhMUIjQ1QVJyFSNRcQEAAgMBAAAAAAAAAAAAAAAAAAECAwQFEQACAgIDAQEAAAAAAAAAAAAAAQIDESESFDETUf/aAAwDAQACEQMRAD8A0iiL8leGMJQAkmYzmQEjsRu5EFVPqDNWpbRgrv2XTxeWvU7LGzyEglVu2KljJcqLHDljRcqLipWBLE14PMLlVhSEREAFGZaQx1JCP4pNQObv1Iq8glkA4JPwcfUU94pbcj9+O6XRI3qPLuRUY7It/Iv7HxNJXbyEkskTXEbBYJ6msnar3VpFv6YsmakxeoVY6RzdFkLYDKOsrOjka9oIK3QzxRyLMc2ERFIrOnkLTK1d8jjsAFlHW2rLNq9JHHKQ0FXj0hZU08ZIAeJCyDbndNO95PMqSQ0WdpS3CWF8ztyu3qDU0QjdDEVVVa9LCCGOIXxJM+QkuKzdZO1zZu7bVKhFb/SfxuXtRXWPbIR4lr3SV59vGwvcdzssT1nftZ/q130ePccVHutLWjCyx0RFERTPSG1lkdk5yzxlMN3cF7XcFpHXuBt2o3TQE8FmHK2rcUr4JSeBUMT5ZT0aFOr54cdkNyK5AV1evuV9gq0pJzEQGxdiYPdwWzdIUO6YyFu3ssfaWnbFk4C75BbawkrZKULm/EIfgmSiIiiIh835Kb6lYi1b6rP9iiKSA8uFyoiBonMD5+H7Bbc0x6bB9QiIfgM9AiIoiP/Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/v1478077222/expert/image_1_v9.jpg"
+		},
+		"verbatim": "«Un hôtel idéal pour faire une pause au soleil pendant qu’on s’occupe de vous.»"
+	},
+	"gps": {
+		"lat": 37.0898632392,
+		"lon": -8.322057724
+	},
+	"highlights": [
+		{
+			"label": "Golf",
+			"picto": "GOLF"
+		},
+		{
+			"label": "Piscine extérieure",
+			"picto": "OUTDOOR_SWIMMING_POOL"
+		},
+		{
+			"label": "Spa",
+			"picto": "SPA"
+		}
+	],
+	"id": "35",
+	"name": "The Salgados Palace",
+	"offers": [
+		{
+			"negos": [
+				"Surclassement en chambre double vue piscine",
+				"En formule petit-déjeuner",
+				"Vol au départ de Paris, Province, Genève et Bruxelles",
+				"Vol en classe économique ou classe affaires et premières en option avec supplément"
+			],
+			"pricing": {
+				"type": "FA",
+				"label": "VOL + HOTEL",
+				"minPrice": {
+					"dd": 1480464000000,
+					"ed": 1480723200000,
+					"p": 158,
+					"o": true,
+					"n": 3
+				},
+				"departureCities": [
+					{
+						"code": "PAR",
+						"label": "Paris",
+						"from": {
+							"dd": 1480723200000,
+							"ed": 1480982400000,
+							"p": 174,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "BOD",
+						"label": "Bordeaux",
+						"from": {
+							"dd": 1481241600000,
+							"ed": 1481500800000,
+							"p": 254,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "BRU",
+						"label": "Bruxelles",
+						"from": {
+							"dd": 1483747200000,
+							"ed": 1484006400000,
+							"p": 202,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "GVA",
+						"label": "Genève",
+						"from": {
+							"dd": 1483747200000,
+							"ed": 1484006400000,
+							"p": 248,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "LYS",
+						"label": "Lyon",
+						"from": {
+							"dd": 1481760000000,
+							"ed": 1482019200000,
+							"p": 168,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "MRS",
+						"label": "Marseille",
+						"from": {
+							"dd": 1481587200000,
+							"ed": 1481846400000,
+							"p": 246,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "NTE",
+						"label": "Nantes",
+						"from": {
+							"dd": 1479859200000,
+							"ed": 1480118400000,
+							"p": 243,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "NCE",
+						"label": "Nice",
+						"from": {
+							"dd": 1483747200000,
+							"ed": 1484006400000,
+							"p": 246,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "TLS",
+						"label": "Toulouse",
+						"from": {
+							"dd": 1480464000000,
+							"ed": 1480723200000,
+							"p": 158,
+							"o": true,
+							"n": 3
+						}
+					}
+				],
+				"availableDurations": [
+					3,
+					5,
+					7,
+					10,
+					12,
+					14
+				],
+				"config": "3pid853j4gpzjntey98me6cx9sodu6mkoxakncxswcpiektn5zwsjh9pa19ei4fzy896ywsqkhgyboybkezrda3eacwi8bhurbge78mjt5a51z1m79ao1m6ku13dcgf4rfuffpsg8pt9w8xi5h17aue7fmz7y3jcg7k18utotfk89urm5ax4iqgkrxk6aopq3oetytdfcs56j1gztwad4z3yndusjick5cn9eiq9rfsy",
+				"contractType": "Hotel"
+			}
+		},
+		{
+			"negos": [
+				"Surclassement en chambre double vue piscine",
+				"En formule petit-déjeuner"
+			],
+			"pricing": {
+				"type": "AO",
+				"label": "HOTEL SEUL",
+				"minPrice": {
+					"dd": 1482105600000,
+					"ed": 1482364800000,
+					"p": 117,
+					"o": true,
+					"n": 3
+				},
+				"maxDiscount": {
+					"dd": 1482105600000,
+					"ed": 1482364800000,
+					"p": 117,
+					"o": true,
+					"n": 3
+				},
+				"durations": [
+					{
+						"value": 3,
+						"minPrice": {
+							"dd": 1482105600000,
+							"ed": 1482364800000,
+							"p": 117,
+							"o": true,
+							"n": 3
+						},
+						"maxDiscount": {
+							"dd": 1482105600000,
+							"ed": 1482364800000,
+							"p": 117,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"value": 5,
+						"minPrice": {
+							"dd": 1479859200000,
+							"ed": 1480291200000,
+							"p": 194,
+							"o": true,
+							"n": 5
+						},
+						"maxDiscount": {
+							"dd": 1479859200000,
+							"ed": 1480291200000,
+							"p": 194,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"value": 7,
+						"minPrice": {
+							"dd": 1482019200000,
+							"ed": 1482624000000,
+							"p": 272,
+							"o": true,
+							"n": 7
+						},
+						"maxDiscount": {
+							"dd": 1483315200000,
+							"ed": 1483920000000,
+							"p": 276,
+							"o": true,
+							"n": 7
+						}
+					},
+					{
+						"value": 10,
+						"minPrice": {
+							"dd": 1479859200000,
+							"ed": 1480723200000,
+							"p": 389,
+							"o": true,
+							"n": 10
+						},
+						"maxDiscount": {
+							"dd": 1482969600000,
+							"ed": 1483833600000,
+							"p": 401,
+							"o": true,
+							"n": 10
+						}
+					},
+					{
+						"value": 12,
+						"minPrice": {
+							"dd": 1481846400000,
+							"ed": 1482883200000,
+							"p": 467,
+							"o": true,
+							"n": 12
+						},
+						"maxDiscount": {
+							"dd": 1481846400000,
+							"ed": 1482883200000,
+							"p": 467,
+							"o": true,
+							"n": 12
+						}
+					},
+					{
+						"value": 14,
+						"minPrice": {
+							"dd": 1481500800000,
+							"ed": 1482710400000,
+							"p": 544,
+							"o": true,
+							"n": 14
+						},
+						"maxDiscount": {
+							"dd": 1481500800000,
+							"ed": 1482710400000,
+							"p": 544,
+							"o": true,
+							"n": 14
+						}
+					}
+				],
+				"availableDurations": [
+					3,
+					5,
+					7,
+					10,
+					12,
+					14
+				],
+				"config": "1ekaaa3oueomby4kxjpttkd5nkqpe49hpb9r5fkwne19fn8zj94jgr5nxus3tbcjp96jjzms1juu839n3sj5wiaqsez88iuz4achmr4pw67qxjqdfhqs39b6f3bj7syxii3waq369a1b9ime9rwigm7gnmhqmwapbrjpqgutbk9iap81nozue69s1aqxts4bkxoxdsy7yqd7pde",
+				"contractType": "Hotel"
+			}
+		}
+	],
+	"photos": [
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB0AAADAQEBAAAAAAAAAAAAAAAABAUDBgIQAAICAQMDBQEAAAAAAAAAAAABAgMEBRESEyFBMTIzQnEiAQACAwEBAAAAAAAAAAAAAAAEBQABAwIGEQACAgAFBAMAAAAAAAAAAAAAAQIDBAUVITERFEFRMkJS/9oADAMBAAIRAxEAPwDgow5LdGix5Pwe6ouMNi7hOjh/fqephnlDS6iiWCxCeyIccOb8DMNNtl9WX3ZUvahqrOrqT5QRUs8q8IiwF7+TIlWj3P6j8dJ6Wzn2NrNe49oQEsvV7L1EDsz9vaJvHLF9m2VFptWyAQjq0FFfgGGt2+zXTa/RzkJN9gdvB7bi+JdysSNs6iVb5eGJ6605boOnNpG1ec4DCy+smmcy7Wma15LQYsPF8AjvkuSy4y37DCxZT4pvbcnU5npuPPJ6nHZ+h2stc90id7FcldaFJpPmBnHUJpJc/AGmlW/krv6/ZyeH8sToNS+CP4AANYRPlHI3e4ziADCvwBT5Y3WP1AA4wwBaNgADAEP/2Q==",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478184953/property/35/00001_SALGADOS.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABwAAADAQEBAAAAAAAAAAAAAAAAAwUEBgIQAAICAwABAwUAAAAAAAAAAAABAgMEEjERBRMzFBUhInEBAAMBAQEAAAAAAAAAAAAAAAECBAMABREAAgICAAcBAAAAAAAAAAAAAAECAwRRERMUMTJBQiH/2gAMAwEAAhEDEQA/AOhw8hzl38FfeLXTiaMtVR/Vj/ubi+hjkJJCuqR0l0SJkw6EfUd0vLB3wn1lEMuvZlKmZByI9I90Dqr64NEm6hdGnmUr6Ojj2aOf9sCj7aAy62rY3Tz0bGtJ6s9T1Nd9MbVvAlObjLWRFW62uD7m9ysX7HsalbqDy9SfOTXBMpM2UIaJ1ZLZSlnNmeeW2T/LFSkwOuuXyOrJr2a/qAMGwA5NehuZPZ2eJ8C/hFzPlACVeRY/FiHwTIALkeX7YsVIAFNBIAAQn//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093735/property/35/0001_Salgados_Main.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB1AAACAwEBAAAAAAAAAAAAAAAABAIFBgEDEAACAgEDBAMBAAAAAAAAAAAAAQIDBBEhQQUUMlESMWETAQACAgMAAAAAAAAAAAAAAAAEBQMGAAECEQACAQMCBgMAAAAAAAAAAAAAAQMCBBESMRMUM0FRUiFhcf/aAAwDAQACEQMRAD8Ap10/8Iy6c/Q1X1Oucyzqy8d+Qzpu6PIsqsn6mYswJLgRsxJLg3krMSS+0VGXZjR10JeYjxuQOzrz8GPnQ1wRjiuTLWc4SeyOOSitkL7u9SpxHuHWllVqzIV/Zr0A/wD1/AE3MT+WN+FH6onGuuEh2t1csziyZHtC9vktitovCK9zEzeEaj506bMTuhCQjVa2PRlHTc7UEPqFR0TVrLqwJNRg90Rdla4I5eVTBMp3lR0YBfRW0dDwlqfYIhc2rDeUu5cd1T6AzLyd2Ak4f0F6xpDFYAW1CGPcsKRyXiAGU7jWjpv8MxnebEX9AAkvusySDpC7AABDZ//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478284035/property/35/001_Salgados.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACMAMgMBIgACEQEDEQH/xAByAAACAwEBAAAAAAAAAAAAAAAABAMFBgcCEAACAgIBBAEFAAAAAAAAAAAAAQIDBBEhBRIyQhMWIiNBUgEAAwEBAAAAAAAAAAAAAAAAAQMEAAIRAAICAAYCAwAAAAAAAAAAAAABAgMEERMUITEyUgUiQv/aAAwDAQACEQMRAD8A288jHXuhaWZjL3Rzu/OnH3YlHKtlLyY2PyOfSItCLOlSz6F7IhfU6F7GN1N17chWqN1tvamGePth3AMcNBm4s6tTGO9iMevVpvZS34V0IJvZVzq0L39kilYKtGv+oaAMK6wBu7PZnW1h6oRjKy6S2yzpqUWtsr62v0OQjNtcktcY8PIEUjQ1QpshpS5FLFLDtUosix/wvulIivyPlkG+zjNjPqkaJdYx5UasXJn78uqyzUEQ10fLI8TqhTMmViSNqNDyxpNJ6AjWc0kgNqo71kZttpodrnNLyAB0fARHoinbZvyZPQ23yACbugy6RfYSX3FPntqcuQARH8mfiis75/0AAPyRyf/Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093751/property/35/002_Salgados.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAByAAADAQEBAQAAAAAAAAAAAAAABQYEAwIHEAADAAIBAwQDAQAAAAAAAAAAAQIDBBEFEiEUMUFRFRYyUgEAAwEBAQAAAAAAAAAAAAAAAAIDAQQFEQACAgEDBQEAAAAAAAAAAAAAAQIRAwQSQRMhIjFhMv/aAAwDAQACEQMRAD8AlsbqH3fA5wbcNJNiZ5HOKpaE7y5Zp8NmRyR0+xwldruPTndov5yw/k7TU/ZBRu55+Rvr7We45fI088cnAJOJUeomRhrbdcpIjZ2q58plJ091llNI8/Nu4RaJSrYv7AwcZv8AIHJsyfR90SJrSq17B+HnsdMbXt62JeaQp2urK04geGSfbxCkxFkwxizdrZT9P9NMJVwSeVO77uTdqOnwnRZ5GladBsK/LPTohvxyY9PrGLWyufgyrXVz5oXbHTmm3LNhqU3QksTLn9h1QPm/pNj7Av1ofCXSZ12/7YufuAHPD8ll7OsGvX/sAJz5KlDi9ke79gAhH2DM4ABYQ//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093754/property/35/0031_Salgados_room_sofa-bed.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB0AAACAwEBAAAAAAAAAAAAAAAAAwQFBgIHEAACAgIBAwMFAQAAAAAAAAAAAQIEAxEhBRITFDEyIjM0QUJxAQADAAMBAAAAAAAAAAAAAAACAwQAAQUGEQACAgICAgMAAAAAAAAAAAAAAQIDESExQQQ0EjJD/9oADAMBAAIRAxEAPwCq9Xjn7MkYcbzvUTCwjbhkimmekdFxpY4uT5FXzbaz2Mr+LzgmV+m+NKU0WcLjwJRiuAyWoRWnJET1NeaeyR86Y80ELCt4XFmVtY/FlaLSpmgnxIidU7JNSTMcm0bSwzhRWkB1Ht7Y8/pALyEYqxbrd+1ofgvvX0MxbcpPlllVzPG1Fltl6ucYywgYeBZXVK2CbNJO1kl7yY+p5Mr1yIr1JZdTb4NJXhixwSguQlVDnohnfNNR7LahSxvGnKXIq/Vhrhi4WPHxsRatOS1sksknqK0W1RlhOT2RljaXuAnySAn2Pwjy6PyRL/uAAOf3idmj0Ljc1Pxo/wCFnWACz8GePn7iCX3BOb5ABCdUWAACGf/Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093749/property/35/006_Salgados.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABqAAADAAMBAQAAAAAAAAAAAAAABAUBAgYDBxAAAgICAgMAAgMAAAAAAAAAAAECAwQhBRESEzIUIiMzYQEAAgMAAAAAAAAAAAAAAAAAAAECAwQRAQEAAwEBAAAAAAAAAAAAAAABAhETEiH/2gAMAwEAAhEDEQA/AJHE8lPGtTPodPJV51XTl+3R839dKejeGXPGmnGRmlxmGmmy7dNnWWUyZNryrJySPX86vJrSm9mkZ0UbKbhEpk6LGyoY1fnZLZzvMc3K/SeiPk5ll1vj5aNHXU0nJlmPnzYX23ZL82QDXhjAR1Evr2woRs3NmMnGc5fxidcpd6ZewVOT2jP0Wc688DBk2nMdzcNOHcDOVk+hdISp5Fyl0xdRyTa8aXt7kh3Lx61V3F7Gbpya7SJF1sk9sOh86ltW9vQDfu/wCXYc2Kvo6jjgAzriXKfTJNH0gAIF1/1ELJ+mABBSgAAG/9k=",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093740/property/35/007_Salgados.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABxAAACAwADAAAAAAAAAAAAAAAABgMEBQECBxAAAgICAQIHAQEAAAAAAAAAAAIBAwQFERJBExUhMTIzUhRRAQADAQEAAAAAAAAAAAAAAAABAgMEABEAAgIBBQEBAAAAAAAAAAAAAAECERMDEiEiMQQy/9oADAMBAAIRAxEAPwCXS5PTcvXI6ZXFyxKtB5ZDsjLxPBtrsLq4XiwwwktvJoa5GB8ez/Cm9bx2K67mxfSTrO8rluGU7q/GdyTKjzPsamNjv6ehmLuMZe0HL7xV+LQUUKOsaIokBU88f9gPSFsWkwr74jpWTWq010xEtJra3NoZYXogYOuvjngzwjF+sOrkS6JWKsaSZ7la/ROsS8DVbmU1QLufv6kWVWR3iX5RPSX0X3aoVLKbPE8PuXE1N7RDNJBXkPkX+IsG02ZZ0RHHAN+00KFlLyuf0BJ/TYAM7DhRPq/sUbrPrgAJx8Gl6L2f8GEDN+yQAeIGbGoNa73ABJjRKgABMof/2Q==",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093741/property/35/008_Salgados.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABtAAABBQEBAAAAAAAAAAAAAAAAAQMEBQYCBxAAAgICAgEEAwEAAAAAAAAAAQIAAwQFESEyEhUiMwYUQVEBAQEBAQEAAAAAAAAAAAAAAAECAwAEEQACAgMBAQAAAAAAAAAAAAAAARExAhIhMhP/2gAMAwEAAhEDEQA/ANPh71LQFsMlX1V3j1VmeXmx6kBVpca3cXIPk08mOSys2aijUHFsH8ifrWf5GV3lbJyZ171X6SZXzQbFljYyp8nPEdv21OMpVDMdnbm10PoPEqKL3vRy7QbWNDE2bA79+fOEwRY8nuEjZjCLrF1T5SDqWqfjwRe2lprLlVAnEdyyxPAs4meMIvLvKMzma+mmogWdzjBwqbU4NncnZGALh9sTG1y1dmyP0yqOBoovo/7Ajp00h2aZ8ZW4HUv8TkNwLeZIzclErKHsxbnoLnLPOzityYTQlVJJ4hDY01RNwvMR3YeUIQXkHZXLFbxhCBxI1v2x/ZecIS35JXohQhCZln//2Q==",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093746/property/35/009_Salgados.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACMAMgMBIgACEQEDEQH/xAB3AAACAwEBAAAAAAAAAAAAAAAAAwQFBwYCEAACAgEDBAMBAAAAAAAAAAAAAQIDBBQhUgUREjJBQlEVAQADAQADAAAAAAAAAAAAAAACAwQAAQUGEQACAQMCBAcAAAAAAAAAAAAAAQIDBEETIREUMVISFSJCUWJx/9oADAMBAAIRAxEAPwC6ruo5ImQuo5IzKGfJ/YmV9QfIujdKZ08rfTwjTIX4/JEmORj80ZfLqfbbzHRzbHurDSqrD4mjF9qRqUcjH5oYsnG5oy19QtS9hEupWr7snlcJYkUxpSeYmt6nG5oDHv61vNgBzK+JDNGX1KqvEi/klRwo/pXRypRl2aJepmkn2PPvmk9pMpcU8DpdPi/kNJOPrIZXkeaGqwDXuab3k+Jx4IvBX2VXw38istyboNpo6Kc1Ijaeub3Q+nfzjvPcB01g53U2cWB02ip/EAzzSHYbTZAzIRV+yLOiuDrXeKADS9pcl6mQrV427bHptgAuv1X4Ty6sbE9Re4ARSBHAACwj/9k=",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478184955/property/35/011_SALAGADOS.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB0AAADAQEBAQAAAAAAAAAAAAAAAwQFAgYBEAABAwQCAgMBAAAAAAAAAAAAAQIDBAUxUREVEiEUMkFCAQACAgMBAAAAAAAAAAAAAAABAwACBAUGBxEAAgEDAwUBAAAAAAAAAAAAAAECAxEVMTJSEhQiQVGR/9oADAMBAAIRAxEAPwD4ygdoclA7Q5l0Yv8AJR2caJg2+Zoc0cxiZEqW92jtLe7Q9t1ZoY27xKuCZmi9JAw7Juudo5db3aNNLnCqYOXXOHQM3Q5oth5fDJ692gLu2h0AczQ5omGmeVjkYg/lHrwimDHOWRz+8nnzjKJ0tzXdH4NySJwir7FS1Cq3JG2V3kWhKav0sErN6Gp5uQ5dU8ZJFnRqeyKaXKjo0nJeQ1Q93NT5EYHmVq15Ab26+P8ARdp8hsRYwAFVADlwcx5ABcArchdT+CJPoAGZHZEe9DJXKgADxR//2Q==",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478184952/property/35/0110_Salgados.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB0AAACAgMBAAAAAAAAAAAAAAAABAUHAQIGAxAAAgIBAgYCAwAAAAAAAAAAAAECAwQRMQUTITJCUgYSFDNBAQACAwEBAAAAAAAAAAAAAAABAgADBQQGEQACAgICAgMAAAAAAAAAAAAAAgEDETEEEzJREhVB/9oADAMBAAIRAxEAPwCcphSv6h+t468kcZXkS07jwuy5pPSZT998p8ZM1eEiliwsxl5obhbje6KghxC7mpObJ+q+VkVpYzqTl2XaHmuuvcFkxux/dHpz8f3RW8nk+NjMwhnS2mwy9v6o6zXOixufj+6A4D8XiXswF7H9FmFOTsu5VZHO6dmugtbfZkS6LoNUR+u5510Wv1kedizly+59RnG4g4y0+xplUK1dCGdNlMtTq49itHlhiThtnd1Z+3Um8LNUppNlZVZrT0bJSriUqmmmaa8poiIaCnpiJzBcauhottgKuXyG3TcCdyluCCo2Q5EAPP2bkYzLYSu7WABq3ACEl+wd8UAGq3ioTYAABD//2Q==",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478184950/property/35/0111_Salgados.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB6AAACAwEAAAAAAAAAAAAAAAAABAIFBgMQAAEEAQMDAwUAAAAAAAAAAAABAgMEERIhMQUVMiIjQTNCUVJxAQEBAAIDAAAAAAAAAAAAAAAFBAAGAQIDEQACAgADCAMBAAAAAAAAAAAAAQIDBAUxERITFSEyUXFBQkNT/9oADAMBAAIRAxEAPwDQrVOK1RDuEodwf8qbBxJoC3IMbWsSbXwVS9RkV+w5BbdKvJBbmsa200yyGAlNJqSLJjFbwRWNM5cTj1cnORy5D7c7/nEsryvTfkS9sBXUBLznEFPLKTNOnRDi6fIjrc4ar1nyuQbniFFAigGp6+JcdOjlzlUUfgpQta3KGop1IWsTZAa62Frm1ESqqtTh16C0DcsTYhOyNEypY2LFes3Gxnr9lkrfQoVZXGPyJq3YGqD8gUGXfsB4bI+TOO/Bn4uUNJQ+AA2TEdjNd+yLx32Giq/TT+AAd+a9jdWi9FB1XzKSTxACC3uMeokAAdDg/9k=",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093753/property/35/013_SALGADOS.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABzAAACAwEBAQAAAAAAAAAAAAAABQQGBwMBAhAAAgIBAwIEBwAAAAAAAAAAAAECAwQFEXISExQjMTQGITIzQUJRAQADAQEBAAAAAAAAAAAAAAAAAQIEAwURAAICAwEBAQAAAAAAAAAAAAABAhESITEDMkH/2gAMAwEAAhEDEQA/ALrX20t2Qr8ylTUUyJruR4OhygzOo6vZO5Nv8il6trZLjXDWO3G+G6J+mxcJOL9BLouXG+hbjNXuuzZEVtTXS+xxY4yVBEPMgvB2cQnJz6WzpleznxKnPIXnDFmP2LzJ8mB1tj5k+TAg9AsPxHCVmKUvTNJ8RPd/0vmrWQ7XQKNNrdU9w02YsX0f4WKsOpJEqOTDrW5EuvbjtEVwryHNv5gnbcUgqtstzy4SlBIYZD3xZcSl1q5Wxb3LU59eJLiOSpUEfqzOLIeZPkwPq1PuT5MCDXYz1L6jhjgA4mdjGv1GEfQAKiQzz9kNIe3nxAAl0cfwoVv3J8mAAQdz/9k=",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093749/property/35/13_SALGADOS.jpg"
+		}
+	],
+	"multimedia": [
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB0AAADAQEBAAAAAAAAAAAAAAAABAUDBgIQAAICAQMDBQEAAAAAAAAAAAABAgMEBRESEyFBMTIzQnEiAQACAwEBAAAAAAAAAAAAAAAEBQABAwIGEQACAgAFBAMAAAAAAAAAAAAAAQIDBAUVITERFEFRMkJS/9oADAMBAAIRAxEAPwDgow5LdGix5Pwe6ouMNi7hOjh/fqephnlDS6iiWCxCeyIccOb8DMNNtl9WX3ZUvahqrOrqT5QRUs8q8IiwF7+TIlWj3P6j8dJ6Wzn2NrNe49oQEsvV7L1EDsz9vaJvHLF9m2VFptWyAQjq0FFfgGGt2+zXTa/RzkJN9gdvB7bi+JdysSNs6iVb5eGJ6605boOnNpG1ec4DCy+smmcy7Wma15LQYsPF8AjvkuSy4y37DCxZT4pvbcnU5npuPPJ6nHZ+h2stc90id7FcldaFJpPmBnHUJpJc/AGmlW/krv6/ZyeH8sToNS+CP4AANYRPlHI3e4ziADCvwBT5Y3WP1AA4wwBaNgADAEP/2Q==",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478184953/property/35/00001_SALGADOS.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABwAAADAQEBAAAAAAAAAAAAAAAAAwUEBgIQAAICAwABAwUAAAAAAAAAAAABAgMEEjERBRMzFBUhInEBAAMBAQEAAAAAAAAAAAAAAAECBAMABREAAgICAAcBAAAAAAAAAAAAAAECAwRRERMUMTJBQiH/2gAMAwEAAhEDEQA/AOhw8hzl38FfeLXTiaMtVR/Vj/ubi+hjkJJCuqR0l0SJkw6EfUd0vLB3wn1lEMuvZlKmZByI9I90Dqr64NEm6hdGnmUr6Ojj2aOf9sCj7aAy62rY3Tz0bGtJ6s9T1Nd9MbVvAlObjLWRFW62uD7m9ysX7HsalbqDy9SfOTXBMpM2UIaJ1ZLZSlnNmeeW2T/LFSkwOuuXyOrJr2a/qAMGwA5NehuZPZ2eJ8C/hFzPlACVeRY/FiHwTIALkeX7YsVIAFNBIAAQn//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093735/property/35/0001_Salgados_Main.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB1AAACAwEBAAAAAAAAAAAAAAAABAIFBgEDEAACAgEDBAMBAAAAAAAAAAAAAQIDBBEhQQUUMlESMWETAQACAgMAAAAAAAAAAAAAAAAEBQMGAAECEQACAQMCBgMAAAAAAAAAAAAAAQMCBBESMRMUM0FRUiFhcf/aAAwDAQACEQMRAD8Ap10/8Iy6c/Q1X1Oucyzqy8d+Qzpu6PIsqsn6mYswJLgRsxJLg3krMSS+0VGXZjR10JeYjxuQOzrz8GPnQ1wRjiuTLWc4SeyOOSitkL7u9SpxHuHWllVqzIV/Zr0A/wD1/AE3MT+WN+FH6onGuuEh2t1csziyZHtC9vktitovCK9zEzeEaj506bMTuhCQjVa2PRlHTc7UEPqFR0TVrLqwJNRg90Rdla4I5eVTBMp3lR0YBfRW0dDwlqfYIhc2rDeUu5cd1T6AzLyd2Ak4f0F6xpDFYAW1CGPcsKRyXiAGU7jWjpv8MxnebEX9AAkvusySDpC7AABDZ//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478284035/property/35/001_Salgados.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACMAMgMBIgACEQEDEQH/xAByAAACAwEBAAAAAAAAAAAAAAAABAMFBgcCEAACAgIBBAEFAAAAAAAAAAAAAQIDBBEhBRIyQhMWIiNBUgEAAwEBAAAAAAAAAAAAAAAAAQMEAAIRAAICAAYCAwAAAAAAAAAAAAABAgMEERMUITEyUgUiQv/aAAwDAQACEQMRAD8A288jHXuhaWZjL3Rzu/OnH3YlHKtlLyY2PyOfSItCLOlSz6F7IhfU6F7GN1N17chWqN1tvamGePth3AMcNBm4s6tTGO9iMevVpvZS34V0IJvZVzq0L39kilYKtGv+oaAMK6wBu7PZnW1h6oRjKy6S2yzpqUWtsr62v0OQjNtcktcY8PIEUjQ1QpshpS5FLFLDtUosix/wvulIivyPlkG+zjNjPqkaJdYx5UasXJn78uqyzUEQ10fLI8TqhTMmViSNqNDyxpNJ6AjWc0kgNqo71kZttpodrnNLyAB0fARHoinbZvyZPQ23yACbugy6RfYSX3FPntqcuQARH8mfiis75/0AAPyRyf/Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093751/property/35/002_Salgados.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAByAAADAQEBAQAAAAAAAAAAAAAABQYEAwIHEAADAAIBAwQDAQAAAAAAAAAAAQIDBBEFEiEUMUFRFRYyUgEAAwEBAQAAAAAAAAAAAAAAAAIDAQQFEQACAgEDBQEAAAAAAAAAAAAAAQIRAwQSQRMhIjFhMv/aAAwDAQACEQMRAD8AlsbqH3fA5wbcNJNiZ5HOKpaE7y5Zp8NmRyR0+xwldruPTndov5yw/k7TU/ZBRu55+Rvr7We45fI088cnAJOJUeomRhrbdcpIjZ2q58plJ091llNI8/Nu4RaJSrYv7AwcZv8AIHJsyfR90SJrSq17B+HnsdMbXt62JeaQp2urK04geGSfbxCkxFkwxizdrZT9P9NMJVwSeVO77uTdqOnwnRZ5GladBsK/LPTohvxyY9PrGLWyufgyrXVz5oXbHTmm3LNhqU3QksTLn9h1QPm/pNj7Av1ofCXSZ12/7YufuAHPD8ll7OsGvX/sAJz5KlDi9ke79gAhH2DM4ABYQ//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093754/property/35/0031_Salgados_room_sofa-bed.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093749/property/35/006_Salgados.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093740/property/35/007_Salgados.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093741/property/35/008_Salgados.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093746/property/35/009_Salgados.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093748/property/35/010_Salgados.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478184955/property/35/011_SALAGADOS.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478184952/property/35/0110_Salgados.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478184950/property/35/0111_Salgados.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093751/property/35/012_SALGADOS.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093751/property/35/0120_Salgados.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093753/property/35/013_SALGADOS.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478093749/property/35/13_SALGADOS.jpg"
+		}
+	],
+	"region": "Portugal",
+	"resort": "Algarve",
+	"restaurant": {
+		"facilities": [
+			"Menu à la carte",
+			"Formule de buffet",
+			"Belle vue sur plusieurs aspects du complexe hôtelier",
+			"Le Moonlight Restaurant Bar est ouvert de 19 h à 22 h",
+			"Le Golf Lobby Bar est ouvert de 18 h 30 à 1 h",
+			"Le Moonlight bar est ouvert tous les soirs de 19 h à 22 h"
+		],
+		"headline": "Restaurants & Bars",
+		"intro": [
+			"Au Salgados palace, les amoureux de la bonne cuisine seront comblés. Tout est mis en place pour offrir une expérience culinaire hors du commun et les chefs s’appliquent à préparer des repas variés inspirés de la plus fine gastronomie portugaise. Vous découvrirez de nouvelles saveurs et retrouverez celles que vous aimez."
+		],
+		"restaurants": [
+			{
+				"name": "Moonlight Restaurant Bar :",
+				"paragraphs": [
+					"Le grand chef José Leitão vous invite dans son magnifique restaurant avec vue sur mer pour déguster des plats locaux, inspirés de la Méditerranée. Il propose des entrées chaudes et froides qui éveilleront vos papilles. Les desserts y sont incomparables?!"
+				],
+				"photo": {
+					"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABxAAACAwEBAAAAAAAAAAAAAAAABgMEBQIBEAACAgEEAQIHAAAAAAAAAAAAAQIDBAUREiExFSQyMzRBUVNiAQADAQEAAAAAAAAAAAAAAAABAwQFABEAAgICAgMBAAAAAAAAAAAAAAECAxESITEEE1Ey/9oADAMBAAIRAxEAPwB2spkQOqRUlqkkuyTG1KN8mmjKsUdGzRTlk64tSJHEJ3QUipdc0m0xvjzgqsyFWKW/BP4NHDjykhahmJy2kzWp1OqmPnsLlCXK6Ck0hsVS2AVPXP6A72QBpIQ7M+tdxlue4+sVQZUyNMdVTaFayF0JvpkuY255KWnDGR9etQn9yCer8k4pilTRdNmtTjbAdsa46oCqc3k2cKE8mbcpGjNquXBRbMvGm6X0N+mRpshzsSDVZtwGcNUL+7/WwHf2H4iA7VfUKy/jE/N+SxMyPiADPX6RZLosUeC/DwAC13IYukdoacD6VgBTR2JtIX5YABSJP//Z",
+					"url": "https://res.cloudinary.com/perfectstay/image/upload/v1478109680/property/35/restaurant/image_35_v1.jpg"
+				}
+			},
+			{
+				"name": "Golf Lobby Bar :",
+				"paragraphs": [
+					"Placé au centre de l’hôtel, c’est le lieu de toutes les rencontres. Le Golf Lobby Bar offre une belle sélection de petites collations originales dans un endroit chaleureux et animé. Prenez le temps de découvrir ses délicieux cocktails."
+				]
+			},
+			{
+				"name": "Moonlight Bar :",
+				"paragraphs": [
+					"Situé à même le restaurant portant le même nom, ce bar branché vous invite sur une scène divertissante pour discuter et déguster des spécialités dans un environnement intime et élégant. Délectez-vous d’une vue sur le très sélect club de golf de l’hôtel."
+				]
+			}
+		]
+	},
+	"transportPartnership": {
+		"label": ""
+	},
+	"tripadvisor": {
+		"awardURL": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-18065-5.jpg",
+		"num_reviews": 683,
+		"rating": 4,
+		"ratingURL": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-18065-5.png"
+	},
+	"usefulInformations": {
+		"goodtoKnow": [
+			"Si vous voyagez seul(e), un supplément tarifaire en chambre individuelle vous sera demandé, ce supplément sera calculé directement dans votre devis.",
+			"Les tarifs enfant seront appliqués pour les enfants de 2 à 12 ans au cas ou l’enfant partage la chambre avec deux adultes. Dans le cas où l’enfant voyage seul avec un adulte son tarif pourra être appliqué sur une base adulte. Si votre (vos) enfant(s) ou bébé(s) ne rentrent pas dans les tranches d'âges ci-dessus, le tarif appliqué vous sera communiqué au moment du traitement de votre commande. Lorsque la chambre dispose d’un lit superposé, le couchage en hauteur ne convient pas aux moins de 6 ans.",
+			"Pour des raisons de sécurité, les installations de bien-être de la plupart des établissements ne sont pas accessibles aux moins de 16 ans. De même, il est possible que certains aménagements ou services soient payants en supplément ou indisponibles pour des raisons exceptionnelles. ",
+			"Les horaires des restaurants et des bars sont donnés à titre indicatif, et sous réserve de modification. Contactez la réception pour connaître tout changement. Notez que l’abus d’alcool est dangereux pour la santé, à consommer avec modération.",
+			"Vous devrez être majeur et accompagné d’une pièce d’identité pour entrer dans les casinos, de plus une tenue correcte est exigée. Nous vous rappelons que jouer peut comporter des risques d’isolement, d’endettement, de dépendance… Composez le 09 74 75 13 13 (non surtaxé).",
+			"L’hôtel n’est pas accessible aux personnes à mobilité réduite."
+		],
+		"transport": [
+			"Pour un séjour incluant le vol, vous aurez la possibilité de choisir la compagnie aérienne, régulière ou low cost, ainsi que vos horaires de vol. Selon vos envies, vous pourrez opter pour un siège en classe Affaires ou en Première Classe.",
+			"Consultez la rubrique « afficher les infos de vol » pour connaître chaque détail du voyage.",
+			"Afin d’organiser au mieux votre passage à l’aéroport, nous vous conseillons de vous présenter 2h avant l’embarquement pour un vol moyen-courrier, ou 3h avant si votre vol dure plus de 5h. Profitez de votre avance pour effectuer les contrôles de sécurité et enregistrer vos bagages. ",
+			"Vous serez informés si vos bagages sont inclus ou non au moment de votre réservation. Assurez-vous de respecter la politique bagages des compagnies low cost et régulières. Vous aurez l’opportunité d’ajouter des bagages additionnels sous réserve de payer un supplément. Attention, certains repas et autres prestations à bord peuvent être payants.",
+			"Plusieurs villes de départ vous sont proposées : Paris, ville de  Province, Bruxelles, Luxembourg, Bâle, Genève & Zurich.  Votre destination d’arrivée sera affichée dans vos documents de transport.",
+			"En fonction des horaires de vol, certaines arrivées ou retours peuvent s'effectuer de nuit avec une arrivée matinale ou un départ tardif, les clients ne pourront pas toujours disposer de leur chambre immédiatement et devront se référer au conditions du check-in et check-out de l’hôtel. ",
+			"Dans le cas ou le transfert n’est pas inclus dans votre réservation d’hôtel, il vous sera proposé en supplément au moment de votre réservation.",
+			"Important : Les billets d’avion ne sont ni échangeables ni remboursables sauf si vous avez souscrit une assurance, dans ce cas veuillez vous référer aux conditions générales de vente.",
+			"Merci de bien vouloir prendre connaissance de l’emission de CO2 emise par le moyen de transport selectionné : http://eco-calculateur.aviation-civile.gouv.fr/"
+		],
+		"travelDocuments": [
+			"Une fois votre réservation effectuée, vous recevrez un e-mail de confirmation qui précédera l’envoi de vos documents de voyage. ",
+			"Les documents de transport (dans le cadre d’une réservation avec transport) vous seront transmis sous forme de billet électronique ou de convocation à imprimer, vous permettant ainsi de partir sereinement. L’heure et le lieu de départ ainsi que les informations sur l’enregistrement et les bagages vous seront communiqués dans les documents de transport. ",
+			"Pour profiter de toutes vos prestations réservées, (hôtels, transferts, activités...), vous recevrez un ou plusieurs bons d’échange à présenter obligatoirement à chaque fournisseurs.",
+			"Les coordonnées de l’établissement seront précisées sur ces documents, afin de faciliter au mieux votre arrivée à destination."
+		],
+		"formalities": {
+			"intro": "<p>Les précisions suivantes valent pour tout ressortissant français qui, au cours d'un voyage vendu par PerfectStay se rend dans un pays étranger.\nVeuillez-vous référer aux informations ci-dessous quant aux formalités de voyages relatifs à chaque destination (documents d'identification, vaccins, VISA, conseils aux voyageurs).\nPour plus ample information, se reporter aux sites suivants :\n<a href=\"http://www.diplomatie.gouv.fr/fr/\">www.diplomatie.gouv.fr</a>\n<a href=\"https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html\">Ariane</a></p>\n\n<p>En cas de problème sur place, veuillez prendre contact avec l'ambassade ou le consulat suivant :</p>\n\n<p>ua Santos-o-Velho, 5\n5 1249-079 Lisbonne\nTel : +351 213 939 100\nFax : +351 213 939 222\nCourriel : consulat.lisbonne@hotmail.com\nSite Web : http://www.ambafrance-pt.org/-Les-Francais-au-Portugal-530</p>\n",
+			"identity": "<p>Les voyageurs se rendant à Portugal ou à Madère, mineurs inclus, doivent être en possession d’une carte nationale d’identité ou d’un passeport.</p>\n\n<p>Les cartes nationales d’identité délivrées à des majeurs entre le 1er janvier 2004 et le 31 décembre 2013 seront encore valables 5 ans après la date de fin de validité indiquée au verso, mais aucune modification matérielle de la carte plastifiée n’en attestera.</p>\n\n<p>En conséquence, de façon à éviter tout désagrément pendant votre voyage, il vous est fortement recommandé de privilégier l’utilisation d’un passeport valide à celle d’une CNI portant une date de fin de validité dépassée, même si elle est considérée par les autorités françaises comme étant toujours en cours de validité.</p>\n\n<p>Si vous voyagez uniquement avec votre carte nationale d’identité, vous pouvez télécharger et imprimer une notice multilingue expliquant ces nouvelles règles à l’adresse suivante : http://media.interieur.gouv.fr/interieur/cni-15ans/document-a-telecharger-portugal.pdf.</p>\n",
+			"vaccine": "<p>Un voyage au Portugal ou à Madère peut être l’occasion de mettre à jour les vaccinations habituelles : diphtérie-tétanos-poliomyélite.</p>\n",
+			"visa": "<p>Aucun visa requis</p>\n"
+		}
+	},
+	"included": [
+		"Offre HOTEL SEUL : ",
+		"Surclassement en chambre double vue piscine",
+		"Pension sélectionnée",
+		"Durée de séjour sélectionnée",
+		"Frais de dossier",
+		"Offre VOL + HOTEL : ",
+		"Prestations de l’offre HOTEL SEUL indiquées ci-dessus",
+		"Vols spéciaux ou réguliers aller-retour France, Bruxelles, Genève à destination de l'aéroport de Faro",
+		"Taxes aéroportuaires obligatoires"
+	],
+	"notIncluded": [
+		"Assurances personnelles facultatives",
+		"Dépenses de nature personnelles et pourboires",
+		"Le port des bagages à l'hôtel",
+		"Repas et boissons non mentionnés",
+		"Vols et les taxes aéroportuaires si vous avez réservé l'offre HOTEL SEUL",
+		"Transferts, accueil à l'aéroport et l'assistance sur place.",
+		"Les taxes de séjour",
+		"Et tout ce qui n'est pas mentionné dans \"Le prix inclut\""
+	],
+	"startAt": 1477008000000,
+	"endAt": 1546214400000,
+	"includeOfferWithFlight": true,
+	"fromPriceType": {
+		"type": "FROM_PRICE_TYPE_FROM",
+		"value": "117",
+		"numberOfNights": 3
+	},
+	"uri": "the-salgados-palace",
+	"marketingDestination": "Algarve",
+	"strapLine": "Une oasis où détente et bon goût vont de pair.",
+	"propertyType": "Midhaul",
+	"contractType": "Hotel",
+	"rank": 13
+}

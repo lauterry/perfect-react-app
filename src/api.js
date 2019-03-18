@@ -1,3 +1,5 @@
+import axios from "axios";
+
 export const fetchProducts = () => {
-	return import(/* webpackChunkName: "products" */ "./Data/products");
+	return axios.get("http://localhost:9000/current/fr-FR/products-merchandising.json");
 };

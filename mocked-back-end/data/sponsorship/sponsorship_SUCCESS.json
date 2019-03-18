@@ -1,0 +1,84 @@
+{
+	"current": {
+		"ludovic.bailly@gmail.com": {
+			"friendSubscribed": {
+				"subscribeAt": 1533802547000,
+				"amount": 5,
+				"maxUseDate": 1533892547000,
+				"expired": false,
+				"used": false
+			}
+		},
+		"thierry.lau@perfectstay.com": {
+			"friendSubscribed": {
+				"subscribeAt": 1533802547000,
+				"amount": 5,
+				"maxUseDate": 1533892547000,
+				"expired": false,
+				"used": true
+			},
+			"friendBooked": {
+				"amount": 10,
+				"maxUseDate": 1533844395000,
+				"expired": false,
+				"used": true
+			}
+		},
+		"hanna.moatty@perfectstay.com": {
+			"friendSubscribed": {
+				"subscribeAt": 1533802547000,
+				"amount": 5,
+				"maxUseDate": 1533892547000,
+				"expired": false,
+				"used": false
+			},
+			"friendBooked": {
+				"amount": 10,
+				"maxUseDate": 1533844395000,
+				"expired": false,
+				"used": false
+			}
+		}
+	},
+	"history": {
+		"ludovic.bailly2@gmail.com": {
+			"friendSubscribed": {
+				"subscribeAt": 1533802547000,
+				"amount": 5,
+				"maxUseDate": 1533893741000,
+				"expired": true,
+				"used": false
+			},
+			"friendBooked": {
+				"amount": 10,
+				"maxUseDate": 1533844395000,
+				"expired": false,
+				"used": true
+			}
+		},
+		"ludovic.bailly3@gmail.com": {
+			"friendSubscribed": {
+				"subscribeAt": 1533802547000,
+				"amount": 5,
+				"maxUseDate": 1533893741000,
+				"expired": false,
+				"used": true
+			},
+			"friendBooked": {
+				"amount": 10,
+				"maxUseDate": 1533844395000,
+				"expired": true,
+				"used": false
+			}
+		},
+		"ludovic.bailly4@gmail.com": {
+			"friendSubscribed": {
+				"subscribeAt": 1533802547000,
+				"amount": 5,
+				"maxUseDate": 1533893741000,
+				"expired": false,
+				"used": true
+			}
+		}
+	}
+}

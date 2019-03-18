@@ -10,8 +10,14 @@ const products = (state = [], action) => {
 	}
 };
 
+const shop = (state = "") => {
+	return state;
+};
+
+
 const reducers = combineReducers({
 	products,
+	shop,
 });
 
 export default reducers;

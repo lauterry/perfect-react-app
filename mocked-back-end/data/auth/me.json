@@ -1,0 +1,27 @@
+{
+	"address": {
+		"phone": "0699452727",
+		"postCode": "75010",
+		"line1": "42 rue du Paradis",
+		"line2": "Etage 5",
+		"country": "FR",
+		"city": "Paris"
+	},
+	"email": "thierry.lau@perfectstay.com",
+	"birthDate": "1986-03-28",
+	"name": {
+		"lastName": "LAU",
+		"gender": "M",
+		"firstName": "Thierry"
+	},
+	"nationality": "AQ",
+	"newsletterPreference": {
+		"customOffers": false,
+		"frequency": "none",
+		"partnerOffers": false
+	},
+	"passport": {
+		"passportNumber": "SDFWER24DFS24",
+		"countryIssue": "FR"
+	}
+}

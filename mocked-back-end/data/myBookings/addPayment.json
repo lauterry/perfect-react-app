@@ -1,0 +1,28 @@
+{
+	"status": "SUCCESS",
+	"booking": {
+		"status": "CONFIRMED",
+		"bookingReference": "1000158",
+		"bookingDate": "2017-02-07",
+		"name": "Hong-Kong Hôtel",
+		"category": 4,
+		"country": "China",
+		"region": "China",
+		"resort": "Hong-Kong Bay",
+		"duration": 7,
+		"departureDate": "2017-06-15",
+		"endDate": "2017-06-24",
+		"totalPaid": 1995,
+		"total": 1995,
+		"totalDue": 0,
+		"adults": 2,
+		"children": 0,
+		"infants": 0,
+		"currencyCode": "EUR",
+		"photo": {},
+		"bookingDocument": {
+			"voucher": "http://www.pdf995.com/samples/pdf.pdf",
+			"invoice": "http://www.pdf995.com/samples/pdf.pdf"
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"status": "NO_BAGAGE",
+	"flightOptions": {
+		"flightBagageOption": {
+			"canBeBooked": false,
+			"included": false
+		}
+	},
+	"flight": "e70cc896-b376-447a-89d2-6009e2e1b89e"
+}

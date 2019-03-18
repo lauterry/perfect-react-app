@@ -1,0 +1,1547 @@
+{
+	"products": [
+		{
+			"categoryType": "Star",
+			"zones": null,
+			"country": "France",
+			"region": "Alpes du Sud",
+			"resort": "Orcières",
+			"endAt": 1555199999000,
+			"startAt": 1537142400000,
+			"highlights": [{ "label": "Idéal pour les familles", "picto": "BEST_FOR_FAMILY" }],
+			"id": "2793",
+			"name": "Résidence les Cristallines",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/4gJASUNDX1BST0ZJTEUAAQEAAAIwQURCRQIQAABtbnRyUkdCIFhZWiAHzwAGAAMAAAAAAABhY3NwQVBQTAAAAABub25lAAAAAAAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLUFEQkUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApjcHJ0AAAA/AAAADJkZXNjAAABMAAAAGt3dHB0AAABnAAAABRia3B0AAABsAAAABRyVFJDAAABxAAAAA5nVFJDAAAB1AAAAA5iVFJDAAAB5AAAAA5yWFlaAAAB9AAAABRnWFlaAAACCAAAABRiWFlaAAACHAAAABR0ZXh0AAAAAENvcHlyaWdodCAxOTk5IEFkb2JlIFN5c3RlbXMgSW5jb3Jwb3JhdGVkAAAAZGVzYwAAAAAAAAARQWRvYmUgUkdCICgxOTk4KQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWFlaIAAAAAAAAPNRAAEAAAABFsxYWVogAAAAAAAAAAAAAAAAAAAAAGN1cnYAAAAAAAAAAQIzAABjdXJ2AAAAAAAAAAECMwAAY3VydgAAAAAAAAABAjMAAFhZWiAAAAAAAACcGAAAT6UAAAT8WFlaIAAAAAAAADSNAACgLAAAD5VYWVogAAAAAAAAJjEAABAvAAC+nP/bAIQACQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4gEJCQkJCQkKCwsKDg8NDw4UEhEREhQeFhcWFxYeLh0hHR0hHS4pMSglKDEpSTkzMzlJVEdDR1RmW1tmgXqBqKji/8AAEQgAIQAyAwEiAAIRAQMRAf/EAHMAAAEFAQEAAAAAAAAAAAAAAAADBAUGBwECEAACAgIBAgYDAAAAAAAAAAABAgADBBEFEjEGExQVIjIhNHEBAAIDAQAAAAAAAAAAAAAAAAECAAMFBBEAAgEEAgMBAAAAAAAAAAAAAAEDAhESMRMhBEFSYf/aAAwDAQACEQMRAD8AgcnjHQnSmR5xWXus0178S1ztRqIXYmDYNjU1aPLje0ZtfiyLTM29MW7CItjsp7TSKeMxS3eF3EYrn4kSznhb2JwSpaM9oUqwj68B0lhv4haR1TlfE+cuwYeWJu1yccqWil+RCXX2J4RsovoTGT5PVRQj5PqONo2grbi13G12gsh1K9Zme3X9LzFdLTNhNW32XCjFd0JWM7K8mpifzO4XiTE0FYiOMvmsPoPToyKy9k7foicrMdk6TFsG4gqAZAZWcthOh3jrjXYONmNl2JY0BSuh/IRguQNCEbL9BYTqmc+Jf2TCEMmg0bK/R9hJxvosITnLhM91k3ifZIQjFRZx2EIQjBP/2Q==",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1536916076/property/2793/0001_Mvacances_Les_Cristalles_Residence_Hiver_Nps_3.jpg"
+				}
+			],
+			"fromPriceType": {
+				"type": "FROM_PRICE_TYPE_FROM",
+				"value": "318",
+				"numberOfNights": 7,
+				"mealBasis": "hébergement seul, sans repas"
+			},
+			"uri": "residence-les-cristallines",
+			"marketingDestination": "Alpes du Sud - Orcières",
+			"strapLine": "Séjour en famille pour profiter des sports d’hiver",
+			"productTypes": ["Résidences", "Ski"],
+			"propertyType": "France",
+			"contractType": "Rental",
+			"rank": 1,
+			"includeOfferWithFlight": false,
+			"topics": ["Famille", "Montagne", "Découverte"],
+			"periods": [
+				{ "label": "Vacances de février - zone A", "startAt": 1550275200000 },
+				{ "label": "Vacances de février - zone B", "startAt": 1549670400000 },
+				{ "label": "Vacances de février - zone C", "startAt": 1550880000000 },
+				{ "label": "Vacances de Noël", "startAt": 1545436800000 }
+			],
+			"months": [
+				{ "label": "Décembre 2018", "startAt": 1543622400000 },
+				{ "label": "Janvier 2019", "startAt": 1546300800000 },
+				{ "label": "Février 2019", "startAt": 1548979200000 },
+				{ "label": "Mars 2019", "startAt": 1551398400000 },
+				{ "label": "Avril 2019", "startAt": 1554076800000 }
+			],
+			"merchandisings": [],
+			"badges": [
+				{
+					"bgColor": "#FFFFFF",
+					"borderColor": "#000000",
+					"txtColor": "#000000",
+					"label": "Budget"
+				},
+				{ "label": "Proche des pistes" }
+			]
+		},
+		{
+			"category": 5,
+			"categoryType": "Trident",
+			"country": "Grèce",
+			"region": "Grèce",
+			"productTypes": ["Circuits"],
+			"resort": "Thessalonique du Nord",
+			"endAt": 1982470020000,
+			"startAt": 1476230400000,
+			"isTopCountry": true,
+			"badge": "Surclassement offert",
+			"highlights": [
+				{
+					"label": "Hôtel prestige",
+					"picto": "PRESTIGE_HOTELS"
+				},
+				{
+					"label": "Vue mer",
+					"picto": "SEA_VIEW"
+				},
+				{
+					"label": "Spa",
+					"picto": "SPA"
+				}
+			],
+			"id": "15",
+			"name": "Miraggio Thermal Spa Resort And Wonderful Hotel Deluxe",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABEAMgMBIgACEQEDEQH/xABvAAEAAwEAAAAAAAAAAAAAAAAABAYHBRAAAgICAAQHAQAAAAAAAAAAAAMBAgQFERIhMhQVMTRBUWGBAQEBAQEAAAAAAAAAAAAAAAAEBQMCEQACAgICAQUAAAAAAAAAAAAAAQIDBBEUMiExM0FCUf/aAAwDAQACEQMRAD8AmK2iDpp2SJMwrkzBKXn2r8j5Ub+xFWdr1rNcRnJk668tVa8eJkGPtrVmOpZ8TYVyKxSbBLaJx8pjaM6qbSa0zQ15anVmayRXPXByE8mMmbc5wcva1raeplCE5irb661tstXiVfYKF5t+g341gXn0fpn0ioA9kb4JK/Uses76gHE+rOK/diXRvtv4UvL75AMMfsyhndEQAAPIh//Z",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476815184/property/15/0001_Miraggio_Thermal_SLIDER_1.jpg"
+				}
+			],
+			"fromPriceType": {
+				"includeOfferWithFlight": true,
+				"type": "FROM_PRICE_TYPE_SAVE_UP_TO",
+				"value": "37",
+				"numberOfNights": 4
+			},
+			"uri": "miraggio-thermal-spa-resort",
+			"marketingDestination": "Grèce",
+			"strapLine": "Havre de paix en terre des dieux",
+			"propertyType": "Midhaul",
+			"rank": 10,
+			"badges": [
+				{
+					"bgColor": "#234a67",
+					"txtColor": "#fff",
+					"label": "Luxe"
+				},
+				{
+					"label": "Tout compris"
+				}
+			],
+			"topics": ["Tout inclus", "En famille", "Plage et soleil", "Plage et soleil"],
+			"periods": [
+				{
+					"label": "Vacances d'avril",
+					"startAt": 1478342300000
+				},
+				{
+					"label": "Assomption",
+					"startAt": 14781272300000
+				}
+			],
+			"zones": ["Europe", "Bassin méditerranéen"],
+			"months": [
+				{
+					"label": "Mai 2018",
+					"startAt": 1525132800000
+				},
+				{
+					"label": "Juin 2018",
+					"startAt": 1527811200000
+				},
+				{
+					"label": "Juillet 2018",
+					"startAt": 1530403200000
+				},
+				{
+					"label": "Août 2018",
+					"startAt": 1533081600000
+				}
+			]
+		},
+		{
+			"category": 5,
+			"country": "Thaïlande",
+			"region": "Thaïlande",
+			"productTypes": ["Circuits"],
+			"resort": "Phuket",
+			"endAt": 1982470020000,
+			"startAt": 1475712000000,
+			"isTopCountry": true,
+			"badge": "Formule tout inclus",
+			"highlights": [
+				{
+					"label": "Idéal pour les familles",
+					"picto": "BEST_FOR_FAMILY"
+				},
+				{
+					"label": "Vue mer",
+					"picto": "SEA_VIEW"
+				},
+				{
+					"label": "Spa",
+					"picto": "SPA"
+				}
+			],
+			"id": "5",
+			"merchandisingTopics": ["Soleils lointains"],
+			"name": "The Westin Siray Bay",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABvAAACAwEBAAAAAAAAAAAAAAAABQIDBgcEEAACAgICAwEBAAAAAAAAAAAAAQIDBBEFIRIiMjETAQADAQEBAAAAAAAAAAAAAAABAgMEAAURAAICAgEDBQAAAAAAAAAAAAABAgMRMQQFEhMUISJRYf/aAAwDAQACEQMRAD8ATy5KuSfZGGXVLvYgWDkzhtJ6Lcbjsm3emzXX1Vw7nOWTvC5aRrMfxt+WNqcdsyOJO7CsUZ/htcLOx7EtyRsj1KFkcoR8drYyx8Z9GmwqfHQoovo690M4ZtNevZELeS7FhIKqwPlEBYuSq19AY/l9DdpwOHKKuHgkTo5F17aEEq/Fl6eomGUK2tbKeVjC/M/rNtnnV9te3GYumnvaZRKVkX+lYYivYWU3Id0czlVT7mzV4XLxtS85nOn7R2RhkWVvpl67ZRYmTsizqtL3A5SuRv19MC3qPwOSdv2Vz/AA81aQClkLfwAHRxCHyUv6AB1tgLQAAgP/2Q==",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476464785/property/5/001_WestinSirayBay_Slider.jpg"
+				}
+			],
+			"includeOfferWithFlight": true,
+			"fromPriceType": {
+				"type": "FROM_PRICE_TYPE_SAVE_UP_TO",
+				"value": "75",
+				"numberOfNights": 5
+			},
+			"uri": "the-westin-siray-bay",
+			"marketingDestination": "Phuket",
+			"strapLine": "Villas luxueuses face à la baie de Siray",
+			"propertyType": "City",
+			"rank": 11,
+			"topics": ["Tout inclus", "En famille", "Piscine de rêve", "Plage et soleil"],
+			"periods": [
+				{
+					"label": "Vacances d'avril",
+					"startAt": 1478342300000
+				},
+				{
+					"label": "Vacances d'hiver",
+					"startAt": 1478378900000
+				},
+				{
+					"label": "Assomption",
+					"startAt": 14781272300000
+				}
+			],
+			"zones": ["Asie"],
+			"months": [
+				{
+					"label": "Juin 2018",
+					"startAt": 1527811200000
+				},
+				{
+					"label": "Juillet 2018",
+					"startAt": 1530403200000
+				},
+				{
+					"label": "Août 2018",
+					"startAt": 1533081600000
+				},
+				{
+					"label": "Septembre 2018",
+					"startAt": 1535760000000
+				},
+				{
+					"label": "Octobre 2018",
+					"startAt": 1538352000000
+				},
+				{
+					"label": "Novembre 2018",
+					"startAt": 1541034000000
+				}
+			]
+		},
+		{
+			"category": 5,
+			"country": "Emirats Arabes Unis",
+			"region": "Emirats Arabes Unis",
+			"resort": "Dubaï",
+			"badge": "Idéal pour famille",
+			"isTopCountry": true,
+			"endAt": 1982470020000,
+			"startAt": 1477526400000,
+			"merchandisingTopics": ["Soleils proches", "Croisieres"],
+			"highlights": [
+				{
+					"label": "Piscine extérieure",
+					"picto": "OUTDOOR_SWIMMING_POOL"
+				},
+				{
+					"label": "Vue panoramique",
+					"picto": "PANORAMIC_VIEW"
+				},
+				{
+					"label": "Rooftop",
+					"picto": "ROOFTOP"
+				}
+			],
+			"id": "44",
+			"name": "Nassima Royal Hôtel",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABcAMgMBIgACEQEDEQH/xABmAAADAQEBAAAAAAAAAAAAAAAABAUDBgcQAAEFAQACAwEAAAAAAAAAAAABAgMEERIUIRMiUTEBAQEBAQAAAAAAAAAAAAAAAAMCBAERAQEAAgMBAQAAAAAAAAAAAAEAAhIDESFBMf/aAAwDAQACEQMRAD8A8z45fg0jPQ1YpuYqYbMgdwmoPxfTKHP4kk2PVNVi5HWVVcqYMSUpET+CpHtSXM7aTpYlOmiovXdQXs1PjRUw5p3XsAXMcAUfHd+AHrXtdJBFLYxy5haipNfjVQAMrll+9ygSdmB1Vy8mC234moAGjj5Mk9bNy4g+Wq2/p6QgXbUnWqADmS0gdFN8534AAR3Jf//Z",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1484904705/property/44/00001_NAssima.jpg"
+				}
+			],
+			"includeOfferWithFlight": true,
+			"fromPriceType": {
+				"type": "FROM_PRICE_TYPE_FROM",
+				"value": "141",
+				"numberOfNights": 3
+			},
+			"uri": "nassima-royal-hotel",
+			"marketingDestination": "Dubai",
+			"strapLine": "Sérénité et détente en plein cœur de Dubaï",
+			"propertyType": "City",
+			"rank": 12,
+			"merchandisings": ["Spécial"],
+			"topics": ["City break", "Tout inclus", "Piscine de rêve", "Surclassement garanti"],
+			"periods": [
+				{
+					"label": "Pont de mai",
+					"startAt": 1478342300000
+				}
+			],
+			"zones": ["Orient", "Asie"],
+			"months": [
+				{
+					"label": "Mai 2018",
+					"startAt": 1525132800000
+				},
+				{
+					"label": "Juin 2018",
+					"startAt": 1527811200000
+				},
+				{
+					"label": "Juillet 2018",
+					"startAt": 1530403200000
+				},
+				{
+					"label": "Août 2018",
+					"startAt": 1533081600000
+				},
+				{
+					"label": "Septembre 2018",
+					"startAt": 1535760000000
+				},
+				{
+					"label": "Octobre 2018",
+					"startAt": 1538352000000
+				},
+				{
+					"label": "Novembre 2018",
+					"startAt": 1541034000000
+				}
+			]
+		},
+		{
+			"category": 5,
+			"country": "Portugal",
+			"region": "Portugal",
+			"productTypes": ["Campings"],
+			"resort": "Algarve",
+			"endAt": 1982470020000,
+			"startAt": 1477008000000,
+			"isTopCountry": false,
+			"highlights": [
+				{
+					"label": "Golf",
+					"picto": "GOLF"
+				},
+				{
+					"label": "Piscine extérieure",
+					"picto": "OUTDOOR_SWIMMING_POOL"
+				},
+				{
+					"label": "Spa",
+					"picto": "SPA"
+				}
+			],
+			"id": "35",
+			"name": "The Salgados Palace",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB0AAADAQEBAAAAAAAAAAAAAAAABAUDBgIQAAICAQMDBQEAAAAAAAAAAAABAgMEBRESEyFBMTIzQnEiAQACAwEBAAAAAAAAAAAAAAAEBQABAwIGEQACAgAFBAMAAAAAAAAAAAAAAQIDBAUVITERFEFRMkJS/9oADAMBAAIRAxEAPwDgow5LdGix5Pwe6ouMNi7hOjh/fqephnlDS6iiWCxCeyIccOb8DMNNtl9WX3ZUvahqrOrqT5QRUs8q8IiwF7+TIlWj3P6j8dJ6Wzn2NrNe49oQEsvV7L1EDsz9vaJvHLF9m2VFptWyAQjq0FFfgGGt2+zXTa/RzkJN9gdvB7bi+JdysSNs6iVb5eGJ6605boOnNpG1ec4DCy+smmcy7Wma15LQYsPF8AjvkuSy4y37DCxZT4pvbcnU5npuPPJ6nHZ+h2stc90id7FcldaFJpPmBnHUJpJc/AGmlW/krv6/ZyeH8sToNS+CP4AANYRPlHI3e4ziADCvwBT5Y3WP1AA4wwBaNgADAEP/2Q==",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478184953/property/35/00001_SALGADOS.jpg"
+				}
+			],
+			"includeOfferWithFlight": true,
+			"fromPriceType": {
+				"type": "FROM_PRICE_TYPE_FROM",
+				"value": "117",
+				"numberOfNights": 3
+			},
+			"uri": "the-salgados-palace",
+			"merchandisingTopics": ["Soleils proches", "Ski"],
+			"marketingDestination": "Algarve",
+			"strapLine": "Une oasis où détente et bon goût vont de pair.",
+			"propertyType": "Midhaul",
+			"rank": 13,
+			"topics": ["City break", "Tout inclus", "Romantique"],
+			"periods": [
+				{
+					"label": "Pont de mai",
+					"startAt": 1478342300000
+				},
+				{
+					"label": "Vacances d'hiver",
+					"startAt": 1478378900000
+				},
+				{
+					"label": "Nouvel An",
+					"startAt": 1478172300000
+				}
+			],
+			"zones": ["Europe"],
+			"months": [
+				{
+					"label": "Mai 2018",
+					"startAt": 1525132800000
+				},
+				{
+					"label": "Juin 2018",
+					"startAt": 1527811200000
+				},
+				{
+					"label": "Juillet 2018",
+					"startAt": 1530403200000
+				},
+				{
+					"label": "Août 2018",
+					"startAt": 1533081600000
+				},
+				{
+					"label": "Septembre 2018",
+					"startAt": 1535760000000
+				},
+				{
+					"label": "Octobre 2018",
+					"startAt": 1538352000000
+				},
+				{
+					"label": "Novembre 2018",
+					"startAt": 1541034000000
+				}
+			]
+		},
+		{
+			"category": 5,
+			"country": "République Dominicaine",
+			"region": "République Dominicaine",
+			"productTypes": ["Campings", "Circuits"],
+			"resort": "Punta Cana",
+			"endAt": 1982470020000,
+			"isTopCountry": false,
+			"startAt": 1476316800000,
+			"highlights": [
+				{
+					"label": "Adultes uniquement",
+					"picto": "ADULT_ONLY"
+				},
+				{
+					"label": "Tout inclus",
+					"picto": "ALL_INCLUSIVE"
+				},
+				{
+					"label": "Wifi gratuit",
+					"picto": "FREE_WIFI"
+				}
+			],
+			"id": "22",
+			"name": "Sivory Punta Cana Boutique Hotel",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABcAMgMBIgACEQEDEQH/xABuAAADAQEBAAAAAAAAAAAAAAAABQYEAwEQAAICAQQCAgMAAAAAAAAAAAABAgMEBRESIQZREyIUFTEBAQEBAQAAAAAAAAAAAAAAAAQDAgYRAAICAgEEAwAAAAAAAAAAAAECAAMEERIUITFSMkFR/9oADAMBAAIRAxEAPwCbjGd0+kMKdNslL7mfBlN2pRiPrqM2aXGLQHa6O5kg7GhOEsOupdtHJ8I9RW41o0fLviue4/xdBrglzJBWPiW+pNV0ZN0NopmjH8dtvnytRb1UUY66SPZZtNfoqlDkyb30p8nEn14xj+gH37OkBHTND9djeyxNg6BTRYpNIpfxq1FfVABGtQTGueI7TNO2FPWxhs1LbfZAA2tF/Jz2dl3oSFaJsnUpybFNmVOT/oANVVGu05m7JusJ5OZz+efsAA3oQvN/Yz//2Q==",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476895630/property/22/00001_Sivory_PuntaCana_SLIDER.jpg"
+				}
+			],
+			"includeOfferWithFlight": true,
+			"fromPriceType": {
+				"type": "FROM_PRICE_TYPE_FROM",
+				"value": "1061",
+				"numberOfNights": 7
+			},
+			"uri": "sivory-punta-cana-boutique-hotel",
+			"marketingDestination": "Punta Cana",
+			"strapLine": "Boutique Hôtel 5* face à la mer des Caraïbes",
+			"propertyType": "Longhaul",
+			"rank": 14,
+			"topics": ["Tout inclus", "Piscine de rêve", "Plage et soleil", "En famille"],
+			"periods": [
+				{
+					"label": "Grandes vacances",
+					"startAt": 1478995200000
+				},
+				{
+					"label": "Noël",
+					"startAt": 1478178900000
+				}
+			],
+			"zones": ["Océanie"],
+			"months": [
+				{
+					"label": "Août 2018",
+					"startAt": 1533081600000
+				},
+				{
+					"label": "Septembre 2018",
+					"startAt": 1535760000000
+				},
+				{
+					"label": "Octobre 2018",
+					"startAt": 1538352000000
+				},
+				{
+					"label": "Novembre 2018",
+					"startAt": 1541034000000
+				}
+			]
+		},
+		{
+			"category": 5,
+			"country": "République Dominicaine",
+			"region": "République Dominicaine",
+			"productTypes": ["Campings", "Circuits"],
+			"resort": "Punta Cana",
+			"endAt": 1982470020000,
+			"isTopCountry": false,
+			"startAt": 1476316800000,
+			"highlights": [
+				{
+					"label": "Adultes uniquement",
+					"picto": "ADULT_ONLY"
+				},
+				{
+					"label": "Tout inclus",
+					"picto": "ALL_INCLUSIVE"
+				},
+				{
+					"label": "Wifi gratuit",
+					"picto": "FREE_WIFI"
+				}
+			],
+			"id": "221",
+			"name": "Sivory Punta Cana Boutique Hotel",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABcAMgMBIgACEQEDEQH/xABuAAADAQEBAAAAAAAAAAAAAAAABQYEAwEQAAICAQQCAgMAAAAAAAAAAAABAgMEBRESIQZREyIUFTEBAQEBAQAAAAAAAAAAAAAAAAQDAgYRAAICAgEEAwAAAAAAAAAAAAECAAMEERIUITFSMkFR/9oADAMBAAIRAxEAPwCbjGd0+kMKdNslL7mfBlN2pRiPrqM2aXGLQHa6O5kg7GhOEsOupdtHJ8I9RW41o0fLviue4/xdBrglzJBWPiW+pNV0ZN0NopmjH8dtvnytRb1UUY66SPZZtNfoqlDkyb30p8nEn14xj+gH37OkBHTND9djeyxNg6BTRYpNIpfxq1FfVABGtQTGueI7TNO2FPWxhs1LbfZAA2tF/Jz2dl3oSFaJsnUpybFNmVOT/oANVVGu05m7JusJ5OZz+efsAA3oQvN/Yz//2Q==",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476895630/property/22/00001_Sivory_PuntaCana_SLIDER.jpg"
+				}
+			],
+			"includeOfferWithFlight": true,
+			"fromPriceType": {
+				"type": "FROM_PRICE_TYPE_FROM",
+				"value": "1061",
+				"numberOfNights": 7
+			},
+			"uri": "sivory-punta-cana-boutique-hotel",
+			"marketingDestination": "Punta Cana",
+			"strapLine": "Boutique Hôtel 5* face à la mer des Caraïbes",
+			"propertyType": "Longhaul",
+			"rank": 14,
+			"topics": ["Tout inclus", "Piscine de rêve", "Plage et soleil", "En famille"],
+			"periods": [
+				{
+					"label": "Grandes vacances",
+					"startAt": 1478995200000
+				},
+				{
+					"label": "Noël",
+					"startAt": 1478178900000
+				}
+			],
+			"zones": ["Océanie"],
+			"months": [
+				{
+					"label": "Août 2018",
+					"startAt": 1533081600000
+				},
+				{
+					"label": "Septembre 2018",
+					"startAt": 1535760000000
+				},
+				{
+					"label": "Octobre 2018",
+					"startAt": 1538352000000
+				},
+				{
+					"label": "Novembre 2018",
+					"startAt": 1541034000000
+				}
+			]
+		},
+		{
+			"category": 5,
+			"country": "République Dominicaine",
+			"region": "République Dominicaine",
+			"productTypes": ["Campings", "Circuits"],
+			"resort": "Punta Cana",
+			"endAt": 1982470020000,
+			"isTopCountry": false,
+			"startAt": 1476316800000,
+			"highlights": [
+				{
+					"label": "Adultes uniquement",
+					"picto": "ADULT_ONLY"
+				},
+				{
+					"label": "Tout inclus",
+					"picto": "ALL_INCLUSIVE"
+				},
+				{
+					"label": "Wifi gratuit",
+					"picto": "FREE_WIFI"
+				}
+			],
+			"id": "222",
+			"name": "Sivory Punta Cana Boutique Hotel",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABcAMgMBIgACEQEDEQH/xABuAAADAQEBAAAAAAAAAAAAAAAABQYEAwEQAAICAQQCAgMAAAAAAAAAAAABAgMEBRESIQZREyIUFTEBAQEBAQAAAAAAAAAAAAAAAAQDAgYRAAICAgEEAwAAAAAAAAAAAAECAAMEERIUITFSMkFR/9oADAMBAAIRAxEAPwCbjGd0+kMKdNslL7mfBlN2pRiPrqM2aXGLQHa6O5kg7GhOEsOupdtHJ8I9RW41o0fLviue4/xdBrglzJBWPiW+pNV0ZN0NopmjH8dtvnytRb1UUY66SPZZtNfoqlDkyb30p8nEn14xj+gH37OkBHTND9djeyxNg6BTRYpNIpfxq1FfVABGtQTGueI7TNO2FPWxhs1LbfZAA2tF/Jz2dl3oSFaJsnUpybFNmVOT/oANVVGu05m7JusJ5OZz+efsAA3oQvN/Yz//2Q==",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476895630/property/22/00001_Sivory_PuntaCana_SLIDER.jpg"
+				}
+			],
+			"includeOfferWithFlight": true,
+			"fromPriceType": {
+				"type": "FROM_PRICE_TYPE_FROM",
+				"value": "1061",
+				"numberOfNights": 7
+			},
+			"uri": "sivory-punta-cana-boutique-hotel",
+			"marketingDestination": "Punta Cana",
+			"strapLine": "Boutique Hôtel 5* face à la mer des Caraïbes",
+			"propertyType": "Longhaul",
+			"rank": 14,
+			"topics": ["Tout inclus", "Piscine de rêve", "Plage et soleil", "En famille"],
+			"periods": [
+				{
+					"label": "Grandes vacances",
+					"startAt": 1478995200000
+				},
+				{
+					"label": "Noël",
+					"startAt": 1478178900000
+				}
+			],
+			"zones": ["Océanie"],
+			"months": [
+				{
+					"label": "Août 2018",
+					"startAt": 1533081600000
+				},
+				{
+					"label": "Septembre 2018",
+					"startAt": 1535760000000
+				},
+				{
+					"label": "Octobre 2018",
+					"startAt": 1538352000000
+				},
+				{
+					"label": "Novembre 2018",
+					"startAt": 1541034000000
+				}
+			]
+		},
+		{
+			"category": 5,
+			"country": "République Dominicaine",
+			"region": "République Dominicaine",
+			"productTypes": ["Campings", "Circuits"],
+			"resort": "Punta Cana",
+			"endAt": 1982470020000,
+			"isTopCountry": false,
+			"startAt": 1476316800000,
+			"highlights": [
+				{
+					"label": "Adultes uniquement",
+					"picto": "ADULT_ONLY"
+				},
+				{
+					"label": "Tout inclus",
+					"picto": "ALL_INCLUSIVE"
+				},
+				{
+					"label": "Wifi gratuit",
+					"picto": "FREE_WIFI"
+				}
+			],
+			"id": "223",
+			"name": "Sivory Punta Cana Boutique Hotel",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABcAMgMBIgACEQEDEQH/xABuAAADAQEBAAAAAAAAAAAAAAAABQYEAwEQAAICAQQCAgMAAAAAAAAAAAABAgMEBRESIQZREyIUFTEBAQEBAQAAAAAAAAAAAAAAAAQDAgYRAAICAgEEAwAAAAAAAAAAAAECAAMEERIUITFSMkFR/9oADAMBAAIRAxEAPwCbjGd0+kMKdNslL7mfBlN2pRiPrqM2aXGLQHa6O5kg7GhOEsOupdtHJ8I9RW41o0fLviue4/xdBrglzJBWPiW+pNV0ZN0NopmjH8dtvnytRb1UUY66SPZZtNfoqlDkyb30p8nEn14xj+gH37OkBHTND9djeyxNg6BTRYpNIpfxq1FfVABGtQTGueI7TNO2FPWxhs1LbfZAA2tF/Jz2dl3oSFaJsnUpybFNmVOT/oANVVGu05m7JusJ5OZz+efsAA3oQvN/Yz//2Q==",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476895630/property/22/00001_Sivory_PuntaCana_SLIDER.jpg"
+				}
+			],
+			"includeOfferWithFlight": true,
+			"fromPriceType": {
+				"type": "FROM_PRICE_TYPE_FROM",
+				"value": "1061",
+				"numberOfNights": 7
+			},
+			"uri": "sivory-punta-cana-boutique-hotel",
+			"marketingDestination": "Punta Cana",
+			"strapLine": "Boutique Hôtel 5* face à la mer des Caraïbes",
+			"propertyType": "Longhaul",
+			"rank": 14,
+			"topics": ["Tout inclus", "Piscine de rêve", "Plage et soleil", "En famille"],
+			"periods": [
+				{
+					"label": "Grandes vacances",
+					"startAt": 1478995200000
+				},
+				{
+					"label": "Noël",
+					"startAt": 1478178900000
+				}
+			],
+			"zones": ["Océanie"],
+			"months": [
+				{
+					"label": "Août 2018",
+					"startAt": 1533081600000
+				},
+				{
+					"label": "Septembre 2018",
+					"startAt": 1535760000000
+				},
+				{
+					"label": "Octobre 2018",
+					"startAt": 1538352000000
+				},
+				{
+					"label": "Novembre 2018",
+					"startAt": 1541034000000
+				}
+			]
+		},
+		{
+			"category": 5,
+			"country": "République Dominicaine",
+			"region": "République Dominicaine",
+			"productTypes": ["Campings", "Circuits"],
+			"resort": "Punta Cana",
+			"endAt": 1982470020000,
+			"isTopCountry": false,
+			"startAt": 1476316800000,
+			"highlights": [
+				{
+					"label": "Adultes uniquement",
+					"picto": "ADULT_ONLY"
+				},
+				{
+					"label": "Tout inclus",
+					"picto": "ALL_INCLUSIVE"
+				},
+				{
+					"label": "Wifi gratuit",
+					"picto": "FREE_WIFI"
+				}
+			],
+			"id": "224",
+			"name": "Sivory Punta Cana Boutique Hotel",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABcAMgMBIgACEQEDEQH/xABuAAADAQEBAAAAAAAAAAAAAAAABQYEAwEQAAICAQQCAgMAAAAAAAAAAAABAgMEBRESIQZREyIUFTEBAQEBAQAAAAAAAAAAAAAAAAQDAgYRAAICAgEEAwAAAAAAAAAAAAECAAMEERIUITFSMkFR/9oADAMBAAIRAxEAPwCbjGd0+kMKdNslL7mfBlN2pRiPrqM2aXGLQHa6O5kg7GhOEsOupdtHJ8I9RW41o0fLviue4/xdBrglzJBWPiW+pNV0ZN0NopmjH8dtvnytRb1UUY66SPZZtNfoqlDkyb30p8nEn14xj+gH37OkBHTND9djeyxNg6BTRYpNIpfxq1FfVABGtQTGueI7TNO2FPWxhs1LbfZAA2tF/Jz2dl3oSFaJsnUpybFNmVOT/oANVVGu05m7JusJ5OZz+efsAA3oQvN/Yz//2Q==",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476895630/property/22/00001_Sivory_PuntaCana_SLIDER.jpg"
+				}
+			],
+			"includeOfferWithFlight": true,
+			"fromPriceType": {
+				"type": "FROM_PRICE_TYPE_FROM",
+				"value": "1061",
+				"numberOfNights": 7
+			},
+			"uri": "sivory-punta-cana-boutique-hotel",
+			"marketingDestination": "Punta Cana",
+			"strapLine": "Boutique Hôtel 5* face à la mer des Caraïbes",
+			"propertyType": "Longhaul",
+			"rank": 14,
+			"topics": ["Tout inclus", "Piscine de rêve", "Plage et soleil", "En famille"],
+			"periods": [
+				{
+					"label": "Grandes vacances",
+					"startAt": 1478995200000
+				},
+				{
+					"label": "Noël",
+					"startAt": 1478178900000
+				}
+			],
+			"zones": ["Océanie"],
+			"months": [
+				{
+					"label": "Août 2018",
+					"startAt": 1533081600000
+				},
+				{
+					"label": "Septembre 2018",
+					"startAt": 1535760000000
+				},
+				{
+					"label": "Octobre 2018",
+					"startAt": 1538352000000
+				},
+				{
+					"label": "Novembre 2018",
+					"startAt": 1541034000000
+				}
+			]
+		},
+		{
+			"category": 5,
+			"country": "République Dominicaine",
+			"region": "République Dominicaine",
+			"productTypes": ["Campings", "Circuits"],
+			"resort": "Punta Cana",
+			"endAt": 1982470020000,
+			"isTopCountry": false,
+			"startAt": 1476316800000,
+			"highlights": [
+				{
+					"label": "Adultes uniquement",
+					"picto": "ADULT_ONLY"
+				},
+				{
+					"label": "Tout inclus",
+					"picto": "ALL_INCLUSIVE"
+				},
+				{
+					"label": "Wifi gratuit",
+					"picto": "FREE_WIFI"
+				}
+			],
+			"id": "225",
+			"name": "Sivory Punta Cana Boutique Hotel",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABcAMgMBIgACEQEDEQH/xABuAAADAQEBAAAAAAAAAAAAAAAABQYEAwEQAAICAQQCAgMAAAAAAAAAAAABAgMEBRESIQZREyIUFTEBAQEBAQAAAAAAAAAAAAAAAAQDAgYRAAICAgEEAwAAAAAAAAAAAAECAAMEERIUITFSMkFR/9oADAMBAAIRAxEAPwCbjGd0+kMKdNslL7mfBlN2pRiPrqM2aXGLQHa6O5kg7GhOEsOupdtHJ8I9RW41o0fLviue4/xdBrglzJBWPiW+pNV0ZN0NopmjH8dtvnytRb1UUY66SPZZtNfoqlDkyb30p8nEn14xj+gH37OkBHTND9djeyxNg6BTRYpNIpfxq1FfVABGtQTGueI7TNO2FPWxhs1LbfZAA2tF/Jz2dl3oSFaJsnUpybFNmVOT/oANVVGu05m7JusJ5OZz+efsAA3oQvN/Yz//2Q==",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476895630/property/22/00001_Sivory_PuntaCana_SLIDER.jpg"
+				}
+			],
+			"includeOfferWithFlight": true,
+			"fromPriceType": {
+				"type": "FROM_PRICE_TYPE_FROM",
+				"value": "1061",
+				"numberOfNights": 7
+			},
+			"uri": "sivory-punta-cana-boutique-hotel",
+			"marketingDestination": "Punta Cana",
+			"strapLine": "Boutique Hôtel 5* face à la mer des Caraïbes",
+			"propertyType": "Longhaul",
+			"rank": 14,
+			"topics": ["Tout inclus", "Piscine de rêve", "Plage et soleil", "En famille"],
+			"periods": [
+				{
+					"label": "Grandes vacances",
+					"startAt": 1478995200000
+				},
+				{
+					"label": "Noël",
+					"startAt": 1478178900000
+				}
+			],
+			"zones": ["Océanie"],
+			"months": [
+				{
+					"label": "Août 2018",
+					"startAt": 1533081600000
+				},
+				{
+					"label": "Septembre 2018",
+					"startAt": 1535760000000
+				},
+				{
+					"label": "Octobre 2018",
+					"startAt": 1538352000000
+				},
+				{
+					"label": "Novembre 2018",
+					"startAt": 1541034000000
+				}
+			]
+		},
+		{
+			"category": 5,
+			"country": "République Dominicaine",
+			"region": "République Dominicaine",
+			"productTypes": ["Campings", "Circuits"],
+			"resort": "Punta Cana",
+			"endAt": 1982470020000,
+			"isTopCountry": false,
+			"startAt": 1476316800000,
+			"highlights": [
+				{
+					"label": "Adultes uniquement",
+					"picto": "ADULT_ONLY"
+				},
+				{
+					"label": "Tout inclus",
+					"picto": "ALL_INCLUSIVE"
+				},
+				{
+					"label": "Wifi gratuit",
+					"picto": "FREE_WIFI"
+				}
+			],
+			"id": "226",
+			"name": "Sivory Punta Cana Boutique Hotel",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABcAMgMBIgACEQEDEQH/xABuAAADAQEBAAAAAAAAAAAAAAAABQYEAwEQAAICAQQCAgMAAAAAAAAAAAABAgMEBRESIQZREyIUFTEBAQEBAQAAAAAAAAAAAAAAAAQDAgYRAAICAgEEAwAAAAAAAAAAAAECAAMEERIUITFSMkFR/9oADAMBAAIRAxEAPwCbjGd0+kMKdNslL7mfBlN2pRiPrqM2aXGLQHa6O5kg7GhOEsOupdtHJ8I9RW41o0fLviue4/xdBrglzJBWPiW+pNV0ZN0NopmjH8dtvnytRb1UUY66SPZZtNfoqlDkyb30p8nEn14xj+gH37OkBHTND9djeyxNg6BTRYpNIpfxq1FfVABGtQTGueI7TNO2FPWxhs1LbfZAA2tF/Jz2dl3oSFaJsnUpybFNmVOT/oANVVGu05m7JusJ5OZz+efsAA3oQvN/Yz//2Q==",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476895630/property/22/00001_Sivory_PuntaCana_SLIDER.jpg"
+				}
+			],
+			"includeOfferWithFlight": true,
+			"fromPriceType": {
+				"type": "FROM_PRICE_TYPE_FROM",
+				"value": "1061",
+				"numberOfNights": 7
+			},
+			"uri": "sivory-punta-cana-boutique-hotel",
+			"marketingDestination": "Punta Cana",
+			"strapLine": "Boutique Hôtel 5* face à la mer des Caraïbes",
+			"propertyType": "Longhaul",
+			"rank": 14,
+			"topics": ["Tout inclus", "Piscine de rêve", "Plage et soleil", "En famille"],
+			"periods": [
+				{
+					"label": "Grandes vacances",
+					"startAt": 1478995200000
+				},
+				{
+					"label": "Noël",
+					"startAt": 1478178900000
+				}
+			],
+			"zones": ["Océanie"],
+			"months": [
+				{
+					"label": "Août 2018",
+					"startAt": 1533081600000
+				},
+				{
+					"label": "Septembre 2018",
+					"startAt": 1535760000000
+				},
+				{
+					"label": "Octobre 2018",
+					"startAt": 1538352000000
+				},
+				{
+					"label": "Novembre 2018",
+					"startAt": 1541034000000
+				}
+			]
+		},
+		{
+			"category": 5,
+			"country": "République Dominicaine",
+			"region": "République Dominicaine",
+			"productTypes": ["Campings", "Circuits"],
+			"resort": "Punta Cana",
+			"endAt": 1982470020000,
+			"isTopCountry": false,
+			"startAt": 1476316800000,
+			"highlights": [
+				{
+					"label": "Adultes uniquement",
+					"picto": "ADULT_ONLY"
+				},
+				{
+					"label": "Tout inclus",
+					"picto": "ALL_INCLUSIVE"
+				},
+				{
+					"label": "Wifi gratuit",
+					"picto": "FREE_WIFI"
+				}
+			],
+			"id": "227",
+			"name": "Sivory Punta Cana Boutique Hotel",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABcAMgMBIgACEQEDEQH/xABuAAADAQEBAAAAAAAAAAAAAAAABQYEAwEQAAICAQQCAgMAAAAAAAAAAAABAgMEBRESIQZREyIUFTEBAQEBAQAAAAAAAAAAAAAAAAQDAgYRAAICAgEEAwAAAAAAAAAAAAECAAMEERIUITFSMkFR/9oADAMBAAIRAxEAPwCbjGd0+kMKdNslL7mfBlN2pRiPrqM2aXGLQHa6O5kg7GhOEsOupdtHJ8I9RW41o0fLviue4/xdBrglzJBWPiW+pNV0ZN0NopmjH8dtvnytRb1UUY66SPZZtNfoqlDkyb30p8nEn14xj+gH37OkBHTND9djeyxNg6BTRYpNIpfxq1FfVABGtQTGueI7TNO2FPWxhs1LbfZAA2tF/Jz2dl3oSFaJsnUpybFNmVOT/oANVVGu05m7JusJ5OZz+efsAA3oQvN/Yz//2Q==",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476895630/property/22/00001_Sivory_PuntaCana_SLIDER.jpg"
+				}
+			],
+			"includeOfferWithFlight": true,
+			"fromPriceType": {
+				"type": "FROM_PRICE_TYPE_FROM",
+				"value": "1061",
+				"numberOfNights": 7
+			},
+			"uri": "sivory-punta-cana-boutique-hotel",
+			"marketingDestination": "Punta Cana",
+			"strapLine": "Boutique Hôtel 5* face à la mer des Caraïbes",
+			"propertyType": "Longhaul",
+			"rank": 14,
+			"topics": ["Tout inclus", "Piscine de rêve", "Plage et soleil", "En famille"],
+			"periods": [
+				{
+					"label": "Grandes vacances",
+					"startAt": 1478995200000
+				},
+				{
+					"label": "Noël",
+					"startAt": 1478178900000
+				}
+			],
+			"zones": ["Océanie"],
+			"months": [
+				{
+					"label": "Août 2018",
+					"startAt": 1533081600000
+				},
+				{
+					"label": "Septembre 2018",
+					"startAt": 1535760000000
+				},
+				{
+					"label": "Octobre 2018",
+					"startAt": 1538352000000
+				},
+				{
+					"label": "Novembre 2018",
+					"startAt": 1541034000000
+				}
+			]
+		},
+		{
+			"category": 5,
+			"country": "République Dominicaine",
+			"region": "République Dominicaine",
+			"productTypes": ["Campings", "Circuits"],
+			"resort": "Punta Cana",
+			"endAt": 1982470020000,
+			"isTopCountry": false,
+			"startAt": 1476316800000,
+			"highlights": [
+				{
+					"label": "Adultes uniquement",
+					"picto": "ADULT_ONLY"
+				},
+				{
+					"label": "Tout inclus",
+					"picto": "ALL_INCLUSIVE"
+				},
+				{
+					"label": "Wifi gratuit",
+					"picto": "FREE_WIFI"
+				}
+			],
+			"id": "228",
+			"name": "Sivory Punta Cana Boutique Hotel",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABcAMgMBIgACEQEDEQH/xABuAAADAQEBAAAAAAAAAAAAAAAABQYEAwEQAAICAQQCAgMAAAAAAAAAAAABAgMEBRESIQZREyIUFTEBAQEBAQAAAAAAAAAAAAAAAAQDAgYRAAICAgEEAwAAAAAAAAAAAAECAAMEERIUITFSMkFR/9oADAMBAAIRAxEAPwCbjGd0+kMKdNslL7mfBlN2pRiPrqM2aXGLQHa6O5kg7GhOEsOupdtHJ8I9RW41o0fLviue4/xdBrglzJBWPiW+pNV0ZN0NopmjH8dtvnytRb1UUY66SPZZtNfoqlDkyb30p8nEn14xj+gH37OkBHTND9djeyxNg6BTRYpNIpfxq1FfVABGtQTGueI7TNO2FPWxhs1LbfZAA2tF/Jz2dl3oSFaJsnUpybFNmVOT/oANVVGu05m7JusJ5OZz+efsAA3oQvN/Yz//2Q==",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476895630/property/22/00001_Sivory_PuntaCana_SLIDER.jpg"
+				}
+			],
+			"includeOfferWithFlight": true,
+			"fromPriceType": {
+				"type": "FROM_PRICE_TYPE_FROM",
+				"value": "1061",
+				"numberOfNights": 7
+			},
+			"uri": "sivory-punta-cana-boutique-hotel",
+			"marketingDestination": "Punta Cana",
+			"strapLine": "Boutique Hôtel 5* face à la mer des Caraïbes",
+			"propertyType": "Longhaul",
+			"rank": 14,
+			"topics": ["Tout inclus", "Piscine de rêve", "Plage et soleil", "En famille"],
+			"periods": [
+				{
+					"label": "Grandes vacances",
+					"startAt": 1478995200000
+				},
+				{
+					"label": "Noël",
+					"startAt": 1478178900000
+				}
+			],
+			"zones": ["Océanie"],
+			"months": [
+				{
+					"label": "Août 2018",
+					"startAt": 1533081600000
+				},
+				{
+					"label": "Septembre 2018",
+					"startAt": 1535760000000
+				},
+				{
+					"label": "Octobre 2018",
+					"startAt": 1538352000000
+				},
+				{
+					"label": "Novembre 2018",
+					"startAt": 1541034000000
+				}
+			]
+		},
+		{
+			"category": 5,
+			"country": "République Dominicaine",
+			"region": "République Dominicaine",
+			"productTypes": ["Campings", "Circuits"],
+			"resort": "Punta Cana",
+			"endAt": 1982470020000,
+			"isTopCountry": false,
+			"startAt": 1476316800000,
+			"highlights": [
+				{
+					"label": "Adultes uniquement",
+					"picto": "ADULT_ONLY"
+				},
+				{
+					"label": "Tout inclus",
+					"picto": "ALL_INCLUSIVE"
+				},
+				{
+					"label": "Wifi gratuit",
+					"picto": "FREE_WIFI"
+				}
+			],
+			"id": "229",
+			"name": "Sivory Punta Cana Boutique Hotel",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABcAMgMBIgACEQEDEQH/xABuAAADAQEBAAAAAAAAAAAAAAAABQYEAwEQAAICAQQCAgMAAAAAAAAAAAABAgMEBRESIQZREyIUFTEBAQEBAQAAAAAAAAAAAAAAAAQDAgYRAAICAgEEAwAAAAAAAAAAAAECAAMEERIUITFSMkFR/9oADAMBAAIRAxEAPwCbjGd0+kMKdNslL7mfBlN2pRiPrqM2aXGLQHa6O5kg7GhOEsOupdtHJ8I9RW41o0fLviue4/xdBrglzJBWPiW+pNV0ZN0NopmjH8dtvnytRb1UUY66SPZZtNfoqlDkyb30p8nEn14xj+gH37OkBHTND9djeyxNg6BTRYpNIpfxq1FfVABGtQTGueI7TNO2FPWxhs1LbfZAA2tF/Jz2dl3oSFaJsnUpybFNmVOT/oANVVGu05m7JusJ5OZz+efsAA3oQvN/Yz//2Q==",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476895630/property/22/00001_Sivory_PuntaCana_SLIDER.jpg"
+				}
+			],
+			"includeOfferWithFlight": true,
+			"fromPriceType": {
+				"type": "FROM_PRICE_TYPE_FROM",
+				"value": "1061",
+				"numberOfNights": 7
+			},
+			"uri": "sivory-punta-cana-boutique-hotel",
+			"marketingDestination": "Punta Cana",
+			"strapLine": "Boutique Hôtel 5* face à la mer des Caraïbes",
+			"propertyType": "Longhaul",
+			"rank": 14,
+			"topics": ["Tout inclus", "Piscine de rêve", "Plage et soleil", "En famille"],
+			"periods": [
+				{
+					"label": "Grandes vacances",
+					"startAt": 1478995200000
+				},
+				{
+					"label": "Noël",
+					"startAt": 1478178900000
+				}
+			],
+			"zones": ["Océanie"],
+			"months": [
+				{
+					"label": "Août 2018",
+					"startAt": 1533081600000
+				},
+				{
+					"label": "Septembre 2018",
+					"startAt": 1535760000000
+				},
+				{
+					"label": "Octobre 2018",
+					"startAt": 1538352000000
+				},
+				{
+					"label": "Novembre 2018",
+					"startAt": 1541034000000
+				}
+			]
+		},
+		{
+			"category": 5,
+			"country": "République Dominicaine",
+			"region": "République Dominicaine",
+			"productTypes": ["Campings", "Circuits"],
+			"resort": "Punta Cana",
+			"endAt": 1982470020000,
+			"isTopCountry": false,
+			"startAt": 1476316800000,
+			"highlights": [
+				{
+					"label": "Adultes uniquement",
+					"picto": "ADULT_ONLY"
+				},
+				{
+					"label": "Tout inclus",
+					"picto": "ALL_INCLUSIVE"
+				},
+				{
+					"label": "Wifi gratuit",
+					"picto": "FREE_WIFI"
+				}
+			],
+			"id": "230",
+			"name": "Sivory Punta Cana Boutique Hotel",
+			"photos": [
+				{
+					"thumbnail":
+						"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABcAMgMBIgACEQEDEQH/xABuAAADAQEBAAAAAAAAAAAAAAAABQYEAwEQAAICAQQCAgMAAAAAAAAAAAABAgMEBRESIQZREyIUFTEBAQEBAQAAAAAAAAAAAAAAAAQDAgYRAAICAgEEAwAAAAAAAAAAAAECAAMEERIUITFSMkFR/9oADAMBAAIRAxEAPwCbjGd0+kMKdNslL7mfBlN2pRiPrqM2aXGLQHa6O5kg7GhOEsOupdtHJ8I9RW41o0fLviue4/xdBrglzJBWPiW+pNV0ZN0NopmjH8dtvnytRb1UUY66SPZZtNfoqlDkyb30p8nEn14xj+gH37OkBHTND9djeyxNg6BTRYpNIpfxq1FfVABGtQTGueI7TNO2FPWxhs1LbfZAA2tF/Jz2dl3oSFaJsnUpybFNmVOT/oANVVGu05m7JusJ5OZz+efsAA3oQvN/Yz//2Q==",
+					"url":
+						"https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476895630/property/22/00001_Sivory_PuntaCana_SLIDER.jpg"
+				}
+			],
+			"includeOfferWithFlight": true,
+			"fromPriceType": {
+				"type": "FROM_PRICE_TYPE_FROM",
+				"value": "1061",
+				"numberOfNights": 7
+			},
+			"uri": "sivory-punta-cana-boutique-hotel",
+			"marketingDestination": "Punta Cana",
+			"strapLine": "Boutique Hôtel 5* face à la mer des Caraïbes",
+			"propertyType": "Longhaul",
+			"rank": 14,
+			"topics": ["Tout inclus", "Piscine de rêve", "Plage et soleil", "En famille"],
+			"periods": [
+				{
+					"label": "Grandes vacances",
+					"startAt": 1478995200000
+				},
+				{
+					"label": "Noël",
+					"startAt": 1478178900000
+				}
+			],
+			"zones": ["Océanie"],
+			"months": [
+				{
+					"label": "Août 2018",
+					"startAt": 1533081600000
+				},
+				{
+					"label": "Septembre 2018",
+					"startAt": 1535760000000
+				},
+				{
+					"label": "Octobre 2018",
+					"startAt": 1538352000000
+				},
+				{
+					"label": "Novembre 2018",
+					"startAt": 1541034000000
+				}
+			]
+		}
+	],
+	"merchandisings": [
+		{
+			"code": "CLUBMED",
+			"button": {
+				"label": "Afficher les ventes"
+			},
+			"label": "Toutes nos ventes Club Med",
+			"position": 7,
+			"headerIndex": 0,
+			"displayMode": "list",
+			"photoLarge": {
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1498472412/merchandising/AFFR/ILESMED/desktop/ilesmed.jpg",
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABUAMgMBIgACEQEDEQH/xABsAAADAAIDAAAAAAAAAAAAAAAABQYBBwIDBBAAAgICAgMBAQAAAAAAAAAAAAECAwQSBRETMVEUUgEBAQEBAAAAAAAAAAAAAAAABAIDBREAAgICAgIDAAAAAAAAAAAAAQIAAxEhBBMSIjJRUv/aAAwDAQACEQMRAD8AhaMX9C9nvjx0qY7piPDzXUvY8jyHkh0DKsohnXU413ONy2+m1uF5OurFRqSKVtiKXFunVHVMatLvUMa1BmzqYEDZltl8rGbbZHZ+VXbYd05Odb7ZNZe8ZMHVwVW5rC3tE1G64Z8DiMvIv6Am/Nb9A26rP1EdlkmYjvDXYATaSFkWfGM09JrorMGiFlWz9gAtHYcfRgLAMrM2V6RfTEWQ++wANV7O+Z3+La44wAOsRZogADeB8j9z/9k="
+			},
+			"photoSmall": {
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1498472434/merchandising/AFFR/ILESMED/mobile/mobile_ilesmed.jpg",
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIADYAMgMBIgACEQEDEQH/xAB0AAACAwEBAQAAAAAAAAAAAAAABAMFBgIHARAAAgICAwACAwEAAAAAAAAAAQIAAwQRBRIhExQxQVFCAQADAQEBAAAAAAAAAAAAAAACAwQFAQARAAICAQMEAgMAAAAAAAAAAAABAhEDEiFBExQxUSNSMmFx/9oADAMBAAIRAxEAPwCo4vkk793M0tnPWWL0qnmOJW+xPReJw0+JXicmBVKS3a4IOo4tq7FnszX2fRELBmD3uZqnRWfqIpbhPY/hkuKE298aRx5ZvwjL2NmgbOyIVciyjo/k19nH6oMxWdQvYgD2eeOMm4yggtf2Q79hD/uEz31r/wCmEHtcP3O/F7G1VEHkvOOzrjqpZlGdhHMHOOM4bU2tNokhFp7s2N1l9T9oo1+erdlB1F7+W+ZB5OKOWYEKV3B06VdD6S5LM52X004MpLz2fZlnlZhuQaSVLb/YksoqbESbctnZ13SEU2IRPQ/oWmXpijPW51qSLXV56JG1KgExdK3Z/JtWei40X641ZrHshUU0t+RPm3WvUo72cv8AkxbakqDT1bM2dT1uo1qQZCqfJVYLWAARy0uTIm1CXgV+L2IfhH9hOfiuhA7hfob1Ze0Jk903HuPpBPsITRytrHIVwy3fHWZ3KpVLYQmfhnNydsOJc4VaBR5Icg6t0IQk0m3mlbOcEwJ0IQhFULP/2Q=="
+			},
+			"mainPhotoLarge": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAcFBQYFBAcGBgYIBwcICxILCwoKCxYPEA0SGhYbGhkWGRgcICgiHB4mHhgZIzAkJiorLS4tGyIyNTEsNSgsLSz/2wBDAQcICAsJCxULCxUsHRkdLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCz/wAARCAANADIDAREAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABQQBAgb/xAAiEAABBAICAQUAAAAAAAAAAAABAAIDBAUREyFSEhQVIlH/xAAaAQADAQEBAQAAAAAAAAAAAAABAgMEBgAF/8QAHREAAgICAwEAAAAAAAAAAAAAAAECEQMSBCExE//aAAwDAQACEQMRAD8AGo1WSDs6XTylRx6jZi1j4w/fqRjMfVG1OuRJodhFyMuSkNMsx1Y9OOnKLbYcWJT9ILObnifsAlqrFJgycfUto5CG4z7kByLtGSWOirgh8ghuT0YBEON+gUjPq2Viu2btxKls0ebFsfjog3alLIyEuwXMRj3RaDoArRjdoaL18FsTh69yieUk9finObi+hvo5enN5muMZO4QPI0teOWy7Fqwn5e15lU1QdEf/2Q==",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1506690315/merchandising/VPFR/CLUBMED/desktop/picture_generique.jpg"
+			},
+			"mainPhotoSmall": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABMAMgMBIgACEQEDEQH/xABsAAADAQEBAAAAAAAAAAAAAAAABAUGAgEQAAICAgICAwAAAAAAAAAAAAABAgMEERIxISIFEzMBAAICAwAAAAAAAAAAAAAAAAECAwQABQYRAAICAQQDAAAAAAAAAAAAAAABAhFBAwQTMhIhMf/aAAwDAQACEQMRAD8AXtqm4+EIPGs30WZTfASlbLo3sZM5moIVhW1IsY8HoUqrc3vR7kXWUL1C5N+kQ+MZTp/B6eVXV2cRyqbumSIt5e009is6L8aW9MMaeaZmpt4LqzS/UgM+s+4B6kQ8LLBw4x30AFTJbZUxYQ4vwRc39WgAGn3YmB/4yuHOPqi/nY9Lq81roAFm3yIWOTKOmrb9EAAWbYT/2Q==",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1506690399/merchandising/VPFR/CLUBMED/mobile/mobile_picture-generique.jpg"
+			},
+			"merchandisingFilterValues": ["CLUBMED"],
+			"merchandisingCategoryFilterValues": [
+				"Ski",
+				"Soleils lointains",
+				"Soleils proches",
+				"Croisière"
+			],
+			"merchandisingTopics": [
+				{
+					"filterValue": "Ski",
+					"photoLarge": {
+						"thumbnail":
+							"/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANADIDAREAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwUBBgQHCP/EACEQAAICAwABBQEAAAAAAAAAAAECAAQDBRIRExQhMUFR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EABkRAQEBAQEBAAAAAAAAAAAAAAARAQISIf/aAAwDAQACEQMRAD8A6Ks22xMQFJm85rG9QLHsHY+ODHwzndL93csY+fSBHmc+sdeS+5vXrVgj+eyI887q3VWr767k24xdHkmU2m/G0taze2QufkiIZncgE+JG+xCqJTCi/SiVULtnjVnAIkSXYa7DYI7/ACObBC+voqyXVyAnoH+Rpi7VlC4VA/BBCSD/2Q==",
+						"url":
+							"https://res.cloudinary.com/perfectstay/image/upload/v1506690314/merchandising/VPFR/CLUBMED/desktop/picture_ski.jpg"
+					},
+					"photoSmall": {
+						"thumbnail":
+							"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAgICAgJCAkKCgkNDgwODRMREBARExwUFhQWFBwrGx8bGx8bKyYuJSMlLiZENS8vNUROQj5CTl9VVV93cXecnNEBCAgICAkICQoKCQ0ODA4NExEQEBETHBQWFBYUHCsbHxsbHxsrJi4lIyUuJkQ1Ly81RE5CPkJOX1VVX3dxd5yc0f/AABEIABMAMgMBIgACEQEDEQH/xABlAAEAAgIDAAAAAAAAAAAAAAAAAwUCBAEGBxAAAgICAQUBAAAAAAAAAAAAAQIAAwQFERIUISIxBgEBAQEAAAAAAAAAAAAAAAAAAgABEQEAAgMBAAAAAAAAAAAAAAAAAQIRISIx/9oADAMBAAIRAxEAPwD29rkX6ZG2QnB4MWYwYzDtFAMXI9KC7a2rf0KJa9+iVAs3mVz4iDILSu2+LYwU1kw1r16czpBst3dU3pNjVbPJymAMos3Hd6VXpPVLf83Q1RIcRTXbM6d1BfgRJIkxLOD8iIWtAopY+Jg1aHjlYiakT0Un6gmdFVat6qBESSwiImp//9k=",
+						"url":
+							"https://res.cloudinary.com/perfectstay/image/upload/v1506690398/merchandising/VPFR/CLUBMED/mobile/mobile_picture-ski.jpg"
+					}
+				},
+				{
+					"filterValue": "Soleils lointains",
+					"photoLarge": {
+						"thumbnail":
+							"/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAcFBQYFBAcGBgYIBwcICxILCwoKCxYPEA0SGhYbGhkWGRgcICgiHB4mHhgZIzAkJiorLS4tGyIyNTEsNSgsLSz/2wBDAQcICAsJCxULCxUsHRkdLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCz/wAARCAANADIDAREAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQMEAAH/xAAkEAACAgIABAcAAAAAAAAAAAABAgADBBEFFCFRBhIxMkFSYf/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAQFAf/EAB0RAAMBAQACAwAAAAAAAAAAAAABAwIREyESFDH/2gAMAwEAAhEDEQA/AHOJW3Z6+VV6CO3Sm3wx1PGRTw7itUurJZhrWf0RTCYxkKQdKJoKghzMjVMx6iGqCnInZgIyxqsJcAq7DAu18QvO+nPrejuQTuI3zCvARxrCP2Z6llF3VtMZwbWJhPCQOaNi6VBxskxT9FhPp42MvcyJnGSfGXXuMJMFmK3EQt6mETpHk1+xh/IXw//Z",
+						"url":
+							"https://res.cloudinary.com/perfectstay/image/upload/v1506690315/merchandising/VPFR/CLUBMED/desktop/picture_sl.jpg"
+					},
+					"photoSmall": {
+						"thumbnail":
+							"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABMAMgMBIgACEQEDEQH/xABrAAADAQEBAAAAAAAAAAAAAAAABAUDAQIQAAIBBAEEAwEAAAAAAAAAAAABAgMREjFRBBMUIQVCUnIBAAIDAQAAAAAAAAAAAAAAAAMEAAECBREAAgIDAQEAAAAAAAAAAAAAAAECAxMUMQRB/9oADAMBAAIRAxEAPwC11tWlhaGxX49ylU9m1ONOe0P0IUoO6Q6tqUlKUjjOPnSaSRS7CxTMZQiNqreKVjy/5G1ZP6Bddb4JeMp6QtU6dJ2KyqY/UWnK8ssTeaxGcFTJ3iPgCj3X+QCZ5gteBD0bUm77ACAi1Q9pFJJY6ABazo7VxmckuDLFcABCmcxjwAAQo//Z",
+						"url":
+							"https://res.cloudinary.com/perfectstay/image/upload/v1506690399/merchandising/VPFR/CLUBMED/mobile/mobile_picture-sl.jpg"
+					}
+				},
+				{
+					"filterValue": "Soleils proches",
+					"photoLarge": {
+						"thumbnail":
+							"/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAcFBQYFBAcGBgYIBwcICxILCwoKCxYPEA0SGhYbGhkWGRgcICgiHB4mHhgZIzAkJiorLS4tGyIyNTEsNSgsLSz/2wBDAQcICAsJCxULCxUsHRkdLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCz/wAARCAANADIDAREAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQMEBwb/xAAnEAABBAEACQUAAAAAAAAAAAABAAIEBQMGERIhIjFSYaETFRZBcf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAHREAAwACAwEBAAAAAAAAAAAAAAECAxESITETFP/aAAwDAQACEQMRAD8A0B1lID+EFc2Y2SeQXr7SS4AOaQncJAVNkE+9dhkhoO9ZbTRpS62D3NqJcVwePpZ336PD2Y1pU4nK4Maearilkq9D6SE+QCNg6/xXctlI0Oew5+jwn4FOJvGCDhMgAhdX4zo4M5G2OCvwsYCBqUXjRtRyttBxGwB7ofGWgPK10Qy4OD0AC3mpfnhsCytFDFoZWWJ2srN57J1hmfBot0LV+gVRGHAzwnUIqtoR+JV/T4ScUX5M/9k=",
+						"url":
+							"https://res.cloudinary.com/perfectstay/image/upload/v1506690316/merchandising/VPFR/CLUBMED/desktop/picture_sp.jpg"
+					},
+					"photoSmall": {
+						"thumbnail":
+							"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABMAMgMBIgACEQEDEQH/xABxAAACAgMBAAAAAAAAAAAAAAAABgIFAQMHBBAAAQQBBAIDAAAAAAAAAAAAAAECAwQFERITUSExBhUiAQEAAwEAAAAAAAAAAAAAAAADAgQFABEAAgIABgIDAAAAAAAAAAAAAAECAxESEyExMlFSBBRC/9oADAMBAAIRAxEAPwDozMgjXaKpaR3WPT2L8NLmd7LJlF0ZV0ZJb4hK3NxwTlyLWP01KbJTMnjVUU02q0y2CM1CTYvkrzptf5bQysgmtzm+Xdt3C9XYkrx9u4F9hV/Rqo/F3Rv1Vwlfx7FHqQVleblC3wO6A6F9EgHfUl6jatfsNeOVdS9ADXt7GZT0RVyonKQsonGAEoreINj7C5N4UxG53YAXklgtjLcpZuWevc7sAAhgvA+aXln/2Q==",
+						"url":
+							"https://res.cloudinary.com/perfectstay/image/upload/v1506690400/merchandising/VPFR/CLUBMED/mobile/mobile_picture-sp.jpg"
+					}
+				},
+				{
+					"filterValue": "Croisière",
+					"photoLarge": {
+						"thumbnail":
+							"/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAcFBQYFBAcGBgYIBwcICxILCwoKCxYPEA0SGhYbGhkWGRgcICgiHB4mHhgZIzAkJiorLS4tGyIyNTEsNSgsLSz/2wBDAQcICAsJCxULCxUsHRkdLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCz/wAARCAANADIDAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQBAgUA/8QAHxAAAgMBAAIDAQAAAAAAAAAAAQMAAhEEBRITFCEi/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMEAQUG/8QAHhEAAwACAgMBAAAAAAAAAAAAAAECAxIEEQUUITH/2gAMAwEAAhEDEQA/AJq/peMoMBnft5KPD48eOfpA8GthLHAEmIji7Puim+VrPUiPZ4vkG19RKvShoi97ImIJ408zfaslvxkuuy2fJU56N3kF30GHBKu5xLVCoxVlezK9djz2z22bD3DuVjF/uGN0E7oOp91j+ZW5RylbK9HkHChwzNUMVNmcHXbYmxhA0hd/5bdgsOGFX3OWrK2yTViTf0vnkVK6QO3Uxh2x2MmUvwTVuv075bQwT//Z",
+						"url":
+							"https://res.cloudinary.com/perfectstay/image/upload/v1506690315/merchandising/VPFR/CLUBMED/desktop/picture_croisie%CC%80re.jpg"
+					},
+					"photoSmall": {
+						"thumbnail":
+							"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABMAMgMBIgACEQEDEQH/xABoAAEAAwEBAAAAAAAAAAAAAAAAAgMEAQUQAAICAgIDAQAAAAAAAAAAAAABAgMEEQVBEhMhMQEAAgIDAAAAAAAAAAAAAAAAAgMAAQQFBhEAAwADAQEBAAAAAAAAAAAAAAECBBESAxMh/9oADAMBAAIRAxEAPwCqvianFPQnxFbX4aVmeK1sqlnNrRu5w/OVrlM5Gsz0t77aPFt4yMJGzHgqeyN1spfSiFjclsp4OP0rc/qGTm5Fw/Pr8Z66nKf4SmrIR20cqzKKIr5tlORyHuWktIvq7rSnSGfPy8o3V7oe8GLzQG8CPojrIsAeYZW29FPYBTDkn0QQAISJbABAj//Z",
+						"url":
+							"https://res.cloudinary.com/perfectstay/image/upload/v1506690398/merchandising/VPFR/CLUBMED/mobile/mobile_picture-croisie%CC%80re.jpg"
+					}
+				}
+			]
+		},
+		{
+			"code": "PTMAI",
+			"label": "Pont de mai",
+			"position": 8,
+			"headerIndex": 1,
+			"displayMode": "list",
+			"fallbackPosition": 3,
+			"introduction":
+				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eleifend tincidunt elementum. Nullam sem erat, tristique ac ex eget, accumsan commodo sem. Duis auctor justo vel eleifend lobortis. Nulla facilisi. Nam porta, nulla vel sollicitudin viverra, nisi leo posuere sem, sed venenatis neque ipsum in elit. Sed sit amet est congue, ultrices nisi quis, vulputate diam. Mauris mollis lacus massa, nec eleifend nulla pellentesque quis.",
+			"destinationFilterValues": ["Portugal", "Grèce"],
+			"topicFilterValues": null,
+			"periodFilterValues": null,
+			"merchandisingFilterValues": null,
+			"photoLarge": {
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1515077172/merchandising/AFFR/test/desktop/test1.jpg",
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVADIDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAIGAQMEBf/EACEQAAICAgICAwEAAAAAAAAAAAADAQIEEgUGETIUIzNS/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAMEAgEG/8QAIBEAAQMEAgMAAAAAAAAAAAAAAAECEQMSMVETUiEiQf/aAAwDAQACEQMRAD8Atll0/IsXDcBTLxivV8V+zUuPWeUSrG+0lpIir5PP0karoXBsr1dNV6mxfV8eqjuby+N7bCvPorX2H+hTZT+nm5PXUqxr6lLeqmMy1S9Z3PpZjXrUo72Ve21hNSMtJ61swhwfEBu+TH8gm429jnI7qSu+Zfr4jwJyb0fVceoAwXJlmWyHVgw7JvDKwAASHZN4msEXuleusQAGgVcktIABixujd7tn/9k="
+			},
+			"photoSmall": {
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1515077182/merchandising/AFFR/test/mobile/test-mobile-1.jpg",
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIADYAMgMBIgACEQEDEQH/xAB5AAACAwEBAAAAAAAAAAAAAAAAAwEEBQIGEAACAgICAQUBAQAAAAAAAAABAgADBBESIRMFFCIxURVhAQACAwEAAAAAAAAAAAAAAAABAwACBAURAAIBAwEGBwEBAAAAAAAAAAECAAMREiEEEyI0UnEUIzFBQlGRFTL/2gAMAwEAAhEDEQA/APQ6SsEzhWS2SxWwa3BKlpEyEBDugTi3vOEGZxviBklhaS9iV6ElQh+UW1K2sDGEKo4yWDk0yTZPQw3KAVQBd9CJx5EclZ0xSpZCY4QlpD1rb1BlkN7rdNLSY4nc6YvY3nHukhGexr/YRXjn6T+R385esfsnDxGNnZnoX9JV0HczMU6tWevUoUHc106RRSr66w0TSrXYLawmPX6XUg1uT/KpJ5TR2N63GB0HWxG4rHBF6RM/+fURrUxszFTHbqeq8ifonl/WmLt8DKsUUFrDSLrUwUxX1J0lDn/sJm+HJhM3jKPSJm8FtH2Y+i63n9S/d6hkIo4kyuzLWpOoqqwW/Ylgz4MG/wB+0nCrqUby9Mpeqzb2XZJiGzsk2a2dRNtwQgARisOPLUBZ8VxHH8oQ3E2TnDXGPfLuCfZlau6y07eLW7mxXUZbaKl6EjWLCw8v5QAtibsd4Dwy15ITL92fyEGOxdIk3m3dRl5gG6MkVqg6EIS1XmqXaVo8nW7iceNXbsTsgDqEIKfMVu0NTlaHeQtSDvUhkV+iIQi05Wt3Mc/N0OwjhjVaHxhCE49z9mdvFfoT/9k="
+			},
+			"button": {
+				"label": "Afficher les ventes"
+			}
+		},
+		{
+			"code": "PAQUES",
+			"label": "Vacances de Pâques",
+			"position": 8,
+			"headerIndex": 2,
+			"displayMode": "card",
+			"fallbackPosition": 3,
+			"destinationFilterValues": null,
+			"topicFilterValues": null,
+			"introduction":
+				"Pellentesque vitae finibus ipsum, vel iaculis lacus. Suspendisse eleifend lobortis est nec convallis. Integer at rutrum nunc. Aliquam ut euismod felis. Sed dapibus feugiat volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean rutrum augue eu porttitor semper. Curabitur bibendum nunc venenatis, fermentum dolor vel, iaculis turpis. Proin vitae euismod felis. Duis cursus enim pellentesque tellus sollicitudin, a consequat arcu rutrum. Integer ac augue odio. Duis porttitor quam commodo augue rhoncus, eu finibus massa condimentum. Nunc at risus ultrices, finibus dolor in, tincidunt lacus.",
+			"periodFilterValues": ["Pont de mai"],
+			"merchandisingFilterValues": ["Spécial"],
+			"photoLarge": {
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1492159021/merchandising/AFFR/test3/desktop/test3.jpg",
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAgICAgJCAkKCgkNDgwODRMSEBASEx0VFhUWFR0sHCAcHCAcLCcvJiQmLydGNzExN0ZRREBEUWJYWGJ8dnyiotkBCAgICAkICQoKCQ0ODA4NExIQEBITHRUWFRYVHSwcIBwcIBwsJy8mJCYvJ0Y3MTE3RlFEQERRYlhYYnx2fKKi2f/AABEIABUAMgMBIgACEQEDEQH/xABtAAEAAwADAQAAAAAAAAAAAAAAAwQFAQIGBxAAAgICAQMFAAAAAAAAAAAAAQIAAwQREgUTIiExM0FCAQEBAQEAAAAAAAAAAAAAAAADBAIBEQACAgICAwEAAAAAAAAAAAAAAQIREiETMQMiI2H/2gAMAwEAAhEDEQA/APmeKge5QZ6plwqUClRynmcGtnuULNHLpuS1S29RPJuaWVHI6i9F1jV9VyQtRw+MblYWAINTknYhV+m/fuiLH7LZHF1GiZ06xjU1EGuRGq03gqDHUnYhQ3vES+kdmbbi7RixESgItYtzVWhlm1kZz2p5KIiDOKyToSLdFem8j8iTPkn08BESZwjydF6nLhqzsmaynYQTKzb2tfZiJTCKyuiCTeJQiIjBn//Z"
+			},
+			"photoSmall": {
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1492164719/merchandising/AFFR/test3/mobile/test-mobile2.jpg",
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAgICAgJCAkKCgkNDgwODRMSEBASEx0VFhUWFR0sHCAcHCAcLCcvJiQmLydGNzExN0ZRREBEUWJYWGJ8dnyiotkBCAgICAkICQoKCQ0ODA4NExIQEBITHRUWFRYVHSwcIBwcIBwsJy8mJCYvJ0Y3MTE3RlFEQERRYlhYYnx2fKKi2f/AABEIADYAMgMBIgACEQEDEQH/xAB2AAABBQEBAAAAAAAAAAAAAAAAAgMEBQYBBxAAAgICAgADCAMAAAAAAAAAAQIAAwQRBRITFCIGFSEzQUJScUNRUwEAAwEBAAAAAAAAAAAAAAAAAQIDAAQRAAICAgIDAQEAAAAAAAAAAAABAhEDIRIxEyJRQWH/2gAMAwEAAhEDEQA/AMFi8Tfkjso+Esj7OXLrZllh5BowOyytbk87I303NzyuTqkg1BJXdiPcJ3rsI+vs4zDfcSEbOR3v1R2vJ5IbHqgXlreRGbx3qLo43AuH12Eav4K+tC+tidfIzq27sTNRiZ/j4Lhhs6gnPNFJ2mrGiscm9HnhqYEiEsXI7t8PqYTp5MjotKwx48yJg5goDDruWFbgcaZR0Wdex6bkIpNT/dlJt+q/hqKc1GXt4cRbmjWxXqV9OYlaHss6+YhpPpg8SvoGq7EZWaj0kdYvirtU2iVltosrOkknjVY12ajSjxxul+hx7mrIjt62/ZhG2VuzfuEpsGjQ+CRxm4xxb4iowu1NEqY1+AEVhvUzD8UQx1ZIY5xamnrY87Ti+9C+SfFcoKtaklhh+S67HbUrzxTH+Sd92P8A6ynKFL2Et29DdbUrjuPrLHhlXwrWMaXhtr8wS7xcOnHxXUuN6iZMkOPfbGhGTfRl3ZO7/swg9K929X1MJXQmytTMvQaDmdObefvMISvGPwS2J85f+Zh5y/8AMwhNxj8ALGfkD7zA5+QfvMIQcY/ENb+kfxrP7hCENIFs/9k="
+			},
+			"button": {
+				"label": "Afficher les ventes"
+			}
+		},
+		{
+			"code": "Soleil",
+			"label": "Soleil et plage",
+			"position": 8,
+			"headerIndex": 3,
+			"fallbackPosition": 7,
+			"destinationFilterValues": null,
+			"topicFilterValues": ["Plage et soleil", "Romantique"],
+			"periodFilterValues": null,
+			"merchandisingFilterValues": null,
+			"photoLarge": {
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1492159021/merchandising/AFFR/test2/desktop/test2.jpg",
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAgICAgJCAkKCgkNDgwODRMREBARExwUFhQWFBwrGx8bGx8bKyYuJSMlLiZENS8vNUROQj5CTl9VVV93cXecnNEBCAgICAkICQoKCQ0ODA4NExEQEBETHBQWFBYUHCsbHxsbHxsrJi4lIyUuJkQ1Ly81RE5CPkJOX1VVX3dxd5yc0f/AABEIABUAMgMBIgACEQEDEQH/xABoAAADAQEBAQAAAAAAAAAAAAAAAQMCBQQHEAEBAQACAwEAAAAAAAAAAAAAAQIREgQxQSIBAAIDAQAAAAAAAAAAAAAAAAADAQIFBBEAAwABAwUAAAAAAAAAAAAAAAECEQMSMRQhI0FR/9oADAMBAAIRAxEAPwD6Fi3onqcnPSkh8Q022YFXulJGJNKZy3NZns++PlDicjJV4zhk7i2tdWuTDhEJ8k+gVCNqDJGSHwAaUwjneXNfNWPP4813n7oDmpeQ39Gn0eO3Hw7E9KwA9mF7Y+AAqWP/2Q=="
+			},
+			"photoSmall": {
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1492164719/merchandising/AFFR/test2/mobile/test-mobile1.jpg",
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAgICAgICAkKCgkMDQwNDBIQDw8QEhsTFRMVExspGR4ZGR4ZKSQsJCEkLCRBMy0tM0FLPzw/S1tRUVtybHKVlckBCAgICAgICQoKCQwNDA0MEhAPDxASGxMVExUTGykZHhkZHhkpJCwkISQsJEEzLS0zQUs/PD9LW1FRW3JscpWVyf/AABEIADcAMgMBIgACEQEDEQH/xABqAAADAQEBAQAAAAAAAAAAAAAAAQMCBAUHEAEBAQEAAwADAAAAAAAAAAAAAQIRAxIhFEFhAQADAQEBAAAAAAAAAAAAAAAAAQMEAgURAQEAAgIBBQEAAAAAAAAAAAEAAhESITEDEyJBUYH/2gAMAwEAAhEDEQA/APoWM+0Yk9bVPF8jNn2g72N4qAYpR3qy9dGbnWepanRMWRfLAcD9LPhmmeR5GJmWncw8z1bnLqJfPs06qhh0ut7pfjUPQlgT/lf28P24sHM20ZXw1HpArY+bkB4pzx1r0q9+CSqRwN0vQvWRa3iWr0rpAgMgaI2ykiskjnHaO5CH1dPetd/rk6fRPmXRfv7TsifTEuQ2wyB3PqmABSjhAAk2jAOZPgAK6v/Z"
+			},
+			"button": {
+				"label": "Afficher les ventes",
+				"backgroundColor": "#ffda70",
+				"color": "#000"
+			}
+		},
+		{
+			"code": "CREAM",
+			"label": "La crème de la crème",
+			"introduction":
+				"Découvrez notre sélection de nos meilleurs ventes exclusives \u003cstrong\u003eavec ou sans transport, au départ de Paris et de la Province\u003c/strong\u003e. \u003cbr\u003eChoisissez votre hôtel et la durée de votre séjour \u003cstrong\u003e(2 à 14 nuits)\u003c/strong\u003e selon vos envies.",
+			"headerIndex": 0,
+			"position": 4,
+			"button": {
+				"backgroundColor": "#ffffff",
+				"color": "#F40002",
+				"label": "Voir les ventes"
+			},
+			"destinationFilterValues": null,
+			"topicFilterValues": null,
+			"periodFilterValues": null,
+			"merchandisingFilterValues": ["CREAM"],
+			"photoLarge": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAgICAgJCAkKCgkNDgwODRMREBARExwUFhQWFBwrGx8bGx8bKyYuJSMlLiZENS8vNUROQj5CTl9VVV93cXecnNEBCAgICAkICQoKCQ0ODA4NExEQEBETHBQWFBYUHCsbHxsbHxsrJi4lIyUuJkQ1Ly81RE5CPkJOX1VVX3dxd5yc0f/AABEIABUAMgMBIgACEQEDEQH/xABuAAACAgMAAAAAAAAAAAAAAAAABAIFAQMGEAADAAICAwEAAAAAAAAAAAAAAQIDEQQxExQVQQEAAgEFAAAAAAAAAAAAAAAAAQUEAAIDBgcRAQACAgEDBQAAAAAAAAAAAAEAAgMEBRITIREUFTFR/9oADAMBAAIRAxEAPwDvVLZJYmyU2kiU5EhyrOa1rj8dTIvHSRp0xusi0LJ7YarKy1oNSrMqG0xWIucj2XHHhv8ABr0/I+iJk2OnKD9R3rcZ3dFvQe4sqAL750gH3eKYvhd38JzhIAJjEZMllxeNFLbACNsWTH4Y14vHTJsheoke0oekPYugATWVX1ZvuOlaUCoBNwAAJfP/2Q==",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1497622799/merchandising/AFFR/CREAM/desktop/creme.jpg"
+			},
+			"photoSmall": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAgICAgJCAkKCgkNDgwODRMSEBASEx0VFhUWFR0sHCAcHCAcLCcvJiQmLydGNzExN0ZRREBEUWJYWGJ8dnyiotkBCAgICAkICQoKCQ0ODA4NExIQEBITHRUWFRYVHSwcIBwcIBwsJy8mJCYvJ0Y3MTE3RlFEQERRYlhYYnx2fKKi2f/AABEIADYAMgMBIgACEQEDEQH/xABwAAACAwEBAAAAAAAAAAAAAAAAAgEDBAUGEAACAwACAgMBAAAAAAAAAAAAAQIDEQQSISITFTFRAQABBQEBAAAAAAAAAAAAAAACAAEDBAUGBxEAAgICAgIDAQAAAAAAAAAAAAECAxESBCEFIhQVQVH/2gAMAwEAAhEDEQA/APcpPS342xE/JuivU2pPB5nTXGWTMq2Q+PJmh6iyDbQOzRYVNcnq0zPHjtIosWHS9kmc6162KLbY19cIQWqZlAbAJjOwy/wOpsriSATptdodzlgQnL+iMhPBYWAt2pJ5LZWyE/VrF3Sid/WagN0g1tY2WAMA+SLVkpoNFQyHBTbwQxlFESZMNYvwJY2L6q+zwz3cFqfc6PHg2zc6JTeMzb7XG2PfR1fjeFXbwbPT3ZwOrA9F9fECX5dZR+j5X8R51IZIALhhJLKBR7SSOvRwo4m2AFXlTlGPTwbPh6KrbXvBM0Yq3iRsq8gBjybb7Z3NcIQilGKSNIAAwZ//2Q==",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1497623496/merchandising/AFFR/CREAM/mobile/Mobile_creme.jpg"
+			},
+			"displayMode": "card"
+		},
+		{
+			"code": "CREAM1",
+			"label": "La crème de la crème",
+			"introduction":
+				"Découvrez notre sélection de nos meilleurs ventes exclusives \u003cstrong\u003eavec ou sans transport, au départ de Paris et de la Province\u003c/strong\u003e. \u003cbr\u003eChoisissez votre hôtel et la durée de votre séjour \u003cstrong\u003e(2 à 14 nuits)\u003c/strong\u003e selon vos envies.",
+			"headerIndex": 0,
+			"position": 10,
+			"button": {
+				"backgroundColor": "#ffffff",
+				"color": "#F40002",
+				"label": "Voir les ventes"
+			},
+			"destinationFilterValues": null,
+			"topicFilterValues": null,
+			"periodFilterValues": null,
+			"merchandisingFilterValues": ["CREAM"],
+			"photoLarge": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAgICAgJCAkKCgkNDgwODRMREBARExwUFhQWFBwrGx8bGx8bKyYuJSMlLiZENS8vNUROQj5CTl9VVV93cXecnNEBCAgICAkICQoKCQ0ODA4NExEQEBETHBQWFBYUHCsbHxsbHxsrJi4lIyUuJkQ1Ly81RE5CPkJOX1VVX3dxd5yc0f/AABEIABUAMgMBIgACEQEDEQH/xABuAAACAgMAAAAAAAAAAAAAAAAABAIFAQMGEAADAAICAwEAAAAAAAAAAAAAAQIDEQQxExQVQQEAAgEFAAAAAAAAAAAAAAAAAQUEAAIDBgcRAQACAgEDBQAAAAAAAAAAAAEAAgMEBRITIREUFTFR/9oADAMBAAIRAxEAPwDvVLZJYmyU2kiU5EhyrOa1rj8dTIvHSRp0xusi0LJ7YarKy1oNSrMqG0xWIucj2XHHhv8ABr0/I+iJk2OnKD9R3rcZ3dFvQe4sqAL750gH3eKYvhd38JzhIAJjEZMllxeNFLbACNsWTH4Y14vHTJsheoke0oekPYugATWVX1ZvuOlaUCoBNwAAJfP/2Q==",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1497622799/merchandising/AFFR/CREAM/desktop/creme.jpg"
+			},
+			"photoSmall": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAgICAgJCAkKCgkNDgwODRMSEBASEx0VFhUWFR0sHCAcHCAcLCcvJiQmLydGNzExN0ZRREBEUWJYWGJ8dnyiotkBCAgICAkICQoKCQ0ODA4NExIQEBITHRUWFRYVHSwcIBwcIBwsJy8mJCYvJ0Y3MTE3RlFEQERRYlhYYnx2fKKi2f/AABEIADYAMgMBIgACEQEDEQH/xABwAAACAwEBAAAAAAAAAAAAAAAAAgEDBAUGEAACAwACAgMBAAAAAAAAAAAAAQIDEQQSISITFTFRAQABBQEBAAAAAAAAAAAAAAACAAEDBAUGBxEAAgICAgIDAQAAAAAAAAAAAAECAxESBCEFIhQVQVH/2gAMAwEAAhEDEQA/APcpPS342xE/JuivU2pPB5nTXGWTMq2Q+PJmh6iyDbQOzRYVNcnq0zPHjtIosWHS9kmc6162KLbY19cIQWqZlAbAJjOwy/wOpsriSATptdodzlgQnL+iMhPBYWAt2pJ5LZWyE/VrF3Sid/WagN0g1tY2WAMA+SLVkpoNFQyHBTbwQxlFESZMNYvwJY2L6q+zwz3cFqfc6PHg2zc6JTeMzb7XG2PfR1fjeFXbwbPT3ZwOrA9F9fECX5dZR+j5X8R51IZIALhhJLKBR7SSOvRwo4m2AFXlTlGPTwbPh6KrbXvBM0Yq3iRsq8gBjybb7Z3NcIQilGKSNIAAwZ//2Q==",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1497623496/merchandising/AFFR/CREAM/mobile/Mobile_creme.jpg"
+			},
+			"displayMode": "card"
+		},
+		{
+			"code": "SUMMER",
+			"label": "Summer 2018",
+			"introduction":
+				"Découvrez notre sélection de nos meilleurs ventes exclusives \u003cstrong\u003eavec ou sans transport, au départ de Paris et de la Province\u003c/strong\u003e. \u003cbr\u003eChoisissez votre hôtel et la durée de votre séjour \u003cstrong\u003e(2 à 14 nuits)\u003c/strong\u003e selon vos envies.",
+			"headerIndex": 0,
+			"position": 0,
+			"button": {
+				"backgroundColor": "#ffffff",
+				"color": "#F40002",
+				"label": "Voir les ventes"
+			},
+			"destinationFilterValues": null,
+			"topicFilterValues": null,
+			"periodFilterValues": null,
+			"monthFilterValues": ["2018-06-30T22:00:00.000Z"],
+			"merchandisingFilterValues": null,
+			"mainPhotoLarge": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAcFBQYFBAcGBgYIBwcICxILCwoKCxYPEA0SGhYbGhkWGRgcICgiHB4mHhgZIzAkJiorLS4tGyIyNTEsNSgsLSz/2wBDAQcICAsJCxULCxUsHRkdLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCz/wAARCAAOADIDAREAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAQADBQYCBAf/xAAhEAACAgIDAAIDAAAAAAAAAAABAgADBBEFEiEGFCIxMv/EABsBAAICAwEAAAAAAAAAAAAAAAECAwUABAYH/8QAHxEAAwEAAgIDAQAAAAAAAAAAAAECEQMEEiETFCMx/9oADAMBAAIRAxEAPwAVdmX8p0U3p4xWJ+jB8YO2odJIvBxeLXQOxIneM3VjW6Kziqyh9Eby0RVjIkcRS+Z1c6BkV1hc9P8AR4M818ZSmg2VkEaiRXkWVw+NlQODpj5H8QfIdMB6mBM4Z+wliDH0xILWMF/cFMaWxV2s3hMaXoKbRq5tPnYHREaoTRu9Ts1x16IzMzrvqmtm2IkwkXn2a5P6V4/0Y4+n/9k=",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1524673962/merchandising/LRFR/SUMMER/desktop/LP_Summer.jpg"
+			},
+			"mainPhotoSmall": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACQAMgMBIgACEQEDEQH/xABtAAADAQEBAAAAAAAAAAAAAAAAAwQFBgIQAAICAQUBAAMAAAAAAAAAAAABAgMEBRESITFRExQVAQABBQEAAAAAAAAAAAAAAAACAAEDBAYFEQACAgMBAAMBAAAAAAAAAAAAAQIRAwQSMRMhIkH/2gAMAwEAAhEDEQA/AOZ/ExleHK3xGiqkn2U1b1vo7Rg47KT+/DGlplvwnnp9sfUdQ77PhnZNtjAfRax7OJuumYMsGwz7aXB7M6StZFviJMjDtbbcQC7HIqMDiBo/qv4AqYfyROvlXv2eqkxzF8uLDumZLpyjQyUSO6vcsU+QSj0HdihJwkrFaZl00WcLIo3rcbHyoOUdjksih78o+jcXNvpXFsrSxz7tGo19vXlqqMqtFj01bvoDz/Qf0CX9EPWMZLwXJdAAMvTOx8F8mmVxe6AA4DZPEItS2IJpJMAJWT4P4RgADHQP/9k=",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1524674017/merchandising/LRFR/SUMMER/mobile/LP-Mobile_Summer_1.jpg"
+			},
+			"photoLarge": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABEAMgMBIgACEQEDEQH/xABxAAEAAwEBAAAAAAAAAAAAAAAAAQMEBQIQAAICAQQCAwAAAAAAAAAAAAABAxECBAUSMRQVIUJRAQACAgMAAAAAAAAAAAAAAAABAgMFBAYHEQACAQMCBwEAAAAAAAAAAAAAAQMCEiERMgUTIjFBQlFS/9oADAMBAAIRAxEAPwCe0U5RcnRcmTyplzecvpbTKPEyR78O0XuV0QpmLc9SdyJrCepyNTpadFuGzqWLkmbZcOaM0Wol02VX8AkVWLSy4fPE7lJVpjBgez530DtexX4Ber4ZvMo/ZBDACuxrIy6POIAPYK2l/wBTnTgE/gaDeYgAAsz/2Q==",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1524673988/merchandising/LRFR/SUMMER/desktop/Merch_Summer-8.jpg"
+			},
+			"photoSmall": {
+				"thumbnail":
+					"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIADUAMgMBIgACEQEDEQH/xAB0AAACAwEBAAAAAAAAAAAAAAAABAMFBgIHEAACAgICAQMFAAAAAAAAAAAAAQIDBBEFIRITFEEVMUJRUgEAAQUBAAAAAAAAAAAAAAAABAABAgMGBREAAgIBAwQDAAAAAAAAAAAAAAECEQMSEyEEBSIxMkFR/9oADAMBAAIRAxEAPwDGOts4dbRcwoTkkW302qcF2jsyaRj4ZdXoxjizhxNfLial+SErcGmLS8kQ1IJjZmJIiaNO8Gj+ioyqYQnqJCy9cFcBL4gIezcKl7O2rF8snr7R3JBHDMlvTi6srrXZrW2VViscvuy9sj0IzSrkpNEJJB3TZpNpX7IYYWTKHlp6FLcOfyj0PjsvEvxlDS2GRx1dsW4oHWVN00d6XSzhjU4u+DzL2z/QGtfHdvoC7xBNU/wkg0iR6Yq00zpSafbFGRmnC+UyVpCWRUpxLBakiOcC2rHxZHCVmfrttw7NxbNVh8w3XplLfTGQuoemugd4Fqs0WPujeJR+zTvNrfwBl/WkBPQiO+x66Tjo5hJzfYAUp+Rx0lt2P1ROpgAXH0BP5itiFppaABwrGKeKAAEFWz//2Q==",
+				"url":
+					"https://res.cloudinary.com/perfectstay/image/upload/v1524674018/merchandising/LRFR/SUMMER/mobile/Merch-Mobile_Summer_1.jpg"
+			},
+			"displayMode": "card"
+		}
+	],
+	"topCountries": [
+		{ "code": "FR", "label": "France" },
+		{ "code": "TN", "label": "Tunisie" },
+		{ "code": "GR", "label": "Grèce" },
+		{ "code": "IT", "label": "Italie" },
+		{ "code": "ES", "label": "Espagne" },
+		{ "code": "TH", "label": "Thaïlande" },
+		{ "code": "MV", "label": "Maldives" },
+		{ "code": "DO", "label": "Rép. Dominicaine" },
+		{ "code": "MU", "label": "Maurice" },
+		{ "code": "CU", "label": "Cuba" }
+	],
+	"productTypes": ["Les ventes flash", "Séjours", "Circuits", "Campings"]
+}

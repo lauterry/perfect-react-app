@@ -1,0 +1,42 @@
+[
+	{
+		"content": {
+			"backgroundColor": "black",
+			"buttonUrl": {
+				"buttonLabel": "Cliquez ici",
+				"url": "http://google.fr"
+			},
+			"content": [
+				"*Jusqu’au 25/11 inclus, bénéficiez de 100 € de réduction supplémentaire sur l’ensemble des ventes. Pour cela, utilisez le code promotionnel suivant : BLACKFRIDAY18 au niveau de la page paiement pour toute réservation dès 1000 € d’achat hors assurance."
+			],
+			"note": ["Note du black friday"],
+			"pages": ["listing", "product", "payment"],
+			"picto": "image-2bc9bba21018573dc755f2b70c50b251e439f8a4-162x141-svg",
+			"promoCode": "BLACKFRIDAY18",
+			"title": ["BLACK FRIDAY JUSQU’AU 25/11 INCLUS ", "BÉNÉFICIEZ DE 100 € DE REDUCTION*"]
+		},
+		"endAt": "2018-11-30T23:00:00.000Z",
+		"launchAt": "2018-11-28T23:00:00.000Z",
+		"name": "cyber monday"
+	},
+	{
+		"content": {
+			"backgroundColor": "black",
+			"buttonUrl": {
+				"buttonLabel": "Cliquez ici",
+				"url": "http://google.fr"
+			},
+			"content": [
+				"*Jusqu’au 25/11 inclus, bénéficiez de 100 € de réduction supplémentaire sur l’ensemble des ventes. Pour cela, utilisez le code promotionnel suivant : BLACKFRIDAY18 au niveau de la page paiement pour toute réservation dès 1000 € d’achat hors assurance."
+			],
+			"note": ["Note du black friday"],
+			"pages": ["listing", "product", "payment"],
+			"picto": "image-2bc9bba21018573dc755f2b70c50b251e439f8a4-162x141-svg",
+			"promoCode": "BLACKFRIDAY18",
+			"title": ["BLACK FRIDAY JUSQU’AU 25/11 INCLUS ", "BÉNÉFICIEZ DE 100 € DE REDUCTION*"]
+		},
+		"endAt": "2018-11-27T23:00:00.000Z",
+		"launchAt": "2018-11-14T23:00:00.000Z",
+		"name": "black friday"
+	}
+]

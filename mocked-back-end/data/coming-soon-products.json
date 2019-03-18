@@ -1,0 +1,122 @@
+[
+    {
+        "category": 5,
+        "country": "Malte",
+        "region": "Malte",
+        "resort": "Sliema",
+        "endAt": 1479254400000,
+        "startAt": 1476921600000,
+        "highlights": [
+            {
+                "label": "Piscine intérieure",
+                "picto": "INDOOR_SWIMMING_POOL"
+            },
+            {
+                "label": "Vue panoramique",
+                "picto": "PANORAMIC_VIEW"
+            },
+            {
+                "label": "Spa",
+                "picto": "SPA"
+            }
+        ],
+        "id": "29",
+        "name": "The Palace",
+        "photos": [
+            {
+                "thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIAB4AMgMBIgACEQEDEQH/xABxAAACAwEBAAAAAAAAAAAAAAAABQMEBgECEAACAgIBAwQDAAAAAAAAAAABAgADBBESBRMhFBVBUSIjUwEAAgMBAAAAAAAAAAAAAAAAAwQBAgYFEQEAAgAGAwEAAAAAAAAAAAABAAIDBBESMVETFEEh/9oADAMBAAIRAxEAPwDAN0RzkNWgkb9KvpfiUMfUdXRctrdeCZdfqi3Xcu3OgVqrowSppM0mH8FYypw0A8iT3rbY/JU0DJUwsp02IjdtvT5GK7So8sEqrr86EsDK4+FWUbMbLVteYdjJUg8DF7N9YcTbqRrzsPxCQC28ADtmEtoym+/UT4WD3bOGppMfBox7AH1EvqjXcWUanGyrbX2WmgMGtZmrZmxyrHttqdzigGoxof8AECZkcgA25fpsfW9wN8IYKubsW/Vjmykt5Ep+pOM37EBEK8iz7nq5e8pDQPhPoRumcvyLJfdcH+YhEpwV+4SPBTqG93F7n//Z",
+                "url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476982157/property/29/0001_THEPALACE.jpg"
+            }
+        ],
+        "fromPriceType": {
+            "type": "FROM_PRICE_TYPE_EXCLUSIVE",
+            "value": "",
+            "numberOfNights": 0
+        },
+        "uri": "the-palace",
+        "marketingDestination": "Malte",
+        "strapLine": "Luxe, repos et découverte à Malte",
+        "propertyType": "City",
+        "rank": 14
+    },
+    {
+        "category": 5,
+        "country": "Turquie",
+        "region": "Turquie",
+        "resort": "Bodrum",
+        "endAt": 1478995200000,
+        "startAt": 1475798400000,
+        "highlights": [
+            {
+                "label": "Bed & Breakfast",
+                "picto": "BED_BREAKFAST"
+            },
+            {
+                "label": "Wifi gratuit",
+                "picto": "FREE_WIFI"
+            },
+            {
+                "label": "Spa",
+                "picto": "SPA"
+            }
+        ],
+        "id": "8",
+        "name": "Hôtel Doria Bodrum",
+        "photos": [
+            {
+                "thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUFBQUGBQYHBwYJCQgJCQ0MCwsMDRMODw4PDhMdEhUSEhUSHRofGRcZHxouJCAgJC41LSotNUA5OUBRTVFqao4BBQUFBQYFBgcHBgkJCAkJDQwLCwwNEw4PDg8OEx0SFRISFRIdGh8ZFxkfGi4kICAkLjUtKi01QDk5QFFNUWpqjv/AABEIABEAMgMBIgACEQEDEQH/xAByAAEBAQEBAAAAAAAAAAAAAAAABQQDAhAAAgICAgEEAwAAAAAAAAAAAAECAwQFEjERBhMUQSEyMwEAAwEBAAAAAAAAAAAAAAAAAwQFBgIRAAEDAwMDBQAAAAAAAAAAAAEAAgMEBRESMXETFDIzUlNhkf/aAAwDAQACEQMRAD8Au4ushkR8o2x0HKXgm4WfOqlcGUKdvkLs1kd0uEgOMBYuew2iAjWHHgL1dpIQkkZLNVGBos2F0rE2md/mKXaO4au6NcS54IKXqKGxPa1rI3NcPpSY6+PNLwbrsDHoqU20dfdTs8mfKrd8JR5fhoSq7jWvLmZwM7hVLbY6CMCXRnkKO9rr02ufQJEvTdbk3z7YJXVq/erHaU3xj8VHA/kirX2AUYt0Kp8Fpf0PoAaOxUpvqBF2dl+jAJ0m5Wgh8G8Ka+2AACOv/9k=",
+                "url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1476815268/property/8/001_Doria_Bodrum_SLIDER_2.jpg"
+            }
+        ],
+        "fromPriceType": {
+            "type": "FROM_PRICE_TYPE_SAVE_UP_TO",
+            "value": "57",
+            "numberOfNights": 5
+        },
+        "uri": "hotel-doria-bodrum",
+        "marketingDestination": "Bodrum",
+        "strapLine": "Prestation haut de gamme les pieds dans l'eau",
+        "propertyType": "City",
+        "rank": 15
+    },
+    {
+        "category": 5,
+        "country": "Espagne",
+        "region": "Canaries",
+        "resort": "Lanzarote",
+        "endAt": 1478995200000,
+        "startAt": 1477872000000,
+        "highlights": [
+            {
+                "label": "Idéal pour les familles",
+                "picto": "BEST_FOR_FAMILY"
+            },
+            {
+                "label": "Bord de mer",
+                "picto": "FRONT_OF_THE_BEACH"
+            },
+            {
+                "label": "Demi-pension",
+                "picto": "HALF_BOARD"
+            }
+        ],
+        "id": "48",
+        "name": "Hôtel The Volcan Lanzarote",
+        "photos": [
+            {
+                "thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABAAMgMBIgACEQEDEQH/xABnAAABBQEAAAAAAAAAAAAAAAAGAAIDBAUHEAACAgICAwADAAAAAAAAAAABAgADBBEFIRIVUhQxQQEBAQEAAAAAAAAAAAAAAAAABAMFEQACAwEBAQEAAAAAAAAAAAABAgADEQQTFDL/2gAMAwEAAhEDEQA/AIPBqH000lyKEADGDGdmO+WAT/YR18cmVQr771LU22s5UOdgeyyrmALJolg5uKv6YGTpyNXzMr1aVHZJMs1NSg7TsRDtYn6sgaexegHxp3JuVZqa34yK3msdDox1IS7HYokAuesejfWoW+50Ghtmhzk2EhkzIae+w/oRTjf5b/Rihfqvi/NJ/9k=",
+                "url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1478194289/property/48/0001_VOLCAN.jpg"
+            }
+        ],
+        "fromPriceType": {
+            "type": "FROM_PRICE_TYPE_EXCLUSIVE",
+            "value": "",
+            "numberOfNights": 0
+        },
+        "uri": "hotel-the-volcan-lanzarote",
+        "marketingDestination": "Lanzarote",
+        "strapLine": "Détente luxueuse et éternel printemps à Lanzarote",
+        "propertyType": "Midhaul",
+        "rank": 16
+    }
+]

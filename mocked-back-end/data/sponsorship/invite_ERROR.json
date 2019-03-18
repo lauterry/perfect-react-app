@@ -1,0 +1,8 @@
+{
+	"rejecteds": {
+		"already-friend@gmail.com": "ALREADY_FRIEND",
+		"invalid-provider@yopmail.com": "EMAIL_PROVIDER_NOT_ACCEPTED",
+		"yourself@yopmail.com": "CANT_SPONSOR_YOURSELF",
+		"invalid-email-format": "INVALID_EMAIL_FORMAT"
+	}
+}

@@ -1,0 +1,10 @@
+{
+    "uuid": "c2b7deeb-a33a-4134-9764-cd03359faee7",
+    "email": "affr@perfectstay.com",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRoaWVycnkubGF1QHBlcmZlY3RzdGF5LmNvbSIsInBhcnRuZXIiOnsiY29kZSI6IlBTRlIifSwidG9rZW5JZCI6InRvdG8iLCJ1dWlkIjoiNGNmN2VlY2MtYjhlMS00ZmI1LWE2Y2YtNzBlZjIxZGFhN2U3IiwiY3JlYXRlZEF0IjoiMjAxNi0xMi0yN1QxMzoyNjozMy41NzZaIiwiaWF0IjoxNTA3Mjk3ODQwfQ.c-Qz8ctz9nktjpA9W0l_oh00fdDaYiwTl4nFZpKhF2E",
+    "partner": {
+        "shop": "fr-FR",
+        "strategy": "navigationFirst",
+        "code": "AFFR"
+    }
+}

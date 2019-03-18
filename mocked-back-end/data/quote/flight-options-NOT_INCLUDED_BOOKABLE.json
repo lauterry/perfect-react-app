@@ -1,0 +1,13 @@
+{
+	"status": "SUCCESS",
+	"flightOptions": {
+		"flightBagageOption": {
+			"included": false,
+			"pricePerPerson": 50,
+			"canBeBooked": true,
+			"maxWeightPerBagage": 15,
+			"code": "779fbb5a-014f-4ede-a1f8-e0d8c14efb4b"
+		}
+	},
+	"flight": "e70cc896-b376-447a-89d2-6009e2e1b89e"
+}

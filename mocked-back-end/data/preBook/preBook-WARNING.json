@@ -1,0 +1,75 @@
+{
+	"status": "WARNING",
+	"dobRequired": true,
+	"showFrequentTravellerCardInput": true,
+	"paymentTypes": [
+		{
+			"type": "CreditCardPartial",
+			"terms": 2,
+			"acceptedCreditCardTypes": ["amex", "visa", "mc"],
+			"percentagePayNow": 50,
+			"dueDate": 1492128000000,
+			"paymentType": "adyen_cse_card",
+			"paymentMethod": "adyen_cse_card"
+		},
+		{
+			"type": "CreditCard",
+			"terms": 1,
+			"acceptedCreditCardTypes": ["amex", "visa", "mc"],
+			"paymentType": "adyen_cse_card",
+			"paymentMethod": "adyen_cse_card"
+		},
+		{
+			"type": "Casino",
+			"terms": 4,
+			"acceptedCreditCardTypes": ["visa", "mc", "maestro"],
+			"paymentType": "casino",
+			"paymentMethod": "casino"
+		}
+	],
+	"insurances": {
+		"intro": "Assurance Partenaire AXA (montant calculé pour l'ensemble des participants) ",
+		"logo":
+			"https://res.cloudinary.com/perfectstay/image/upload/v1477345323/asset/axa-logo.jpg",
+		"insurancesItem": [
+			{
+				"name": "Contrat Multirisque",
+				"price": 84,
+				"code": "9aa95d98-c335-48e9-968d-b958ac286434",
+				"intro":
+					"Partez tranquille et bénéficiez d'une garantie annulation et d'une couverture complète en cas d'imprévu.",
+				"details": [
+					"Remboursement des frais d'annulation",
+					"Remboursement bagages",
+					"Départ ou retour manqué",
+					"Assistance rapatriement",
+					"Frais médicaux à l'étranger",
+					"Interruption de séjour",
+					"Voyage de remplacement",
+					"Accident de voyage",
+					"Responsabilité civile",
+					"Retard de transport"
+				]
+			},
+			{
+				"name": "Assurance annulation et bagages",
+				"price": 60,
+				"code": "a1ff299b-1fb2-4229-bf4f-6ce892e6f568",
+				"intro": "",
+				"details": ["Remboursement des frais d'annulation", "Remboursement bagages"]
+			},
+			{
+				"name": "Sans assurance",
+				"price": 0,
+				"code": "415acc3f-5782-47a3-a496-0e6f0e9f0cb4",
+				"intro": "",
+				"details": ["Je ne souhaite pas m'assurer"]
+			}
+		]
+	},
+	"priceChange": {
+		"oldPrice": 605,
+		"newPrice": 640
+	},
+	"timestamp": 1478697006794
+}

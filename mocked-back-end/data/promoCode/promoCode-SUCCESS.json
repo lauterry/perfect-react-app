@@ -1,0 +1,24 @@
+{
+    "status": "SUCCESS",
+    "paymentTypes": [
+        {
+            "paymentType": "adyen_cse_card",
+            "terms": 2,
+            "percentagePayNow": 50,
+            "dueDate": 1492128000000,
+            "acceptedCreditCardTypes": ["amex", "visa", "mc"]
+        },
+        {
+            "paymentType": "adyen_cse_card",
+            "terms": 1,
+            "acceptedCreditCardTypes": ["amex", "visa", "mc"]
+        },
+        {
+            "paymentType": "casino",
+            "terms": 4,
+            "acceptedCreditCardTypes": ["visa", "mc", "maestro"]
+        }
+    ],
+    "message": "Le code promotionnel saisi vous oblige à payer avec une carte American Express.",
+    "value": 50
+}

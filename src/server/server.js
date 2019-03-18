@@ -14,6 +14,9 @@ import {applyMiddleware, createStore} from "redux";
 import reducers from "../reducers";
 import thunk from "redux-thunk";
 import {IntlProvider} from 'react-intl';
+import {matchPath} from "react-router-dom";
+import ListContainer from "../ListContainer";
+import {getProducts} from "../actions";
 
 const statsFile = path.join(__dirname, "loadable-stats.json");
 
@@ -37,37 +40,57 @@ app.use("/:shop?", (req, res, next) => {
 	next();
 });
 
+const routes = [
+	{
+		path: "/fr-FR/list",
+		component: ListContainer,
+		loadData: getProducts
+	}
+];
+
 app.get("*", (req, res) => {
 	const shop = req.shop;
 	const lang = shop.slice(0, 2);
 	const context = {};
 
-	import(/* webpackChunkName: "messages" */ `../i18n/${lang}.json`).then((messages) => {
-		const store = createStore(reducers, applyMiddleware(thunk));
+	// inside a request
+	const promises = [];
+	// use `some` to imitate `<Switch>` behavior of selecting only
+	// the first to match
 
-		const InitialComponent = (
-			<Provider store={store}>
-				<IntlProvider
-					locale={lang}
-					messages={messages}
-				>
-					<StaticRouter basename={`/${shop}`} location={req.url} context={context}>
-						<App/>
-					</StaticRouter>
-				</IntlProvider>
-			</Provider>
-		);
+	const store = createStore(reducers, {shop}, applyMiddleware(thunk));
 
-		const extractor = new ChunkExtractor({statsFile});
-		const jsx = extractor.collectChunks(InitialComponent);
+	routes.some(route => {
+		const match = matchPath(req.path, route);
+		if (match) promises.push(store.dispatch(route.loadData()));
+		return match;
+	});
 
-		const componentHTML = ReactDOMServer.renderToString(jsx);
+	Promise.all(promises).then(() => {
+		import(/* webpackChunkName: "messages" */ `../i18n/${lang}.json`).then((messages) => {
+			const InitialComponent = (
+				<Provider store={store}>
+					<IntlProvider
+						locale={lang}
+						messages={messages}
+					>
+						<StaticRouter basename={`/${shop}`} location={req.url} context={context}>
+							<App/>
+						</StaticRouter>
+					</IntlProvider>
+				</Provider>
+			);
 
-		const scriptTags = extractor.getScriptTags();
-		const linkTags = extractor.getLinkTags();
-		const styleTags = extractor.getStyleTags();
+			const extractor = new ChunkExtractor({statsFile});
+			const jsx = extractor.collectChunks(InitialComponent);
 
-		const htmlString = `
+			const componentHTML = ReactDOMServer.renderToString(jsx);
+
+			const scriptTags = extractor.getScriptTags();
+			const linkTags = extractor.getLinkTags();
+			const styleTags = extractor.getStyleTags();
+
+			const htmlString = `
 	<!DOCTYPE html>
 	<html lang="${lang}">
 	<head>
@@ -83,26 +106,27 @@ app.get("*", (req, res) => {
 	</div>
 	${scriptTags}
 	<script type="application/javascript">
-			window.__INITIAL_STATE__ = ${JSON.stringify({shop: shop})};
+			window.__INITIAL_STATE__ = ${JSON.stringify(store.getState())};
 	</script>
 	</body>
 	</html>
 `;
 
-		if (context.url) {
-			res.writeHead(302, {
-				Location: context.url,
-			});
-			res.end();
-		} else {
-			res.set({
-				"Content-Type": "text/html",
-				"Cache-Control": "public, max-age=0, s-maxage=600",
-			});
+			if (context.url) {
+				res.writeHead(302, {
+					Location: context.url,
+				});
+				res.end();
+			} else {
+				res.set({
+					"Content-Type": "text/html",
+					"Cache-Control": "public, max-age=0, s-maxage=600",
+				});
 
-			res.send(htmlString);
-			res.end();
-		}
+				res.send(htmlString);
+				res.end();
+			}
+		});
 	});
 });
 

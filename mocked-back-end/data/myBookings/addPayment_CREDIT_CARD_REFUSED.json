@@ -1,0 +1,28 @@
+{
+	"status": "CREDIT_CARD_REFUSED",
+	"booking": {
+		"status": "CONFIRMED",
+		"bookingReference": "1000157",
+		"bookingDate": "2017-02-07",
+		"name": "",
+		"category": 0,
+		"country": "",
+		"region": "",
+		"resort": "",
+		"duration": 7,
+		"departureDate": "2017-06-15",
+		"endDate": "2017-06-24",
+		"totalPaid": 0,
+		"total": 1995,
+		"totalDue": 1995,
+		"adults": 2,
+		"children": 0,
+		"infants": 0,
+		"currencyCode": "EUR",
+		"photo": {},
+		"bookingDocument": {
+			"voucher": "",
+			"invoice": ""
+		}
+	}
+}

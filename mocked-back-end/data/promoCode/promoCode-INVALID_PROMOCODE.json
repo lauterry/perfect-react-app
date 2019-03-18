@@ -1,0 +1,23 @@
+{
+    "status": "INVALID_PROMOCODE",
+    "paymentTypes": [
+        {
+            "paymentType": "adyen_cse_card",
+            "terms": 2,
+            "percentagePayNow": 50,
+            "dueDate": 1492128000000,
+            "acceptedCreditCardTypes": ["amex", "visa", "mc"]
+        },
+        {
+            "paymentType": "adyen_cse_card",
+            "terms": 1,
+            "acceptedCreditCardTypes": ["amex", "visa", "mc"]
+        },
+        {
+            "paymentType": "casino",
+            "terms": 4,
+            "acceptedCreditCardTypes": ["visa", "mc", "maestro"]
+        }
+    ],
+    "value": 0
+}

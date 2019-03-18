@@ -1,0 +1,712 @@
+{
+	"address": {},
+	"accommodation": {
+		"intro": {
+			"headline": "Votre hôtel",
+			"intro": [
+				"Plongez dans un milieu à la fois moderne, luxueux et chic lors de vos prochaines vacances au cœur de la Dubaï vibrante et cosmopolite. Stratégiquement situé en plein centre de cette grande ville, l’hôtel Nassima Royal vous promet une évasion complète dans un univers hors du commun. Vous oublierez rapidement que vous êtes en ville dans cette oasis de paix urbaine. Le décor majestueux et le personnel dévoué sauront satisfaire toutes vos attentes avec leur standard de qualité supérieure."
+			]
+		},
+		"type": {
+			"accommodationTypes": [
+				{
+					"aera": 45,
+					"label": "Deluxe Room City View",
+					"description": "Spacieuse, la chambre Deluxe (comprise dans l’offre) est parfaite pour accueillir une famille avec un jeune enfant en ajoutant un lit. Cette jolie chambre aux couleurs claires vous propose un décor moderne et lumineux. Très cosy, un petit espace de style living-room est installé devant les grandes fenêtres dévoilant un panorama à couper le souffle.",
+					"photo": {
+						"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACAAMgMBIgACEQEDEQH/xABoAAACAwEBAAAAAAAAAAAAAAAEBQACBgcDEAACAwEAAwACAwAAAAAAAAABAgADEQQFEhQTITEzUgEBAQEBAAAAAAAAAAAAAAAAAQIAAxEAAwEBAAMBAAAAAAAAAAAAAAECERITITFR/9oADAMBAAIRAxEAPwDpa8JddEA6Oc1HDNDR0VBcLCKvJOrHVnC4nFgy3pnyT75G9HI7AHIrH9gmn5b0SsbCIKbKpwNkv8I9TDvqr/HuiD/UpQ4Z14knRceKSE/kkk8ybWILUuBJUmetbqyZY37ilPKMGCMN2MGpW1PcHIcvPo6jwssrSz9GA9vkbKwBWYo8pa/K2hpSkP1VBtkunApaMLPMdC1qBHPH3e9ILNhmRspuSC2XdKjBom8m+h4Og/cv+xJOXnr7N/kyQ5X6GH//2Q==",
+						"url": "https://res.cloudinary.com/perfectstay/image/upload/v1478167303/property/44/accommodation/image_44_v2.jpg"
+					},
+					"accommodationID": 84,
+					"occupancies": [
+						{
+							"adults": 1,
+							"children": 0
+						},
+						{
+							"adults": 1,
+							"children": 1
+						},
+						{
+							"adults": 1,
+							"children": 2
+						},
+						{
+							"adults": 2,
+							"children": 0
+						},
+						{
+							"adults": 2,
+							"children": 1
+						},
+						{
+							"adults": 2,
+							"children": 2
+						},
+						{
+							"adults": 3,
+							"children": 0
+						}
+					]
+				},
+				{
+					"aera": 45,
+					"label": "Royal Club Room City View",
+					"description": "Un cocon magnifique avec vue imprenable sur la ville. Avec ses équipements, cette chambre vous convie à un bien-être ultime. Elle satisfera ses hôtes en leur proposant le luxe typique et si cher à Dubaï. Les résidents de la chambre Royal Club profitent d’un accès compris au lounge royal du 42e étage.",
+					"photo": {
+						"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABvAAADAQADAQAAAAAAAAAAAAAABQYEAQMHAhAAAgIBBAIDAQAAAAAAAAAAAAECAwQFERIhMlITFDEjAQADAQEAAAAAAAAAAAAAAAABAgMABBEAAgICAgIDAAAAAAAAAAAAAAECEQMSIVExQRNSYf/aAAwDAQACEQMRAD8A403UKrtoooY7bHnmgpqakWtlyUOmcmteDpq2NI2KJsha0vET4t0JOPJlXVbhOtdrctibd2JNV6F/2pr8iwtyLOG4xcsRx62EGs5EaMWcoMM9vUhFXR1/Nd7AebS17K3fYCaS+w1roR6XqbpaRaVZkJ18myOx9JcZJlFVjcYKO4k8iXgrjuJurz058Ux/RCycOSsJVYm0k0OcW62G0W+hI5C05xcajEZOy6r9kyb1jULp/wA1u0UkrIOPYmtjjzk20bfnlkKI/wCKXqBV8KPVAb5f0OsehdWbIABJjGiJogAACztn4iqXkwADAfIAADH/2Q==",
+						"url": "https://res.cloudinary.com/perfectstay/image/upload/v1477598162/property/44/accommodation/image_44_v1.jpg"
+					},
+					"accommodationID": 85,
+					"occupancies": [
+						{
+							"adults": 1,
+							"children": 0
+						},
+						{
+							"adults": 1,
+							"children": 1
+						},
+						{
+							"adults": 1,
+							"children": 2
+						},
+						{
+							"adults": 2,
+							"children": 0
+						},
+						{
+							"adults": 2,
+							"children": 1
+						},
+						{
+							"adults": 2,
+							"children": 2
+						},
+						{
+							"adults": 3,
+							"children": 0
+						}
+					]
+				}
+			],
+			"facilities": [
+				"Télévision à écran plat",
+				"Lit King Size avec un lit supplémentaire sur demande",
+				"Minibar",
+				"Coffre fort",
+				"Wi-Fi gratuit",
+				"Téléphone",
+				"Air conditionné",
+				"Machine à café et thé",
+				"Robe de chambre et pantoufles",
+				"Réfrigérateurs",
+				"Station d’accueil iPod",
+				"Peignoir et chaussons",
+				"Produits de toilette"
+			],
+			"headline": "Chambres",
+			"paragraphs": [
+				"L’hôtel Nassima Royal comprend plus de 471 chambres, toutes conçues pour la détente, dans une ambiance moderne et chaleureuse. Chaque chambre offre une vue panoramique incroyable sur la ville et ses 1001 merveilles architecturales."
+			]
+		},
+		"facilities": [
+			"Réception ouverte 24h/24",
+			"Excellente connexion Wifi haute vitesse, gratuite",
+			"Transports en commun accessibles à pied ",
+			"Service de babysitting",
+			"Service de conciergerie",
+			"Bureau de change",
+			"Parking gratuit",
+			"Navette aéroport"
+		]
+	},
+	"activity": {
+		"facilities": [
+			"Spa Zen avec piscines et bain à remous",
+			"Salon de beauté pour homme et pour femme",
+			"Espace fitness et santé",
+			"Kids club avec animateurs certifiés",
+			"Chaises de plage et transats",
+			"Piscine extérieure (18 mètres) avec bar",
+			"Musiciens et spectacles"
+		],
+		"intro": [
+			"Que vous soyez en famille, entre amis ou en amoureux, le Nassima Palace et ses environs offrent une gamme complète de soins relaxants et d’activités excitantes. Il suffit de vous renseigner auprès de la conciergerie intégralement dédiée à votre bien-être. ",
+			"Dans ce coin de paradis urbain, vous pourrez vous détendre comme nulle part ailleurs grâce aux bons soins du personnel du Spa Zen qui vous procure massage, gommage et bains thermaux. Avant ces instants sereins, passez du côté du club santé pour un entraînement sportif sur le nec plus ultra des machines de fitness actuelles. En soirée, délectez-vous d’un verre au bar de l’hôtel ou imprégnez-vous de l’énergie débordante de Dubaï."
+		],
+		"label": "Activités & Lifestyle"
+	},
+	"bookableExtras": {},
+	"category": 5,
+	"country": "Emirats Arabes Unis",
+	"destination": {
+		"label": "Dubaï",
+		"photo": {
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACIAMgMBIgACEQEDEQH/xABqAAACAwEBAAAAAAAAAAAAAAAABQMEBgEHEAACAgIBBAIDAAAAAAAAAAAAAQIDBBETBRIhMhQiMVFSAQEBAAMAAAAAAAAAAAAAAAADAgABBBEAAwEAAwEAAAAAAAAAAAAAAAECEQMSIVH/2gAMAwEAAhEDEQA/APKFEkVbJVBxlotKsaF2QTeFHiDiGMatskdOiuprsJpVNELiPZ1KS8IXWVaIclqih2gT9gE4Vo7uxZwaeieFLcE9DOuNmTr6+BxX09TSjrRkck8bfwmpdIzMMeTa0ieeNYl+BtbRLFl67OPJTS3A6Fc0ljAaqX6hTViWPfgrZGI4J7Ro5ZMIQ2kjP5mduRWT9MTbzwUcEv0BZ+dD+QDxC6bDpXrE0EPYAOGh0VcpIS5aSSAC+MPlFVrfGzM5LfcwAcGSmAAaEP/Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/v1477598157/destination/resort/364/image_364_v1.jpg"
+		},
+		"paragraphs": [
+			"Sous un soleil flamboyant, l’étonnante Dubaï s’épanouit entre désert et golfe Persique. Capitale de l’émirat éponyme, la ville est mondialement réputée pour ses constructions qui défient la nature. De Palm Islands, presqu’îles artificielles en forme de palmiers, au Burj Khalifa, la plus haute tour au monde, Dubaï l’extravagante affiche son audace et ses richesses. Attirante et fascinante, la cité vous invite à goûter au luxe et à la modernité. C’est un séjour chargé d’émotions qui vous attend à Dubaï."
+		]
+	},
+	"experiences": [
+		{
+			"label": "Petit-déjeuner dans les plus anciens quartiers Dubaiotes",
+			"photo": {
+				"thumbnail": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAhCAMAAACsowi2AAAA5FBMVEXb4uuKeTyOe0GFXzXT2+WRf0SHdTje5e3b3+bW3unW09KEcDF+XTPY2t2FZDvIuKeWhEiVejvTyb+ijVaUfUyZf1edfEWuk3Ld3uDRzMjQsITMv7G7pIqiiGSgg124nX/Z2NfPxLnGqX+Hai+NZTx3WDWshFJ/ZzLHs5y1l3SbiVCLbjepkV+qjWi+oXuOc0Wdgk+niF6xlGjBrZjCqo2Hb1Lg4+fdvI2kfE/Kr41+Y0WHakfAn3LL1eOQZTCYbUGWaDjX0MnUtYu2m229lWbNpnW1i1yhdEXPuqKRdFTZw6RoTi8jOWsRAAADf0lEQVQ4y03Si3KqSBAG4PF6FBUMYEQxIIYY1IOAosbLajRqNPv+77N/92BqfyophpqvuwcR/3CKSBURQvzJIji/91VOsVosCinYFNn8igpFrlk/jHj0QBq4Kr+FK41Gv9GgdQayRlXxC4oKQnseQul0OgoZFvwnCSrTQEXaocs9RCB0z/Z0rCuiWilWaOaq7Nbgka2i0vFszfY6fSai0u/YWqDZnb5FE9KIsHQJYVkWmYbiafP5XPNQlohF63Su6Uq/TxN2FEYQFWE1gCyMZc97bm9ucxuchNa99OYdFeqP9go6ofpyKVAFbfuKrvXckZtqet9aLukk2tydpoGtH3VPCzCi3sHbsYjoODNXCnojJgqaooId9Fx3EPzouncL0hTGA2qgntA0DW1Rae6ORtP0ph8x/BEipfX69vPzc1sj1Mg70giih4nngabhJLzFOx4BaNmeYX0CWZ3WXUIYDiMsRRtxXUCI3WB9sz2PwagdhrNp97RarU6nU1caamOJJHGSJIQLZzOQ4HYLqEMYJslfPJCki6zxym0aWww/EAcsSWZfu0GapgQSxzEMPBh05f4Bkr0DHeT5G9dHHA//wkynDOLYjOMxtUGmFBfT86E1MRw+Q1DGBszX1wwjObFplppN+QCP2pwRn7knriDPT0ipCcMxDCNulvL5x5OXLKGU3IWANAbtNxJj3MzncmQorXGL4jgOQUcMY+7xlMvlSrTFGBNiQqZEMc1my6QA3u9CTpUrI0DNpiyMuXJlkBLLfMnEXT6Konu03QoC5Um5XMPFm5qcUo5XeVkrj8CWAVRVRJPJ62vttcYp5zLETSJsLNfe3/k5bG2iTtQH+Z9hYpo0RYRpiAChFd2oFGFGvlp45bDBi4sR04winDeavL/Xae9Exf96vVBQfeG0It/3uRUyeXqO6bdInFYL7yc2J9j3Vkf5QqFeJ+L7YpZ8HKLD4XO/30syxGezG81e8DM4LTNSIbBVkgLIQezOV3yZ32z2+8/v4VV+V+3w5QW9iMAU9gUZH6R7YQTzKcn5Ql/vdBQiL637FuStrqo48YOsupfL+XzNTEa6AxD6OkA2IKq6pV8Eh1dxlhWbRx8e7DJgQWe5L7abzdtms13AqjgNveQVmWw23/88fFzPu93uK3Toc1osUH3DYsHtaEjZ5fIgPrU5n88QABvKIgvEv5S3/wCNi7zokjuPuwAAAABJRU5ErkJggg==",
+				"url": "https://res.cloudinary.com/perfectstay/image/upload/v1477598159/destination/resort/364/experience/364/image_153_v1.png"
+			},
+			"paragraphs": [
+				"Prenez le temps d’apprécier un petit-déjeuner local dont les saveurs orientales émerveilleront vos papilles. Partez ensuite visiter la vieille ville, le long du Khor Dubaï. Les anciens quartiers Dubaïotes raviront les amateurs d’histoire et d’architecture."
+			]
+		},
+		{
+			"label": "Safari et barbecue",
+			"photo": {
+				"thumbnail": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAhCAMAAACsowi2AAAAb1BMVEWPdVGFakd9Y0CdgFmIbkmYe1Xv4s+LcEyNck6Td1JxWTdrVDNjTjGtkmqjh17z59V3Xjzs3caBZ0O8oHaojGTKr4izl27l0rWbiGzn175oWELZxqrApoHYvZRbRyriyaXNuJqQc0p0ZlGOf2mBc17Li0fvAAACIUlEQVQ4y2WUgWKqMAxFAxalgjxEREUZOP3/b3y5SVqqO5VB23saBTr6t7LVphwD1t9iXqAkH+Mi3G63y+XCf2+rBnNrSjKGlW9HxOf5zoh2TKDtV1rWl/w8T9PCBE3LXi6k10dpYXTW/HQW1BLmO0+Q1g7MGkdejIcCbVmmhQeXic5Lssp0nwxZ//E4nU4DH6IFSHsLzPPK44y0MAwHbsMpQtKT6ic5QjDkh0OEOwNPUOwfhnilXYEve+Ha9zZP2uv7JtA33Dv0lv0cFgjdTUKzaa68CJbreaIAMt6o0zS0seHC6+RVOFzF8M+nezIeM6EeqeGBGiYxxa7L8zbPu8ylFmmeiFjR9Ov6euF4u3xfVdV+/2FtNhQMKGowb/D7O9b1T12z1bZ5x5ZqZEJZki9eYiAMxrH+EWophVoo5kmMEhBpAYmzEA04LInGEqmxA+/d25YXalPMEYl/VwdFDOeybM3XLERDqMxqc0qMLm85XXF6rCNVVUuLSpsq/BD2bFQqjXHtgP0cU5xVaXl0xIdVXHzQtrhtiQIHTzuw11Muzc5yn9cvxgoktkCrJ+vhzFMdJ5zThyL32Kysg5iSWRr53a7Um6yOfD3VvnEZpjgPIT79aKnpMmdBp2nJ401M3jHVgpo0jaMANkhB4UWmkkp916CaGMJYn3RLFfzy+0KVQGkVEyzvdU+v+4X+iszTPz0+KnxtsT+O4HV9FQr5t/Ef1YRXA2rI9IYAAAAASUVORK5CYII=",
+				"url": "https://res.cloudinary.com/perfectstay/image/upload/v1477598159/destination/resort/364/experience/364/image_149_v1.png"
+			},
+			"paragraphs": [
+				"Construite sur le sable, Dubaï bénéficie de paysages ensoleillés et vous convie à une expérience unique aux portes de la ville. Partez pour un safari dans les dunes et goûtez à un barbecue au milieu du désert."
+			]
+		},
+		{
+			"label": "Ski à Dubaï",
+			"photo": {
+				"thumbnail": "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",
+				"url": "https://res.cloudinary.com/perfectstay/image/upload/v1477598159/destination/resort/364/experience/364/image_150_v1.png"
+			},
+			"paragraphs": [
+				"Au cœur du Mall of the Emirates, Ski Dubaï est une station de ski où la température n’excède pas les -2°C. Le complexe sportif bénéficie d’un snowpark, de plusieurs pistes de ski et de luge. Skier dans le désert ? À Dubaï, c’est possible !"
+			]
+		}
+	],
+	"expert": {
+		"name": "Stéphane",
+		"introduction": "Expert voyage",
+		"loves": [
+			"Prendre ses quartiers dans des chambres spacieuses, confortables et très bien insonorisées ",
+			"Siroter un cocktail au bar situé au 50e étage, pour une sensation de vertige",
+			"Sortir au Movida, l’une des boites les plus branchées de Dubaï, juste à côté de l’hôtel",
+			"Prendre un bain en se penchant sur la vue incroyable de la ville à travers la baie vitrée",
+			"Aller faire du shopping au Dubaï Mall situé à 10 minutes de taxi de votre chambre"
+		],
+		"photo": {
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAcHBwcIBwgJCQgMDAsMDBEQDg4QERoSFBIUEhonGB0YGB0YJyMqIiAiKiM+MSsrMT5IPDk8SFdOTldtaG2Pj8ABBwcHBwgHCAkJCAwMCwwMERAODhARGhIUEhQSGicYHRgYHRgnIyoiICIqIz4xKysxPkg8OTxIV05OV21obY+PwP/AABEIAEEAMgMBIgACEQEDEQH/xABvAAADAAMAAwAAAAAAAAAAAAAABQYDBAcBAggQAAICAgICAQUBAAAAAAAAAAABAgMEEQUxBhIhExUyM0FRAQADAQEBAAAAAAAAAAAAAAAAAQQCBQMRAAMAAwEBAQAAAAAAAAAAAAABAgMREgQxE//aAAwDAQACEQMRAD8A+kQbSWwMGfOX0Z6/i+AAk+d8rx+O3He5E9x/n1d1qjOOkSnK4s786yVz+NmB8djwinHSZJk9PN88l+Lx9x10d9wc2vJqjOD2mbJB+IWWKr0ky8Kpe0mRVPNNAAAMyBr5abqkl/hsBJJoBr6cc5rFm5SfXyI6afdpOZb+WwjXBuJz7AVk8iOpf0gyw+zq4ck/n8Oq+OUOtFoJOFpUMaG+9DsshNSjm5aVW2gAANnmE7IxNC3NhHpiTNz5OxxizTjY5dsY9CnySt5UWyMwKZY950PIp+rFoS/bvS1NojzRarqS7z3Dnmix4jLbpj7FFC5SJPFh6QWhnTbqSWyqE+Vsjya6eh4BgVi0AzBzFZTlc9sY1W7IqzJkm5pjHj+TU3psZosYzPMoqehfC5NGxXawa2G2hhGfqkjPX8tMUu9J62MKLFpDEN1J6A9F0gARxSf4Mw8d+8AA2W9P4oYVdAAhM07P2DfH6iAGhD1dIAAQj//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/v1477598079/expert/image_4_v3.jpg"
+		},
+		"verbatim": "Un hôtel situé en plein centre de Dubaï, dévoilant des panoramas incroyables à chaque étage"
+	},
+	"gps": {
+		"lat": 25.2233157745,
+		"lon": 55.2826398611
+	},
+	"highlights": [
+		{
+			"label": "Piscine extérieure",
+			"picto": "OUTDOOR_SWIMMING_POOL"
+		},
+		{
+			"label": "Vue panoramique",
+			"picto": "PANORAMIC_VIEW"
+		},
+		{
+			"label": "Rooftop",
+			"picto": "ROOFTOP"
+		}
+	],
+	"id": "44",
+	"name": "Nassima Royal Hôtel",
+	"offers": [
+		{
+			"negos": [
+				"Surclassement en chambre Deluxe",
+				"Wifi offert dans la chambre",
+				"Navette gratuite en direction des shopping center et du Beach Park",
+				"Transferts privatifs aller-retour en Lexus",
+				"L'accueil et l'assistance à votre arrivée à l'aéroport",
+				"Vols au départ de Paris, Province, Bruxelles et Genève",
+				"En classe économique, classe affaires ou première en option avec supplément"
+			],
+			"pricing": {
+				"type": "FA",
+				"label": "VOL + HOTEL",
+				"minPrice": {
+					"dd": 1498262400000,
+					"ed": 1498521600000,
+					"p": 540,
+					"o": true,
+					"n": 3
+				},
+				"departureCities": [
+					{
+						"code": "PAR",
+						"label": "Paris",
+						"from": {
+							"dd": 1494460800000,
+							"ed": 1494720000000,
+							"p": 548,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "BOD",
+						"label": "Bordeaux",
+						"from": {
+							"dd": 1497657600000,
+							"ed": 1497916800000,
+							"p": 596,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "BRU",
+						"label": "Bruxelles",
+						"from": {
+							"dd": 1494547200000,
+							"ed": 1494806400000,
+							"p": 571,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "GVA",
+						"label": "Genève",
+						"from": {
+							"dd": 1499990400000,
+							"ed": 1500249600000,
+							"p": 564,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "LYS",
+						"label": "Lyon",
+						"from": {
+							"dd": 1495843200000,
+							"ed": 1496102400000,
+							"p": 544,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "MRS",
+						"label": "Marseille",
+						"from": {
+							"dd": 1498780800000,
+							"ed": 1499040000000,
+							"p": 541,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "NTE",
+						"label": "Nantes",
+						"from": {
+							"dd": 1496534400000,
+							"ed": 1496793600000,
+							"p": 596,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "NCE",
+						"label": "Nice",
+						"from": {
+							"dd": 1495238400000,
+							"ed": 1495497600000,
+							"p": 542,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"code": "TLS",
+						"label": "Toulouse",
+						"from": {
+							"dd": 1498262400000,
+							"ed": 1498521600000,
+							"p": 540,
+							"o": true,
+							"n": 3
+						}
+					}
+				],
+				"availableDurations": [
+					3,
+					5,
+					7
+				],
+				"config": "ny4ciuhst9updwzq5bzhqm9wxpj1pk1ibdnaz7imhn17mcbqznjyftg1gg6pofjzboxtcmf1ncwi34np1odsga6zmawdtxbgsznkk1icdbjp5aghm8ak6aku9g3f7xd6jseifmbfmaprgoph8zyw4kh9oann6d4h3etpcfqnqdbxjrpwcoozaa4mfuhzcggtboypemjwadpoj5f6qrc3ky4edzw6hpb9wqeykt78euogo9cyj49arikz7tbqzo3okqkk6",
+				"contractType": "Hotel"
+			}
+		},
+		{
+			"negos": [
+				"Surclassement en chambre Deluxe",
+				"Wifi offert dans la chambre",
+				"Navette gratuite en direction des shopping center et du Beach Park"
+			],
+			"pricing": {
+				"type": "AO",
+				"label": "HOTEL SEUL",
+				"minPrice": {
+					"dd": 1503792000000,
+					"ed": 1504051200000,
+					"p": 141,
+					"pp": 666,
+					"o": true,
+					"n": 3
+				},
+				"maxDiscount": {
+					"dd": 1503792000000,
+					"ed": 1504051200000,
+					"p": 141,
+					"pp": 666,
+					"o": true,
+					"n": 3
+				},
+				"durations": [
+					{
+						"value": 3,
+						"minPrice": {
+							"dd": 1503792000000,
+							"ed": 1504051200000,
+							"p": 141,
+							"pp": 666,
+							"o": true,
+							"n": 3
+						},
+						"maxDiscount": {
+							"dd": 1503792000000,
+							"ed": 1504051200000,
+							"p": 141,
+							"pp": 666,
+							"o": true,
+							"n": 3
+						}
+					},
+					{
+						"value": 5,
+						"minPrice": {
+							"dd": 1496102400000,
+							"ed": 1496534400000,
+							"p": 235,
+							"pp": 1110,
+							"o": true,
+							"n": 5
+						},
+						"maxDiscount": {
+							"dd": 1496102400000,
+							"ed": 1496534400000,
+							"p": 235,
+							"pp": 1110,
+							"o": true,
+							"n": 5
+						}
+					},
+					{
+						"value": 7,
+						"minPrice": {
+							"dd": 1501113600000,
+							"ed": 1501718400000,
+							"p": 329,
+							"pp": 1555,
+							"o": true,
+							"n": 7
+						},
+						"maxDiscount": {
+							"dd": 1501113600000,
+							"ed": 1501718400000,
+							"p": 329,
+							"pp": 1555,
+							"o": true,
+							"n": 7
+						}
+					},
+					{
+						"value": 10,
+						"minPrice": {
+							"dd": 1500249600000,
+							"ed": 1501113600000,
+							"p": 470,
+							"pp": 2221,
+							"o": true,
+							"n": 10
+						},
+						"maxDiscount": {
+							"dd": 1500249600000,
+							"ed": 1501113600000,
+							"p": 470,
+							"pp": 2221,
+							"o": true,
+							"n": 10
+						}
+					}
+				],
+				"availableDurations": [
+					3,
+					5,
+					7,
+					10
+				],
+				"config": "7xfdnfjryq6pjo3xjxu8kzjdqogt6qpyag9mfm4tfa6y4ffaezzus8ysxcj63pxyr6fiepgx8ooxuy698t7mhqn8p548stgie1dcyjwniy9gny7zpr5f5sipubmhj6ngueshz949cmoarm1nkn1dtnsaytq5waa8ocb79gcs6if9qk4w1grnqd7smbxgfja755ox77wopwrd7da",
+				"contractType": "Hotel"
+			}
+		}
+	],
+	"photos": [
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABcAMgMBIgACEQEDEQH/xABmAAADAQEBAAAAAAAAAAAAAAAABAUDBgcQAAEFAQACAwEAAAAAAAAAAAABAgMEERIUIRMiUTEBAQEBAQAAAAAAAAAAAAAAAAMCBAERAQEAAgMBAQAAAAAAAAAAAAEAAhIDESFBMf/aAAwDAQACEQMRAD8A8z45fg0jPQ1YpuYqYbMgdwmoPxfTKHP4kk2PVNVi5HWVVcqYMSUpET+CpHtSXM7aTpYlOmiovXdQXs1PjRUw5p3XsAXMcAUfHd+AHrXtdJBFLYxy5haipNfjVQAMrll+9ygSdmB1Vy8mC234moAGjj5Mk9bNy4g+Wq2/p6QgXbUnWqADmS0gdFN8534AAR3Jf//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1484904705/property/44/00001_NAssima.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABwAAACAwEBAAAAAAAAAAAAAAAAAwQFBgIHEAACAgIBBAMBAAAAAAAAAAAAAQIEAxEFExQxYSEjQVEBAAMBAQAAAAAAAAAAAAAAAAIDBAEAEQACAgEDBAMAAAAAAAAAAAAAAQIxAxNBUgQSFGERIUL/2gAMAwEAAhEDEQA/AOK3GvFNbLOFf7khWO7CTT2Nhbh10x8J9lIVJfO5cRq6QxVkV+bkJ7SijqN2fwUeRLixHbHki2hgQ9YUVavaRx38pbOfVNflmrGnui56cQKPvZ/0APM9M3R9nmGK9KH6TMV+SyJmYx5dj1kkmMgosCb2NquS2hy5JsxcLLT+SXG0V43jdoiyQmn9GwjeTJEbKaMlDP7Hxua/Rrx42qQtSmnbNJ1fYFB3fsANDHxQerPkYqv5JjACGFFuSxT8jYgA6NgbE7F4O4+QAqjSJZWxgAAYB//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934000/property/44/01_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACAAMgMBIgACEQEDEQH/xABnAAABBQEAAAAAAAAAAAAAAAAFAAIEBgcDEAACAgICAwEBAAAAAAAAAAABAgADBBEFEhMUITNSAQEBAQEAAAAAAAAAAAAAAAABAAIDEQACAwADAQAAAAAAAAAAAAAAAQIREhMhMVH/2gAMAwEAAhEDEQA/ANLXBLrsQfkY5qMsNGRUF0WEF8k6sdrOE4RpUKbK+Se+oXoxHcA6gtf0Es+LeiVDcIQFsamA2o/0R1Mne1X497kf2lKHRnXEQsHHCiknyRTOYhbAFqXAkqTOtbqyasb7BKcowYIw3uEGpW1O4OoZdemrRwssrSz4ZBzeRsrAFZgjlLXxW2GjKQ+VUG3MuTgKVhCzmMha1AhnDzu9ILNoyo2U3JItl2SBobEuS+iwaD7y/wBiKZccvM2fpihlfSo//9k=",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934003/property/44/03_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABxAAADAQEBAQAAAAAAAAAAAAAABQYDAgQHEAACAgIBAgYDAAAAAAAAAAABAgADBBEFEiETMTIzNHEUI4EBAAMBAQAAAAAAAAAAAAAAAAIDBAABEQACAgICAgMAAAAAAAAAAAAAAQIRAxIhMhMiMUFh/9oADAMBAAIRAxEAPwCYxa7NqFEfrdbj9Kupnm4rp8SomUfLrTuogCBqnGw75o7xUe5QW8o3StK0IEX1uEoTU7N/YSWcfb5HxfBsCVJ0J48l2YEajCkhlmNqjvLMTagiTIrmyeKNvyhGZQQjdpC6REYtjAKQZU1dOUidbdxIzBbxCBuU9INSg7kM8zg6Lo4t+bKNcZygA8hFt1wqfpJim/n7q/1IdmIcrMyDarOT3M447pNGT1bTPpWJYCk1sAIJ3FHGuz46GbZFr1iPjOqQiULbZ2RCKfymhGeRAeP9Iri/UJWN7R+oQkGfui7D1JQfO/s35L3aoQlMOgmfYuuJ+Mn1Nc70whA+zCAwhCGAf//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934003/property/44/05_NassimaRoyalHotel.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABxAAACAgMBAAAAAAAAAAAAAAAABQQHAQIGAxAAAgIBAgUEAwAAAAAAAAAAAAECAwQFEQYSEyExMkFCURUWIgEBAAMBAQAAAAAAAAAAAAAAAwECBAAFEQEBAQACAgMAAAAAAAAAAAABAAIREgMTITEy/9oADAMBAAIRAxEAPwCtKKJ2xeyPXHhOFnYnYd9UINGYyr52ee7XWhPi39QyI/Myw6IZFsYP3Hr0J1WQ38MTafJQya2vss6dfXrpkvZIvgOOY9b0XLUYE6cyEa+zZvxHhXKutzk2dVDEXXjb9HpqWNHLglL2ENEby3FV4FLrh/K9KAfrDmklt4A7uVeGq2nTZQXc9HgS5hf+a3fk2WsxXyDPFteVtPs8YcBPcXEnCyL38HVLVJ0VJb+Cu1rkV8gWs9WXLuS+PRV7YawI8Uqr1Ix+21z3K+tyITF1tyinsyA5uQrJfF0AKieQ9/IF/Ux9s0Y1ADTDYJON6wAjX5ac/omXyI94AAfZNr6ZYAAaIL//2Q==",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934004/property/44/08_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABYAMgMBIgACEQEDEQH/xABqAAACAwEBAAAAAAAAAAAAAAAABAMFBgEHEAACAgMBAAIDAAAAAAAAAAABAgAEAxEhEgUTFDFhAQACAwEAAAAAAAAAAAAAAAACAwABBAURAAICAgMBAAAAAAAAAAAAAAABAhEhMQMSE2H/2gAMAwEAAhEDEQA/AMzXtKF7Jjexg8WZRbLDkYXK3Nzm+WTT3LjNfykjxyRNas5eEmQKC2o6i+R0Q0kpLADk2tiP0HI3Zw1yjfqOFyrb1BrKFejsf2WBdMh+r+QkP5UJd/SUVjYB6jTMFxDkIRCeho5UVsig7mro/GplALNCERzSa0wopFrd+Iq4qpcDup5jby+czKo5uEIXC23kk8IX2YQhNNCbZ//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934016/property/44/11_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABpAAACAgMAAAAAAAAAAAAAAAAABQMEAgYHEAACAgEEAgMBAAAAAAAAAAAAAQIDBAUREiETURQxQTIBAQEBAQEAAAAAAAAAAAAAAAABAgMEEQEBAAIDAQAAAAAAAAAAAAAAAREhAhIxQf/aAAwDAQACEQMRAD8AY5WiqqDNNyMVQvXX6dUysiu/eKZpGqY3CxTXs8k7e/HbRrjafyw4yfoX0Yi+S4jrBz6/jwrk/wAI7HXC5Th2XNpqIZ4nCZSvpQ2syea/nso3JssZpX4QLWzA0ijXqUk3vIYUzqy1tOZz13WtlqjLtqaakyyYLt0GWmNJOuYsyLLsSXsq42sW8Emyad6u7mMcTa7i6pGXU4kWbkTs7r6KO9MAd8X9AQ+TJ9gZ+RABqq+jEAKGWMNF9ABKIZmMQAKlAAA//9k=",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934008/property/44/13_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIAEsAMgMBIgACEQEDEQH/xAB7AAABBQEBAAAAAAAAAAAAAAAAAwQFBgcCARAAAQQCAAQHAQEAAAAAAAAAAAECAxEEBRIUIUEGExUiMUJSUVMBAAIDAQAAAAAAAAAAAAAAAAEDAAQFAhEAAgECBAUFAAAAAAAAAAAAAAECAxEEFCEiEzEyUVISQlNhYv/aAAwDAQACEQMRAD8AzDhU5VpJ8u78iEkSt7G9w0U1IjnNElQePaIqxaXoIrQ2sbFkTKvuEheVq8SiNKZLQ8LAKAmpDa9bgwZaDbc6Ty0uJCF1+2mwkqlJ1viJkiU9Db3aNGctr7lRhxVWdI3p3LJleHk5ZHx/KoNps3DfJxtSnHMm+mjRGt+COMpoanqVLP1eTjKquYtEMjetKhesnc8zGrXsK1kcD74WFOWHlF3HqRH+S0Drypf4ALL4w3+zVZNdivTsQ2Tro47Vqk5DBJJ9iRbpnSttTWlR8pWMKEqkX1FBbie4e8vFXVpdmaRiL1QX9Hi/J1FRh7xrrNvmZxPjxtTo0juCr9hrT9LjOZStI6XSYrUW6AmnfcMjXsZpxp+AL76Ph/pAOrPyR3mF2ZDazbqj0SRS/wCNs4ljSnIYq2WltB8zZTMbSPUpQxKlG1TUk6F+nQ2B2zx29Vcgzl32Mz4Uyh+ykX5eo2fsq+wHWh3sLWEkzSMjxHdowg8jcyyXb6KPJs3dlGEmbK/uKliqceTbHwwjLr6i7/UCh8xJ+lAVnV4jcr+hxzFHDspwzPClxJFv0oXdO9e4mrlU5A5bbDZAAAAIAAEIf//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934011/property/44/16_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xAB1AAACAwEBAQAAAAAAAAAAAAAABAMFBgcBAhAAAgMAAQMEAwEAAAAAAAAAAAECAwQRBRMhEiIxMhQzUUEBAQEBAQEAAAAAAAAAAAAAAAQFAgEDEQACAgECBgMBAAAAAAAAAAABAgADERMyBBIVISIxM0FScv/aAAwDAQACEQMRAD8A4880q5e5DObhWJEj1wu+UGOtWaor/OShfTSHGk3MpM9OGZsqSMd5r8WbuRRY24K40NsYx56oKPvQ9rz0yr8WoataqAAolG43llAbtOabqvTJpCCzyaLvrVUaX7Jck2DPGeOVkvkMlNZ4gqRC38xYj7Ama/Gl/ALtxjyBS6VV+5P1DM7TnlN+GX2LFaprgzleicH4Ze4+ozi0QqzX4jvKNGgd2RNlR07TJc9w9u6brUG+6xCnqd0l4kSW9RvUfMiqEr5cjOIwnhs4yZndue/1tSfIV6bs9Lr48H1p0ynMh0NunkJ4hndCciDtCZOCYv3pf0BD1SAx1G2F0lleP5/lAAFdwna/c0WUav8AqAFlPgM2d4lLZ9ya/wDQgAFXtu/mds9rKsAAnTU//9k=",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934022/property/44/18_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABuAAADAQEAAwAAAAAAAAAAAAAABAUGAwECBxAAAgMAAQMEAwAAAAAAAAAAAQIAAwQRBRMhBjEyQRJCUQEBAAMBAQAAAAAAAAAAAAAAAwABBAIFEQADAAMBAAMAAAAAAAAAAAAAAQIRITEyEkFR/9oADAMBAAIRAxEAPwCBnrUjkTU9LtTkKxmCp0sPHMr16HrpLqfInm22aZRvt2em6g+RJnTslNZY+JlMnVNekMvJnjTv05F5BMvD4Qudb1UojIDPlV7cXs31zNBfpfQAzmS76UYGJD+PTmlkU79cIscw/sI+ZDwzR1Usw5BlXtNVlYk/Ug5tZAEpWXvbWU58TEpvj/R25+ir6bCOz8iMepa0SjkCRMGg4OSDPff1A7kFbGaUt5Cb2RqrfyQCJuXZyI8tIT2MTYstntLnGSU2cTU8Iz3RCJoPZwz/AFLQ+IhCZ7GRzs9or+0IRZ8BP0NV/KKaPnCE4noj4JQhCKGf/9k=",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934023/property/44/19_NassimaRoyalHotel.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABwAMgMBIgACEQEDEQH/xABwAAACAwEBAAAAAAAAAAAAAAAEBQACBgcBEAACAgIBAwQDAAAAAAAAAAABAgADBBEFEiFBExUxUhRRYQEBAAMBAAAAAAAAAAAAAAAABAEDBQIRAAICAQUAAwAAAAAAAAAAAAECAAMRBAUUITESQVH/2gAMAwEAAhEDEQA/AOZ11Ew9MZv1K0ui2KDNMRR0KRr4m/zqlb4zIOnucZievDZvEOTjXPiMabalHeNsfIoMhtwX6nA0Tn0xLXxLnxDU4dvrH5yqKk2RPaeWxz8gSh9wY+RCaFR6Yk9lb6yTUe5Y38klPPf8lvBScGS0mxSY5/LYhVUzPV9zG9IGxM5jjsxoGY5QuVELx7fTYEmA1seiUZjqAa6wWEZ6jkorNYJHc09mTXcgURffauLWTvvF1Lso2DAM+6x1OzIW9y4Geszs0IqE47xLnm32e8ky5MkdmByZ/9k=",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934139/property/44/22_dubai.jpg"
+		}
+	],
+	"multimedia": [
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIABcAMgMBIgACEQEDEQH/xABmAAADAQEBAAAAAAAAAAAAAAAABAUDBgcQAAEFAQACAwEAAAAAAAAAAAABAgMEERIUIRMiUTEBAQEBAQAAAAAAAAAAAAAAAAMCBAERAQEAAgMBAQAAAAAAAAAAAAEAAhIDESFBMf/aAAwDAQACEQMRAD8A8z45fg0jPQ1YpuYqYbMgdwmoPxfTKHP4kk2PVNVi5HWVVcqYMSUpET+CpHtSXM7aTpYlOmiovXdQXs1PjRUw5p3XsAXMcAUfHd+AHrXtdJBFLYxy5haipNfjVQAMrll+9ygSdmB1Vy8mC234moAGjj5Mk9bNy4g+Wq2/p6QgXbUnWqADmS0gdFN8534AAR3Jf//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1484904705/property/44/00001_NAssima.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABwAAACAwEBAAAAAAAAAAAAAAAAAwQFBgIHEAACAgIBBAMBAAAAAAAAAAAAAQIEAxEFExQxYSEjQVEBAAMBAQAAAAAAAAAAAAAAAAIDBAEAEQACAgEDBAMAAAAAAAAAAAAAAQIxAxNBUgQSFGERIUL/2gAMAwEAAhEDEQA/AOK3GvFNbLOFf7khWO7CTT2Nhbh10x8J9lIVJfO5cRq6QxVkV+bkJ7SijqN2fwUeRLixHbHki2hgQ9YUVavaRx38pbOfVNflmrGnui56cQKPvZ/0APM9M3R9nmGK9KH6TMV+SyJmYx5dj1kkmMgosCb2NquS2hy5JsxcLLT+SXG0V43jdoiyQmn9GwjeTJEbKaMlDP7Hxua/Rrx42qQtSmnbNJ1fYFB3fsANDHxQerPkYqv5JjACGFFuSxT8jYgA6NgbE7F4O4+QAqjSJZWxgAAYB//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934000/property/44/01_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIAB8AMgMBIgACEQEDEQH/xABqAAACAwEBAAAAAAAAAAAAAAAFBgAEBwIDEAABBAEDAwUAAAAAAAAAAAABAAIDEQQFEhMhIjEVQUJRUgEBAQEBAAAAAAAAAAAAAAAAAwQBABEAAgIDAQAAAAAAAAAAAAAAAAECEQMSEzH/2gAMAwEAAhEDEQA/AEyDEDB0VsRUiGPhPAbuRN2nta27Ukpt2Vxh4Lo6L3G72CsFjWSVSMwY0LqJR7NlCxIWZY5qsAoXK2a1qIhweMggXSVsnGhM5A8WqoYMum78M5xknS8E/jlUToMDHUQdUHzQHwtdE1ByPeoROaO5ZNDIW+Cr7MyVvyKWeKwIZKo0ffjvIKvxujqgVnUGpvFWjOPqBeQgeJooWS/GNb3AA0ULlIJu122YPjtCJpu4hUbSUUrdGLI1aLvKf0ohW8/aiLQ7of/Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934017/property/44/02_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACAAMgMBIgACEQEDEQH/xABnAAABBQEAAAAAAAAAAAAAAAAFAAIEBgcDEAACAgICAwEBAAAAAAAAAAABAgADBBEFEhMUITNSAQEBAQEAAAAAAAAAAAAAAAABAAIDEQACAwADAQAAAAAAAAAAAAAAAQIREhMhMVH/2gAMAwEAAhEDEQA/ANLXBLrsQfkY5qMsNGRUF0WEF8k6sdrOE4RpUKbK+Se+oXoxHcA6gtf0Es+LeiVDcIQFsamA2o/0R1Mne1X497kf2lKHRnXEQsHHCiknyRTOYhbAFqXAkqTOtbqyasb7BKcowYIw3uEGpW1O4OoZdemrRwssrSz4ZBzeRsrAFZgjlLXxW2GjKQ+VUG3MuTgKVhCzmMha1AhnDzu9ILNoyo2U3JItl2SBobEuS+iwaD7y/wBiKZccvM2fpihlfSo//9k=",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934003/property/44/03_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABsAAACAwEBAAAAAAAAAAAAAAAABgMEBwUBEAACAgIBAwUBAAAAAAAAAAAAAQIDBAUREiFRExYxMjMVAQADAQEAAAAAAAAAAAAAAAABAgMEABEBAQEAAgMBAQAAAAAAAAAAAQACAxESITEyUf/aAAwDAQACEQMRAD8A1ydcZMqTwoN8oQvf+I5DlrNtVn0qxMp6YVHaStxaW4sQL87JlZ3k/k0Le2weO+5mt9kXOPHkxc6mvTa+EHL2TjgKVlUS5ZjTiuWitqpxjCHLGHJuqdSSaOMmsqtJemX+gCxzECXjHuwda5U2rqkP+t2aqqhRVMQIWztn5Yxa7AyXNWJNF3kYmMk/5Nvq4yVk+/An3Rn6yUY9uTuxrkkutnkow554Ib2RypQPKupjWlyiTI28o1rifc6ONixyfsgyNFVYimB1kYKdy7/du8gX/bqAbxf5Dss2wP3iahgfigAnv7M/KWz5IGAENXF3db9TpSADdxfgpP2iAAHhf//Z",
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934003/property/44/04_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934003/property/44/05_NassimaRoyalHotel.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934003/property/44/06_NassimaRoyalHotel.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934003/property/44/07_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934004/property/44/08_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934023/property/44/09_NassimaRoyalHotel.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934007/property/44/10_NassimaRoyalHotel.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934016/property/44/11_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934016/property/44/12_NassimaRoyalHotel.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934008/property/44/13_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934009/property/44/14_NassimaRoyalHotel.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934012/property/44/15_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934011/property/44/16_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934018/property/44/17_NassimaRoyalHotel.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934022/property/44/18_NassimaRoyalHotel_Slider.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934023/property/44/19_NassimaRoyalHotel.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934138/property/44/21_DUBAI.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934139/property/44/22_dubai.jpg"
+		},
+		{
+			"url": "https://res.cloudinary.com/perfectstay/image/upload/t_pfs/v1477934138/property/44/23_dubai.jpg"
+		}
+	],
+	"region": "Emirats Arabes Unis",
+	"resort": "Dubaï",
+	"restaurant": {
+		"facilities": [
+			"Menu à la carte",
+			"Formule buffet",
+			"Belle vue sur plusieurs aspects du complexe hôtelier ",
+			"La Môme est ouvert de 19 h à 23 h 45 pour le diner et jusqu’à 3 h pour la section bar",
+			"Le Tresind est ouvert de midi à 15h, de 19h à 23h30, et en lounge de 18h30 à 2h",
+			"Le Celsius est ouvert pour le petit-déjeuner, le déjeuner et le dîner",
+			"Code vestimentaire «?Smart Casual?»"
+		],
+		"headline": "Restaurants & Bars",
+		"intro": [
+			"Au fil de mets préparés par ses chefs, le Nassima Royal propose des expériences gastronomiques inspirées des cuisines du monde entier, pour un réel voyage au gré de nos papilles."
+		],
+		"restaurants": [
+			{
+				"name": "la Môme",
+				"paragraphs": [
+					"Puisant dans les saveurs typiques de France, les chefs de La Môme vous convient à leur table avec des plats raffinés. Accompagnez ces saveurs exquises d’un grand cru. Le restaurant vous laisse déguster ses différents cocktails à votre rythme, jusque tard en soirée."
+				]
+			},
+			{
+				"name": "Le Tresind",
+				"paragraphs": [
+					"Le Tresind vous invite à un voyage gastronomique en mélangeant savamment les influences indiennes et traditionnelles dans sa cuisine fusion. Vous vivrez une expérience culinaire multisensorielle lors de votre visite au Tresind, où les saveurs sont aussi spectaculaires que la présentation des plats."
+				],
+				"photo": {
+					"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACAAMgMBIgACEQEDEQH/xABpAAACAwEBAAAAAAAAAAAAAAAABAECBQMGEAACAgIDAAIDAAAAAAAAAAABAgADBBESEyEiMTNRUgEAAwEAAAAAAAAAAAAAAAAAAQIDABEBAAICAwEBAAAAAAAAAAAAAQAhAiIDEVESMf/aAAwDAQACEQMRAD8A8tdkmyJ6LGSBpYdgX0SefG92y2OQlEdpxAfk8ZbISgarmScuxvAIlZk2BtamsKiNs0br7bvCfIuKkT3U41WNzXkI3lXIE0okl6eglceMRVi3an8wmfyeEeJ8k0VRyv3INbBhLUh7K9rA8lPpicmOzsx8MtSidOXX5qSLaSfkkUfm3u5VbQDpxAUdQv7NENjuRrQlrKayNgiJmum38bezm+NlKPCdTV7BcvpIRLqyP0YQ6+wbeT//2Q==",
+					"url": "https://res.cloudinary.com/perfectstay/image/upload/v1478278875/property/44/restaurant/image_44_v4.jpg"
+				}
+			},
+			{
+				"name": "Le Celsius",
+				"paragraphs": [
+					"Le Celsius vous propose une formule buffet accessible tout au long de la journée. Vous y explorerez une grande sélection de mets en provenance des quatre coins du globe. La cuisine ouverte permet de profiter de véritables spectacles culinaires et d’apprécier le talent des chefs."
+				],
+				"photo": {
+					"thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCQkJCQoLCwoODw0PDhQSERESFB4WFxYXFh4uHSEdHSEdLikxKCUoMSlJOTMzOUlUR0NHVGZbW2aBeoGoqOIBCQkJCQkJCgsLCg4PDQ8OFBIRERIUHhYXFhcWHi4dIR0dIR0uKTEoJSgxKUk5MzM5SVRHQ0dUZltbZoF6gaio4v/AABEIACEAMgMBIgACEQEDEQH/xABpAAACAwEBAQAAAAAAAAAAAAAABgMEBQcBAhAAAgICAgEEAwAAAAAAAAAAAAECAwQRBRIiExYxMiEzQQEAAwEAAAAAAAAAAAAAAAAAAAECAxEBAQADAQEAAAAAAAAAAAAAAAECETEDIf/aAAwDAQACEQMRAD8A6nSq3EkjJKWhds5L0XrRBDnIKfkaZaTDfOXizPV7gpGJ7iom2tn1HPqnBtSRBp8nJnJNbMG+W9lq26MvhmbdISkYEPcAB8nx9Nib0J/JY1VPdL5Hb10kJ3OLy7Iv0k18TiQbpzqm9Nk9OZkaSUme5UFJbKNWVXU+sjKXajRj5Tkl2kS35UFFvZhxtU47gQzjdKLGFl8itv8AIGC8a7bAQdvF/mvoAF5cKEq34Ys5P7AAzx6dbnHfQ0f4wAYVwAAD/9k=",
+					"url": "https://res.cloudinary.com/perfectstay/image/upload/v1478278876/property/44/restaurant/image_44_v3.jpg"
+				}
+			}
+		]
+	},
+	"transportPartnership": {
+		"label": ""
+	},
+	"tripadvisor": {
+		"awardURL": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-18065-5.jpg",
+		"num_reviews": 1625,
+		"rating": 4.5,
+		"ratingURL": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-18065-5.png"
+	},
+	"usefulInformations": {
+		"goodtoKnow": [
+			"Si vous voyagez seul(e), un supplément tarifaire en chambre individuelle vous sera demandé, ce supplément sera calculé directement dans votre devis.",
+			"Les tarifs enfant seront appliqués pour les enfants de 2 à 12 ans au cas ou l’enfant partage la chambre avec deux adultes. Dans le cas où l’enfant voyage seul avec un adulte son tarif pourra être appliqué sur une base adulte. Si votre (vos) enfant(s) ou bébé(s) ne rentrent pas dans les tranches d'âges ci-dessus, le tarif appliqué vous sera communiqué au moment du traitement de votre commande. Lorsque la chambre dispose d’un lit superposé, le couchage en hauteur ne convient pas aux moins de 6 ans.",
+			"Pour des raisons de sécurité, les installations de bien-être de la plupart des établissements ne sont pas accessibles aux moins de 16 ans. De même, il est possible que certains aménagements ou services soient payants en supplément ou indisponibles pour des raisons exceptionnelles. ",
+			"Les horaires des restaurants et des bars sont donnés à titre indicatif, et sous réserve de modification. Contactez la réception pour connaître tout changement. Notez que l’abus d’alcool est dangereux pour la santé, à consommer avec modération.",
+			"Vous devrez être majeur et accompagné d’une pièce d’identité pour entrer dans les casinos, de plus une tenue correcte est exigée. Nous vous rappelons que jouer peut comporter des risques d’isolement, d’endettement, de dépendance… Composez le 09 74 75 13 13 (non surtaxé).",
+			"L’hôtel n’est pas accessible aux personnes à mobilité réduite."
+		],
+		"transport": [
+			"Pour un séjour incluant le vol, vous aurez la possibilité de choisir la compagnie aérienne, régulière ou low cost, ainsi que vos horaires de vol. Selon vos envies, vous pourrez opter pour un siège en classe Affaires ou en Première Classe.",
+			"Consultez la rubrique « afficher les infos de vol » pour connaître chaque détail du voyage.",
+			"Afin d’organiser au mieux votre passage à l’aéroport, nous vous conseillons de vous présenter 2h avant l’embarquement pour un vol moyen-courrier, ou 3h avant si votre vol dure plus de 5h. Profitez de votre avance pour effectuer les contrôles de sécurité et enregistrer vos bagages. ",
+			"Vous serez informés si vos bagages sont inclus ou non au moment de votre réservation. Assurez-vous de respecter la politique bagages des compagnies low cost et régulières. Vous aurez l’opportunité d’ajouter des bagages additionnels sous réserve de payer un supplément. Attention, certains repas et autres prestations à bord peuvent être payants.",
+			"Plusieurs villes de départ vous sont proposées : Paris, ville de  Province, Bruxelles, Luxembourg, Bâle, Genève & Zurich.  Votre destination d’arrivée sera affichée dans vos documents de transport.",
+			"En fonction des horaires de vol, certaines arrivées ou retours peuvent s'effectuer de nuit avec une arrivée matinale ou un départ tardif, les clients ne pourront pas toujours disposer de leur chambre immédiatement et devront se référer au conditions du check-in et check-out de l’hôtel. ",
+			"Dans le cas ou le transfert n’est pas inclus dans votre réservation d’hôtel, il vous sera proposé en supplément au moment de votre réservation.",
+			"Important : Les billets d’avion ne sont ni échangeables ni remboursables sauf si vous avez souscrit une assurance, dans ce cas veuillez vous référer aux conditions générales de vente.",
+			"Merci de bien vouloir prendre connaissance de l’emission de CO2 emise par le moyen de transport selectionné : http://eco-calculateur.aviation-civile.gouv.fr/"
+		],
+		"travelDocuments": [
+			"Une fois votre réservation effectuée, vous recevrez un e-mail de confirmation qui précédera l’envoi de vos documents de voyage. ",
+			"Les documents de transport (dans le cadre d’une réservation avec transport) vous seront transmis sous forme de billet électronique ou de convocation à imprimer, vous permettant ainsi de partir sereinement. L’heure et le lieu de départ ainsi que les informations sur l’enregistrement et les bagages vous seront communiqués dans les documents de transport. ",
+			"Pour profiter de toutes vos prestations réservées, (hôtels, transferts, activités...), vous recevrez un ou plusieurs bons d’échange à présenter obligatoirement à chaque fournisseurs.",
+			"Les coordonnées de l’établissement seront précisées sur ces documents, afin de faciliter au mieux votre arrivée à destination."
+		],
+		"formalities": {
+			"intro": "<p>Les précisions suivantes valent pour tout ressortissant français qui, au cours d'un voyage vendu par PerfectStay se rend dans un pays étranger.\nVeuillez-vous référer aux informations ci-dessous quant aux formalités de voyages relatifs à chaque destination (documents d'identification, vaccins, VISA, conseils aux voyageurs).\nPour plus ample information, se reporter aux sites suivants :\n<a href=\"http://www.diplomatie.gouv.fr/fr/\">www.diplomatie.gouv.fr</a>\n<a href=\"https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html\">Ariane</a></p>\n\n<p>En cas de problème sur place, veuillez prendre contact avec l'ambassade ou le consulat suivant :</p>\n\n<p>Ambassade de France aux Émirats arabes unis\nEtihad Towers - Office Tower (Tower n°3) - 22nd Floor - PO Box 4014\nAbou Dabi\nTel : + 971 2813 1000\nSection Consulaire à Abou Dabi (Nuits, weekend et jours fériés en cas d'urgence uniquement : + 971 50 613 10 70\nCourriel : <a href=\"Admin-francais.ABOU-DABI-AMBA@diplomatie.gouv.fr\">Admin-francais.ABOU-DABI-AMBA@diplomatie.gouv.fr</a>\nSite Web : <a href=\"http://www.ambafrance-eau.org/\">Ambassade de France aux Émirats arabes unis</a></p>\n\n<p>Consulat général de France à Dubaï\nHabtoor Business Tower - 32ème étage - Dubai Marina - Jumeirah beach road\nPO Box 3314 Dubaï\nTel : + 971 4 4 408 49 00\nEt uniquement nuits, week-end et jours fériés :+ 971 50 644 68 60\nCourriel : <a href=\"consulat.dubai-fslt@diplomatie.gouv.fr\">consulat.dubai-fslt@diplomatie.gouv.fr</a>\nSite Web : <a href=\"http://consulfrance-dubai.org\">Consulat général de France à Dubaï</a></p>\n",
+			"identity": "<p>Les voyageurs devront se munir de leur passeport, qui devra être valide 6 mois après la date de départ.</p>\n",
+			"vaccine": "<p>Si aucune vaccination spécifique n’est requise pour entrer dans le pays, il est recommandé d’être à jour de ses vaccinations contre la diphtérie, le tétanos et la poliomyélite (+/ - la coqueluche). La vaccination contre l’hépatite A et B, ainsi que la vaccination contre la typhoïde, peuvent être conseillées.</p>\n",
+			"visa": "<p>Les ressortissants français sont dispensés de visa.</p>\n"
+		}
+	},
+	"included": [
+		"OFFRE HOTEL SEUL",
+		"Hébergement sélectionné",
+		"Durée de séjour sélectionnée",
+		"Pension sélectionnée",
+		"Diner de gala de Noël et Nouvel An pour les séjours incluant la nuit du 24/12 ou 31/12",
+		"Wifi gratuit dans la chambre",
+		"Navette gratuite en direction du shopping center et du Beach Park",
+		"OFFRE VOL+HOTEL",
+		"Prestations de l'offre HOTEL SEUL indiquées ci-dessus",
+		"Vols spéciaux ou réguliers aller-retour France, Bruxelles, Genèves à l'aéroport de Dubai international ",
+		"L'accueil et l'assistance à l'aéroport d'arrivée",
+		"Transferts privatifs aller-retour en Lexus",
+		"Taxes aéroport obligatoires"
+	],
+	"notIncluded": [
+		"Les assurances personnelles facultatives",
+		"Dépenses de nature personnelles et pourboires",
+		"Excursions réservées auprès de nos représentants locaux",
+		"Le port de bagages",
+		"Vols, Transferts, l'accueil à l'aéroport, l'assistance et les taxes aéroportuaires si vous avez réservé l'offre HOTEL SEUL",
+		"Et tout ce qui n'est pas mentionné dans \"Le prix inclut\""
+	],
+	"startAt": 1477526400000,
+	"endAt": 1546214400000,
+	"includeOfferWithFlight": true,
+	"fromPriceType": {
+		"type": "FROM_PRICE_TYPE_FROM",
+		"value": "141",
+		"numberOfNights": 3
+	},
+	"uri": "nassima-royal-hotel",
+	"marketingDestination": "Dubai",
+	"strapLine": "Sérénité et détente en plein cœur de Dubaï",
+	"propertyType": "City",
+	"contractType": "Hotel",
+	"rank": 12
+}
