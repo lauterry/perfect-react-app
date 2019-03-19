@@ -97,6 +97,7 @@ app.get("*", (req, res) => {
 		<meta charset="utf-8">
 			<meta name="apple-mobile-web-app-capable" content="yes">
 				<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+				<link rel="preload" as="font" type="font/woff2" crossorigin=true href="/static/fonts/Marydale-regular.woff2">
 					${linkTags}
 					${styleTags}
 	</head>

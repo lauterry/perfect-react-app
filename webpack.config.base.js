@@ -1,6 +1,9 @@
 const path = require("path");
 const CopyPlugin = require('copy-webpack-plugin');
 const LoadablePlugin = require("@loadable/webpack-plugin");
+const webpack = require("webpack");
+
+const brand = process.env.BRAND || 'af';
 
 module.exports = {
 	entry: "./src/index.js",
@@ -35,5 +38,7 @@ module.exports = {
 	},
 	plugins: [new CopyPlugin([
 		{from: 'static', to: 'static'},
-	]), new LoadablePlugin()],
+	]), new LoadablePlugin(), new webpack.NormalModuleReplacementPlugin(/(.*)@brand(\.*)/, function(resource) {
+		resource.request = resource.request.replace(/@brand/, `brands/${brand}`);
+	})],
 };

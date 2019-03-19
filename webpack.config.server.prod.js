@@ -1,5 +1,8 @@
 const path = require("path");
 const nodeExternals = require("webpack-node-externals");
+const webpack = require("webpack");
+
+const brand = process.env.BRAND || 'af';
 
 module.exports = {
 	mode: "production",
@@ -51,4 +54,7 @@ module.exports = {
 		__filename: false, // and __filename return blank or /
 	},
 	externals: [nodeExternals()],
+	plugins: [new webpack.NormalModuleReplacementPlugin(/(.*)@brand(\.*)/, function(resource) {
+		resource.request = resource.request.replace(/@brand/, `brands/${brand}`);
+	})],
 };

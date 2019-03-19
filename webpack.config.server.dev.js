@@ -1,5 +1,8 @@
 const path = require("path");
 const nodeExternals = require("webpack-node-externals");
+const webpack = require("webpack");
+
+const brand = process.env.BRAND || 'af';
 
 module.exports = {
 	mode: "development",
@@ -16,7 +19,6 @@ module.exports = {
 	module: {
 		rules: [
 			{
-				test: /\.woff|eot|svg|otf|ttf|woff2$/,
 				test: /\.woff|eot|svg|otf|ttf|woff2$/,
 				loader: "url-loader", // fonts needs to be in a font folder
 				options: {
@@ -53,4 +55,7 @@ module.exports = {
 		__filename: false, // and __filename return blank or /
 	},
 	externals: [nodeExternals()],
+	plugins: [new webpack.NormalModuleReplacementPlugin(/(.*)@brand(\.*)/, function(resource) {
+		resource.request = resource.request.replace(/@brand/, `brands/${brand}`);
+	})],
 };
