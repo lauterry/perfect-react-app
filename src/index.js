@@ -16,10 +16,10 @@ const shop = initialState.shop;
 const lang = shop.slice(0, 2);
 
 loadableReady(() => {
-	import(/* webpackChunkName: "locale" */ `react-intl/locale-data/${lang}`).then((locale) => {
+	import(/* webpackChunkName: "locale-[request]" */ `react-intl/locale-data/${lang}`).then((locale) => {
 		addLocaleData([...locale.default]);
 
-		import(/* webpackChunkName: "messages" */ `./i18n/${lang}.json`).then((messages) => {
+		import(/* webpackChunkName: "messages-[request]" */ `./i18n/${lang}.json`).then((messages) => {
 			render(<Provider store={store}>
 				<IntlProvider
 					locale={lang}

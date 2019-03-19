@@ -40,18 +40,18 @@ app.use("/:shop?", (req, res, next) => {
 	next();
 });
 
-const routes = [
-	{
-		path: "/fr-FR/list",
-		component: ListContainer,
-		loadData: getProducts
-	}
-];
-
 app.get("*", (req, res) => {
 	const shop = req.shop;
 	const lang = shop.slice(0, 2);
 	const context = {};
+
+	const routes = [
+		{
+			path: `/${shop}/list`,
+			component: ListContainer,
+			loadData: getProducts
+		}
+	];
 
 	// inside a request
 	const promises = [];
