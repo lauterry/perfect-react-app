@@ -4,7 +4,7 @@ import webpack from "webpack";
 import webpackDevMiddleware from "webpack-dev-middleware";
 import webpackHotMiddleware from "webpack-hot-middleware";
 import ReactDOMServer from "react-dom/server";
-import config from "../../webpack.config.dev.js";
+import config from "../../webpack/client/webpack.config.dev.js";
 import {StaticRouter} from "react-router";
 import App from "../App";
 import React from "react";

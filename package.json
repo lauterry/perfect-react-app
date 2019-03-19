@@ -4,8 +4,8 @@
   "description": "React App boilerplate with React Router 4, React 16, Webpack 4, Redux, SSR",
   "main": "index.js",
   "scripts": {
-    "build": "rm -rf dist && webpack --config webpack.config.dev.js && webpack --config webpack.config.server.dev.js",
-    "build:prod": "rm -rf dist && webpack --config webpack.config.server.prod.js && webpack --config webpack.config.prod.js",
+    "build": "rm -rf dist && webpack --config webpack/client/webpack.config.dev.js && webpack --config webpack/server/webpack.config.dev.js",
+    "build:prod": "rm -rf dist && webpack --config webpack/server/webpack.config.prod.js && webpack --config webpack/client/webpack.config.prod.js",
     "start": "node --icu-data-dir=node_modules/full-icu ./dist/server",
     "server": "babel-node ./mocked-back-end/server",
     "format": "prettier"

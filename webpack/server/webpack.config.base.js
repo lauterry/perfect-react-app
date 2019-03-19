@@ -5,12 +5,11 @@ const webpack = require("webpack");
 const brand = process.env.BRAND || 'af';
 
 module.exports = {
-	mode: "development",
 	entry: {
-		server: path.join(__dirname, "src/server/server.js"),
+		server: path.join(__dirname, "../../src/server/server.js"),
 	},
 	output: {
-		path: path.join(__dirname, "dist"),
+		path: path.join(__dirname, "../../dist"),
 		publicPath: "/",
 		filename: "[name].js",
 		libraryTarget: "commonjs2",
@@ -35,7 +34,7 @@ module.exports = {
 						caller: { target: "node" },
 					},
 				},
-				include: [path.join(__dirname, "src")],
+				include: [path.join(__dirname, "../../src")],
 			},
 			{
 				test: /\.scss$/,
@@ -49,7 +48,6 @@ module.exports = {
 			},
 		],
 	},
-	devtool: "source-map",
 	node: {
 		__dirname: false, // if you don't put this is, __dirname
 		__filename: false, // and __filename return blank or /

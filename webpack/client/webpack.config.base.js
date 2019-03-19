@@ -6,9 +6,9 @@ const webpack = require("webpack");
 const brand = process.env.BRAND || 'af';
 
 module.exports = {
-	entry: "./src/index.js",
+	entry: path.join(__dirname, "../../src/index.js"),
 	output: {
-		path: path.join(__dirname, "dist"),
+		path: path.join(__dirname, "../../dist"),
 		publicPath: "/",
 		filename: "[name]-[hash].js",
 		chunkFilename: "[name]-[chunkhash].js",
