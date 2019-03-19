@@ -1,4 +1,4 @@
-import { fetchProducts } from "api";
+import { fetchProducts } from "./api";
 
 export const FETCH_PRODUCTS = "FETCH_PRODUCTS";
 

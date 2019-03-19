@@ -14,9 +14,6 @@ module.exports = {
 		chunkFilename: "[name]-[chunkhash].js",
 	},
 	target: "web",
-	resolve: {
-		modules: [path.resolve(__dirname, 'src'),  'node_modules']
-	},
 	module: {
 		rules: [
 			{

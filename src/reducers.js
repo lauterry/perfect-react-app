@@ -1,5 +1,5 @@
 import { combineReducers } from "redux";
-import { FETCH_PRODUCTS } from "actions";
+import { FETCH_PRODUCTS } from "./actions";
 
 const products = (state = [], action) => {
 	switch (action.type) {

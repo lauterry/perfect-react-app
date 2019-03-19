@@ -1,14 +1,14 @@
 import React, {Fragment} from "react";
-import "styles.css";
+import "./styles.css";
 import {Link, Route, Switch} from "react-router-dom";
 import loadable from "@loadable/component";
-import About from "About";
+import About from "./About";
 import {FormattedDate} from "react-intl";
-import Footer from '@brand/Footer';
-import Account from "Account/Account";
+import Footer from './@brand/Footer';
+import Account from "./Account/Account";
 
-const AsyncProduct = loadable(() => import(/* webpackChunkName: "product" */ "Product"));
-const AsyncList = loadable(() => import(/* webpackChunkName: "list" */ "ListContainer"));
+const AsyncProduct = loadable(() => import(/* webpackChunkName: "product" */ "./Product"));
+const AsyncList = loadable(() => import(/* webpackChunkName: "list" */ "./ListContainer"));
 
 class App extends React.Component {
 	render() {

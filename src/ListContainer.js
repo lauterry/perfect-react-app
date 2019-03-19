@@ -1,7 +1,7 @@
 import React from "react";
 import {connect} from "react-redux";
-import List from "List";
-import {getProducts} from "actions";
+import List from "./List";
+import {getProducts} from "./actions";
 import {bindActionCreators} from "redux";
 
 class ListContainer extends React.Component {

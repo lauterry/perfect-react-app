@@ -1,5 +1,5 @@
 import React from "react";
-import About from "About";
+import About from "../About";
 
 class Account extends React.Component {
 	render() {
