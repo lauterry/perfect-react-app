@@ -16,6 +16,9 @@ module.exports = {
 		libraryTarget: "commonjs2",
 	},
 	target: "node",
+	resolve: {
+		modules: [path.resolve(__dirname, 'src'),  'node_modules']
+	},
 	module: {
 		rules: [
 			{

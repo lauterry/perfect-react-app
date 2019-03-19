@@ -1,5 +1,5 @@
 import React from "react";
-import "./about.scss";
+import "about.scss";
 import {FormattedMessage} from "react-intl";
 
 class About extends React.Component {

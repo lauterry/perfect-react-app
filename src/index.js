@@ -2,12 +2,12 @@ import React from "react";
 import {render} from "react-dom";
 import {loadableReady} from "@loadable/component";
 import {applyMiddleware, createStore} from "redux";
-import reducers from "./reducers";
+import reducers from "reducers";
 import thunk from "redux-thunk";
 import {Router} from "react-router-dom";
-import getHistory from "./configureHistory";
+import getHistory from "configureHistory";
 import {Provider} from "react-redux";
-import App from "./App";
+import App from "App";
 import {addLocaleData, IntlProvider} from 'react-intl';
 
 const initialState = window.__INITIAL_STATE__;
