@@ -8,6 +8,7 @@ import Footer from './@brand/Footer';
 import Account from "./Account/Account";
 
 const AsyncProduct = loadable(() => import(/* webpackChunkName: "product" */ "./Product"));
+const AsyncText = loadable((props) => import(/* webpackChunkName: "[request]" */ `./brands/${props.brand}/DynamicText`));
 const AsyncList = loadable(() => import(/* webpackChunkName: "list" */ "./ListContainer"));
 
 class App extends React.Component {
@@ -41,6 +42,7 @@ class App extends React.Component {
 						></Route>
 					</Switch>
 				</div>
+				<AsyncText brand="af" />
 				<Footer/>
 			</Fragment>
 		);
